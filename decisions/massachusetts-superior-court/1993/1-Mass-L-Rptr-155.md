@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Superior Court"
+docket: "93-2104 and 93-2951"
+decided: "1993-09-21"
+citations: ["1 Mass. L. Rptr. 155"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stephen Capone v. Hanover Insurance Company"]
+source_url: "https://static.case.law/mass-l-rptr/1/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6104440
+cites_cases: ["411 Mass. 629", "414 Mass. 727"]
+---
+
+# Capone v. Hanover Insurance
+
+## Majority (Botsford, J.)
+
+Botsford, J.
+These related actions both concern the question whether Stephen Capone may pursue a claim for underinsurance benefits against Hanover Insurance Company in connection with injuries he sustained from an automobile accident occurring on October 8, 1991. The first action (No. 93-2104) is brought by Capone to compel Hanover to arbitrate his claim for underinsurance. Hanover then filed the second action (No. 93-2951) for declaratory relief as to its obligations under the automobile policy in question. Both parties have moved for summary judgment. For the reasons set forth below, Capone’s motion is DENIED, and the motion of Hanover is ALLOWED.
+Background
+The following facts are undisputed. On October 8, 1991, Capone was a passenger in a car driven by his step-brother. They were struck by another car and Capone sustained injuries as a result. Capone received insurance payments: personal injury protection benefits from his step-brother’s insurer, Commercial Union; and the maximum of $10,000 that the other driver’s insurance policy would allow. However, the payments received did not cover all Capone’s injuries. He thereafter applied to Commercial Union to recover underinsurance benefits pursuant to his step-brother’s policy. Commercial Union denied the application when it discovered that at the time of the accident, Capone was the named insured under his own automobile policy, No. ÁON 3955049, issued by Hanover.
+At the time of the car accident in 1991 and presumably until notified by Commercial Union, Capone was unaware that he was covered by a policy issued by Hanover; he had assumed that the policy in question had lapsed or been cancelled because of nonpayment of premium. Upon receiving notice of Commercial Union’s denial of his application for underinsurance benefits, Capone notified Hanover of his claim for underinsurance benefits under its policy. The notice was sent in a letter dated February 23, 1993. On March 4, 1993, Hanover denied the claim on the grounds that the notice was not timely under the terms of the policy.
+DISCUSSION
+The Hanover policy provides underinsurance coverage. It also provides, however, that the insurer “must be notified promptly of an accident by [the insured] or someone acting on [the insured’s] behalf.” Hanover claims that absent prompt notice, it has no obligation to pay underinsurance benefits.
+There is really no dispute here that Capone’s notice to Hanover was not “prompt.” The only issue is whether, despite this fact, Capone is still permitted to pursue his claim for underinsurance benefits absent a showing of prejudice on Hanover’s part as a result of the late notification of the claim.
+Capone accepts the premise that in the case of uninsurance benefits, an insurer is not required to show prejudice in order to deny a claim on grounds of untimely notice. See Royal-Globe Ins. Co. v. Craven, 411 Mass. 629, 633-36 (1992). He argues, however, that the policy considerations militating in favor of this rule in the case of uninsurance do not apply to under-insurance, where the driver of the other car is known, and there should not be issues concerning lost witnesses or lost evidence. In the case of underinsurance, Capone contends that a showing of prejudice should be the rule.
+Capone’s claim must be rejected. Uninsurance and underinsurance benefits are cut from the same piece of cloth: They are benefits that a person is entitled to under the terms of the person’s contractual agreement — memorialized in the automobile policy — with the insurer. See Meyers v. Bay State Health Care, Inc., 414 Mass. 727, 730 (1993). Indeed, the statutory definition of uninsured motorists includes within the term those who are underinsured. G.L.c. 175, §113L(2). See Cardin v. Royal Ins. Co. of America, 394Mass. 450, 451 n. 1 (1985). Just as the insurer is entitled to the benefit of the contractual provisions governing notice of claims for uninsured motorist benefits, so it should be entitled to rely on those same notice provisions when applied to claims for underinsured benefits.
+A number of Superior Court decisions have recently considered the question whether an insurer is obligated to demonstrate prejudice before validly denying uninsured or (in one case) underinsured benefits to a person on account of late notice. The decisions have uniformly ruled that prejudice need not be shown. See Goodman v. American Cas. Co. of Reading, Pa., No. 92-6076-E (Middlesex Superior Court, Memorandum of Decision and Order dated June 1, 1993) (underin-surance benefits); Riley v. Holyoke Mutual Insurance Company in Salem, No. 91-3713 (Essex Superior Court Memorandum of Decision and Order dated August 5, 1993); Safety Ins. Co. v. Raymond, No. 90-6333 (Suffolk Superior Court, Memorandum of Decision and Order dated January 15, 1993); Arbella Mut. Ins. Co. v. Crippen, No. 92-1870 (Norfolk Superior Court, Memorandum of Decision and Order dated December 31, 1992); Cunningham v. Arnica Mut. Ins. Co., No. 91-3361 (Middlesex Superior Court, Memorandum and Order dated September 18, 1992). Copies of these decisions are attached. I agree with and adopt the reasoning of the decisions, and for the reasons there stated, I conclude that the untimely notice of Capone’s accident to Hanover relieves Hanover of an obligation to pay underinsurance benefits to Capone.
+ORDER
+For the foregoing reasons, the motion for summary judgment of Capone is DENIED, and the motion for summary judgment of Hanover Insurance Company is ALLOWED. A final judgment is to enter inNo. 93-2104 in favor of the defendant and dismissing the application for arbitration. A final judgment is to enter in No. 93-2951 declaring that Hanover Insurance Company is not obligated to arbitrate or to pay underinsured motorist benefits to Stephen Capone under Policy No. AON3955049 on account of an accident occurring on October 8, 1991.
