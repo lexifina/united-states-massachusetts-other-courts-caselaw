@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "031841D"
 decided: "2003-12-18"
-citations: ["17 Mass. L. Rptr. 194", "17 Mass. L. Rptr. 195"]
+citations: ["17 Mass. L. Rptr. 194"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["Chester J. Chalupowski, Jr. individually and as Trustee of the 26-30 
 source_url: "https://static.case.law/mass-l-rptr/17/cases/0264-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1078235
-cites_cases: ["387 Mass. 589", "425 Mass. 244", "425 Mass. 456"]
 ---
 
 # Chalupowski v. Corona
