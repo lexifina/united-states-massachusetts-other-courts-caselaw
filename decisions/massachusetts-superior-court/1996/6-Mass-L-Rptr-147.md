@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "953423"
+decided: "1996-08-09"
+citations: ["6 Mass. L. Rptr. 147"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AFSCME, Council 93 et al. v. City of Malden"]
+source_url: "https://static.case.law/mass-l-rptr/6/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1194857
+cites_cases: ["16 Mass.App.Ct. 403", "392 Mass. 407", "397 Mass. 426", "449 U.S. 1125", "628 F.2d 1023"]
+---
+
+# AFSCME, Council 93 v. City of Malden
+
+## Majority (Bohn, J.)
+
+Bohn, J.
+On May 20, 1996, this civil action to confirm an arbitrator’s award was before the Court for hearing on plaintiffs’ motion for summary judgment. Based on the pleadings, arguments of counsel and the applicable law, the motion will be allowed.
+BACKGROUND
+On June 17, 1994, in accordance with Article XI of a collective bargaining agreement, the City of Malden posted a vacancy announcement for the position of Working Foreman in the City’s highway department. On June 24, 1994, Cappelluzzi, a heavy equipment operator /laborer applied for the position by submitting a letter of interest, including a summary of his qualification. Cappelluzzi was originally hired by the Highway Department on May 16,1983, and was number 18 on the 45-member department seniority list.
+On the same day, Gerald Lander (“Lander”), a laborer/tree climber, applied for the position of Working Foreman by submitting a letter of interest and a resume. Lander had an original date of hire of October 28, 1991, and was number 40 on the 45-member seniority list.
+Neil Callahan, Director of Public Works for the City of Malden, chose Lander to fill the position of Working Foreman. Lander’s appointment to the position was authorized by the City’s Labor Service Director on July 11, 1994. Subsequently, based on his greater seniority, Cappelluzzi filed a grievance under Article III of the collective bargaining agreement, challenging the propriety of the choice of Lander.
+Pursuant to Article III of the collective bargaining agreement, the parties entered into final and binding arbitration. An arbitration hearing was held on December 22, 1994. Post-hearing briefs were submitted by the parties, and the duly executed award of the arbitrator was delivered on January 27, 1995. The arbitrator concluded that the City of Malden had violated the collective bargaining agreement when it promoted Lander rather than Cappelluzzi. The remedies awarded by the arbitrator required the City to appoint Cappelluzzi to the position of Working Foreman and to increase his salary to reflect the salary commensurate with the position, retroactive to the date of Lander’s appointment.
+The City has not filed an action to vacate the arbitrator’s award as it would otherwise be entitled to do pursuant to the provisions of G.L.c. 150C §11, although, in its response to the motion sub judicata, it has sought to have the award vacated. The City, rather, has simply refused to comply with the award of the arbitrator.
+On June 7, 1995, the plaintiffs filed the action now before the Court in Middlesex County Superior Court pursuant to G.L.c. 150C, §10. In their complaint, they seek confirmation of the arbitrator’s award.
+DISCUSSION
+Pursuant to G.L.c. 150C, §10, upon application of a party, the Superior Court shall confirm the judgment of an arbitrator ”... unless within the time limits . . . grounds are urged for vacating, modifying or correcting the award . . .” In response to plaintiffs’ motion to confirm the decision of the arbitrator, the City has urged that, because the arbitrator exceeded the scope of his authority, there are grounds for vacating, modifying or correcting the award.
+G.L.c. 150C, §11 sets forth the grounds upon which an arbitrator’s decision may be reviewed by the Court. The fact that an arbitrator exceeded his authority is one of those grounds. More importantly to the instant case, however, the time limit set forth in Section 11 of G.L.c. 150C mandates that any challenge to an arbitrator’s award must be made within thirty days of the delivery of the decision.
+The Supreme Judicial Court has held that “to ensure the stability and finality of the arbitration process ... all challenges to an arbitrator’s award must be brought within the time frame specified by the statute.” Local 589, Amalgamated Transit Union v. Mass. Bay Transportation Authority, 397 Mass. 426, 431 (1986) (emphasis added). As a result, the losing party to an arbitration must timely challenge the arbitrator’s award, or the right to challenge is lost. “(T]his policy would seem to condemn the conduct of the defendant who ignored an award disfavorable to it, failed to move to vacate the award, and then sought to be given its day in court when the plaintiff brought suit in frustration to have the arbitration award enforced. If the defendant’s defenses were of such vital importance to it, then the defendant nevertheless had an opportunity to raise them in the manner contemplated by the statute." Bernstein v. Gramercy Mills, Inc., 16 Mass.App.Ct. 403, 409-10 (1983) (quoting Chauffeurs Local 135 v. Jefferson Trucking Co., 628 F.2d 1023, 1027 (7th Cir. 1980), cert denied, 449 U.S. 1125 (1982). This is precisely what the City is trying to do here. In the present case, the Cily did not follow the statutory procedure for challenging the award, and is seeking to evade the statutory requirements for challenge. Regardless of whether the defendant’s contentions that the arbitrator exceeded his authority are meritorious, these contentions cannot be considered after expiration of the thirty-day statute of limitations. For that reason, the decision of the arbitrator will be confirmed.
+ORDER
+For the reasons set forth above, the plaintiffs’ motion for confirmation of the arbitrator’s award will be allowed.
+It has been said that “[w]hether an arbitrator has acted beyond the scope of authority conveyed to him is always open for review.” Local 589 Amalgamated Transit Union v. Mass. Bay Transportation Authority, 392 Mass. 407, 410 (1984). This language was not intended, however, to carve out an exception to the statute of limitations. In a later case, the issue of whether jurisdictional challenges would be subject to the thirty-day statute of limitations was considered. Local 589 Transit Union v. Mass. Bay Transportation Authority, 397 Mass. 426 (1986). The latter Court, in finding that all challenges must be brought within the thirty-day time period, stated that ‘‘[t]he court’s statements that jurisdictional questions are ‘always open’ were in reference to the permissible scope of judicial review, not the issue of timeliness. The ‘always open’ language used by the court merely states an exception to the usual rule that arbitration awards will not be set aside for errors or law or fact.” Id. at 430. Use of the identical “always open” language, when referring to the question of whether an arbitrator exceeded his authority, suggests a similar result here.
