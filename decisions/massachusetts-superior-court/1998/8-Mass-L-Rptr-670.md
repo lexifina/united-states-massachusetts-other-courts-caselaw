@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "9402623A"
 decided: "1998-07-10"
-citations: ["8 Mass. L. Rptr. 670", "8 Mass. L. Rptr. 669"]
+citations: ["8 Mass. L. Rptr. 670"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John L. Bala v. AOTec, Inc. et al."]
 source_url: "https://static.case.law/mass-l-rptr/8/cases/0670-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 379875
-cites_cases: ["1994 WL 878836", "20 Mass.App.Ct. 49", "210 Mass. 8", "217 Mass. 351", "26 Mass.App.Ct. 401", "3 Mass. L. Rptr. 407", "30 Mass.App.Ct. 194", "338 Mass. 488", "345 Mass. 634", "372 Mass. 688", "373 Mass. 96", "386 Mass. 877", "398 Mass. 205", "402 Mass. 413", "403 Mass. 1104", "410 Mass. 262", "424 Mass. 1"]
+cites_cases: ["1994 WL 878836", "20 Mass.App.Ct. 49", "210 Mass. 8", "217 Mass. 351", "26 Mass.App.Ct. 401", "3 Mass. L. Rptr. 407", "30 Mass.App.Ct. 194", "338 Mass. 488", "345 Mass. 634", "372 Mass. 688", "403 Mass. 1104", "410 Mass. 262"]
 ---
 
 # Bala v. AOTec, Inc.
