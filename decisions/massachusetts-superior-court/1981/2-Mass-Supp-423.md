@@ -1,0 +1,63 @@
+---
+court: "Massachusetts Superior Court"
+docket: "131591"
+decided: "1981-05-29"
+citations: ["2 Mass. Supp. 423"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Paul G. Garrity", "Iustlce of the Superior Court"]
+parties: ["Helen A. Barnes, Admx. v. THE GENERAL TIRE & RUBBER COMPANY"]
+source_url: "https://static.case.law/mass-supp/2/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5605585
+cites_cases: ["20 F.R.D. 184", "329 U.S. 495", "422 U.S. 225", "53 F.R.D. 594", "595 F2d 961", "63 F.R.D. 113", "71 F.R.D. 443", "85 F.R.D. 46"]
+---
+
+# Barnes v. General Tire & Rubber Co.
+
+## Majority
+
+BACKGROUND
+This is a products liability case, arising out of an accident which occurred on February 24, 1980, in Kingsport, Tennessee. The plaintiff Administratrix claims that the accident and resultant death of her spouse Edward Barnes were caused by a defective right, front tire on the 1979 Mack Truck which at the time he was driving. The plaintiff in this action claims that the defendant General Tire manufactured the purportedly defective tire in question. In its answer, General Tire denies having manufactured the tire.
+General Tire has noticed the deposition of the keeper of the records of the Insurance Company of North America (I.N.A.) which is the workmen’s compensation carrier for Edward Barnes’ employer, Robert Crockett, Inc. A subpoena was served pursuant to Mass. R. Civ. P. 45. Counsel for I.N.A. then filed an objection to the production, inspection and copying of the designated material pursuant to Rule 45(d)(1). Counsel for the plaintiff has filed an objection based on Rule 45 and on Rule 26(b). Rule 26(b)(3), in keeping with the holding of Hickman v. Taylor, 329 U.S. 495 (1947), articulates , a qualified immunity from discovery for the work product and mental impressions of a party’s attorney. General Tire has moved to compel production of the designated material.
+Rulings and Memorandum of Decision
+An examination of the objections of both the deponent and the plaintiff in conjunction with the defendant’s Notice of Taking Deposition reveals four categories of documents and materials which are in dispute:
+1. documents prepared by INA during the course of its investigation' and settlement of the workmen’s compensation claim;
+2. investigative material prepared by INA at the request of the Counsel,for the plaintiff;
+3. status reports on the progress of the present action sent by plaintiff’s counsel to INA; and
+4. documents of a consultant, retained by the plaintiff, who has not been identified as an expert to be called at trial.
+The objections of the deponent and of the plaintiff should be examined as to each category separately because the asserted work product privilege must be evaluated as to each type' of document requested.
+a. any investigation of the February 24, 1980 accident, including photographs, interviews, drawings, statements, reports, diagrams and correspondence resulting from such investlgation.
+b. any monies paid by INA to any persons under the above-mentioned claim, including any releases, agreements and contracts resulting from the settlement of the above claim.
+c. any correspondence, communications and writings regarding the above-mentioned claim.
+d. any reports, transcripts, statements, Exhibits and/or written material relating to proceedings before or submitted to the Division of Industrial Accidents, Commonwealth of Massachusetts, as a result of the February 24, 1980 accident.
+e. first report of injury by Robert Crocker, Inc. regarding the February 24, 1980 accident.
+f. any applications for benefits filed by Robert Crocker, Inc. regarding the Febuary 24, 1980 accident
+1. Documents Prepared by INA During the Course of its Investigation and Settlement of the Workmen’s Compensation Claim
+. The deponent objects to the production of “any and all materials in their Workman’s Compensation file.. . INA supports this objection with the claim that, since it is subrogated to the claim of the plaintiff against General Tire to the extent that it has paid compensation benefits on behalf of the plaintiff’s intestate, it is a real party in interest and may assert the qualified privilege of “work product.” Mass. R. Civ. P. 26(b)(1).
+A similar argument was presented by a workmen’s compensation insurer in Bunting v. Gainsville Machine Co., 53 F.R.D. 594 (D.C. Del. 1971). The Court in Bunting held that the workmen’s compensation insurance carrier was not a “party,” representative,” or “insurer” within the terms of Rule 26(b)(3) of the Federal Rules of Civil Procedure. The Court reasoned that the protection of Rule 26(b)(3) was intended to encompass documents prepared by a party or someone acting on its behalf to assist that party in the litigation. The compensation insurance carrier is acting in its own interest in collecting information about the accident in order to protect itself from false or frivolous claims. The Court concluded that it would be stretching too far the language of Rule 26(b)(3) and the rationale underlying that rule to afford protection against the disclosure of the compensation file; Bunting, supra, at 5%.
+It is the conclusion of this Court that the documents in INA’s file which were formulated or collected during the investigation and settlement of the workmen’s compensation claim of Edward Barnes are not within the protections of the work product doctrine. INA must therefore produce such documents as requested by General Tire 2. Investigative Material Prepared by INA at the Request o! Counsel for the Plaintiff
+Both INA and the plaintiff assert that this category of material is within the qualified immunity from discovery given to material prepared in antidpation of litigation. General Tire counters these assertions with the argument that INA is not a party in interest who may claim such a privilege. General Tire declined to respond to the arguments of the plaintiff, claiming that the plaintiff has no standing to assert a work product privilege.
+The fact that this material was gathered at the request of the plaintiff’s counsel clearly places it beyond the scope of the material consideral by the Court in Bunting, supra. Although INA’s status may not be suffidently altered, by this type of investigative work, to allow it to assert the work product privilege on its own behalf, the plaintiff is now asserting her personal right or privilege to the material sought by General Tire. In such instances, a party does have standing to assert his or her privilege with respect to the subject matter, of a subpoena directed to a non-party witness. Shepard v. Castle, 20 F.R.D. 184, 188 (D.C.W. Mo. 1957); Brown v. Braddick, 595 F2d 961, 967 (5th Cir. 1979).
+Work prepared by INA at the request of the plaintiff’s counsel falls within the qualified immunity from discovery of Rule 26(b)(3). It is discoverable only upon a showing that the party seeking discovery has substántial need of the materials in preparation of his or her case and that he or she is unable without undue hardship to obtain the substantial equivalent of the materials by other means. General Tire has made no such showing of substantial need and undue hardship, other than the bald assertion that the file contains vital information. Since General Tire has not met its burden, the material prepared by INA on behalf of the plaintiff’s attorney in preparation, for this action is not discoverable.
+3. Status Reports on the Progress of the Present Action Sent by the Plaintiff’s Counsel to INA
+The plaintiff asserts that such status reports contain investigative data and the impressions, conclusions, iegal theories, and opinions of plaintiff’s counsel and are, thus, not discoverable under Rule 20(b)(3). General Tire' asserts that the plaintiff has waived any privilege which these documents may have enjoyed in that the material was disseminated to a third party.
+The immunity of the work product doctrine, set out in Hickman v. Taylor, supra, can be waived. U.S. v. Nobles, 422 U.S. 225 (1975). However, “. . . disclosure of a document to third persons d.oes not waive the work product immunity unless it has substantially increased the opportunity for, potential adversaries to obtain the information.” 8 Wright & Miller, Federal Practice and Procedure, Section 2024 (1970 ed.). American Standard, Inc. v. Bendix Coro., 71 F.R.D. 443, 446 (D.C. Mo. 1976). This rule reflects the purpose of the work product privilege, which is to protect the information from the opposing party rather than to prevent the outside world generally from obtaining it. GAF Corp. v. Eastern Kodak Co., 85 F.R.D. 46, 52 (D.C.N.Y. 1979). Only if the disclosure substantially increases the possibility that an opposing party could obtain the information, will the privilege be deemed waived.
+Here, the action of plaintiff’s counsel, in informing INA of the status of the litigation and his impressions of the case, is in no way inconsistent with the maintenance of secrecy from General Tire. As subrogee to the plaintiff’s claim, INA has an interest similar to that of the plaintiff in pursuing the legal action. Although, as discussed previously, this interest may not rise to a level sufficient fór INA to assert a ‘‘work product” privilege to protect its own files, this court is persuaded that the interests of INA and the plaintiff are similar enough to defeat General Tire’s assertion that the plaintiff has waived her privilege of work product.
+To discover the informational data contained in such reports, General Tire must show substantial need and undue hardship under Rule 26(b)(3). This it has not done. Accordingly, the status reports sent by the plaintiff’s counsel to INA concerning ' this litigation are not discoverable.
+4. Documents of a Consultant Retained by the Plaintiff who has not been Identified as an Expert to be Called at Trial
+As this court has concluded that the plaintiff has not waived her right to assert the work product privilege by disseminating privileged material to INA, the analysis with respect to this fourth category of documents is. limited to a determination of applicable provisions of Rule 26(b)(4).
+A consultant who has not been identified as an expert to be called at trial is considered an ‘ ‘ educating expert’ ’ and, as such, is largely immune from discovery except for his name and the subject matter of his knowledge. Smith and Zobel, M.P.S. vol. 7, sec. 26.6 (1975), Once it is shown that an expert was hired in anticipation of litigation, the burden shifts, and the . party attempting to discover the expert’s opinion must demonstrate ‘‘exceptional circumstances.” See Colony, Inc. v. Continental Insurance Co., 63 F.R.D. 113 (D.C. Del. 1974).
+Again, it is this Court’s conclusion that General Tire has failed to show ‘‘exceptional circumstances” which would warrant exposing the expert’s opinions to discovery. Accordingly, the documents from the consultant, in the hands of INA, are not discoverable. Order.
+The deponent is ordered to produce all documents contained in their workmen’s compensation file on Edward Barnes except the following categories of material, which shall not be produced:
+1. Investigative material; prepared by INA at the request of plaintiff’s counsel in prepara-' tion for the trial of this action.
+2. status reports on the posture of this action sent to INA by plaintiff's counsel.
+3. documents of a consultant retained by the plaintiff who has not been identified as an expert to be used at trial.
+Paul G. Garrity
+Iustlce of the Superior Court
+Exhibit A, attached to the Notice of Taking Deposition, designates the materials which the deponent was ordered to bring to the deposition as follows:
+The relevant language of Mass. R. Civ. P. 26(b)(3) is taken verbatim from federal Rule 26(b)(3), as amended.
+The inquiry in Bunting was limited to documents prepared by the insurance carrier during its investigation of the compensation’ claim. The Court noted in effect that so far as the record disclosed the insurer never requested payment from the plaintiff for investigative work, nor did plaintiff request the insurer do such work. Bunting, supra at 596. In this action, this limitation is significant in the analysis of the second category of documents, which were prepared by INA at the request of the plaintiff.
+General Tire’s argument that the plaintiff has waived by privilege of work product by disseminating the material to a third party is not applicable to work done on behalf of plaintiff’s counsel by a third.'party.
+Bunting v. Gainsville Machine Co., 53 F.R.D. 594 (D.C. Del. 1971), See discussion, supra, p.3.
