@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Appellate Decisions"
+docket: "8325; No.: 710-1973"
+decided: "1975-11-03"
+citations: ["56 Mass. App. Dec. 173"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BEST BUICK, INC. v. DENNIS A. WELCOME"]
+source_url: "https://static.case.law/mass-app-dec/56/cases/0173-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4337288
+cites_cases: ["124 A. 7", "128 A. 451", "144 A. 43", "162 P. 663", "176 So. 717", "203 P. 2d 600", "254 N.E. 2d 542", "287 P. 139", "3 Mass. App. Dec. 56", "300 Mass. 488", "312 Mass. 670", "328 Mass. 90", "332 P. 2d 459", "349 S.W. 2d 332", "461 P. 2d 857", "472 P. 2d 700", "65 So. 2d 533", "75 So. 2d 435"]
+---
+
+# Best Buick, Inc. v. Welcome
+
+## Majority (Flaschner, J.)
+
+Flaschner, J.
+This report presents the question of whether the defendant is liable for a breach of an express warranty when he misstated the model year of the vehicle he sold to the plaintiff in trade as part of the purchase-price of a new vehicle he bought from the plaintiff. The defendant owned a Mercedes Benz which was sold to him as a 1970 model. It was so registered and the defendant in good faith represented it as such to the plaintiff automobile dealer when he sold it as a trade-in to the dealer for the purchase of a 1973 Buick LeSabre on August 13, 1973. In fact, the Mercedes Benz was a 1968 model. The trade-in allowance for the Mercedes Benz as a 1970 model was $3900, but as a 1968 model it would have been $2200.
+The trial justice found for the defendant. His written decision emphasizes the respective positions of the parties: the defendant as an innocent, non-expert individual and the plaintiff as an experienced automobile dealer with the means to determine the model year and value of the Mercedes Benz. The trial justice concluded that a literal interpretation of G.L. c. 106, §2-313(1) as to the statements of the defendant to a representative of the plaintiff “would be unconscionable.” We disagree because this section of the UCC requires a finding for the plaintiff.
+Subsection (a) of s. 2-313(1) states: “Any affirmation of fact or promise made by the seller to the buyer which relates to the goods and becomes a part of the basis of the bargain creates an express warranty that the goods shall conform to the affirmation or promise.” Subsection (b) states: "Any description of the goods which is made part of the basis of the bargain creates an express warranty that the goods shall conform to the description.” A statement by the seller of a motor vehicle as to its model year is such an "affirmation of fact” and such a "description of the goods.” It was even deemed to constitute a warranty under the Uniform Sales Act before the UCC, Denenberg v. Jurad, 300 Mass. 488, 490 (1938); Quality Paper Box Co. v. Westminster Motors, Inc., 3 Mass. App. Dec. 56, 61 (1951).
+This has been the general rule in other jurisdictions: Kilborn v. Henderson, 65 So. 2d 533 (Ala. App. 1953); Morris v. Fiat Motor Sales, 162 P. 663 (Cal. App. 1916); Pacific Finance Corp. v. McGowan, 287 P. 139 (Cal. App. 1930); Dwyer v. Redmond, 124 A. 7 (Conn. 1924); Fairfield Finance & Mortgage Co. v. Griffin, 144 A. 43 (Conn. 1928); Jesse M. Chase, Inc. v. Leonard, 203 P. 2d 600 (Idaho 1949); Standard Motor Co. v. Peltzer, 128 A. 451 (Md. 1925); Williams v. McClain, 176 So. 717 (Miss. 1937); Mayfield Motor Co., v. Parker, 75 So. 2d 435 (Miss. 1954); Havas v. Alger, 461 P. 2d 857 (Nev. 1969); Daniel v. Lilenquist Motors, Inc., 332 P. 2d 459 (Wash. 1959). Similarly in cases involving goods other than motor vehicles which are also differentiated by model years. Paragould v. International Power Machinery Co., 349 S.W. 2d 332 (Ark. 1962) (a generator); Kensair Corp. v. Peltier, 472 P. 2d 700 (Colo. App. 1970) (an airplane).
+A number of these cases involved oral warranties. Denenberg v. Jurad, 300 Mass. 488, 490, cannot be distinguished because it dealt with a written contract. See: 1 Anderson, Uniform Commercial Code 493.
+Nor can Quality Paper Box Co. v. Westminster Motors, Inc., 3 Mass. App. Dec. 56, 61 be distinguished because the defendant in that case was an automobile dealer with presumed superior knowledge of the chattel or because there was a suggestion of that defendant’s bad faith. §2-313 imposes liability for express warranties on any "seller”, whereas §2-314 imposes liability for implied warranties only on a seller who "is a merchant with respect to goods of that kind.” The trial justice’s reliance on Kurriss v. Conrad & Co., Inc., 312 Mass. 670 (1942) was misplaced, because that case dealt with an alleged breach of an implied warranty prior to the adoption of the UCC. ". .. When the seller makes an express warranty which is not true, it is no defense that the seller had acted in good faith without knowledge of the defect.” 1 Anderson, supra at 491. See: O’Connell v. Kennedy, 328 Mass. 90, 95 (1951) holding that an express warranty of a horse’s soundness bound the defendant who had no knowledge of its unsoundness. See also Paragould v. International Power Machinery Co., supra; Kensair Corp. v. Peltier, 349 SW 2d 332 (Ark. 1962); Capital Equipment Enterprises, Inc. v. North Pier Terminal Co., 254 N.E. 2d 542 (Ill. App. 1969).
+Finding for defendant vacated. Judgment entered for the plaintiff in the amount of $1700, with interest from the date of the writ.
