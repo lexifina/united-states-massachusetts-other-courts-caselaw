@@ -1,0 +1,43 @@
+---
+court: "Massachusetts Superior Court"
+docket: "951214"
+decided: "1996-01-30"
+citations: ["4 Mass. L. Rptr. 560"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jeannette C. Dackson v. Anthony J. Gallo"]
+source_url: "https://static.case.law/mass-l-rptr/4-2/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11923825
+cites_cases: ["127 Vt. 585", "369 Mass. 550", "389 Mass. 47", "390 Mass. 419", "404 Mass. 14"]
+---
+
+# Dackson v. Gallo
+
+## Majority (Brassard, J.)
+
+Brassard, J.
+The plaintiff, Jeannette Dackson (“Dackson”), brought this action against the seller of her condominium unit, Anthony Gallo, trustee of the 1108 Realty Trust (“Gallo”), for injuries sustained when she slipped and fell on the interior stairs of her condominium unit. The complaint against Gallo alleges negligence and breach of express warranty. Gallo now moves for partial summary judgment on the negligence claims on the theory that a vendor of land is not subject to liability in tort for personal injuries caused by a defect which existed at the time of the sale. For the following reasons, defendant’s motion for partial summary judgment is DENIED.
+BACKGROUND
+On January 4, 1990, Dackson fell down the interior stairs of her condominium. Dackson maintains that the carpeting on the stairway was improperly installed' such that it bulged and was loose over the stairs and that this defect caused her fall.
+When Dackson purchased the unit, it was not completely constructed. Apparently, there were several items that Gallo agreed to construct or repair at the time Dackson purchased her condominium. One of those items, according to Dackson’s affidavit, was the repair of the carpeting. Additionally, the purchase and sale agreement contained a warranty which stated, in pertinent part:
+STRUCTURE of a period of one (1) year after date of possession, the floors, ceilings, walls, and other internal structural components of the dwelling which are not covered by other parts of this limited warranty will be free of substantial defects in materials or workmanship.
+Dackson complained to Gallo about the carpeting several times during the year and a half after she moved into the condominium, before her fall, and Gallo repeatedly promised it would be repaired.
+This case was tried before the district court. On May 5, 1995, the district court found that Gallo was in breach of the warranty and negligent for not repairing the carpeting after more that twelve complaints were made by Dackson. On May 31, 1995, Gallo removed the action to the superior court.
+DISCUSSION
+This court grants summary judgment where there are no genuine issues of material fact and where the summary judgment record entitles the moving party to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). The moving party bears the burden of affirmatively demonstrating the absence of triable issue, and that the summary judgment record entitles the moving party to judgment as a matter of law. Penderson v. Time, Inc., 404 Mass. 14, 16-17 (1989). Summary judgment is appropriate if there is no real dispute as to the salient facts or if only a question of law is involved. Cassesso, 390 Mass. at 422.
+Gallo asserts that partial summary judgment is warranted because Dackson cannot maintain a negligence action against him based on §352 of the Restatement (Second) of Torts (1965) which reads:
+Except as stated in §353, a vendor of land is not subject to liability for physical harm caused to his vendee or others while upon the land after the vendee has taken possession by any dangerous condition, whether natural or artificial, which existed at the time that the vendee took possession.
+Under this section, Gallo, as vendor of the condominium, owed Dackson no duty with regard to defects in the carpeting. The exception to this non-liability rule, set forth in §353 of the Restatement, does not apply to the facts of this case. The exception is for those cases in which the vendor conceals a defect and the vendee is then injured because of that defect before the vendee has had the opportunity to discover and correct it. That is not the case here because Dackson noticed and complained about the carpeting when she first moved into the condominium, a year and a half before her fall. Therefore, even if Gallo concealed or failed to warn Dackson of the defect, the evidence is clear that Dackson had time to notice and correct the defect.
+Notwithstanding the fact that §352 states that Gallo has no liability as a vendor of land, Gallo still owed plaintiff a duty to use due care with regard to the carpeting. Section 352 of the Restatement does not absolve Gallo of all tort liability to his vendee by virtue of his status as a vendor of land; it only states that no duty arises from his status as vendor. See Smith v. Monmaney, 127 Vt. 585 (1969) (transfer of property did not discharge landlord of duty to repair staircase where landlord promised tenant he would repair it).
+There is another theoiy, independent of Gallo’s status as a vendor of land, under which Gallo owed Dackson a duty of due care and thus may be liable in negligence for breach of that duty. “One who undertakes, gratuitously or for consideration, to render services to another which he should recognize as necessary for the protection of the other’s person or things, is subject to liability to the other for physical harm resulting from his failure to exercise reasonable care to perform his undertaking, if (a) his failure to exercise such care increases the risk of such harm, or (b) the harm is suffered because of the other’s reliance upon the undertaking.” Restatement (Second) of Torts §323 (1965). See also Mullins v. Pine Manor College, 389 Mass. 47 (1983) (adopting Restatement (Second) of Torts §323). Gallo, by granting a warranty that the workmanship was free from defects and by reassuring Dackson that the carpet would be fixed when she complained about it, undertook a duty to repair any defects in the carpeting. Gallo’s undertaking was for consideration because it was a part of the purchase and sale agreement. It may be argued that Gallo should have recognized that repair of the carpeting on the stairs was necessary for the safety of Dackson because it was foreseeable that she would trip over the loose, bulging carpeting. Dackson relied on Gallo’s undertaking by not fixing the carpeting herself but continuing to pursue a repair through Gallo. Therefore, this argument concludes, Gallo owed Dackson a duty to use reasonable care in repairing the carpeting.
+Because there is a theory on which Gallo could be held liable in negligence, partial summary judgment on Dackson’s negligence claim is not appropriate.
+ORDER
+It is hereby ORDERED that defendant’s motion for partial summary judgment pursuant to Mass.R.Civ.P. 56 be DENIED.
+The full text of §353 reads:
+(1) A vendor of land who conceals or fails to disclose to his vendee any condition, whether natural or artificial, which involves unreasonable risk to persons on the land, is subject to liability to the vendee and others upon the land with the consent of the vendee or his subvendee for physical harm caused by the condition after the vendee has taken possession, if
+(a) the vendee does not know or have reason to know of the condition or the risk involved, and
+(b) the vendor knows or has reason to know of the condition, and realizes or should realize the risk involved, and has reason to believe that the vendee will not discover the condition or realize the risk.
+(2) If the vendor actively conceals the condition, the liability stated in Subsection (1) continues until the vendee discovers it and has reasonable opportunity to take effective precautions against it. Otherwise the liability continues only until the vendee has had reasonable opportunity to discover the condition and to take such precautions.
+Dackson argues that she did not discover the defect until after her faS because it was only then that she found out that the cause of the bulge and the looseness of the carpet was the fact that the stairs were improperly covered with two pieces of carpeting tacked together, instead of one piece. This argument is not persuasive however because Dackson admits that the bulging and looseness of the carpet was enough to put her on notice that the carpeting was dangerous and needed to be repaired. Deposition of Jeannette Dackson, p. 31-32, 43.
