@@ -1,0 +1,36 @@
+---
+court: "Massachusetts District Court"
+docket: "80-2916-S"
+decided: "1983-02-11"
+citations: ["4 Mass. Supp. 234"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Walter lay Skinner United States District Judge"]
+parties: ["William RUNYAN, Plaintiff vs. Richard S. SCHWEIKER, Secretary of Health and Human Services, Defendant"]
+source_url: "https://static.case.law/mass-supp/4/cases/0234-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8300819
+cites_cases: ["666 F.2d 662", "668 F.2d 67", "677 F.2d 167", "685 F.2d 1"]
+---
+
+# Runyan v. Schweiker
+
+## Majority (Skinner, D.J.)
+
+MEMORANDUM AND ORDER
+Skinner, D.J.
+Plaintiff brings this action under 42 U.S.C. sec. 405(g) to challenge the Secretary’s denial of his application for Supplemental Security Income (“SSI”). Defendant has moved for an order affirming the decision vof the Secretary and plaintiff has moved for an order reversing the decision of the Secretary. For the reasons which follow, the case is remanded for further proceedings.
+At the time of the hearing before the Administrative Law Judge (“ALJ”) in 1980, plaintiff was 32 years old. He had a ninth grade education. He was divorced and lived alone. He last worked in August and September of 1978 as a gas station attendant. He was fired from this job due to his forgetfulness and inability to complete daily worksheets. Earlier sporadic employment consisted of work as a laborer, food press operator, and die maker.
+. Plaintiff alleges that he has been totally disabled since 1973 due to diabetes, heart condition, seizures, headaches, chest pain, and .slight mental retardation. Plaintiff first applied for SSI on December 15, 1978. His application was denied initially and on recpnsideration by the Social Security Administration. A hearing was held before an ALJ on May 15, 1980.
+The ALJ found that plaintiff was riot under a disability as defined in the Social Security Act because his conditions did not prevent him from performing all substantial gainful activity. The ALJ concluded that plaintiff could perform light or sedentary unskilled jobs of a repetitive nature in a structured work situation where he would not be in contact with machinery. No. vocational expert testified as to the availability» of such jobs. The ALJ’s decision was upheld by the Appeals Council on October 29, 1980.
+The evidence submitted on the nature and extent of plaintiff’s infirmities consists of hospital records dating from 1974 to 1979, reports from two consultants, and testimony of plaintiff, his cousin and a friend. There are no significant conflicts in the evidence. Plaintiff is a diabetic who must take daily injections of insulin. The diabetes causes occasional blurred vision. Plaintiff also has a history of seizures and blackouts and he suffered a cerebral contusion in 1974 and concussion in 1976. He has organic brain syndrome and is mildly retarded with a mild memory deficit (full scale IQ of 80, performance IQ of 79, and verbal IQ of 74.) In 1979, he was diagnosed as having probable coronary artery disease with associated chest pains.
+Plaintiff testified that he can care for his own personal needs, watches TV, visits friends and relatives daily, can stand and sit for about half a day each, walk half a block, and lift and carry up to 20 pounds. He reported that he experiences persistent and severe headaches.
+Plaintiff argues that the Secretary’s decision must be reversed because the combination of his impairments is medically equivalent to impairments listed in 20 C.F.R. sec. 404, Subpart P, App. 1. After an independent review of the evidence, I conclude that the Secretary’s finding that plaintiff does not meet the medical equivalence requirements is supported by substantial evidence. 42 U.S.C. sec. 405(g). Similarly, I disagree with plaintiff’s contentions that the ALJ failed to consider plaintiff’s impairments in fcombination and that the ALJ failed to. credit adequately plaintiff’s testimony regarding his pain.
+The burden is on the plaintiff . to establish that he is “disabled” within the meaning of the Social Security Act in order to be eligible for SSI benefits. Where the plaintiff cannot prove by competent evidence that he is totally disabled, but does prove that he cannot return to his former work, “the burden shifts to the Secretary to show the existence of other jobs in the (local) economy that the claimant can nonetheless perform.” Sherwin v. Secretary of Health and Human Services, 685 F.2d 1, 2 (1st Cir. 1982) citing Torres v. Secretary of Health and Human Services, 677 F.2d 167, 168 (1st Cir. 1982).
+The evidence in this case compels a finding that plaintiff is unable to return to his former jobs as a result of his mental and physical limitations. Indeed, the ALJ implicitly made such a finding when she specified that plaintiff could perform work in which he would not be in contact with machinery. The burden then shifts to the Secretary to show the existence of other jobs which plaintiff is able to perform.
+The Secretary referred to the Medical-Vocational Guidelines in reaching the conclusion that plaintiff was not disabled. 20 C.F.R. sec. 404, Subpart P, App. 2, Rule 200.00(a) (“the Grid”). Where there is sufficient evidence to show that a claimant has the capacity to perform the work specified in the Guidelines, the Secretary can use the Guidelines to take administrative notice of the existence of that work in the national economy. Sherwin v. Secretary of Health and Human Services, 685 F.2d 1 (1st Cir. 1982); Torres v. Secretary of Health and Human Services, 677 F.2d 167 (1st Cir. 1982). But a claimant must meet all the criteria stated in a Rule before the Guidelines can be applied. 40 C.F.R. sec. 404, Subpart P, App. 2, Rule 200.00(a). Gagnon v. Secretary of Health & Human Services, 666 F.2d 662 (1st Cir. 1981). Not only does a claimant have to be of the age, education, skill, and strength level specified in the Rule, he also has to be able to engage in the “full range of jobs” included therein. Id. at 666.
+Due to plaintiff’s nonexertional limitations, plaintiff is not able to perform the full range of jobs in the light or sedentary work categories. The Secretary must therefore carry his burden of proving the availability of jobs suitable for plaintiff by means other than the Grid. Gagnon, supra at 665 n.6. 20 C.F.R. sec. 404, Subpart P, App. 2, Rule 200.00(e)(2). The Secretary should hear 'testimony from a vocational expert regarding plaintiff’s capacity to perform specific jobs before reaching a conclusion as to whether or not plaintiff is disabled. Id. at 666. Torres v. Secretary of Health and Human Services, 677 F.2d 167, 170 (1st Cir. 1982). See also Torres v. Secretary of Health and Human Services, 668 F.2d 67 (1st Cir. 1981).
+Accordingly, the case is remanded with the direction that the Secretary secure the testimony of a vocational expert and reconsider his decision in the light of whatever testimony such an expert may provide.
+Walter lay Skinner United States District Judge
+Plaintiff does not challenge the Secretary's findings with respect to his age, education, skill, and strength level.
