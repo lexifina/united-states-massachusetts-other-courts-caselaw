@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Superior Court"
+docket: "20031416"
+decided: "2004-03-16"
+citations: ["17 Mass. L. Rptr. 484"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mohamed A. Mohamed v. Sarkis Kavlakian et al."]
+source_url: "https://static.case.law/mass-l-rptr/17/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1078105
+cites_cases: ["380 Mass. 762", "8 Mass.App.Ct. 498"]
+---
+
+# Mohamed v. Kavlakian
+
+## Majority (Agnes, A.J.)
+
+Agnes, A.J.
+1. This is a civil action in which the plaintiff alleges that he paid a deposit to the defendant to secure the lease of a gas station in Winchester, Massachusetts. The plaintiff alleges that under the terms of the lease he (the plaintiff) had until a date certain to obtain required permits from the town and that when that date passed before permits were obtained he was entitled to a refund of his entire deposit. The plaintiff alleged breach of contract, unjust enrichment and a violation of G.L.c. 93A. On or about September 18, 2003, a default entered against the defendant pursuant to Mass.R.Civ.P. 55(a). The matter came before the court for a hearing in the nature of an assessment of damages. Based on the credible evidence presented at that hearing, I make the following findings of fact and rulings of law.
+FINDINGS OF FACT
+2. The plaintiff, Mohamed A. Mohamed paid $40,000 to the defendant Sarkis Kavlakian on or about April 16, 2003 to lease a gas station located at 61 Main Street in Winchester. The lease document is in evidence as exhibit 1. The term of the lease was to commence on May 1, 2003. At the time, the gas station was not in operation, but the plaintiff began to pump gas. Later, the plaintiff had to pay an additional sum of money to the defendant to pump out gas he had ordered ($4,500). There was a building and a sign on the property at the time. At the time the defendant showed the property to the plaintiff, the gas station sign was properly permitted under the local bylaws of the town of Winchester. Under the agreement between the parties (exhibit 1, page 6, paragraph 16), the plaintiff had until April 28, 2003 to obtain “all permits or licenses to conduct the business of Mohamed, but if by April 28, 2003, Mohamed is after reasonable effort unable to obtain any permit needed to carry on his business, his prepaid rent and security deposit shall be refunded and this lease shall be terminated.”
+3. On April 25, while the plaintiff and defendant were present, the sign that had been on the property was taken down by Gulf Oil Company representatives. The pole on which the sign is placed remains standing, but a new sign cannot be affixed to it without a permit from the Town of Winchester. The plaintiff put up a temporary sign, but explained to the defendant that he would need a permit to erect a new sign. The plaintiff promptly sought a new permit for a sign, but was informed by the town that it would take 3 months to be approved. The Town ordered the defendant to remove his temporary sign and he complied. The plaintiff asked the defendant for extra time in which to obtain the permit for a new sign, but the defendant refused to extend the period beyond the deadline set forth in the lease. The plaintiff informed the defendant of this situation and asked for a refund of his money under the lease. The defendant refused to refund the deposit to the plaintiff. The defendant’s decision not to extend the term of the lease was because he found another person willing to lease the premises for more money than the terms of the plaintiffs lease.
+4. The plaintiff made every effort to comply with the terms of the lease but was prevented from doing so due to the intransigence and callousness of the defendant. The defendant has not made any offer to settle or compromise the plaintiffs claim even after being made aware that the plaintiff relied in part on the provisions of G.L.c. 93A.
+RULINGS OF LAW
+5. The defendant negotiated with the plaintiff and signed the lease in his individual capacity.
+6. A sign identifying either the brand name of the gasoline sold or the person or business selling it is essential to the operation of a gas station serving the public. Motorists will not risk filling their vehicle’s tanks with a defective or inferior gasoline product. Thus, under paragraph 16 of the lease, a sign was necessary for the plaintiff to conduct his business. The defendant breached his contractual obligation under the lease by refusing to refund the plaintiffs deposit under paragraph 16 when the plaintiff could not obtain a permit for a sign by April 28, 2003.
+7. Massachusetts law provides that a business practice is “unfair and deceptive” in violation of G.L.c. 93A, when it offends public policy as it has been established by statutes, the common law, or in other words, violates an established concept of unfairness, when it is immoral, unethical, oppressive, or unscrupulous, or when it causes substantial injury to consumers (or competitors or other businessmen). A practice is deceptive if it could be found by a reasonable person to have caused a person to act differently from the way he otherwise would have acted. Purity Supreme Inc. v. Attorney General, 380 Mass. 762 (1980). The defendant’s decision not to give the plaintiff more time to secure a permit and not to promptly refund him his money was not simply a violation of his contractual obligations, but a willful, unscrupulous and oppressive act not undertaken in good faith, not undertaken on the basis of any reasonable interpretation of the contract, and calculated to enrich the defendant at the plaintiffs expense. See Levings v. Forbes & Wallace, Inc., 8 Mass.App.Ct. 498, 504 (1979) (if X ordered goods and services from Y and thereby induced Y to work, all the while never intending to pay for the labor and materials, Y would have a c. 93A action against X). The defendant thus violated the terms of G.L.c. 93A and should be required to pay double damages plus attorneys fees.
+8. The defendant’s requests for rulings of law numbers 1-5 are allowed.
+ORDER
+9. The plaintiff is entitled to recover $44,500 in principal damages with interest from the date of the breach (April 28, 2003). That sum should be doubled under G.L.c. 93A, §11. The plaintiff is also entitled to an award of reasonable attorneys fees. Counsel are invited to submit affidavits with regard to the attorneys fees.
