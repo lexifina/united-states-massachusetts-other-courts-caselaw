@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "996090L"
+decided: "2003-03-18"
+citations: ["16 Mass. L. Rptr. 29"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert E. Vassallo, Jr. v. Town of Wilmington et al."]
+source_url: "https://static.case.law/mass-l-rptr/16/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3622091
+cites_cases: ["16 Mass.App.Ct. 138", "369 Mass. 550", "390 Mass. 419", "400 Mass. 82", "404 A.2d 147", "404 Mass. 14", "410 Mass. 706", "410 Mass. 805", "521 P.2d 370", "57 Mass.App.Ct. 1105", "627 S.W.2d 270"]
+---
+
+# Vassallo v. Town of Wilmington
+
+## Majority (Lauriat, J.)
+
+Lauriat, J.
+The plaintiff, Robert E. Vassallo, Jr. (“Vassallo”) brought a ten-count complaint against the defendants Town of Wilmington (“Wilmington”), Daniel R. Stewart (“Stewart”), Chief of the Wilmington Fire Department, and Linda Abbott (“Abbott”) (collectively “the defendants”). The defendants have now moved for partial summary judgment on Vassallo’s claims of defamation (Count III); intentional infliction of emotional distress (Count VII); false imprisonment (Count VIII); and tortious interference with prospective employment relationships (Count X). On March 6, 2003, prior to the hearing on the defendants’ motion, the parties entered into a stipulation of dismissal of Vassallo’s claims of intentional infliction of emotional distress (Count VII) and tortious interference with prospective employment relationships (Count X). The parties further stipulated that as to Wilmington, Vassallo’s claims for defamation (Count III) and false imprisonment (Count VIII) would also be dismissed. At the time of the hearing, the only claim that remained before the court was Stewart’s motion for summary judgment on Vassallo’s claim of false imprisonment (Count VIII). For the reasons set forth below, Stewart’s motion for summary judgment on Count VIII is allowed.
+BACKGROUND
+This action stems from an incident which occurred on or about December 19, 1996, between Vassallo, a firefighter employed by Wilmington for approximately ten years, and Abbott, the clerk/dispatcher for the Wilmington Fire Department for approximately ten years. Shortly after arriving for work that morning, Vassallo asked Abbott for information regarding his vacation, sick, and personal time. Abbott, clearly upset by Vassallo’s request, stated “Goddamn it, who the hell do you think you are? I have more to do than look something up for you! So don’t start with me!” Vassallo, surprised by Abbott’s outburst, responded “with a single expletive of his own.”
+Shortly after this verbal altercation, Vassallo was summoned to Stewart’s office. As Vassallo entered Stewart’s office, the door was closed behind him. Vassallo remained in Stewart’s office for approximately one hour during which time they discussed the incident. Stewart then told Vassallo that he was being suspended without pay for sexually harassing Abbott. Stewart ordered Vassallo to vacate the premises immediately and not to return until his next scheduled tour of duty. Stewart and the assistant town manager then escorted him out of the fire station and off the premises. At that time, Stewart told Vassallo he could not return to his locker to retrieve his personal belongings.
+DISCUSSION
+Summary judgment will be granted where there are no genuine issues as to any material fact and where the moving party is entitled to judgment as a matter of law. Mass.R.Civ.P. 56(c); Cassesso v. Commissioner of Corr., 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976). The moving party bears the burden of affirmatively demonstrating that the summary judgment record contains no triable issues and entitles the moving party to judgment as a matter of law. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). The moving party may satisfy this burden either by submitting affirmative evidence that negates an essential element of the opposing party’s case or by demonstrating that the opposing party has no reasonable expectation of proving an essential element of his case at trial. Flesner v. Technical Communications Corp., 410 Mass. 805, 809 (1991); Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991). Summary judgment may be granted as to certain issues but not others. See Community Nat’l Bank, 369 Mass. at 553.
+I. False Imprisonment against Stewart (Count VIII)
+False imprisonment is the intentional, unjustified confinement of a person, directly or indirectly, by force or threat, of which that person is conscious or by which he is harmed. Cremaldi-Vickery v. Otis Elevator, Inc., 57 Mass.App.Ct. 1105 (2003) (citation omitted); Ortiz v. Hampden County, 16 Mass.App.Ct. 138, 140 (1983); Restatement (Second) of Torts §40. Material to the inquiry of whether Stewart falsely imprisoned Vassallo is whether Vassallo was free to leave the office during the one-hour meeting, and, if not, whether Stewart was justified in preventing Vassallo from leaving.
+Vassallo claims he did not attempt to leave Stewart’s office out of fear he would lose his job. However, it was conceded at the hearing that Vassallo was never threatened with arrest, termination, or any other adverse action should he decide to leave Stewart’s office. Moreover, Vassallo has never contended that he was required to remain in the office by force. Rather, he asserts that this fear caused him to be confined and consequently, was, in essence, a threat which required him to stay. Vassallo’s assertion is, however, without support in Massachusetts law.
+It is well established that the threat of discharge from at-will employment does not constitute confinement for purposes of the tort of false imprisonment. Foley v. Polaroid Corp., 400 Mass. 82, 92 (1997), quoting Faniel v. Chesapeake & Potomac Tel Co., 404 A.2d 147, 152 (D.C.Ct.App. 1979) (finding “fear of losing one’s job, although a powerful incentive, does not render involuntary the behavior induced”); Columbia Sussex Corp. v. Hay, 627 S.W.2d 270, 277-78 (Ky. 1981) (stating “certainly the restraint evidenced by one’s interest in retaining an untenured position must . . . fall short of the standard necessaiy to prove false imprisonment”); Moen v. Las Vegas Int’l Hotel, Inc., 521 P.2d 370 (1974) (holding that “apprehension that one might in the future lose one’s job ... is not force or the threat of force which is necessaiy to establish false imprisonment”). The Supreme Judicial Court has flatly stated that “an employee at will who relinquishes his right to move about in return for continued employment, to which he is not entitled, is not imprisoned. He has a free choice.” Foley, 400 Mass. at 92.
+This court need not reach the issue of justification of confinement, because as stated above, Vassallo was never confined to Stewart’s office. At all times, Vassallo was free to leave if he so chose.
+As there is no evidence contained in the undisputed facts that Vassallo was unlawfully confined or that any force was applied or threat issued, Stewart is entitled to judgment in his favor as a matter of law.
+ORDER
+For the foregoing reasons, the Motion of Daniel R. Stewart for Summary Judgment as to the claim of False Imprisonment (Count VIII) is ALLOWED.
+As part of her duties, Abbott was required to keep records ofvacation, sick, and personal time for departmentpersonnel.
+Apparently, Vassallo had asked Abbott for this information several times over the prior weeks.
+Also present was Wilmington’s assistant town manager, who held a position on the Wilmington sexual harassment team.
+The suspension lasted eight days.
