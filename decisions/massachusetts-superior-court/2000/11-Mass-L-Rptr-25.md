@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "966155F"
+decided: "2000-01-07"
+citations: ["11 Mass. L. Rptr. 25"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Bonnano et al. v. Harvard Pilgrim Health Care, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/11/cases/0025-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9474643
+cites_cases: ["120 Mass. 432", "138 Mass. 14", "338 Mass. 787", "356 Mass. 527", "361 Mass. 64", "368 Mass. 354", "405 Mass. 423", "425 Mass. 1"]
+---
+
+# Bonnano v. Harvard Pilgrim Health Care, Inc.
+
+## Majority (Connolly, J.)
+
+Connolly, J.
+PRELIMINARY DISCUSSION
+This matter came on before the Court on the above motion. The crux of the issue is that Harvard Pilgrim Health Care, Inc. seeks a pre-trial, partial summary judgment on the issue that it is a charitable organization, which at the time of treatment in this case was (and is today) engaged in activities carried out to accomplish its charitable purpose.
+The doctrine of charitable immunity was adopted in Massachusetts in the case of McDonald v. Massachusetts General Hospital, 120 Mass. 432, 434-36 (1876). The McDonald case relied on the English case of Feoffees of Heriot’s Hospital v. Ross, 12 C + F. 507, 8 Eng. Rep 1508 (1846). However, ten years before McDonald was decided, the English courts had repudiated the doctrine. Mersey Docks Trustees v. Gibbs, 11 H.L. Cas 686, 12 Eng. Rep 1500 (1866). Evidently, the Supreme Judicial Court “was unaware of the reversal” Nolan, et. al, Tort Law, Mass. Practice, §550, p. 318.
+In McDonald, the Supreme Judicial Court reasoned that the hospital held its funds in trust for the benefit of the public, and that it would be an unlawful diversion of those funds to apply them to the- satisfaction of a judgment based on the negligence of hospital agents. McDonald, supra at 435-436.
+In Simpson v. Truesdale Hospital, 338 Mass. 787, 787-88 (1958), the plaintiff urged the Court to abolish the doctrine as unjust and unfair. Therein the Court indicated that “(w]hile as an original proposition the doctrine might not commend itself to us today, it has been firmly unbedded in our law for over three quarters of a century, and we think that its termination should be at legislative, rather that at judicial hands.” Simpson v. Truesdale Hospital, supra at 787-88.
+In Colby v. Carney Hospital, 356 Mass. 527, 528 (1969), the Court indicated “any renunciation of the charitable immunity doctrine would best be accomplished by legislative action. However, on the assumption that legislative action would be unlikely in the near future, [the Court] announced [its] intention to abolish the doctrine next time we were to be squarely confronted by a legal question respecting [it].” In footnote 1 on 528, the Court made reference to a New Jersey statute that limited damages to an amount not exceeding $10,000. Thereupon, the Massachusetts Legislature, at the request and urging, in part, of the Boston teaching hospitals, passed ch. 231, §85K effective September 16, 1971. Under said statute, charitable organizations are not liable for personal injuries in excess of $20,000.
+As a practical matter, Massachusetts is the only or one of a very few states that has retained charitable immunity, for purposes of any substantial case. As previously indicated, the doctrine had been rejected in England years before the McDonald decision. Most of our major Boston teaching hospitals are insured to, if not in excess of, $40,000,000. Each physician, including residents, are insured to $5,000,000.
+Insurance is meant to spread the risk, which the hospitals have done on behalf of its physicians, and staff. The effect of this $20,000 limitation, as to the hospital, may, at least, be two fold as follows:
+1. If a plaintiff can not identify which employee of the charitable institution committed the negligence (e.g. who did what in the operating room), the liability (and hence its insurer) only pays up to $20,000 even if a verdict of $1,000,000 is returned against the hospital.
+2. If the defendants in a case, for example, are two physicians and a charitable hospital, in order to “save” the physician from “public shame," the jury may return a verdict for the two defendant-physicians and against the hospital in a very substantial amount) e.g. English v. New England Medical Center, Inc., 405 Mass. 423 (1989). While the jury believes, mistakenly, that the plaintiff will recover (e.g. in English, supra) $350,000, in fact she will receive $20,000 (barely, if at all, enough to pay her expert witness and other costs).
+Our Supreme Judicial Court has not hesitated to change the judicially determined law, if it determines when there are no longer sufficient reasons for the former law. For example, Dietrich v. Northampton, 138 Mass. 14 (1884), established the principle that there was no cause of action for the death of an unborn but fetal child.
+The doctrine was continually re-affirmed up to Leccese v. McDonough, 361 Mass. 64 (1972). However, some three years later in Mone v. Greyhound Lines, Inc., 368 Mass. 354 (1975), the Court indicated that none of the reasons for the vitality of Leccese existed, and established a cause of action for the negligent killing of an unborn fetal child. The Court stated that “[we] agree with the majority of jurisdictions that conditioning a right of action on whether a fatally injured child is born dead or alive is not only an artificial and unreasonable demarcation, but is unjust as well.” (Emphasis added.) Mone, supra at 360-61.
+In the present case, there exists an equally unjust situation. However, since September 16, 1971, Ch. 231, §85K has been effective. Thus the limitation of $20,000 has become legislatively mandated, as opposed to the previous immunity which was judicially adopted in McDonald, supra. In English v. New England Medical Center, ch. 231, §85K was attacked on a constitutional basis, which attack was rejected by the Court.
+Hence, in this Court’s judgment we have a very unjust, special interest law that only the Legislature can remedy. For example, the sum and substance of it is that if a person loses a limb as a result of the negligence of an undetermined employee of a fully insured charitable institution, the person has no, or practicality no remedy at law. That is, the person who has lost the limb, must assume and suffer the entire loss and risk himself/herself, and receive no recompense (other than $20,000).
+Not withstanding the above, this Court is bound to follow the law until and if it is changed by the Legislature or the Supreme Judicial Court.
+Accordingly, after hearing and consideration of all submissions, the Court finds that the defendant, Harvard Pilgrim Health Care, Inc. is a charitable corporation. Its activities at the time of the alleged negligence in this case served the institution’s primary charitable purpose. See Linkage Corporation v. Trustees of Boston University, 425 Mass. 1, 28, fn. 37. The question of whether the plaintiff may request and the jurybe given a charge on the effect of G.L.c. 231, §85K and whether the plaintiffs counsel may mention same in his/her final argument is not decided here, and is referred to the trial judge.
+ORDER
+The Defendant, Harvard Pilgrim Health Care, Inc’s Motion for Partial Summary Judgment Concerning the Application of G.L.c. 231, §85K is ALLOWED, and any damages against Harvard Pilgrim Health Care, Inc. are ORDERED to be limited to $20,000 pursuant to G.L.c. 231, §85K.
