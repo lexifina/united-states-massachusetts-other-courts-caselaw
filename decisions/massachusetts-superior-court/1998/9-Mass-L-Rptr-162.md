@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Superior Court"
+docket: "9704582E"
+decided: "1998-08-24"
+citations: ["9 Mass. L. Rptr. 162"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ford Motor Credit Company v. Karen A. Williams"]
+source_url: "https://static.case.law/mass-l-rptr/9/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189266
+cites_cases: ["335 Mass. 697", "369 Mass. 550", "390 Mass. 419", "404 Mass. 14", "409 Mass. 371"]
+---
+
+# Ford Motor Credit Co. v. Williams
+
+## Majority (Burnes, J.)
+
+Burnes, J.
+This matter is before the court on the motion of the defendant/third-party plaintiff, Karen A. Williams (“Williams”) for summary judgment. Williams contends that the theft of her motor vehicle entitles her to invoke the doctrine of frustration of purpose, excusing her from her contractual obligation to make installment payments to the plaintiff, Ford Motor Credit Company (“FMCC”), her creditor.
+FMCC contends that the retail installment contract it entered into with Williams required her to obtain insurance for loss or damage to the vehicle, and that whether or not Williams did so, she nonetheless agreed to repay FMCC in full. For the following reasons, defendant/third-party plaintiffs motion for summary judgment is DENIED and the court ORDERS that summary judgment enter in favor of the plaintiff, Ford Motor Credit Company.
+BACKGROUND
+On March 24, 1995, Williams entered into a retail installment contract with FMCC, wherein FMCC agreed to loan Williams $25,019.03 at an annual percentage rate of 16.25% in exchange for her promise to make 60 monthly payments in the amount of $611.74. The contract contained the following relevant provision:
+D. Vehicle Insurance: You must insure yourself and the Creditor against loss or damage to the vehicle. The type and amount of insurance must be approved by the Creditor. The Creditor may buy the insurance if you do not but he does not have to do so. If the Creditor buys the insurance, he may insure only himself or both you and himself. In either case, you must pay back to the Creditor what he.pays for the insurance plus interest at the highest rate allowed by law. If the Creditor insures only himself, you will not have insurance. Whether or not the vehicle is insured, you must pay for it if it is lost, damaged or destroyed. (Emphasis in original.)
+Williams obtained insurance through third-party defendant Commerce Insurance Company (“Commerce”), and began making payments on the installment contract until October 4, 1995, when her vehicle was stolen. On or about November 1, 1996, Commerce denied coverage. FMCC filed this action on December 9, 1996, claiming Williams still owes $33,700.92 plus interest, costs and attorneys fees.
+DISCUSSION
+This court grants summary judgment where there are no genuine issues of material fact and where the summary judgment record entitles the moving party to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). The moving party bears the burden of affirmatively demonstrating that there is no genuine issue of material fact on every relevant issue. Pederson v. Time, Inc., 404 Mass. 14, 17 (1989) Once the moving party establishes the absence of a triable issue, the party opposing the motion must respond and allege specific facts establishing the existence of a genuine issue of material fact. Pederson, 404 Mass, at 17. In certain circumstances, where appropriate, summaiy judgment may be entered against the moving party. Dawes, 369 Mass. at 553.
+Williams contends that the doctrine of frustration of purpose relieves her of her contractual obligation to pay FMCC its monthly payments. In Chase Precast Corp. v. John J. Paonessa Co., Inc., 409 Mass. 371, 373 (1991), the Supreme Judicial Court noted that the doctrine of impossibility has long been recognized as a defense to an action for breach of contract. Under that doctrine,
+where it appears from the nature of the contract that the parties must from the beginning have contemplated the existence of some particular specified thing as the foundation of what was to be done, then, in the absence of any warranty that the thing shall exist. . . the parties shall be excused . . . [when] performance becomes impossible from the accidental perishing of the thing without the fault of either parly.
+Id.; Boston Plate & Window Glass Co. v. John Bowen Co., 335 Mass. 697 (1957). While the Court noted the similarities between the doctrines of impossibility and frustration of purpose, it nonetheless acknowledged that although it had “referred to the doctrine of frustration of purpose in a few decisions, we have never clearly defined it.” Chase, 409 Mass. at 373-74.
+The Court recognized that while both doctrines involve the introduction of supervening circumstances on the obligations of the parties, the difference lies in the effects of those circumstances. Id. at 374. “Under frustration, ‘ [performance remains possible but the expected value of performance to the party seeking to be excused has been destroyed by [the] fortuitous event . . ” Id.
+If satisfaction of this requirement was the only prerequisite to being eligible to invoke the defense of frustration, Williams’ argument may veiy well have had life. However, the Court went on to state, “[t]he principal question in both kinds of cases remains ‘whether an unanticipated circumstance, the risk of which should not be fairly thrown on the promisor, has made performance vitally different from what was reasonably to be expected.’ ” Id. (emphasis added).
+In Chase, the Court found that whether the defendant could rely on the defense of frustration “turned on whether [the contingency that developed] was a risk allocated by the contract[s] to the [defendant].” Id. at 375-76. The question for this court is therefore: Was the theft of Williams’s automobile an event which the parties reasonably could have foreseen as a real possibility which could affect performance? If it was, performance will be required. See id.
+In Chase, that question was one for the trier of fact. However, in this case, the relevant facts are clear and undisputed. The installment contract between the parties reveals without question that the parties did foresee theft of the vehicle as a possibility. Indeed, the contract specifically required Williams to insure the vehicle “against loss or damage.” Williams’ argument that the term “loss” in this context meant that she was to insure the vehicle against its being accidentally misplaced is meritless. It is difficult, although theoretically not impossible, to “misplace” something as large and important as an automobile. However, the term “loss,” given its ordinary meaning in the context of a contract such as the one entered into by Williams and FMCC, without question contemplates loss by theft. Indeed, G.L.c. 175, §1130, discussing so called “comprehensive coverage,” refers to “theft loss” as an insurable risk. G.L.c. 175, §1130.
+As the risk of theft was not only anticipated (as is evidenced by the contract’s requirement that Williams obtain insurance for loss or damage) but also allocated by contract to Williams, she is not entitled to reliance on the legal excuse of frustration of purpose. Her motion for summary judgment is, therefore, DENIED. Pursuant to Mass.R.Civ.P. 56(c), summaiy judgment shall enter in favor of the plaintiff, Ford Motor Credit Company.
+ORDER
+For the foregoing reasons it is hereby ORDERED that defendant/third-party plaintiffs motion for summary judgment is DENIED. It is further ORDERED that summary judgment shall enter in favor of the plaintiff, Ford Motor Credit Company.
+The total amount loaned being $37,778.37..
