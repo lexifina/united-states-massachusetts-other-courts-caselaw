@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "972574A"
+decided: "1999-05-05"
+citations: ["10 Mass. L. Rptr. 162"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laurence E. Fontaine v. Kevin D. Lamb, Chief of Police for the Town of Lancaster"]
+source_url: "https://static.case.law/mass-l-rptr/10/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9476525
+cites_cases: ["344 Mass. 695", "355 Mass. 275", "402 Mass. 491", "404 Mass. 211"]
+---
+
+# Fontaine v. Lamb
+
+## Majority (Hillman, J.)
+
+Hillman, J.
+Plaintiff Laurence E. Fontaine brings this action in the nature of certiorari under G.L.c. 249 §4, seeking review of Lancaster Chief of Police, Kevin D. Lamb’s (“the Chief’) refusal to sign the certificate of good character that Fontaine must have pursuant to G.L.c. 101, §22 in order to obtain a license to peddle. Fontaine claims that the Chiefs refusal to attest to his good character is arbitraiy and capricious and stems from resentment the Chief is harboring in connection with a 1986 drug bust at Fontaine’s home. Both parties have moved for summaiy judgment pursuant to Mass.R.Civ.P. 56 and Superior Court Standing Order No. 1-96.
+Background
+In September of 1986, defendant Kevin D. Lamb, then a sergeant in the Lancaster Police Department, conducted a search of Fontaine’s residence pursuant to a valid warrant and found marijuana plants, hashish, and $31,000 in cash. Fontaine was charged with possession with intent to distribute, but those charges were dismissed after it was found that the police had videotaped a conference between Fontaine and his attorney in the cell block after Fontaine’s arrest. See Commonwealth v. Fontaine, 402 Mass. 491, 494 (1988), quoting lower court judge’s admonishment of Sergeant Lamb for viewing the videotape as “flagrant misconduct which evinces a total disrespect and disregard for the confidentiality of the attorney, client relationship.”
+On July 25, 1988, Fontaine sought renewal of his peddler’s license. He submitted the application to Lancaster Chief of Police Eric P. McAvene, and the Chief refused to sign it. Fontaine petitioned this Court to order Chief McAvene to certify that Fontaine was of good repute as to morals and integrity. The petition was denied. That decision was based in part upon the finding of the judge that the Chiefs reasons for denying the signature were “that the plaintiff was found by . the Chief in the fall of 1986 in possession of quantities of controlled substances, contraband fireworks, and a large ($31,000.00) of cash." (Emphasis supplied.) See Worcester, ss., Civil Action No. 88-2883, Mulkem, J.
+This cash was the subject of a forfeiture proceeding under G.L.c. 94C, §47. In 1991 the Commonwealth and the plaintiff stipulated that judgment should enter for the plaintiff and all of the money was returned to the plaintiff and the other owner of the money. About a decade later, in 1997, Fontaine again submitted an application for a license to peddle. The Chief refused to sign, and Fontaine filed the instant lawsuit on December 4, 1997.
+Discussion
+Fontaine claims that Chief Lamb’s refusal to attest as to his good character is arbitraiy and capricious. Under the “arbitraiy and capricious” standard, a decision can be disturbed only if it is based on “a legally untenable ground (or) is unreasonable, whimsical, capricious, or arbitraiy.” Gulf Oil Corp. v. Board of Appeals of Framingham, 355 Mass. 275, 277 (1969). The burden is on the plaintiff to show that the challenged action is not legitimately related to the purposes of the licensing legislation. Forsyth School for Dental Hygienists v. Board of Registration in Dentistry, 404 Mass. 211, 218 (1989). Thus in the instant case, Fontaine must show that Chief Lamb’s refusal to sign his certificate of good character did not legitimately relate to the goals of G.L.c. 101.
+The Supreme Judicial Court has held that “(t)he underlying purpose of the regulation of itinerant selling is the prevention of fraud and imposition, and the assurance of the safety of citizens." Hall-Omar Baking Co. v. Commissioner of Labor & Industries, 344 Mass. 695, 701 (1962). G.L.c. 101, §22 requires apeddler to obtain a certificate from the Chief of Police attesting to the applicant’s good character. The obvious rationale behind this section is that a person of poor moral character may be inclined to perpetrate a fraud while engaged in the selling of his wares. The dispositive question in the instant case is whether the Chief had reasonable grounds to conclude that Fontaine had a poor character. Without speculating on the Chiefs motivations, the court holds that he did not. The applicant’s conviction is more than a decade old and did not involve a crime of moral turpitude. It is well-established that a drug conviction will not prevent a qualified attorney from practicing law after a period of suspension. See e.g., In re: Michael J. Houlihan, BBO case No. BD-97-046, May 15, 1998. It is difficult for this Court to imagine that the standard for an itinerant peddler should be higher.
+ORDER
+For the foregoing reasons, defendant Kevin D. Lamb, Chief of Police for the Town of Lancaster is hereby ORDERED to sign the certificate attesting that plaintiff Laurence E. Fontaine is of good repute as to morals and integriiy.
+“A civil action in the nature of certiorari to correct errors in proceedings which are not according to the course of the common law, which proceedings are not otherwise reviewable by motion or appeal, may be brought in the supreme judicial or superior court.”
+“The Director [of Standards in the Executive Office of Consumer Affairs] may grant a license to go about carrying for sale or barter . . . any goods, wares, or merchandise . . . to any person who . . . files with the director a completely executed application ... on which shall be a certificate which shall be signed by the chief of police of the city or town in which the applicant resides and which shall state that to the best of his knowledge and belief the applicant therein named is of good repute as to morals and integrity.”
+The plaintiff did receive the signature and consequently the license in 1987. The chief signed the application inadvertently. By 1988, he more fully understood his responsibilities under the statute and accordingly refused to sign the license.
+See In Re: Rick Weissman, Esq., BBO Case No. 90-49BD, March 29, 1994, wherein the Board of Bar Overseers gave an attorney convicted of possession of marijuana, hashish, and cocaine a three-year suspension from the practice of law. The Board’s hearing panel had recommended a five-year suspension, but the Board modified it to three years, noting that the attorney’s crimes “did not reflect fundamental dishonesty.”
