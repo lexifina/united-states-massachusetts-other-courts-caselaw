@@ -1,0 +1,40 @@
+---
+court: "Massachusetts Superior Court"
+docket: "960093E"
+decided: "1997-07-17"
+citations: ["7 Mass. L. Rptr. 495"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mathew O’Connor, PPA, by his mother and next friend Betsy-Jean O’Connor, Individually et al. v. California Angels et al."]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0495-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11786626
+cites_cases: ["201 Mass. 557", "221 Mass. 125", "386 Mass. 244", "404 Mass. 450", "404 Mass. 624", "637 S.W.2d 11"]
+---
+
+# O'Connor ex rel. O'Connor v. California Angels
+
+## Majority (Borenstein, J.)
+
+Borenstein, J.
+This matter came before the Court on defendant, California Angels and Gary T. DiSarcina’s, motion to dismiss each of the plaintiffs’ complaints, pursuant to Mass.R.Civ.P. 12(b)(3) and Mass.R.Civ.P. 12(b)(6) which have been consolidated for purposes of this order. This action arises out of a July 5, 1994 incident at Fenway Park in Boston, Massachusetts. The plaintiffs both allege they sustained injuries when they were struck in the head by a bat which slipped from the hands of the defendant, Gary T. DiSarcina, when he swung at a pitch and it flew into the stands. For the reasons set forth below, the defendants’ motion is ALLOWED pursuant to Mass.R.Civ.P. 12(b)(6) and Mass.R.Civ.P. 12(b)(3).
+DISCUSSION
+I. Motion to Dismiss the Plaintiffs’ Complaint. Pursuant to Mass.R.Civ. P. 12(b)(6)
+The defendants argue that the court should dismiss the plaintiffs’ complaints for failure to state a claim upon which relief can be granted, because major league baseball players like Gary T. DiSarcina do not owe spectators a duty of reasonable care while performing activities which are inherent to the game of baseball.
+The plaintiffs claim the defendant, Gary T. DiSarcina, owed the plaintiffs a duty of reasonable care regardless of whether he was performing an act inherent in the game of baseball. The plaintiffs also claim the California Angels are vicariously liable for Gary T. DiSarcina’s conduct.
+The defendants’ 12(b)(6) motion to dismiss for failure to state a claim upon which relief can be granted is ALLOWED. The standard of care between a participant in a sporting event and a spectator has not been specifically addressed by the Massachusetts courts. However, it has been established that the standard of care participants in a sporting event “owe to other participants is to refrain from reckless misconduct." Gauvin v. Clark, 404 Mass. 450, 453 (1989). This court also adopts reckless misconduct as defined in the Restatement of Torts (2d) Section 500, as the standard of care that participants owe spectators regarding acts inherent in the sport.
+In Yakubowicz v. Paramount Pictures Corp., 404 Mass. 624, 629 (1989) (quoting Schofield v. Merril, 386 Mass. 244, 246-53 (1982)), the court reasoned that “to determine whether the law ought to provide that a duty of care is owed by one person to another, [Massachusetts courts] look to existing social values and customs, and to appropriate social policies.” The existing social policy has been that the “courts are wary of imposing wide tort liability on sports participants, lest the law chill the vigor of athletic competition.” Gauvin v. Clark, 404 Mass. 450, 453 (1989) (quoting Ross v. Glouser, 637 S.W.2d 11, 14 (Mo. 1982)). It is impossible for the participant to play at his/her utmost ability, whether it be in amateur or professional sports, if the participant is burdened with a mere negligent standard of care regarding acts inherent in the sport. Spectators expect the participant to push the limits of their abilities and make the impossible play a reality. If a player is burdened with a negligent standard of care regarding acts inherent in the sport that player will be forced to play gingerly and with forethought as to its consequences, thus destroying the excitement of the game. This duty is unreasonable and in fact impossible because both the coaches and the spectators expect the participants to make split second decisions in order to successfully achieve the tasks which are inherent in the sport.
+Personal injury cases arising out of an athletic event must be predicated on the standard of reckless disregard of safety. The undisputed facts reflect that the defendant, Gary T. DiSarcina, swung at a pitch and as he did so, the bat slipped out of his hands. This conduct is clearly inherent in the game of baseball and cannot be considered reckless misconduct as defined in the Restatement of Torts (2) Section 500. As such, the California Angels cannot be held vicariously liable.
+II. Motion to Dismiss the Plaintiffs’ Complaint. Pursuant to Mass.R.Civ.P. 12(b)(3)
+The defendants argue that the court should dismiss the case for improper venue because Gary T. DiSarcina is the only party who lives in Massachusetts and has no usual place of business in Massachusetts.
+General Laws c. 233, §1 which governs venue in transitory actions generally dictates:
+A transitory action shall, except as otherwise provided, if any one of the parties thereto lives in the commonwealth, be brought in the county where one of them lives or has his usual place of business . ..
+The words ‘usual place of business’ in a venue statute “do not include a place where one pursues a ‘trade or calling’ which is employment as distinguished from business.” Hanley v. Eastern Steamship Corp., 125, 131 (1915). Therefore, Gary T. DiSarcina was pursuing his trade when he played baseball at Fenway Park in Suffolk County on July 5, 1994.
+The defendants also argue that General Laws c. 223, §8 governing corporations in transitory actions does not apply because the California Angels are a foreign corporation and Section 8 only applies to domestic corporations. 2 Massachusetts Procedure, 298 (1993) (quoting Potter v. LaPointe Machine Tool Co.. 201 Mass. 557 (1909)). Chapter 233, §8 in relevant part states:
+Transitory actions to which a corporation is a party, may be brought if one party is a corporation and the other an individual, in any county in which the corporation might be sued, or in the counly in which the individual lives or has a usual place of business.
+The plaintiffs argue the court should not dismiss the case for impropervenuebecause Gary T. DiSarcina is not the only defendant, the California Angels are also a parly. The California Angels is a corporation which conducts substantial business in Suffolk County thus meeting the usual place of business criteria, and is a corporation that can sue or be sued in Suffolk County as permitted under General Laws c. 233, §1 and §8.
+The plaintiffs also argue “usual place of business” is broader than the place where a person pursues a trade or calling. Hanley v. Eastern Steamship Corp., 221 Mass. 125, 132 (1915).
+The defendants’ 12(b)(3) motion to dismiss is ALLOWED. General Laws c. 233, §8 has no bearing on the case at bar because the California Angeles are a foreign corporation which the Potter case held is' not without the purview of Section 8. Therefore, General Laws c. 233, §1 is controlling and it clearly states “if any one of the party thereto lives in the commonwealth, be brought in the county where one of them lives or has his usual place of business.” (Emphasis added.) It is undisputed Gary T. DiSarcina lives in Barnstable County and in light of the Hanley decision, Suffolk County is not his usual place of business and does not have venue.
+For the foregoing reasons, the defendants’ Motions to Dismiss are ALLOWED on both of the grounds asserted.
+The actor’s conduct is in reckless disregard of the safety of another if he does an act or intentionally fails to do an act which it is his duty to the other to do, knowing or having reason to know of facts which would lead a reasonable person to realize, not only that his conduct creates an unreasonable risk of physical harm to another, but also that such risk is substantially greater than that which is necessary to make his conduct negligent.
