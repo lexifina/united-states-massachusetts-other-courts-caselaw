@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "CA 927221"
 decided: "1995-06-12"
-citations: ["4 Mass. L. Rptr. 21", "4 Mass. L. Rptr. 27"]
+citations: ["4 Mass. L. Rptr. 21"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Richard Fahey & another v. R.J. Reynolds Tobacco Company & others"]
 source_url: "https://static.case.law/mass-l-rptr/4/cases/0021-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11922904
-cites_cases: ["1 Mass.App.Ct. 313", "11 Mass.App.Ct. 428", "112 S.Ct. 2608", "140 F.R.D. 681", "147 Mass. 403", "16 Mass.App.Ct. 911", "18 Mass.App.Ct. 975", "20 Mass.App.Ct. 642", "245 Mass 405", "32 Mass.App.Ct. 992", "346 Mass. 150", "355 Mass. 117", "356 Mass. 42", "368 Mass. 174", "368 Mass. 433", "369 Mass. 550", "372 Mass. 171", "372 Mass. 645", "375 Mass. 633", "376 Mass. 874", "380 Mass. 391", "385 Mass. 1", "385 Mass. 813", "389 Mass. 1105", "390 Mass. 419", "394 Mass. 131", "394 Mass. 534", "396 Mass. 629", "400 Mass. 865", "404 Mass. 14", "404 Mass. 515", "405 Mass. 207", "405 Mass. 697", "406 Mass 43", "408 Mass. 162", "408 Mass. 694", "410 Mass. 314", "410 Mass. 706", "410 Mass. 805", "413 Mass. 1105", "416 A.2d 394", "417 Mass. 250", "474 U.S. 920", "493 U.S. 894", "512 F.Supp. 1031", "546 N.E.2d 139", "719 F.Supp. 27", "757 F.2d 411", "762 F.Supp. 1525", "787 F.2d 726", "83 N.J. 320", "893 F.2d 541", "9 Mass.App.Ct. 660", "975 F.2d 81"]
+cites_cases: ["11 Mass.App.Ct. 428", "112 S.Ct. 2608", "147 Mass. 403", "16 Mass.App.Ct. 911", "18 Mass.App.Ct. 975", "20 Mass.App.Ct. 642", "32 Mass.App.Ct. 992", "346 Mass. 150", "355 Mass. 117", "356 Mass. 42", "368 Mass. 433", "369 Mass. 550", "372 Mass. 171", "375 Mass. 633", "376 Mass. 874", "385 Mass. 1", "385 Mass. 813", "389 Mass. 1105", "390 Mass. 419", "394 Mass. 131", "394 Mass. 534", "396 Mass. 629", "404 Mass. 14", "404 Mass. 515", "405 Mass. 207", "405 Mass. 697", "408 Mass. 162", "408 Mass. 694", "410 Mass. 706", "410 Mass. 805", "413 Mass. 1105", "416 A.2d 394", "417 Mass. 250", "474 U.S. 920", "493 U.S. 894", "512 F.Supp. 1031", "719 F.Supp. 27", "757 F.2d 411", "762 F.Supp. 1525", "787 F.2d 726", "83 N.J. 320", "893 F.2d 541"]
 ---
 
 # Fahey v. R.J. Reynolds Tobacco Co.
