@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Superior Court"
+docket: "45060"
+decided: "1981-06-26"
+citations: ["2 Mass. Supp. 489"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Paul G. Garrlty", "Justice oi the Superior Court"]
+parties: ["Shirley A. PEZNOLA, individually and as Administratrix of the Estate of Donald R. PEZNOLA, Plaintiff v. Kevin J. O’BRIEN, M.D. Alvin ADLER, M.D., and THE FAULKNER HOSPITAL Defendants"]
+source_url: "https://static.case.law/mass-supp/2/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5608121
+cites_cases: ["169 F.2d 739", "327 Mass. 32", "335 U.S. 826", "342 Mass. 483", "372 Mass. 91", "373 Mass. 778"]
+---
+
+# Peznola v. O'Brien
+
+## Majority
+
+FINDINGS, RULINGS, ORDER, AND MEMORANDUM OF DECISION ON THE PLAINTIFF’S MOTION TO VACATE TRIBUNAL FINDING
+INTRODUCTION
+In her complaint, which commenced this action, the plaintiff claims that the defendants purportedly failed to diagnose and to treat properly her late spouse resulting in preventable complications. which led to his death "on February 11, 1978. Pursuant to G.L. c. 231, sea 60B, a Medical Malpractice Tribunal was convened by a letter from the Chief Justice on January 16, 1981, and then held on March 4, 1981. After that hearing the Tribunal found and determined “that the evidence (was) not properly substantiated and hot sufficient to raise a legitimate question of liability appropriate for judicial inquiry and the plaintiff’s action is merely an unfortunate medical result.” In the above motion, supported by an affidavit of her counsel, the plaintiff claims that the Tribunal was improperly constituted under sec. 60B and therefore its finding should and must be vacated as a matter of law.
+FINDINGS, RULINGS, AND MEMORANDUM OF DECISION
+In plaintiff’s counsel’s affidavit, he . indicates that on March 20, 1981, he telephoned the physician member of the Tribunal (‘‘the physician member”), and in response to his (counsel’s) questions the physician member ‘‘advised me that he was currently on the staff of the Néwton-Wellesley Hospital,, . Newton, Massachusetts; the Beth Israel Hospital, Boston, Massachusetts; and St. Elizabeth’s Hospital, Boston, Massachusetts.” The affidavit also indicates that the physician member “.. . also advised me (counsel) that he had been a former staff member of the Faulkner Hospital and that his last staff membership was approximately eight (8) years ago.”
+. On March 27, 1981, after hearing the above motion, at my request and with the consent of all counsel, my law clerk telephoned the physician member to determine the geographical extent of his medical practice. Initially, according to my law clerk, the physician member was quite reluctant to discuss this maiter because he was uncertain with whom he was speaking. After the physician member verified my law clerk’s identity, he informed the law clerk that he had previously spoken with the plaintiff’s counsel who had telephoned him to inquire concerning his hospital affiliations. The physician member indicated that he had found plaintiff’s counsel to be most manipulative and to apply unwarranted pressure during their telephone conversation. The physician member then informed my law clerk that ' since 1958 his medical practice had been, almost exclusively in the Newton and Wellesley (Middlesex County) areas and that since that time he had maintained an office in Newton and had been actively affiliated with the Newton-Wellesley Hospital. The physician member then pointed out that during the recent strike by nurses at the Newton-Wellesley Hospital he did see a few of his patients admitted to the St. Elizabeth’s Hospital in Brighton, (Suffolk County) as a consequence of that strike, and he also sees, perhaps once a year, a very occasional patient at the Beth Israel Hospital (Suffolk County) if the patient so requests. According to the physician member those latter instances of providing medical services outside Middlesex County are quite exceptional.
+G.L. c. 231, sec. 60B provides in part with respect to the selection of a Medical Malpractice Tribunal that, "The list submitted to the single justice (member of the Tribunal) shall consist only of physicians who practice medicine outside the county where the defendant practices or resides or if the defendant is a medical institution or facility outside the county where said institution or facility is located.’’ All defendants either practice, reside, or are located in Suffolk County.
+While it is well-settled that minor discrepancies or immaterial departures from the literal requirements of a statute will not invalidate actions under it, a trial judge has no discretion to act counter to the specific provisions of a statute. Reubens v. Boston Federal Savings and Loan Assoc., 342 Mass. 483 (1961), Landers v. Eastern Racing Assoc., 327 Mass. 32 (1951), and Comm. v. Wade, 372 Mass. 91 (1977) and cases cited. Courts ‘ ‘ cannot interpret a statute so as to avoid injustice or hardship if its language is clear and unambiguous and requires different construction.” Rosenbloom v. Kokofsky, 373 Mass. 778, 781 (1977).
+The language of sec. 60B is clear and unambiguous. If I were to find that the physician member practiced medicine in Suffolk County that fact would serve as a jurisdictional bar to his participation on the Tribunal, and the findings of the Tribunal would have to be vacated. However, on the facts above, it seems to me that when applying the normal sense of the word “practice” the physician member did not and does not in fact practice medicine in Suffolk County. His professional contacts with Suffolk County are exceptional and infrequent. Plaintiff’s counsel’s claim of impropriety by virtue of the fact that the physician member may have been affiliated with the Faulkner Hospital in the remote past is overreaching and not deserving of comment.
+However, it seems important to comment on another issue here on what I consider to be the less than appropriate methods utilized by plaintiff’s counsel in obtaining information, relevant to the physician member’s hospital affiliations. On March 20,1981, some two weeks after receiving a negative finding from the Tribunal, plaintiff’s counsel took the liberty of contacting the physician member of the Tribunal without prior Court approval. One might analogize such behavior to post-verdict contact with jurors by counsel. As to such behavior, the Supreme Judicial Court has made itself quite clear:
+(W)e think the jury system is best protected by a rule requiring that any post-verdict interviews of jurors by counsel, litigants, or their agents take place under the supervision and direction of the judge . . Moreover, permitting unbridled interviews of jurors could lead to harassment of jurors, exploitation of jurors’ thought processes, and diminished confidence in jury verdicts.
+Commonwealth v. Fidler, 1979 Mass.Adv.Sh. 240, 252. The Court went to hold that “any counsel or litigant who independently contacts jurors ‘acts at his peril, lest he be held as acting in obstruction of the administration of justice.’ ” Id. at 255 (quoting Rakes v. United States, 169 F.2d 739, 745-746 (4th Cir.), cert. denied, 335 U.S. 826 (1948). Such a warning is at least equally warranted here.
+ORDER
+For the reasons set forth above, I ORDER that the plaintiff’s Motion to Vacate the Tribunal Finding be DENIED.
+By the Court.
+Paul G. Garrlty
+Justice oi the Superior Court
