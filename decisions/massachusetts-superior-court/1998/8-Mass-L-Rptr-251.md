@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Superior Court"
+docket: "954772D"
+decided: "1998-02-24"
+citations: ["8 Mass. L. Rptr. 251"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Management Services, Inc. v. Frye & Associates, Inc."]
+source_url: "https://static.case.law/mass-l-rptr/8/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 380088
+cites_cases: ["30 Mass.App.Ct. 904", "361 Mass. 441", "370 Mass. 866", "371 Mass. 439", "378 Mass. 1", "390 Mass. 120", "4 Mass.App.Ct. 91", "764 F.2d 928"]
+---
+
+# American Management Services, Inc. v. Frye & Associates, Inc.
+
+## Majority (Neel, J.)
+
+Neel, J.
+Plaintiff American Management Services, Inc. (“AMS”), a business consulting firm located in Waltham, Massachusetts, brought this action against defendant Frye & Associates, Inc. (“Fiye & Associates”) for damages and injunctive relief arising from alleged interference with non-competition agreements between AMS and former AMS employees. Victor Fiye, a former AMS employee, is president of Frye & Associates, located in New Jersey. Frye & Associates moves, pursuant to Mass.R.Civ.P. 12(b)(2), to dismiss the complaint for lack of personal jurisdiction. After hearing, the Court reserved decision on the matter so that the parties could develop a factual record. On the basis of that record, and for the reasons set forth below, the defendant’s motion to dismiss is denied.
+Discussion
+A plaintiff confronted with a motion to dismiss under Mass.R.Civ. P. 12(b)(2) bears the burden of “establishing the facts upon which the question of personal jurisdiction over a defendant is to be determined.” Nichols Assoc., Inc. v. Starr, 4 Mass.App.Ct. 91, 93, aff'd 370 Mass. 866 (1976); Morrill v. Tong, 390 Mass. 120, 129 (1983) (“[w]hether jurisdiction will be found is a determination sensitive to the particular facts of each case”). Two questions must be answered affirmatively in order for the court properly to exercise personal jurisdiction over Frye & Associates: “(1) [I]s the assertion of jurisdiction authorized by [the Massachusetts long-arm] statute, and (2) if authorized, is. the exercise of jurisdiction under State law consistent with basic due process requirements mandated by the United States Constitution?" Good Hope Industries, Inc. v. Ryder Scott Co., 378 Mass. 1, 5-6 (1979); Bond Leather Co. v. O.T. Shoe Mfg. Co., 764 F.2d 928, 931 (1st Cir. 1985). The Massachusetts longarm statute, G.L.c. 223A, allows “an assertion of jurisdiction over the person to the limits allowed by the Constitution of the United States ...” Good Hope Industries, Inc., 378 Mass. at 6 (quoting “Automatic” Sprinkler Corp. of America v. Seneca Foods Corp., 361 Mass. 441, 443 (1972)).
+Here, AMS asserts that the court has personal jurisdiction over Frye & Associates pursuant to G.L.c. 223A, §3(a) and (c). General Laws c. 223A, §3 provides in pertinent part that “[a] court may exercise personal jurisdiction over a person, who acts directly or by an agent, as to a cause of action in law or equity arising from the person’s
+(a) transacting any business in this commonwealth . . . [or]
+(c) causing tortious injury by an act or omission in this commonwealth[.]"
+To fall within subsection (a) of §3, AMS must show that Fiye & Associates, “for statutory and constitutional purposes, transacted business in the Commonwealth and that [AMS’s] injury arose out of such transactions.” Rye v. Atlas Hotels, Inc., 30 Mass.App.Ct. 904, 905 (1991). Subsection (a) has been construed broadly, and may be satisfied “where the only contact involved is an ‘isolated’ transaction, or one with ‘little impact on the commerce’ of [Massachusetts]." Bond Leather Co., 764 F.2d at 932. Section (a) further reaches any “purposeful acts by an individual, whether personal, private or commercial.” Id. at 931 (quoting Ross v. Ross, 371 Mass. 439, 441 (1976). Subsection (c), when concerning statements only, requires that not only the statements at issue occur in ¿re Commonwealth, but reliance upon them as well. See Salvador v. Meese, 641 F.Sup. 1409, 1414 (D. Mass. 1986) (“Insofar as the complaint does not assert that the plaintiffs relied upon . . . representations made in the telephone conversation to their detriment, it fails to allege that [a tort was committed] in Massachusetts”); see also Kolikof v. Samuelson, 488 F.Sup. 881, 883 (D. Mass. 1980).
+For purposes of this motion, plaintiff has established that Fiye & Associates and its agents solicited employees and former employees of AMS, by telephone and in person, in Massachusetts. For example, during 1994 and early 1995, Victor Frye telephoned Wayne Brown, a former AMS employee, at his Boston office, to solicit him for employment. Brown eventually accepted. On January 18, 1994, when Victor Frye was terminated by AMS, AMS senior vice president Steven Nygren received a telephone call at a Waltham restaurant from Nancy Follender, an AMS employee who had reported to Frye. Follender urged Nygren to leave AMS and join Frye, contrary to his non-competition agreement with AMS. She telephoned Nygren within a day or two thereafter, at his AMS office in Waltham, to the same end. Over the next two months Victor Frye telephoned Nygren repeatedly, speaking to Nygren on Nygren’s car telephone in Massachusetts, and leaving voice mail messages at Nygren’s house in Lynn, Massachusetts, soliciting Nygren to leave AMS. Frye thereafter met Nygren in a Waltham hotel bar, again requesting that Nygren leave AMS and join Frye & Associates. Nygren again declined.
+Very little activity is required in a forum state to trigger personal jurisdiction over a pariy. See Bond Leather Co., Inc., 764 F.2d 928, 932 (1st Cir. 1985) (four letters and a telephone call satisfy §3(a)). Here, defendant Frye & Associates, through its agent Victor Frye and others, engaged in repeated attempts (some successful) to solicit employees of AMS in alleged violation of their non-competition agreements. Such solicitations involved telephone conversations as well as face to face meetings in Massachusetts, and satisfy the requirements set forth in c. 223A, §3.
+ORDER
+For the reasons stated above, defendant’s motion to dismiss for lack of personal jurisdiction is DENIED.
