@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Superior Court"
+docket: "0002909"
+decided: "2001-09-25"
+citations: ["14 Mass. L. Rptr. 36"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward S. McLarnon v. Nancy Borofsky"]
+source_url: "https://static.case.law/mass-l-rptr/14/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3631443
+cites_cases: ["370 Mass. 105", "41 Mass.App.Ct. 137", "410 Mass. 314", "410 Mass. 631", "423 Mass. 1111", "7 Mass.App.Ct. 206", "957 F.2d 920"]
+---
+
+# McLarnon v. Borofsky
+
+## Majority (Quinlan, J.)
+
+Quinlan, J.
+In this action for fraud and deceit, the plaintiff, Edward McLarnon, alleges that the defendant, Nancy Borofsky, knowingly made false representations of fact to the detriment of the plaintiff. The defendant has moved pursuant to Mass.R.Civ.P. 12(b)(6) to dismiss the action for failure to state a claim upon which relief may be granted. The plaintiff opposes the motions. His opposition is principally directed to the Motion for Summary Judgment in which he attempts to demonstrate the falsity of statements and representations attributed to the defendant.
+In deciding a motion to dismiss pursuant to Rule 12(b)(6), “all allegations [in the complaint] are to be taken as true, and the inferences to be drawn therefrom should be in favor of the . . . [plaintiff].” Kipp v. Kucker, 7 Mass.App.Ct. 206, 210 (1979). Therefore, the defendant’s denials notwithstanding, the court accepts allegations in the complaint as true.
+According to the complaint, the defendant was an attorney licensed to practice in the Commonwealth who represented plaintiffs ex-wife, Virginia Jokisch, in divorce proceedings before the Probate and Family Court in the mid-1980s and in several hearings under G.L.c. 209A. During the period from September of 1994 through June of 1997, the defendant falsely “represented ... to the court" that the plaintiff had abused his ex-wife and “presented these claims” despite records in her possession showing the claims and testimony of the plaintiffs ex-wife to be false. The defendant failed to disclose prior child care proceedings which have supported the plaintiffs claim that he was not a batterer. The defendant failed to disclose that evaluations for a “GAL” report were prepared by associates and friends of the plaintiffs ex-wife’s new husband. The defendant also knowingly filed false affidavits, including an affidavit of a licensed social worker named Douglas. She had falsely accused the plaintiff of violating a restraining order and accused him of failing to cooperate with the court-appointed guardian ad litem. The defendant made these false allegations intending that the court would rely on them and the court did rely on them to the detriment of the plaintiff and his son.
+There is an “absolute privilege" “accorded to an attorney at law to publish defamatory matter in communications preliminary to a proposed judicial proceeding, or in the institution of, or during the course and as a part of, a judicial proceeding in which he participates as counsel, if the publication has some relation to the proceeding.” Kipp v. Kueker, 7 Mass.App.Ct. at 210, citing Sriberg v. Raymond, 370 Mass. 105 (1976); Doe v. Nutter, McClennen & Fish, 41 Mass.App.Ct. 137, 141, app. denied, 423 Mass. 1111 (1996). “An absolute privilege provides a complete defense even if the offensive statements are uttered maliciously or in bad faith. Correllas v. Viveiros, 410 Mass. 314, 319 (1991); Mulgrew v. Taunton, 410 Mass. 631, 634 (1991). In addition, the absolute privilege which attaches to those statements protects the maker from any civil liability based thereon. Correllas v. Viveiros, 410 Mass. at 324; Robert L. Sullivan, D.D.S., P.C. v. Birmingham, 11 Mass.App.Ct. [359] at 367-68 [(1989)]. See Frazier v. Bailey, 957 F.2d 920, 932 (1st Cir.1992) (claims for negligence, defamation, intentional infliction of emotional distress, and violation of Massachusetts Civil Rights Act based on communications preliminary to litigation and during pendency of litigation were entitled to absolute immunity from civil liability under Massachusetts law). To rule otherwise would make the privilege valueless if an individual would then be subject to liability under a different theory ...” Doe v. Nutter, McClennen & Fish, 41 Mass.App.Ct. at 141-42.
+The complaint filed by the plaintiff demonstrates with certainty that the allegedly defamatory statements attributed to the plaintiff were made “in the institution of, or during the course and as a part of, a judicial proceeding” in which the defendant participated as counsel. Those statements and representations attributed to her were relevant to the proceedings involved. Under these circumstances, the defendant is entitled to the benefit of the absolute privilege. Based upon the allegations in the complaint and the nature of the privilege, there is no set of facts on which the plaintiff could rely to establish a claim for deceit or fraud against the defendant arising from misrepresentations she is alleged to have made to the court during her representation of the plaintiffs ex-wife.
+Order
+Therefore, the defendant’s Motion to Dismiss is ALLOWED and the action is dismissed for failure to state a claim upon which relief may be granted. In light of the ruling on the motion to dismiss, no action is taken on the Motion for Summary Judgment.
