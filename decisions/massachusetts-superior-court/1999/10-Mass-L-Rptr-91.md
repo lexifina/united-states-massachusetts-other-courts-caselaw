@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "C 9600694"
 decided: "1999-02-24"
-citations: ["10 Mass. L. Rptr. 91", "10 Mass. L. Rptr. 93"]
+citations: ["10 Mass. L. Rptr. 91"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Douglas Jean et al. v. Waban, Inc. dba BJ’s Wholesale Club et al. v
 source_url: "https://static.case.law/mass-l-rptr/10/cases/0091-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9476006
-cites_cases: ["271 Mass. 485", "339 Mass. 177", "390 Mass. 419", "404 Mass. 14", "405 Mass. 191", "409 Mass. 803", "410 Mass. 479", "410 Mass. 706", "428 Mass. 124"]
+cites_cases: ["271 Mass. 485", "390 Mass. 419", "404 Mass. 14", "405 Mass. 191", "409 Mass. 803", "410 Mass. 479", "410 Mass. 706", "428 Mass. 124"]
 ---
 
 # Jean v. Waban, Inc.
