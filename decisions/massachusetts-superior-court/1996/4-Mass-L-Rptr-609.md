@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "918667"
+decided: "1996-01-31"
+citations: ["4 Mass. L. Rptr. 609"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Policyholders Insurance Company v. Nyacol Products, Inc. et al. v. Commercial Union Insurance Company et al."]
+source_url: "https://static.case.law/mass-l-rptr/4-2/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11924096
+cites_cases: ["39 Cal.Rptr.2d 520", "406 Mass. 7", "419 Mass. 528"]
+---
+
+# American Policyholders Insurance v. Nyacol Products, Inc.
+
+## Majority (Gershengorn, J.)
+
+Gershengorn, J.
+Plaintiff American Policyholders Insurance Company (American) brings this action seeking a declaratoiy judgment that it is not obligated to defend or indemnify defendants Nyacol Products, Inc. (Nyacol), Robert Lurie (Lurie), or Thomas L. O’Connor (O’Connor) (collectively NPI) for claims brought against NPI by the Massachusetts Department of Environmental Protection (DEP) and the United States Environmental Protection Agency (EPA). The defendants filed counterclaims for declaratory judgment against American and also filed third-party claims seeking similar declaratory relief against their other insurers, Commercial Union Insurance Company (CU), National Union Fire Insurance Company (National), and Utica Mutual Insurance Company (Utica). NPI now moves for a protective order from discovery noticed and proposed by American on the grounds that such discovery will prejudice NPI in the EPA/DEP proceedings. Based on the following, NPI’s motion is allowed.
+BACKGROUND
+This case involves insurance coverage for environmental claims arising out of the Nyanza Superfund Site in Ashland, Massachusetts (the site). Nyacol, Lurie and O’Connor have been named as potentially responsible parties (PRP’s) for the multimillion dollar cleanup being undertaken by the state and federal governments.
+API brought the current action seeking declaratory relief in 1991. In 1994, CU filed two separate actions in Suffolk Superior Court seeking declarations that it is not obligated to defend or indemnify two other PRP’s connected with the site, one of which is Nyacol’s parent corporation (the Suffolk cases).
+After CU noticed the deposition of James Critser, the former plant manager of Nyanza, Inc., in the Suffolk cases, the defendants in those actions moved for protective orders. The protective orders were allowed and discovery in the Suffolk cases was stayed pending resolution of the underlying EPA proceedings.
+API has noticed the deposition of James Critser in this case and API has indicated that it intends to notice the depositions of Lurie and O’Connor in the near future.
+DISCUSSION
+In Commercial Union Insurance Company v. Rohm-Tech, Inc., Civ. No. 94-2231 (Suffolk Super. Ct. June 16, 1995), the court allowed the protective order against CU as to all discovery, including the deposition of James Critser, which has the potential to establish the defendants’ liability on the EPA claim or to remove any limitation on the extent of such liability. The court stated that “the insurer was paid to take the risk so that if, between two parties, prejudice due to loss of evidence or otherwise is to be suffered, the insurer must be the one to suffer. It cannot act for its own benefit to the prejudice of its insured.” In Commercial Union Insurance Company v. PQ Corporation, Civ. No. 94-2232 (Suffolk Super. Ct. June 20, 1995), a similar motion for protective order involving nearly identical facts was allowed without opinion.
+In the Suffolk cases, CU, like American in the present case, is seeking declaration as to its duty to defend and indemnify its insured. All three cases involve the same site and the same proceedings by EPA and DEP.
+American argues that it must continue to pay defense costs while being prevented from demonstrating that it is not obligated to do so. An insurer’s duty to defend is antecedent to, independent of, and broader than its duty to indemnify. Boston Symphony Orchestra, Inc. v. Commercial Union Insurance Company, 406 Mass. 7, 10 (1989). The duty to defend is based on facts alleged in the complaint and such obligation is not and cannot be determined by reference to facts proven at trial. Id. at 10-11. The merits of the claim are not grounds upon which an insurer can refuse to defend the insured. Id. at 13.
+American argues that it has expended time and money to defend claims which may not be covered under the terms of the policy. If such is the case, American may be able to show that it has no duty to indemnify NPI for any losses incurred as a result of the EPA proceedings. Where, however, the underlying complaint is reasonably susceptible of an interpretation that it states or adumbrates a claim within coverage, the insurer has a duty to defend. Id. at 11-12; SCA Services v. Transportation Insurance Co., 419 Mass. 528, 532-33 (1995) (no duty to defend where site was ordered closed before effective date of policy).
+American states that it has initiated discovery for the sole purpose of supporting its position that the site became contaminated through intentional dumping of hazardous waste and thus the EPA/DEP claims are not covered under the American policies. American argues that the manner by which the site became contaminated is well known to EPA and DEP and the intentional nature of the contamination is irrelevant to the government agencies.
+American, CU, National, and Utica were paid to insure NPI. The insurers have a special relationship with NPI and a duty to defend NPI until the underlying EPA suit is resolved or the coverage issue can be determined without prejudice to NPI. Haskel. Inc. v. Superior Court, supra at 528.
+To eliminate any risk of inconsistent factual determinations that could prejudice NPI, a stay of discovery, which may be prejudicial to NPI, pending resolution of the EPA action is appropriate when the coverage question turns on facts which may be determinative in the underlying proceeding. Id. NPI should not be required to fight a two-front war against both its own insurers and EPA. Id. at 529. Despite American’s claims that no prejudice to NPI will result from its discovery, the information American seeks as to NPI’s intent and knowledge concerning hazardous waste dumping at the site is so logically related to the issues in the underlying EPA action that further pursuit of that discovery would prejudice NPI’s interest in that action. Id. at 530.
+ORDER
+Based on the foregoing, it is ORDERED that defendants/third-party plaintiffs’ motion for a protective order is ALLOWED. It is further ORDERED that the plaintiffs may proceed with any discovery which is not logically related to the issues in the underlying EPA action and thus not prejudicial to NPI’s interests.
+Although the protective order is sought only against American, the third-party defendants have indicated, through their briefs, an interest in conducting discovery in this declaratory action. To avoid any future confusion as to the same issues raised here, the court will treat the motion as applying to both the plaintiff and third-party defendants and its decision will be binding on each of these parties.
+Although NPI brought the third-party actions seeking declaratory relief against CU, Utica and National, NPI’s position as plaintiff as opposed to defendant does not affect the court’s analysis and determination concerning the protective order. See Haskel, Inc. v. Superior Court, 39 Cal.Rptr.2d 520, 523 (Cal.App.2 Dist. 1995).
