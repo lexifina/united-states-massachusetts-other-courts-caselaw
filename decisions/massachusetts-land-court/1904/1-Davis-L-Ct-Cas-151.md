@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Land Court"
+decided: "1904-05"
+citations: ["1 Davis. L. Ct. Cas. 151"]
+reporter: "davis-l-ct-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WACHUSETT NATIONAL BANK, PETITIONER"]
+source_url: "https://static.case.law/davis-l-ct-cas/1/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6764513
+cites_cases: ["185 Mass. 114"]
+---
+
+# Wachusett National Bank
+
+## Majority
+
+In this case the petitioner contends that nnder Sections 93 and 109 of E. L., Chapter 128, there need he paid to the Eecorder one-tenth of one per cent, of the assessed value of the land alone, exclusive of the value of the buildings. The Attorney-General, representing the Treasurer of the Commonwealth in the matter, contends that the “ assessed value of the land on the basis of the last assessment for municipal taxation,” means the assessed value of the land together with the buildings thereon.
+It is urged by the petitioner that the “ basis of the last assessment for municipal taxation ” includes the method and manner of assessment as well as the amount; that for the purposes of such assessment the land and buildings are assessed separately; and that such separate assessment and valuation is expressly recognized both under R. L., Chapter 12, Section 58, providing that such separate valuation shall be made by the Assessors, and also under the form of petition provided for in R. L., Chapter 128, Section 20. It is further to be noted that the language of R. L., Chapter 128, Section 93, above quoted, “ one-tenth of one per cent, of the assessed value of the land,” is a change made under the Eevised Laws from the language of the corresponding Section 94 of Chapter 562 of the Act of 1898 (the original Land Eegistration Act) which read, “ one-tenth of one per cent, of the assessed value of the real estate.”
+On page vii of the Report of the Commissioners for Consolidating the Public Statutes, however, the Commissioners expressly state that “ changes of language have been necessary in combining different statutes upon the same subject, but great care has been taken not to change the meaning. We have also sought to avoid the use of such words in a series as might or might not be synonymous, such for instance, as ‘ land,’ ‘ real estate/' ‘ said premises/ in which case, if the context admitted, the word ‘ land ’ has been used uniformly.” It is also provided by R. L., Chapter 8, Section 5, Clause 8, that in construing statutes the words “ land,” “ lands,” and “ real estate ” shall include, unless a contrary intention clearly appears, lands, tenements and hereditaments and all rights thereto and interests therein. In no place, other than in the use of the words “ real estate ” in Section 94 of the original act, and in the form of petition above noted, is there any suggestion of anything other than “ land ” as the subject matter of the jurisdiction of this Court. The petition is a petition for the registration of title to the land. The decree is a decree in rem as to the title to the land. All of the provisions of the Land Registration Act apply to the land and necessarily include any building that may be thereon.
+The object of the requirement that the petitioner should set forth the assessed valuation both of his land and his buildings would seem to be rather a provision intended to secure without question the entire valuation of the subject matter of the proceedings, having in mind the fact that the Assessor’s books make a distinction between land and buildings for their purposes, not existing, however, in the purposes or provisions of the Land Registration Act, which otherwise might lead a petitioner in good faith to make a return of a portion only of the valuation upon which it was intended that the fees under the Land Registration Act should he based, than, as contended by the petitioner, to adopt the distinction made by the Assessors solely for their own purposes, and to incorporate it as an exception to the rule of construction as to the meaning of the word “ land ” otherwise adopted throughout the Revised Laws. Hamilton Mfg. Co. v. Lowell, 185 Mass. 114, 117.
+Baker & Hall for petitioners.
+R. G. Dodge, Asst. Atty. Gen. for respondents.
+It was further suggested by the petitioner that there would seem to he no good reason why the expense of examination of title of a lot of land with buildings should he any more than without buildings. It very frequently happens, however, that the principal questions involved on a petition for registration of land are questions raised because of the existence of the buildings, and that the examination of title is thereby made much longer and more intricate than would be the case were there .no buildings on the property, as, for example, questions of restrictions, conditions, party wall agreements, arched passageways, and the like, several such cases being pending at the. present time.
+On the whole we are of the opinion that no change was made in the law by the change of language in Section 93 of Chapter 128 of the Revised Laws from that of Section 94 of Chapter 562 of the Acts of 1898; that the word “ land ” in Section 93 of the present Act must be taken to be synonym mous with the words “ real estate ” in Section 94 of the original Act,, and that in both Section 93 and Section 109 of the present Act the assessment of the buildings must be included with that of the land for the purpose of collecting fees.
+So ordered.
