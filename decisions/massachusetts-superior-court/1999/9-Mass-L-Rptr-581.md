@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "951767B"
 decided: "1999-02-24"
-citations: ["9 Mass. L. Rptr. 581", "9 Mass. L. Rptr. 585"]
+citations: ["9 Mass. L. Rptr. 581"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donald A. Belanger v. Saint-Gobain Industrial Ceramics, Inc. aka Nort
 source_url: "https://static.case.law/mass-l-rptr/9/cases/0581-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 189095
-cites_cases: ["1997 WL 691524", "25 Mass.App.Ct. 302", "29 C.F.R. §1604.11", "375 Mass. 650", "378 Mass. 801", "381 Mass. 1", "394 Mass. 482", "400 Mass. 156", "402 Mass. 1101", "402 Mass. 385", "402 Mass. 502", "408 Mass. 704", "415 Mass. 309", "423 Mass. 584", "424 Mass. 758", "427 Mass. 1", "510 U.S. 17", "7 Mass. L. Rptr. 593", "7 Mass.App.Ct. 727", "885 F.Supp. 308", "921 F.2d 396"]
+cites_cases: ["1997 WL 691524", "29 C.F.R. §1604.11", "375 Mass. 650", "378 Mass. 801", "381 Mass. 1", "394 Mass. 482", "400 Mass. 156", "402 Mass. 502", "424 Mass. 758", "427 Mass. 1", "510 U.S. 17", "7 Mass. L. Rptr. 593", "7 Mass.App.Ct. 727", "885 F.Supp. 308", "921 F.2d 396"]
 ---
 
 # Belanger v. Saint-Gobain Industrial Ceramics, Inc.
