@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Superior Court"
+docket: "36548"
+decided: "1997-08-01"
+citations: ["7 Mass. L. Rptr. 215"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Thanh V. Le"]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11778857
+cites_cases: ["3 Mass.App.Ct. 590", "369 Mass. 790", "390 Mass. 300", "404 Mass. 672", "411 Mass. 503", "411 Mass. 63"]
+---
+
+# Commonwealth v. Le
+
+## Majority (Toomey, J.)
+
+Toomey, J.
+Introduction
+The defendant has been indicted on charges of rape of a child in violation of G.L.c. 265, sec. 23. The case is presently before the court on the defendant’s motion to dismiss for lack of a speedy trial pursuant to Mass.R.Crim.P. 36. For the following reasons, the defendant’s motion is DENIED.
+Discussion
+Rule 36 of the Massachusetts Rules of Criminal Procedure provides that the defendant is entitled to “be tried within twelve months after the return day in the court in which the case is awaiting trial.” Mass.R.Crim.P. 36(b)(1)(C). In this context, the “return day” refers to the date on which the defendant is arraigned. Commonwealth v. Farris, 390 Mass. 300, 304 (1983). While the rule generally requires that the Commonwealth must bring the case against the defendant to trial within twelve months from the time when he was arraigned, there are periods of time which can be excluded, for the reasons contained in the rule, when “computing the time within which the trial of any offense must commence.” Mass.R.Crim.P. 36(b)(2).
+Periods of time which may be excluded from the Rule 36 calculation include delay occasioned by the court’s resolving pretrial motions, delay due to the unavailability of the defendant or an essential witness, and delay resulting from a continuance either granted by a judge or agreed upon by counsel. See Commonwealth v. Mattos, 404 Mass. 672 (1989); Commonwealth v. Daggett, 369 Mass. 790, 793-94 (1976); Commonwealth v. Burhoe, 3 Mass.App.Ct. 590, 593 (1975). In addition, it has been held by the Massachusetts Supreme Judicial Court that “periods during which a defendant acquiesced in, is responsible for, or benefltted from a delay are also not” included in the Rule 36 calculation. Commonwealth v. Lauria, 411 Mass. 63, 68 (1991). Finally, with regard to continuances allowed by the court, where the defendant fails to object to the continuance he will be deemed to have acquiesced in the delay. Commonwealth v. Spaulding, 411 Mass. 503, 505-06 (1992); Mattos, 404 Mass. 672.
+The defendant was arraigned on August 22, 1995; the Rule 36 clock started running at that point. Computation of an excluded time period includes the first and last day of the excludable act or event. Mass.R.Crim.P. 36(b)(3). For purposes of calculating the Rule 36 period which is chargeable to the Commonwealth, the time since defendant’s arraignment should be divided as follows.
+1. August 22, 1995 (arraignment) to April 16, 1996 (close of discovery). During this period of time the case was continued a number of times, either by agreement or without any objection having been made by the defendant. Apparently, although this is not noted in detail in the clerk’s minutes, a number of the continuances were for the purpose of obtaining various Bishop records for the defendant. As any delays attributable to obtaining discovery materials for the defendant are clearly for his benefit, this period of time, a total of 233 days, will be excluded from the Rule 36 calculation. See Lauria, 411 Mass. at 68. At a status conference held on April 16, 1996, all discovery materials sought by the defendant were made available and the case was assigned to the trial list for July 8, 1996.
+2. April 17, 1996 (close of discovery) to July 8, 1996 (first trial date). During this period of time the case was on the trial list and the clerks’ minutes note that it was being “held” for trial. It is the prosecutor who, in the first instance, controls the setting of cases for trial and, accordingly, this 82-day period is not excludable from the Rule 36 time limits. See Spaulding, 411 Mass. at 508.
+3. July 8, 1996 (first trial date) to September 30, 1996 (setting of second trial date). There is no record of any objection on the part of the defendant when the July 8 date for trial passed and the case remained in a “held for trial” status. Thus, the defendant may be considered to have acquiesced until September 30, 1996, at which time the case was assigned a new trial date. See id. at 505-06. In addition, the case had been continued upon the agreement of counsel from September 23, 1996, to September 30, 1996, while they engaged in discussions regarding a possible disposition. On September 30, 1996, when it became clear that a plea agreement had not been reached, the case was placed on the trial list for October 22, 1996. Accordingly, the 84-day period of time from July 8 to September 30 will be excluded.
+4. October 1, 1996 (beginning of second “held” period) to October 22, 1996 (second trial date). Again, during this time the case was being held for trial and, as noted supra, the 21 days which passed must be included in the Rule 36 computations of periods for which the Commonwealth is responsible. Spaulding, 411 Mass. at 508.
+5. October 22, 1996 (second trial date) to January 20, 1997 (third trial date). When the case was called on October 22, 1996, it was again held but this time over the defendant’s objection. As the defendant objected to the delay, this period of time (89 days) must be included in the calculation of Rule 36 time.
+6. January 20, 1997 (third trial date) to May 12, 1997 (fourth trial date). While defendant’s assent is not reflected in the clerks’ minutes, counsel for both sides apparently agree that the case was continued by agreement during this period of time in order to accommodate the defendant’s school calendar. See Defendant’s Memorandum in Opposition to Motion to Dismiss. Consequently, the 122 days which passed during this time will be excluded.
+7. May 12, 1997 (fourth trial date) to July 16, 1997 (filing of motion to dismiss). The case was held on the trial list for this period of time. On July 16, 1997, the defendant filed the present motion and requested a hearing. Therefore, all time after July 16, 1997 is excluded from the time limits until such time as there is judicial resolution of the motion. Mass.R.Civ.P. 35 (b)(2)(A)(v).
+Conclusion
+Having excluded from the total time that has passed since defendant’s arraignment the periods that Rule 36 and its interpretive case law direct be excluded from the Commonwealth’s burden, we conclude that there remain 112 days, from the date this decision is entered, in the time afforded by Rule 36 for the trial of the defendant. Since the date when the defendant was arraigned to the time when this Memorandum of Decision was entered, 708 days have elapsed. Of that time 455 days can be excluded for the reasons outlined above. Accordingly, as 253 days must be included as having passed in the Rule 36 time period, there are 112 days left in the “twelve-month period” during which the Commonwealth is required to bring the defendant to trial.
+Therefore, the defendant’s motion to dismiss must be denied at this time.
+ORDER
+For the foregoing reasons, I ORDER that the defendant’s motion to dismiss pursuant to Mass.R.Crim.P. 36 be DENIED.
+The clerks’ minutes do not note that the defendant objected to being held, merely that defendant requested as much notice as possible in order to accommodate out-of-state witnesses. However, the Commonwealth acknowledges that the defendant objected to the delay and this court accepts that concession. See Commonwealth’s Affidavit.
