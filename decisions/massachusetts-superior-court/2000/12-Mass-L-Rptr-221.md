@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Superior Court"
+docket: "CA99682"
+decided: "2000-09-12"
+citations: ["12 Mass. L. Rptr. 221"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stephen A. Smith v. Kevin Gallagher"]
+source_url: "https://static.case.law/mass-l-rptr/12/cases/0221-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 192231
+cites_cases: ["26 Mass.App.Ct. 681", "385 Mass. 91", "405 Mass. 200", "419 Mass. 334", "8 Mass.App.Ct. 93"]
+---
+
+# Smith v. Gallagher
+
+## Majority (Botsford, J.)
+
+Botsford, J.
+The plaintiff Stephen Smith brings this action to recover for personal injuries he sustained on November 30, 1998. Smith claims that on the afternoon of that day, while cutting through a parking lot in Waltham, Massachusetts, he was struck from behind by a van and severely injured. The van and parking lot were owned by the Waltham Boys and Girls Club (the Club) and the van was operated by the defendant Kevin Gallagher, an employee of the Club.
+The defendant has moved for summary judgment on the three counts of the amended complaint— counts alleging negligence, willful, wanton and reckless conduct, and intentional infliction of emotional distress. Having reviewed the summary judgment record, I conclude that the motion should be denied as to each count.
+The defendant argues that Smith was a trespasser on the Club property at the time of the incident, and thus the defendant as matter of law cannot be found liable for negligent conduct. A trespasser has been defined as “a person who enters or remains upon land in the possession of another without a privilege to do so, created by the possessor’s consent or otherwise.” Restatement (Second) of Torts, §329 (1965). “The precise dividing line between a trespasser and non-trespasser for common law tort liability has not been defined-in Massachusetts . . . Generally, whether one is a trespasser depends upon the consent of the owner . . . An owner’s passive acquiescence in continued use of his property by members of the public, absent any reasonably effective steps to discourage such use, might create in some individuals a reasonable belief that the owner consented to such use. In that situation, the user might not be a trespasser . . .” Gage v. Westfield, 26 Mass.App.Ct. 681, 695 n.8 (1988). There is evidence that the parking lot was regularly used by not only Smith but numerous other members of the public as a short cut between two public ways in Waltham; that use of the property for these purposes had gone on for a long time; and that the Club — as well as the defendant personally — was well aware of the use. There is also evidence that while the Club had taken certain steps to discourage members of the public from using the parking lot, a way was open to cross over it virtually all the time, and the signs put up by the Club to discourage use were directed to persons whom might seek to park their cars in the parking lot, not persons on foot crossing over it. In the circumstances, there are material issues of fact in dispute about whether the presence of Smith and persons like him was passively accepted by the Boys Club, thereby taking him (and similarly situated persons) out of the category of trespasser. See Monterosso v. Gaudette, 8 Mass.App.Ct. 93, 99-100 (1979). Of course, ifSmithwere not a trespasser at the time the defendant ran over him, then negligence rather than recklessness would be the applicable standard.
+Moreover, even if one assumes Smith was a trespasser at the time of the incident, the Restatement (Second) of Torts §334 (1965), indicates that one in the position of the defendant who knows or should know that trespassers constantly “intrude” in a limited area (such as the parking lot) may be liable for bodily harm caused by the failure “to carry on an activity involving a risk of death or serious bodily harm with reasonable care for their safety.” Driving a motor vehicle may be considered an activity involving a risk of death or serious bodily harm. Again, in the factual circumstances suggested by the summary judgment record, a reasonable fact finder might conclude that when backing up his vehicle in the parking lot, the defendant owed a duty of reasonable care to an arguably known trespasser such as Smith.
+2. With respect to Smith’s claim of reckless conduct, there are significant factual disputes about the events that took place in the parking lot at the time that the defendant allegedly ran over Smith, and about the defendant’s conduct vis a vis Smith thereafter. That the parties agree there is no evidence the defendant saw Smith before allegedly running over him does not answer everything, because Smith also complains about the defendant’s conduct after the defendant stopped the vehicle and encountered Smith. There is evidence about that aftermath which if accepted as true, would permit a fact finder to conclude the defendant had acted recklessly.
+3. Similarly, on the summary judgment record presented, the question whether the defendant could be found to have intentionally or recklessly inflicted emotional distress on the plaintiff must be left for resolution by the fact finder.
+ORDER
+For the foregoing reasons, the defendant Gallagher’s motion for summary judgment is denied.
+The defendant relies quite heavily on Commonwealth v. Callahan, 405 Mass. 200 (1989), in arguing that as matter of law, Smith was a trespasser. Callahan was a criminal case, and the rule that criminal statutes must be construed strictly against the Commonwealth was one noted by the court. 405 Mass. at 205. This, obviously, is a civil case, and it cannot be said as matter of law that Callahan governs here.
+The Supreme Judicial Court has indicated that “reckless” conduct is an appropriate way to refer to what has traditionally been referred to as "willful, wanton or reckless” conduct. See Sandler v. Commonwealth, 419 Mass. 334, 335 (1995).
+While it appears that no Massachusetts case to date has followed §334, there is no reason to think the appellate courts will reject the section, in light of the fact that other, related sections, have been cited with approval. See, e.g., Commonwealth v. Callahan, 405 Mass. 200, 204 (1989) (citingRestatement (Second) of Torts, §§329 and 330).
+A defendant may be found liable for either intentional or reckless infliction of emotional distress. See, e.g., Simon v. Solomon, 385 Mass. 91, 95 (1982).
