@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "89-4778"
+decided: "1994-07-22"
+citations: ["2 Mass. L. Rptr. 453"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alan M. Chyten and another v. Continental Casualty Company, Inc. and another"]
+source_url: "https://static.case.law/mass-l-rptr/2/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11925272
+cites_cases: ["318 Mass. 595", "366 Mass. 651", "369 Mass. 550", "390 Mass 419", "404 Mass 14", "410 Mass. 706", "414 Mass. 187", "477 U.S. 317"]
+---
+
+# Chyten v. Continental Casualty Co.
+
+## Majority (Houston, J.)
+
+Houston, J.
+This action arises out of an insurance coverage dispute on an insurance policy issued by defendant Continental Casualty Company, Inc. (“CCC”) through its agent, defendant Hastings-Tapley Insurance Agency, Inc. (“Hastings-Tapley”), to Alan M. Chyten, D.M.D. and Lawrence M. Stone, D.M.D., Inc. (“Chyten/Stone”).
+This court previously granted summary judgment to plaintiffs, Alan M. Chyten and Lawrence M. Stone, as Trustees of C&S Realiy Trust, on Count V of their Second Amended Complaint. In its June 26, 1992 decision, this court found that defendant CCC was estopped from disclaiming coverage of plaintiffs, despite the fact that their names, as trustees, did not appear on the policy. The prior decision was based upon the holding in Employers Liability Assurance Corp., Ltd. v. Vella, 366 Mass. 651, 657 (1975).
+Defendant CCC now asserts that the recent Supreme Judicial Court decision in Merrimack Mutual Fire Insurance Co. v. Nonaka, 414 Mass. 187 (1993), supports a reversal of this court’s June 26, 1992 decision in favor of plaintiffs and, moreover, supports summary judgment in favor of defendant CCC. This court disagrees.
+BACKGROUND
+Drs. Chyten and Stone submitted an application for insurance on behalf of Chyten/Stone to CCC through insurance agent Hastings-Tapley. The policy provided insurance coverage through a Dental Professional Protector Plan, naming Drs. Chyten and Stone individually and Chyten/Stone as the insured. Chyten/Stone leased the premises for its dental practice from C&S Realty Trust, which owned the office condominium. Drs. Chyten and Stone are the only trustees of C&S Realty Trust.
+A personal injury suit (filed by Barbara Heyd, an employee of Chyten/Stone) named Drs. Chyten and Stone, as trustees of C&S Realty Trust, as defendants (“the Heyd action”). After trial and appeal, a final judgment against Chyten and Stone, as trustees of C&S Realty Trust, was issued in the Heyd action on March 7, 1991. Although CCC undertook the defense of Drs. Chyten and Stone (as trustees), on the eve of the scheduled trial in the Heyd action CCC sought to disclaim coverage for any liability that might arise from the lawsuit. The instant lawsuit was brought by Drs. Chyten and Stone, as trustees, to contest CCC's actions in attempting to disclaim coverage. Plaintiffs argued that CCC was barred from disclaiming coverage because it accepted the claim against C&S Realty Trust on December 8, 1987 without a reservation of rights, undertook control of defense of the Heyd claim, and failed to disclaim coverage for over eleven months, until the eve of the scheduled trial.
+This court previously found, in its June 26, 1992 decision, that “if an insurer knows of its right to disclaim and exercises dominion over the case at an important point without disclaiming liability or reserving rights, subsequent disclaimer is barred.” Employers’ Liability Assurance Corp. Ltd. v. Vella, 366 Mass. 651, 657 (1975). Based upon the Vella decision, this court granted summary judgment in favor of plaintiffs Chyten and Stone, as trustees, on the issue of disclaimer, on plaintiffs’ promissory estoppel claim.
+In 1993, the Supreme Judicial Court’s opinion in Merrimack Mutual Fire Ins. Co. v. Nonaka, 414 Mass 187, 190 n. 5, stated that the Vella case was decided on a waiver theory of disclaimer, not on an estoppel theory. Based upon the Nonaka decision, plaintiffs filed a motion to amend their complaint to assert a waiver theory of disclaimer. That motion was granted by Judge Hely on March 8, 1994.
+DISCUSSION
+Summary judgment shall be granted where there are no genuine issues as to any material fact in dispute and where the moving party is entitled to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue, “and [further,] that the moving party is entitled to judgment as a matter of law.” Pederson v. Time, Inc., 404 Mass 14, 17 (1989). “A complete failure of proof concerning an essential element of the non-moving party’s case renders all other facts immaterial” and mandates summary judgment in favor of the moving party. Kourouvacilis v. General Motors Corp., 410 Mass. 706, 711 (1991) (citing Celotex v. Catrett, 477 U.S. 317, 322 (1986)).
+A claim that an insurer’s conduct bars it from disclaiming coverage must rest on either estoppel or on waiver. Merrimack Mutual Fire Ins. Co. v. Nonaka, 414 Mass 187, 189 (1993), citing Sweeney v. Frew, 318 Mass. 595, 598 (1945). Nonaka states that an insurer’s exercise of dominion over an insured’s claim and a delay in disclaiming coverage, without a showing of actual prejudice to the insured, is insufficient to estop the insurer from disclaiming coverage. Id. CCC argues that based upon the Nonaka decision, this court should reverse its prior decision in the instant matter, due to a lack of evidence on the issue of actual prejudice to the insured. CCC further argues that the issue of actual prejudice raises a genuine issue of material fact and as such, renders this issue unfit for disposition through summary judgment.
+While it is true that the issue of actual prejudice was neither raised nor decided in this court’s prior decision, it is also true that this court found that CCC was estopped from disclaiming coverage based upon the factors articulated in Vella. Although the SJC now asserts that Vellawas, in fact, a waiver theory decision, Nonaka, 414 Mass. at 187 n.5, plaintiffs have amended their complaint to assert a waiver theory of disclaimer. The undisputed facts which this court found supported summary judgment based upon the Vella factors still support summary judgment on a waiver theory of disclaimer. For this reason. I find that summary judgment in favor of plaintiffs is still warranted, based upon the Vella factors, on a waiver theory of disclaimer.
+ORDER
+Based upon the foregoing, this court hereby ORDERS that summary judgment in favor of plaintiffs is ALLOWED and that CCC is barred from disclaiming coverage for liability in the Heyd action.
+Barbara Heyd, a receptionist for the Chyten/Stone dental practice, was injured when a sliding glass window at the reception desk shattered, lacerating her face.
