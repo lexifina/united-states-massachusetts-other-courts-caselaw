@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "971851"
+decided: "1999-02-18"
+citations: ["9 Mass. L. Rptr. 571"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Century Indemnity Company v. Eastern Enterprises, Inc."]
+source_url: "https://static.case.law/mass-l-rptr/9/cases/0571-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189283
+cites_cases: ["415 Mass. 309"]
+---
+
+# Century Indemnity Co. v. Eastern Enterprises, Inc.
+
+## Majority (McHugh, J.)
+
+McHugh, J.
+Plaintiff commenced this action in order to obtain from defendant documents plaintiff needs to defend itself against environmental litigation in Pennsylvania. Defendant resisted production on grounds that disclosure of the documents to plaintiff would tend to prejudice its own interests in potential environmental litigation against itself. To resolve the dilemma thus created, this court entered an order describing the circumstances under which production of documents would occur. That order was designed to serve plaintiffs legitimate needs without jeopardizing equally legitimate needs of defendant. The order also required plaintiff to reimburse defendant for certain review and production costs up to a maximum of $50,000.
+Production ultimately occurred and the few remaining disputes with respect to the production’s content are being resolved, as the order contemplated, in another forum. Defendant, however, submitted to plaintiff a bill for production-related costs that totals in excess of $84,000 and asked plaintiff to pay the maximum amount of $50,000 for which the court’s order provided. Plaintiff declined, claiming that defendant had not been candid with the court regarding what production of documents would and would not involve, that defendant’s pre-production review of the documents was not carried out for the sole purpose of allowing defendant to comply with the court order and that, in any event, defendant’s $50,000 bill was too high.
+Treating those objections in order, I am unpersuaded that defendant was not forthright with the court. The issue presented to the court for resolution concerned, in part, the time and expense of searching through all of defendant’s documents for the documents plaintiff sought. The fact that defendant may have segregated and made readily available to itself some of those documents before plaintiffs request has little or no bearing on the time and expense that reasonably would be required to examine all documents to insure full and complete compliance with plaintiffs request.
+Likewise, plaintiffs contention that, contrary to certificates signed by officers of defendant, defendant carried out its document review to advance its own interests in its own environmental litigation is, on the present record, unpersuasive. Compliance with a court order to respond to a broad and open-ended document request directed to an organization of significant size and complexity always raises at least two problems. The first is undertaking a search sufficiently thorough to allow someone to say on behalf of the organization that the documents produced are in fact all of the documents the organization has. In and of itself, that kind of a search frequently requires reading, or at least reviewing, many documents the producing organization ultimately determines are outside the scope of the request. Necessarily however, no one can determine whether the documents are or are not within the terms of the request unless and until one reads them.
+The second problem is in documenting what was reviewed, examined and produced and the reasons why some documents were produced and others were not in the event that production decisions are challenged some time in the future. While that concern is always of significance when a court order, with its potential for contempt, is involved, the concern is necessarily heightened when the document producer knows that the production effort is designed to facilitate defense of a lawsuit brought against the production seeker. Under those circumstances, and in this day and age, it is by no means fanciful for one to be concerned about the possibility that negligent failure to produce a required document might well trigger an action by the production seeker against the producer if the verdict in the underlying action is against the production seeker and a reasoning person could say that the unproduced document would likely have affected the outcome.
+For both of those reasons, the task of examining extensive quantities of documents in an organization’s possession in order to determine which do and which do not comply with a broad document request is likely to be time consuming and ultimately expensive. Clearly it was here.
+Finally, I have reviewed the bill defendant submitted to plaintiff. It appears that the requisite- review ultimately involved approximately 1,182 boxes of materials from which approximately 11,500 pages of material were extracted for further analysis, review and documentation. The review cost thus amounted to approximately $42 per box. The temporary staff defendant hired to carry out the reviewing function billed defendant $27 per hour for regular time and $40.50 for overtime. The total bills submitted by those individuals amounted to $30,671.25 which, at $27 per hour, amounts to 1,136 hours of time or, almost one hour per box. To that it is appropriate to add costs for designing search strategies capable of being performed by individuals without legal training, supervising execution of the search and reviewing the fruits thereof. Those functions are properly and reasonably performed by paralegals and lawyers whose billing rates are substantially higher than $27 or even $40.50 per hour. Viewed in that fashion, a bill for $50,000 is not unreasonable.
+A “per-box" assessment, however, is not the only, or probably even the best, way of assessing the reasonableness of the amount Eastern is charging. In Massachusetts, as elsewhere, the reasonableness of a fee is typically determined by the so-called “lodestar” method. As the Supreme Judicial Court put it in defining that approach, “[a] fair market rate for time reasonably spent preparing and litigating a case is the basic measure of a reasonable attorneys fee under State law as well as Federal law.” Fontaine v. Ebtec Corp., 415 Mass. 309, 326 (1993). Although not directly applicable here, the lodestar approach provides an appropriate model. A bill for $50,000 represents, for example, 1,100 hours of search time at $27 per hour, 100 hours of paralegal time at $110 per hour, 37 hours of attorney time at $200 per hour and $1,900 for administrative costs including copying. That is not an unreasonable cost for a search of this magnitude.
+ORDER
+In light of the foregoing, it is hereby ORDERED that
+1. Plaintiffs Motion for Reconsideration of the Order Granting Reimbursement (Paper No. 19) is ALLOWED but, upon reconsideration of that Order, I decline to change it.
+2. Defendant’s Motion to Recover Costs of Compliance with Subpoena (Paper No. 18) is ALLOWED.
+The bill defendant received from its own lawyers amounted to over $84,000.
+I base my estimate of the page count on the bill dated October 1, 1998 defendant received from Conley & Hodge.
+I assume that the boxes were standard document-storage cartons.
+In fact, the paralegals charged defendant for 176.8 hours at a cost of $110 per hour.
+In fact, the attorneys charged defendant for 179 hours at an average cost of $202 per hour.
+In fact, the administrative costs defendant was charged greatly exceeded that amount.
