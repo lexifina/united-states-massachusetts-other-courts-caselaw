@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "821930"
 decided: "1996-11-21"
-citations: ["6 Mass. L. Rptr. 256", "6 Mass. L. Rptr. 255"]
+citations: ["6 Mass. L. Rptr. 256"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sutton Corporation v. Metropolitan District Commission"]
 source_url: "https://static.case.law/mass-l-rptr/6/cases/0256-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1194692
-cites_cases: ["373 Mass. 720", "396 Mass. 390", "409 Mass. 89", "423 Mass. 200", "423 Mass. 584"]
+cites_cases: ["373 Mass. 720", "409 Mass. 89", "423 Mass. 200", "423 Mass. 584"]
 ---
 
 # Sutton Corp. v. Metropolitan District Commission
