@@ -1,0 +1,45 @@
+---
+court: "Massachusetts Appellate Decisions"
+docket: "35866"
+decided: "1968"
+citations: ["32 Mass. App. Dec. 31"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VICTORIA BRIANT v. EUGENE ENGINEERING CO., INC."]
+source_url: "https://static.case.law/mass-app-dec/32/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4041692
+cites_cases: ["286 Mass. 526", "291 Mass. 326", "312 Mass. 154", "327 Mass. 128", "345 Mass. 575"]
+---
+
+# Briant v. Eugene Engineering Co.
+
+## Majority (Murphy, J.)
+
+Murphy, J.
+This is an action of contract to recover damages under Count I of $969.95 for services rendered, and $969.95, under Count II, for the fair value of services performed. The defendant’s answer is a general denial, the statute of limitation, and loches, with a declaration in set-off also filed by leave of the court in which damages are sought in the amount of $10,000.00. To this declaration in set-off, the plaintiff filed an answer, in substance, a general denial.
+The report sets forth the following evidence'. The plaintiff’s representative, one Briant, was contacted by Russell Blank, who was president of the Eugene Engineering Co., Inc. The defendant, Blank, informed Briant that he was interested in a brochure of metal cases. As a result of this call, Briant did go to the office of the defendant, where the contents of a proposed brochure were discussed, and Briant was asked to prepare a sample brochure. Thereafter, Briant prepared a “copy” and submitted it to the plaintiff’s art director to prepare a layout. This layout was then shown to Blank, the president.
+Some time later, Briant met again with Blank and discussed the “copy”. There were some on the spot corrections made, and further changes in respect to the layout. No price was mentioned at this time. On February 13. 1963, Blank was informed that some of his photographs were unsatisfactory, and Blank wanted reproductions in the brochure of additional cases. Thereafter, on February 13, 1963, Briant informed Blank that he would supply the photography work at extra costs to which Briant testified that Blank agreed. On February 21, 1963, Briant by appointment again visited the Engineering Company, but Blank was not there. Again on February 28, 1963, Briant visited the defendant’s place of business, but no one was there to help him.
+On about March 1, 1963, Blank did give Briant some cases to take to Boston for photography work. At that time Louis Briant testified, he quoted Russell Blank a price of $1,100.00 which he modified to $1,050.00, however, the charge for the photography was to be dxtra. Blank testified that he wanted the work finished by March 25, 1963. On March yth, Briant told Blank that if Blank would supply the material and agree to a final format, he, Briant would have the brochure ready by March 25, 1963. At this time all of the material was submitted and Briant further testified that if no further changes were made, it would be ready by March 25, l963- On March 19, 1963, Blank was shown a so called “salt print”. However, Blank did not like the color of the green and did not like a line which appeared across the bottom of the page. At that time Blank suggested some changes. Briant told Blank he would prepare a new “salt print”, and Briant testified that Blank said that yellow would be a proper, color for the brochure.
+A new “salt print” was submitted by Briant on April i, 1963. Blank objected to the color. On April 3, 1963, Briant testified that Blank told him fn drop the whole matter, and to send him a bill. On July 22, 1963, a bill was rendered for $969.93.
+The plaintiff testified that he made at least twelve trips to the defendant’s place of business.
+At the close of the trial and before final arguments, the defendant made the following requests for rulings:
+1, There is no evidence to warrant a finding for the plaintiff. "Denied”
+2. There is evidence to warrant a finding for the defendant. “Allowed”
+The .court made the following findings of fact:
+The plaintiff was requested by the president of the defendant corporation to prepare a brochure for the defendant: and the plaintiff performed writing and layout work; took photos; did typesetting; art work; and printing. The plaintiff spent many hours in conference with the president. The president prevented, hindered, and delayed the plaintiff from completing the brochure in an expeditious manner. The plaintiff prepared a “sample or model brochure” in a workmanlike and qualitative manner. “The brochure was not available at a promotional exhibition of the defendant’s products because of the delay and obstacles that the president placed upon the plaintiff.”
+The .court found for the plaintiff as follows: “On Count I in the sum of $969.95, and on Count II in the sum of 969.95 with interest and costs.”
+The defendant claims to be aggrieved by the court’s denial of its request No. 1.
+The defendant argues strenuously that under G. L. c. 246, §1, as amended, this action cannot be maintained. That section, so far as material, reads as follows:
+“All personal actions, except tort for malicious prosecution, for slander or libel, or for assault and battery, and except replevin, may be commenced by trustee process, and any person may be summonsed as trustee of the defendant therein; but, except in the case of a writ which Contains a statement that the action is upon a judgment or in contract for personal services or for goods sold and delivered or for money due under a Contract in writing or in tort to recover damages on account of the operation of a motor vehicle not registered in the commonwealth, no writ the ad damnum oi which is in excess of one thousand dollars shall be served upon any alleged trustee unless there shall have been filed by the plaintiff, if other than a city or town of the commonwealth named therein, in the court wherein such action is commenced a bond with a surety company authorized to do business in the commonwealth as surety, or with sureties approved by a justice, associate justice or special justice of such court, said bond to be .in a penal sum not less than ten per cent of the ad damnum of the writ and not less than two hundred and fifty dollars and to be conditioned upon payment to the defendant, if the plaintiff fails to recover or if such action is discontinued, of all costs which may be awarded to the defendant and all damages which he may sustain by reason of such attachment, but not exceeding the penal sum of the bond”.
+The defendant contends there never was any contract in writing, and that to allege this was a subterfuge on the part of the plaintiff in order for him to bring trustee process, thereby avoiding the requirement of the statute.
+The writ states the action is for money due under a contract in writing, and an examination of the plaintiff’s declaration reveals in Count I, that it is for money due “per written contract or order”.
+The reported evidence does not disclose any such written contract or. order. Furthermore, the judge did not make any special finding that there was such a contract. Obviously, this is not an action for money due under any contract in writing, which would come within the exceptions set forth in G. L. c. 246, §1 as amended.
+The prohibition contained in that section is jurisdictional, and goes to the very foundation of the action. Mitchell v. Mitchell, 312 Mass. 154. The action cannot be cured by amendment, Poorvu v. Weisberg, 286 Mass. 526 except under certain circumstances not relevant here. Tennessee Plastics, Inc. v. New England Electric Heating Corp., 345 Mass. 575.
+A violation of this statute, may be raised at any stage of the proceedings and even for the first time on appeal to the Supreme Judicial Court. A. Sandler Company v. Portland Shoe Manufacturing Company, 291 Mass. 326.
+The plaintiff’s action is prohibited by the statute. Clearly, there is no basis nor evidence to substantiate that Count I of the declaration is based on a contract in writing as alleged, and Count II which is based on quantum meruit does not come within any of the exceptions set forth in the statute. As was said in Buono v. Nardella, 344 Mass. at P. 257, “Every count in the declaration must fall within the categories stated in the writ, otherwise, the court is without jurisdiction,” citing Farber v. Lubin, 327 Mass. 128 and subject to the exception noted in the Tennessee Plastic case, 345 Mass. 575.
+Since the defendant has seasonably raised this question of jurisdiction, we are compelled to rule there was prejudicial error, and since this question of jurisdiction is decisive of the case, it is unnecessary for us to discuss the other substantial questions raised by the defendant.
+Sherman Davidson, of Arlinigton, for the Plaintiff.
+William A. Cotter, Jr., of Boston, for the Defendant.
+The finding for the plaintiff should be vacated and judgment should be ordered for the defendant.
