@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "012898"
+decided: "2001-08-13"
+citations: ["13 Mass. L. Rptr. 640"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Storagenetworks, Inc. v. Metromedia Fiber Network Service, Inc."]
+source_url: "https://static.case.law/mass-l-rptr/13/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1073861
+cites_cases: ["231 A.D.2d 90", "5 Mass.App.Ct. 253"]
+---
+
+# Storagenetworks, Inc. v. Metromedia Fiber Network Service, Inc.
+
+## Majority (Fahey, J.)
+
+Fahey, J.
+The plaintiff, Storagenetworks, Inc. ("StorNet”) brought this suit against the defendant, Metromedia Fiber Networks Services, Inc. (“Metromedia”) alleging, inter alia, that Metromedia breached the terms of an agreement between the parties pursuant to which StorNet agreed to lease fiber optic cable from Metromedia. Prior to the filing of this action, however, Metromedia filed suit against StorNet in New York state court alleging that StorNet breached this agreement. Metromedia now moves to dismiss on the grounds that the New York court has exclusive jurisdiction because it filed suit there first. After hearing, for reasons set forth below, Metromedia’s motion to dismiss is DENIED.
+BACKGROUND
+Under the terms of the parties’ Fiber Optic Private Network Agreement dated October 18, 1999 (the “Agreement"), StorNet agreed to lease an aggregate of five thousand miles of Metromedia’s cable over a period of twenty years. The agreement provides, in relevant part:
+“THIS AGREEMENT WILL BE INTERPRETED AND CONSTRUED IN ACCORDANCE WITH THE INTERNAL LAWS OF THE STATE OF NEW YORK WITHOUT GIVING EFFECT TO ITS PRINCIPLES OF CONFLICTS OF LAWS.” Agreement 1113.1 (emphasis in original).
+By letter dated January 3, 2001, StorNet notified Metromedia that StorNet intended to terminate the Agreement, On February 9, 2001, Metromedia filed a complaint in New York state court against StorNet alleging anticipatory breach of contract. Metromedia, however, never served the February 9, 2001 complaint on StorNet. Meanwhile, the parties entered into settlement negotiations. Thus, during these negotiations, StorNet did not know that Metromedia had already filed suit. On June 4, 2001, Metromedia refiled its New York complaint because the 120-day service deadline had expired on its first complaint. Again, Metromedia took no action to serve the complaint and settlement negotiations continued with StorNet unaware that Metromedia had filed suit.
+In July 2001, settlement negotiations reached an impasse and StorNet filed the present suit. Immediately thereafter, StorNet served its Massachusetts complaint upon Metromedia. On July 12, 2001, after receiving service of the present action, Metromedia served its June New York complaint on StorNet.
+DISCUSSION
+Metromedia contends that under the first-filed rule, this action should be dismissed in favor of the New York action. Conversely, StorNet contends that this action should not be dismissed because the February and June New York complaints were merely placeholder suits. The court agrees with StorNet.
+Although Massachusetts courts have not addressed the first-filed rule, other jurisdictions have addressed it. For example, under the federal formulation:
+the court which first has possession of the subject must decide it. . . This policy is based on principles of equity and comity, and empowers a trial judge to exercise his or her discretion and dismiss an action, where an action involving the same issues between the same parties is already pending in another forum.
+White Light Productions, Inc. v. On the Scene Productions, Inc., 231 A.D.2d 90, 96-97, 660 N.Y.S.2d 568, 572-73 (quoting Moore Corp. Ltd. v. Wallace Computer Servs., 898 F.Sup. 1089, 1098-99 (D.Del. 1995)).
+Nevertheless, “(t]he practice of determining priorities between pending actions on the basis of dates of filing is a general rule, not to be applied in a mechanical way, regardless of other considerations." See White Light Productions, Inc., 231 A.D.2d at 97, 660 N.Y.S.2d at 573 (quoting Brierwood Shoe Corp. v. Sears, Roebuck & Co., 479 F.Sup. 563, 568 (S.D.N.Y. 1979)). Apart from who filed first, other factors to be considered in exercising this discretion include "judicial and litigant economy, the just and effective disposition of disputes, the possible absence of jurisdiction over all necessary parties, as well as a balancing of conveniences that may favor the second forum.” Dupont Pharmaceuticals Co. v. Sonus Pharmaceuticals, Inc., 122 F.Sup.2d 230, 231 (D.Mass. 2000). In short, “[w]hile priority in the bringing of actions is a factor to be considered in choice of forum litigation, it is not controlling, especially when commencement of the competing action has been reasonably close in time. White Light Productions, Inc., 231 A.D.2d at 99, 660 N.Y.S.2d at 574 (quotation omitted).
+Notably, courts are unwilling to reward a party “merely for wining a race to the courthouse” and frown upon “procedural gamesmanship” aimed at subjecting an unwitting opponent to an unfavorable forum. See White Light Productions, Inc., 231 A.D.2d at 98, 660 N.Y.S.2d at 573-74, and cases cited.
+Significantly, New York follows these principles. See White Light Productions, Inc., 231 A.D.2d at 98-99, 660 N.Y.S.2d at 573-74. Although Massachusetts procedural law governs this dispute despite the Agreement’s choice of law provision, see Steranko v. Inforex, Inc., 5 Mass.App.Ct. 253, 270 (1977), where the parties previously agreed that New York law should govern, and the procedural rule raised by the parties’ dispute has not been addressed in Massachusetts but can be readily answered by resorting to New York law, the court, in its discretion, finds application of the New York rule particularly fitting.
+Applying these principles, Metromedia’s motion must be denied. Although both the present action and the New York case appear to involve the same subject matter, and Metromedia filed the New York case first, Metromedia’s “procedural gamesmanship” must not be rewarded. It is clear that Metromedia filed its New York complaints merely to serve as forum placeholders and that it did not intend to seriously pursue litigation at the time of those filings; otherwise it would have promptly served StorNet. StorNet, on the other hand, promptly served its complaint after negotiations broke down and did not hesitate in serving Metromedia. Thus, rather than reward Metromedia’s hedging and punish StorNet, the court declines to apply the first-filed rule “in a mechanical way, regardless of other considerations.” See White Light Productions, Inc., 231 A.D.2d at 97, 660 N.Y.S.2d at 573 (quotation omitted).
+The issue remains as to whether other considerations, apart from who filed first, mandate dismissal. Here, the parties have not adequately addressed the issue of which forum is better, Massachusetts or New York. Although defense counsel referred to forum non conveniens in his oral argument as an alternative grounds warranting dismissal, Metromedia’s motion and supporting papers did not address that issue and thus StorNet has had no opportunity to respond to that basis. The proper vehicle for the defendant to raise this issue is through a motion to dismiss based on forum non conveniens. Therefore, Metromedia’s motion to dismiss will be denied without prejudice to the filing of a future motion to dismiss on forum non conveniens grounds.
+ORDER
+For the reasons set forth above, the defendant’s' motion to dismiss is DENIED without prejudice.
