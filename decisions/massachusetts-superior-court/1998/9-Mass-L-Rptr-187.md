@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Superior Court"
+docket: "974129"
+decided: "1998-09-02"
+citations: ["9 Mass. L. Rptr. 187"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anna Bergin v. Commerce Insurance Company"]
+source_url: "https://static.case.law/mass-l-rptr/9/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189276
+cites_cases: ["26 Mass.App.Ct. 1017", "348 Mass. 627", "419 Mass. 138"]
+---
+
+# Bergin v. Commerce Insurance
+
+## Majority (Sosman, J.)
+
+Sosman, J.
+Plaintiff Anna Bergin has brought the present action seeking to compel arbitration on her claim for bodily injury caused by an uninsured vehicle. Defendant Commerce Insurance Company (“Commerce”) has moved for summary judgment on the grounds that plaintiff was at fault for the accident and thus could not recover against the other driver, that plaintiff took no action to identify the other vehicle, and that plaintiff failed to provide prompt notice of the accident. For the reasons stated below, defendant’s motion for summary judgment is DENIED and defendant is hereby ORDERED to proceed to arbitration.
+Facts
+Plaintiff Anna Bergin alleges that she was hit by a pickup truck on Saturday, December 7, 1996 while she was walking in a supermarket parking lot. She complains that she was struck in the head, fell against the driver’s side door, and then fell to the ground. She alleges that she was in considerable pain and had difficulty breathing. The operator of the pickup truck came over to Bergin and accused her of walking into the truck. Bergin went along with that version at the time and acknowledged to the other driver that she had walked into the truck. The driver then escorted Bergin over to the sidewalk in front of the market and left a few minutes later without providing any identifying information. Bergin claims that she was in too much pain and too dazed to get identifying information as to the vehicle or the driver.
+Bergin proceeded to drive herself home and then to the Winchester Hospital. The emergency room nursing note reports plaintiff stating that she had “walked into a moving car in a parking lot.”
+The next day, Sunday, December 8, Bergin reported the incident to the Woburn Police Department. The police were unable to identify or locate the pickup truck or the driver.
+On Monday, December 9, Bergin notified her insurance agent, Carroll Insurance Agency, and provided the agent with the date of the accident, location, description of the car, and nature of her injuries. At the time, Bergin was insured under a standard Massachusetts automobile policy issued by Commerce. She did not notify Commerce directly, as she thought that the Carroll Insurance Agency was an agent of Commerce.
+Formal written notice of a claim for uninsured benefits was submitted to Commerce on February 5, 1997. Commerce examined plaintiff under oath on June 23, 1997. By letter dated July 11, 1997, Commerce denied Bergin’s claim for uninsured benefits on the grounds that Bergin herself was at fault for the accident and that she had failed to take reasonable steps to identify the other operator. Bergin filed the present action on August 8, 1997 seeking to compel arbitration on her claim for uninsured benefits.
+Discussion
+Commerce contends, based on plaintiffs prior statements that she “walked into” the other vehicle, that plaintiff herself is liable for this accident. The policy provides coverage for injuries caused by an uninsured or hit-and-run automobile “only if the injured person is legally entitled to recover from the owner or operator of the uninsured or hit-and-run auto.” Commerce also contends that the other vehicle does not qualify as an uninsured or hit-and-run auto when Bergin made no attempt to identify the vehicle or its operator. Where Bergin conversed with the other driver and spent some time with her, Commerce contends that it was incumbent on Bergin to get this information and that, where such information could readily have been obtained, the other vehicle is not a “hit-and-run” vehicle.
+Bergin contends that the other unidentified vehicle was at fault and that, to the extent that her statements appear to acknowledge any fault, she made such statements only while in pain and shock in the immediate aftermath of the accident. She also contends that she was in too much pain and too dazed to get information from the other driver or take down information about the other car.
+Under the policy language and pursuant to G.L.c. 175, §11 ID, disputes as to whether the insured would be entitled to recover from the uninsured driver, and the amount of the damages, are to be resolved by way of arbitration. Here, the parties dispute whether the driver was at fault, and the parties dispute whether the incident was a “hit-and-run" accident in which the driver could not be identified. Where such factual disputes affect coverage, they are to be resolved by arbitration. Employers’ Fire Insurance Co. v. Garney, 348 Mass. 627, 632 (1965); Allstate Insurance Co. v. Harris, 26 Mass.App.Ct. 1017 (1989).
+Where coverage issues can be decided as a matter of law based on the wording of the policy or interpretation of statutes, they may be decided by the court without referral to arbitration. Allstate, 26 Mass.App.Ct. at 1019, and cases cited therein. The issues here are not purely matters of law, but rather depend on the resolution of disputed facts and selection among competing inferences — e.g., whether Bergin’s post-accident statements are to be treated as admissions of fault that would be sufficient to absolve the other driver entirely, whether Bergin’s condition after the accident was such that she could not reasonably take any steps to ascertain the other driver’s identity, etc. It is for the arbitrator to decide the facts and determine what inferences to draw. The issue may not be resolved as a matter of law, and therefore must be arbitrated.
+Commerce also argues that the delay in submitting a claim precludes Bergin from recovering benefits. Under the policy, notice of any hit-and-run accident is to be provided within twenty-four hours. The policy also warns that claims for injuries caused by an uninsured auto may be denied if the insurer is not notified “promptly.” Based on Bergin’s failure to provide “prompt" notice, Commerce argues that her claim can be denied as a matter of law.
+In Goodman v. American Casualty Co., 419 Mass. 138, 141-42 (1994), the Supreme Judicial Court held that a claim for underinsured benefits could not be denied based on delay in notification unless the insurer also proved that it was prejudiced by that delay. The same should apply to claims for injuries caused by uninsured autos and injuries sustained in hit-and-run accidents. Indeed, the discussion in Goodman noted that a showing of prejudice from late notice on both uninsured and underinsured claims was required in other jurisdictions. Thus, Commerce must show prejudice from the delay in notification. It may not avoid coverage merely by showing that it was not notified of the accident within twenty-four hours.
+ORDER
+For the foregoing reasons, defendant’s motion for summary judgment is DENIED and it is hereby ORDERED that judgment be entered in favor of plaintiff compelling defendant Commerce Insurance Company to submit plaintiffs claim to arbitration.
+The coverage for bodily injury caused by an uninsured auto includes coverage for injuries sustained in a hit-and-run accident “if the owner or operator causing the accident cannot be identified.”
+Nhis reason was not cited in the July 11, 1997 letter denying Bergin’s claim.
+The issue of prejudice is itself a fact-based inquiry, appropriate for resolution by way of arbitration. At arbitration, Commerce may present evidence as to any prejudice it suffered on account of the delay in notification.
