@@ -1,0 +1,41 @@
+---
+court: "Massachusetts Superior Court"
+docket: "9400837"
+decided: "1996-03-15"
+citations: ["5 Mass. L. Rptr. 77"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Israel and Anna Arbeiter v. Cambridge Mutual Fire Insurance Company"]
+source_url: "https://static.case.law/mass-l-rptr/5/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11923730
+cites_cases: ["1 Mass.App.Ct. 762", "123 Or. App. 6", "313 Mass. 557", "35 Mass.App.Ct. 417", "381 Mass. 278", "390 Mass. 419", "404 Mass. 14", "410 Mass. 706", "415 Mass. 24"]
+---
+
+# Arbeiter v. Cambridge Mutual Fire Insurance
+
+## Majority (Graham, J.)
+
+Graham, J.
+INTRODUCTION
+On February 15, 1992, there was an oil leak at the home of the plaintiffs, Israel and Anna Arbeiter. On March 30, 1992, the Department of Environmental Protection (DEP) sent the Arbeiters a Notice of Responsibility under G.L.c. 2 IE, ordering that the oil leak be measured and cleaned up. The defendants, Cambridge Mutual, paid for: 1) tests to determine the extent of contamination, 2) excavation and removal of contaminated soil, 3) treatment of groundwater, 4) replacement of the oil damaged portions of the building and 5) the installation of a passive ventilation system to carry away from the building petroleum fumes lingering in the ground. The plaintiffs assert that the presence of the passive ventilating system constitutes a diminution in the market value of their house. They further claim that there are still oil fumes in the house. Consequently the plaintiffs now bring this claim for permanent damage to their property.
+DISCUSSION
+This court grants summary judgment where there are no issues of material facts and where the summary judgment record entitles the moving party to a judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Mass.R.Civ.P. 56(c). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue, and that the summary judgment record entitles the moving party to judgment as a matter of law. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). The nonmoving party's failure to prove an essential element of its case “renders all other facts immaterial” and mandates summary judgment in favor of the moving party. Kourouvacilis v. General Motors Corp., 410 Mass. 706, 711 (1991).
+In this case, each party moves for summary judgment. The plaintiff seeks a ruling that as a matter of law they are entitled to be compensated by the terms of the insurance contract. The defendants, on the other hand, argue that given all the facts of the case, the contract entitles them to summary judgment for several reasons: that the Arbeiters cannot show a physical loss to the building itself, that the leak was not a peril against which the Arbeiters were insured, and finally, that the Arbeiters failed to give prompt notice of the loss to the insurer.
+1.The installation of a venting system is not a physical loss.
+Section I, Coverage A requires that there be a physical loss to the insured property in order for coverage to exist. The Arbeiters consented to the installation of the ventilation system, and this structural change to the house is not the sort of fortuitous damage contemplated by the insurance policy. Indeed, this system was part of the remediation of the problem sought by the Arbeiters. Without the vents, the odors would have plagued the homeowners, which odors are meant to be eliminated by the vents. If the odors are a loss, the vents are the remediation. If there is a loss in property value related to the fumes, it must be in the odors themselves or in the stigmatizing presence of the vents, reminders of the spill and odor problem. Stigmatization, no matter how real, is not among the physical losses contemplated by the policy.
+2.The existence of fumes may be a physical loss.
+The plaintiffs argue persuasively that fumes are a physical loss which attaches to the property. The court of a sister state has found that the persistence of an odor throughout the house constituted physical damage to the house. Farmer's Insurance Co. v. Trutanich, 123 Or. App. 6, 10 (1993).
+3.An oil spill is not a peril against which the policy provides protection.
+The insurance policy between the parties excludes coverage for “release, discharge or dispersal of contaminants or pollutants.” Section 1, page 3, item 2f. The Supreme Judicial Court considered a similar policy which excluded coverage for “release, discharge, or dispersal of contaminants or pollutants.” Hanover New England Ins. Co. v. Smith, 35 Mass.App.Ct. 417, 418 (1993). The Court in Hanover accepts the assumption of the trial court judge that “a release of home heating oil is a release of a contaminant within the meaning of the policy.” Id. at 419.
+Here the Arbeiters argue that a sudden break in the fuel line, leading to the oil spill, and not the release itself of the contaminants, is a covered risk. The plaintiffs assert that the break in the line is the “efficient proximate cause” of the property damage, citing Jussim v. Massachusetts Bay Insurance Co., 415 Mass. 24, 27 (1993). Indeed, the court in Hanover considered the Jussim case and explained the concept of “efficient proximate cause.” In Jussim, the Hanover court explains, “the insured was held covered for losses caused by a seepage of oil from his neighbor’s cellar, despite a release of contaminants exclusion in his policy, because the oil spill in the neighbor’s cellar was the result of a covered cause, negligence.” Id. at 420.
+As in the present case, the Jussim case also involved a bursting pipe, the bursting of which was considered a separate cause from the spread of contaminants which resulted from it. Jussim, 415 Mass. at 30. The Jussim court held that “the bursting pipe . . . set in motion a chain of circumstances that resulted in ... a loss that constitutes an event excluded under the policy.” Id. The court continues, “However, where the excluded event is not the cause of the loss, but rather the result of a covered risk, the insured may recover.” Id.
+Moreover, it remains an unresolved issue of fact in the present case whether, if negligence accounts for the pipe’s bursting, it was the negligence of a third party such as the oil company which led to the bursting. Where the negligence results from the actions of a third party, it is a further reason that the risk not be interpreted to have been excluded. Standard Elec. Supply Co., Inc. v. Norfolk and Dedham Mut. Fire Ins. Co., 1 Mass.App.Ct. 762, 764 (1974).
+4. The insurer has the burden to prove that it is not liable because of exceptions to coverage under the policy.
+In the present case, the Arbeiters argue that the efficient proximate cause of the damage to the house was a sudden break in the fuel line. The insurer argues that the cause was the spill itself. Here as in the Jussim case, the negligence of another is a covered cause of damage to the property, and a sudden rupture in the pipes may be the result of negligent behavior on the part of the oil company. When the parties disagree as to what caused the damage, it is up to the insurer to prove that coverage is not provided due to an exception. George P. Couch, Cyclopedia of Insurance Law, section 79:384 (1983); Murray v. Continental Insurance Co., 313 Mass. 557, 563 (1943). “(Wjhere the exception is in . . . [a] distinct clause of the . . . contract . . . then the burden is upon the party relying upon such an exception.” Murray, 313 Mass. at 563.
+A jury is the proper fact-finder to decide what event caused the damage to the property.
+5. The insurance company has the burden of proving that prompt notice was not given.
+The insurance company is required to prove both that the notice provision was breached and that the breach resulted in prejudice to its position. Johnson Controls v. Bowes, 381 Mass. 278, 282 (1980). Again, there is a material dispute as to whether the alleged delay in notifying the insurance company resulted in prejudice to the company or was in fact a breach.
+ORDER
+Accordingly, summary judgment is GRANTED to the defendants only as concerns the ventilation system, but denied as to the noxious fumes.
