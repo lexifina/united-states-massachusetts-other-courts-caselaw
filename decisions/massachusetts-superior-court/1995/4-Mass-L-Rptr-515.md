@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "950881"
+decided: "1995-11-29"
+citations: ["4 Mass. L. Rptr. 515"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laura Kelly v. Board of Appeal on Motor Vehicle Liability Policies and Bonds et al."]
+source_url: "https://static.case.law/mass-l-rptr/4-2/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11923608
+cites_cases: ["11 Mass.App.Ct. 333", "27 Mass. App. Ct. 470", "348 Mass. 331", "376 Mass. 151", "383 Mass. 243", "388 Mass. 390", "400 Mass. 745", "401 Mass. 713", "412 Mass. 416"]
+---
+
+# Kelly v. Board of Appeal on Motor Vehicle Liability Policies & Bonds
+
+## Majority (Hamlin, J.)
+
+Hamlin, J.
+This case is an appeal brought by Laura Kelly (“Plaintiff’) seeking the reversal of the Board of Appeal on Motor Vehicle Liability Policies and Bonds (“Board”) decision imposing a merit rating surcharge penalty on the plaintiff. The surcharge was levied as a result of a multicar collision involving the plaintiff where she was found to have been more than fifty percent at fault. For the reasons set forth below, the decision of the Board is reversed.
+BACKGROUND
+On August 27, 1993, at approximately 5:30 p.m., plaintiff was involved in a seven (7) car pile-up collision on Route 128 in Woburn, Massachusetts. Administrative Record (“R.’j 3, 6, 9. The plaintiff was traveling in a line of traffic, in the passing lane of Route 126. She was the fourth vehicle in line approaching the crest of the hill just before Exit 36 and was traveling two car lengths directly behind another vehicle driven by Brad LeBlond (“LeBlond”). R. 13.
+The genesis of the accident occurred when an unknown vehicle came to a complete stop in front of the first car in line and then drove away. R. 9, 13. Leblond saw a collision occur in front of him, but was unable to stop in time, and his vehicle struck the car in front of him. R. 3, 16. When the plaintiff saw LeBlond’s vehicle slow down and swerve, she applied her brakes, but her vehicle struck the rear end of LeBlond’s vehi-ele. R. 2, 3, 16. The force of this collision caused LeBlond’s vehicle to collide again with the vehicle in front of it. The plaintiffs vehicle was then struck in the rear by the vehicle directly behind her. The plaintiffs vehicle was also “clipped” on the rear left side by another vehicle. R. 13.
+As a result of the accident, the plaintiffs insurance company, Quincy Mutual Fire Insurance Company (“Quincy"), determined that the plaintiff was more than fifty percent at fault and levied a merit rating surcharge penally against her pursuant to G.L.c. 175, §113P, and 211 Code Mass. Regs. §74.04 (03). R. 1. On or about January 21, 1994, the plaintiff appealed the surcharge assessment. R. 6. The Board held a hearing on January 12, 1995 and subsequently upheld the surcharge on May 1, 1995 having found that the plaintiff was more than fifty percent at fault and that the surcharge issued by Quincy was in accordance with the Standards of Fault as promulgated by the Board and the Provisions of the Safe Driver Insurance Plan established by the Commissioner of Insurance pursuant to G.L.c. 175, §113P. R. 1-4.
+DISCUSSION
+Judicial review is provided under the provisions of G.L.c. 30A, §14 and G.L.c. 175, §113P. This review is confined to the record, except in cases of irregularities, and the court may affirm the decision of the agency, remand the matter for further proceedings, or set aside or modify the decision if it determines that the substantial rights of a party may have been prejudiced because of an error of law, or that the decision is unsupported by substantial evidence, is unwarranted by the facts found in the record, or is arbitrary, capricious or an abuse of discretion, c. 30A, §14(7). “Substantial evidence” is what a reasonable mind might accept as adequate to support a conclusion, Deacon Transportation, Inc. v. Department of Public Utilities, 388 Mass. 390, 395 (1983), and a court will not substitute its judgment for that of the agency when there is “substantial evidence.” See Boston Edison Company v. Boston Redevelopment Authority, 376 Mass. 151, 154(1978).
+The party appealing an administrative decision bears the burden of demonstrating the decision’s invalidity. Merisme v. Board of Appeals on Motor Vehicle Liab. Policies & Bds., 27 Mass. App. Ct. 470, 474 (1989); Faith Assembly of God v. State Bldg. Code Comm’n., 11 Mass.App.Ct. 333, 334 (1981), citing Almeida Bus Lines, Inc. v. Department of Pub. Utils., 348 Mass. 331, 342 (1965). In reviewing the agency decision, the court is required to give due weight to the agency’s experience, technical competence, specialized knowledge, and the discretionary authority conferred upon it by statute. Flint v. Commissioner of Pub. Welfare, 412 Mass. 416, 420 (1992); Seagram Distillers Co. v. Alcoholic Beverage Control Comm’n., 401 Mass. 713, 721 (1988); Quincy City Hosp. v. Labor Relations Comm’n., 400 Mass. 745, 748-49 (1987).
+Plaintiff alleges that the Board’s decision was erroneous because it was not supported by substantial evidence and that the decision was arbitrary and capricious. The record before the Board indicates that the decision by the Board was unsupported by substantial evidence. The only standard used by the Board to determine fault was 211 C.M.R. §74.04(03) which addresses rear end collisions. The Board upheld its decision based on the presumption of fault because plaintiff was involved in such a collision. Facts in the instant case, however, require a different outcome. The presumption is rebuttable. DiLoreeto v. Fireman’s Fund Ins. Co., 383 Mass. 243, 248 (1981).
+Here, plaintiff was the fourth car in line in a seven car pile-up. When the plaintiff witnessed the incident occur ahead of her, she tried to avoid the accident but was unable to do so. A line of traffic existed in front of her as well as behind her vehicle. Plaintiff attempted to avoid the collision, but given her placement in the line of traffic, she was unable to avoid hitting the car in front of her. The plaintiff has provided sufficient facts to require the agency to rely on something more than presumption alone. Nothing in the record other than the rear-end collision supports the Boards conclusion that the plaintiff was more than 50% at fault. Therefore, the Board’s decision was unsupported by substantial evidence.
+ORDER
+For the above stated reasons, it is hereby ORDERED that the decision of the Board is REVERSED.
+211 C.M.R. §74.04(03) provides: “[a]n operator of a vehicle subject to the Safe Driver Insurance Plan which is in collision with the rear of another vehicle shall be presumed to be at fault in excess of 50%.”
+Because the Board’s decision is unsupported by substantial evidence, this court will not address plaintiffs claim that the Board’s decision was arbitrary and capricious.
