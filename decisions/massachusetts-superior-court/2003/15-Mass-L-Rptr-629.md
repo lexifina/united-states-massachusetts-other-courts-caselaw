@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "011466BLS"
 decided: "2003-01-13"
-citations: ["15 Mass. L. Rptr. 629", "15 Mass. L. Rptr. 626"]
+citations: ["15 Mass. L. Rptr. 629"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Liberty Mutual Insurance Company v. United Technologies Corporation e
 source_url: "https://static.case.law/mass-l-rptr/15/cases/0629-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3622080
-cites_cases: ["18 Mass.App.Ct. 364", "216 So.2d 925", "28 Mass.App.Ct. 108", "390 Mass. 419", "398 Mass. 140", "399 Mass. 886", "404 Mass. 14", "410 Mass. 706", "411 Mass. 39", "413 Mass. 66", "419 Mass. 462", "420 Mass. 178", "421 Mass. 537", "424 Mass. 275", "426 Mass. 379", "427 Mass. 46", "433 Mass. 373", "47 Mass.App.Ct. 625", "47 Mass.App.Ct. 717", "48 Mass.App.Ct. 115", "637 F.2d 816", "7 Mass.App.Ct. 206", "808 F.2d 178", "85 N.Y.2d 173", "87 N.Y.2d 530"]
+cites_cases: ["216 So.2d 925", "28 Mass.App.Ct. 108", "390 Mass. 419", "399 Mass. 886", "404 Mass. 14", "410 Mass. 706", "411 Mass. 39", "419 Mass. 462", "420 Mass. 178", "421 Mass. 537", "424 Mass. 275", "426 Mass. 379", "433 Mass. 373", "47 Mass.App.Ct. 717", "48 Mass.App.Ct. 115", "637 F.2d 816", "808 F.2d 178"]
 ---
 
 # Liberty Mutual Insurance v. United Technologies Corp.
