@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Superior Court"
+docket: "031240C"
+decided: "2003-12-31"
+citations: ["17 Mass. L. Rptr. 239"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. Michael Jardus v. John Krusell et al. as they are members of the Zoning Board of Appeals of the Town of North Brookfield et al."]
+source_url: "https://static.case.law/mass-l-rptr/17/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1078088
+cites_cases: ["11 Mass.App.Ct 148", "1975 Mass. Acts 808", "234 Mass. 663", "360 Mass. 428", "420 Mass. 196", "420 Mass. 749"]
+---
+
+# Jardus v. Krusell
+
+## Majority (Connor, J.)
+
+Connor, J.
+This case arises out of an appeal from a decision of the defendants as members of the North Brookfield Zoning Board of Appeals (“ZBA”), affirming the Building Inspector’s grant of a building permit to the defendant Lindsey Searah (“Searah”) for the construction of a single-family home on an undeveloped lot (the “premises”). The plaintiff is an abutter to the premises. '
+Cross motions for summary judgment were heard by the court. There is no dispute on any of the material facts and consequently the case is ripe for judgment. Nashua v. First State Ins. Co., 420 Mass. 196, 202 (1995). The moving party bears the burden of showing that they are entitled to judgment as a matter of law. See, Curtis v. School Committee of Falmouth, 420 Mass. 749, 753 (1995).
+The essential facts follow. The lot owned by the defendant contains 2.69 acres and has 27.5 feet of frontage on a public way. It is located in a R-11 zoning district which requires a minimum of 11,000 square feet and 100 feet of frontage for a single-family home. The boundaries of the premises were established by a deed or a plan recorded prior to the Town’s adoption of its first zoning by-law in 1961.
+Despite the fact that the lot did not contain 100 feet of frontage, on January 27, 2003 the Building Inspector issued a building permit. He relied upon a portion of Section V of the by-law which provides that a lot with less than the required frontage “shall be considered as coming within the requirement” if the lot was established by a recorded deed description or plan prior to the adoption of the by-law. The plaintiff points out that the by-law conflicts with the grandfathering provisions of G.L.c. 40A, §6 which protects non-conforming residentially zoned lots provided they contain 5,000 square feet and have frontage of fifty feet. When the by-law conflicts with the statute, according to the plaintiff, the statute prevails and consequently in this case he contends that the Board for the ZBA exceeded its authority in affirming the issuance of the building permit.
+Land use restrictions were formalized in the first part of the Twentieth Century. Massachusetts acknowledged the need for comprehensive zoning with the adoption of art. 60 of the Massachusetts Constitution in 1918. This was followed by several versions of an enabling act beginning in 1920 authorizing municipalities to adopt their own by-laws. See, Opinion of Justices, 234 Mass. 663 (1920). Eventually this led to the enactment of G.L.c. 40A in 1954 with an amendment in 1958 (Section 5,A) protecting lots that predated zoning changes which had at least 5,000 square feet and 50 feet of frontage. This legislation was followed in 1966 by the approval of art. 89 (the Home Rule Amendment) of the Massachusetts Constitution (which replaced art. 2) assuring “people of every city and town of the right of self government in local matters” provided there is no conflict with either the Massachusetts Constitution or statutes. Finally with the enactment of 1975 Mass. Acts 808 the grandfathering statute was codified as G.L.c. 40A, §6.
+The legislature is not in the business of enacting zoning regulations. Both the Massachusetts Constitution and the enabling acts direct that authority to the municipalities. When municipalities are granted “extreme powers” by G.L.c. 40A they are “not to be narrowly construed.” Decoulis v. Peabody, 360 Mass. 428, 429 (1971). It is not the Court’s prerogative to “question the wisdom of the town’s zoning enactments.” Lee v. Board of Appeals of Harwich, 11 Mass.App.Ct 148, 154 (1981). The ZBA did not exceed its authority under G.L.c. 40A, §6 when it determined the validity of the pre-existing non-conforming lot on the basis of its own by-law. The plaintiffs argument that Section V of the by-law which imposes no minimum frontage requirements for non-conforming lots must yield to G.L.c. 40A, §6 is based upon a misunderstanding of the effect of the statute. G.L.c. 40A, §6 does not mandate that non-conforming lots must have at least fifty feet of frontage. To the contrary, it “imposes a state-wide limitation upon municipalities’ powers to limit the use of sub-standard size lots.” 6 An.Surv.M.Law 1959, Zoning and Land Use Sec. 12.5 n.2. All the statute assures is that no municipality can require more than fifty feet of frontage for such lots. The last sentence of the grandfathering paragraph of G.L.c. 40A, §6 considers situations where the town’s frontage requirements are less than fifty feet and provides that such a difference “may not be construed to prohibit a lot being built upon if at the time of the building, building upon such lot is not prohibited by the zoning ordinance or by-laws in effect in a city or town.”
+RULING
+Plaintiffs Motion for Summary Judgment is Denied. The defendant’s, Members of the Zoning Board of Appeals, Motion for Summary Judgment is Allowed and judgment is to enter affirming the decision of the Zoning Board of Appeals.
