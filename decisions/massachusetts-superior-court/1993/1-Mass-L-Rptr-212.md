@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "92-2746"
 decided: "1993-10-15"
-citations: ["1 Mass. L. Rptr. 212", "1 Mass. L. Rptr. 213"]
+citations: ["1 Mass. L. Rptr. 212"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harold W. Stone and another v. Joseph F. Dalton and another"]
 source_url: "https://static.case.law/mass-l-rptr/1/cases/0212-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6106637
-cites_cases: ["111 Cal.App.3d 390", "128 U.S. 464", "136 F.R.D. 542", "15 Mass.App.Ct. 622", "26 Mass.App.Ct. 636", "34 Mass.App.Ct. 534", "380 Mass. 805", "397 Mass. 336", "404 Mass. 1102", "408 Mass. 480"]
+cites_cases: ["111 Cal.App.3d 390", "128 U.S. 464", "136 F.R.D. 542", "15 Mass.App.Ct. 622", "26 Mass.App.Ct. 636", "380 Mass. 805", "404 Mass. 1102", "408 Mass. 480"]
 ---
 
 # Stone v. Dalton
