@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Superior Court"
+docket: "981379"
+decided: "1999-06-22"
+citations: ["10 Mass. L. Rptr. 513"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nancy McGovern v. East Hampstead Supermarket dba Custeau’s Food Market"]
+source_url: "https://static.case.law/mass-l-rptr/10/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9480414
+cites_cases: ["24 Mass.App.Ct. 96", "26 Mass.App.Ct. 819", "369 Mass. 55", "375 Mass. 149", "390 Mass. 419", "394 Mass. 274", "410 Mass. 706", "416 Mass. 763", "480 U.S. 102"]
+---
+
+# McGovern v. East Hampstead Supermarket
+
+## Majority (Welch, J.)
+
+Welch, J.
+INTRODUCTION
+This matter is before the court on defendant’s, East Hampstead Supermarket d/b/a/ Custeau’s Food Market (“Custeau’s”) motion to dismiss or in the alternative for summary judgment because of lack of personal jurisdiction. In her complaint, the plaintiff, Nancy McGovern, has alleged that her daughter, Chantal McGovern (“Chantal”), was injured because the defendant negligently maintained its premises. For the reasons discussed below, the motion for summary judgment will be denied.
+BACKGROUND
+On June 18, 1994, the plaintiff and her daughter, who were residents of Haverhill, Massachusetts, were shopping at Custeau’s, which is located in East Hamp-stead, New Hampshire. The plaintiff was wheeling Chantal in the store’s shopping cart with Chantal facing her in the front seat of the cart with both of Chantal’s legs through the holes provided for them. While at the store, the plaintiff slipped on a wet floor, and she and the shopping cart fell to the ground. The cart landed on Chantal’s legs, and as a result, she suffered serious fractures of both legs.
+DISCUSSION
+Summary judgment is granted where there are no genuine issues of material fact and where the summary judgment record entitles the moving party to judgment as a matter of law. See Cassesso v. Comm’r of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank, v. Dawes, 369 Mass. 55, 553 (1976); Mass.R.Civ.P. 56(c). A party moving for summary judgment who does not bear the burden of proof at trial may demonstrate the absence of a triable issue either by submitting affirmative evidence negating an essential element of the nonmoving party’s case or by showing that the nonmoving party has no reasonable expectation of proving an essential element of its case at trial. See Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991).
+In order for a Massachusetts’ court to exercise personal jurisdiction over a non-resident defendant, the plaintiff must establish facts to satisfy a two-part test. See Tatro v. Manor Care, Inc., 416 Mass. 763, 767 (1994). First, one of the enumerated bases for jurisdiction listed in the longarm statute must be satisfied. See id; G.L.c. 223A, §3. In this case, only subsection (a) potentially applies. That section grants jurisdiction “over a person, ... as to a cause of action in law or equity arising from the person’s transacting any business in this commonwealth.” G.L.c. 223A, §3(a). This clause has been construed broadly, and “(a)lthough an isolated (and minor) transaction with a Massachusetts resident may be insufficient, generally the purposeful and successful solicitation of business from residents of the Commonwealth . . . will suffice to satisfy this requirement.” Tatro, 416 Mass. at 767.
+Second, in order to satisfy the requirements of due process, the plaintiff must establish that the defendant “purposefully established ‘minimum contacts’ in the forum state ... by which the defendant purposefully avail! ed] itself of the privilege of conducting activities within the forum State, thus invoking the benefits and protections of its laws.” Tatro, 416 Mass. at 772 (quoting Asahi Metal Indus. Co. v. Superior Court 480 U.S. 102, 108-09 (other citations omitted)).
+In support of its motion for summary judgment on the issue of personal jurisdiction, the defendant has submitted affidavits from the two principals of Custeau’s in which the principals aver that in June 1994, Custeau’s was a New Hampshire corporation with its sole place of business in New Hampshire; Custeau’s did not have any suppliers or distributors outside New Hampshire nor did Custeau’s ship any products outside of New Hampshire; and, Custeau’s advertising was limited to a weekly insert in the Rock-ingham County Newspaper, a New Hampshire publication.
+In opposition, the plaintiff has submitted an affidavit in which she states that she saw advertisements by Custeau’s in Haverhill area newspapers on many occasions, and that she shopped at Custeau’s because of their advertised prices. The plaintiff also states that many Massachusetts residents shopped at the store. The plaintiff does not, however, state whether these facts occurred before or after June 18, 1994. For the purposes of this motion, the Court will assume that they occurred sometime prior.
+The Court is thus faced with contradictory affidavits. If, as the defendant claims, in 1994 Custeau’s was advertising only in a New Hampshire publication that incidentally reached the Massachusetts population, Custeau’s would not have transacted sufficient business within the Commonwealth to support an exercise of personal jurisdiction over it. See Droukas v. Divers Training Academy, Inc., 375 Mass. 149, 153 (1978). If, however, as the plaintiff claims, in 1994 Custeau’s was regularly advertising in Massachusetts publications, or was otherwise advertising “on a persistent basis, . . . aimed at cultivating a market area in Massachusetts,” Gunner v. Elmwood Dodge, Inc., 24 Mass.App.Ct. 96, 97 (1987), and was generating a sufficient amount of business from Massachusetts’ residents, then this Court could properly exercise personal jurisdiction over this defendant. Compare Droukas, 375 Mass. at 154 (single advertisement and isolated sale to Massachusetts resident “void of any purposeful intent on the part of the defendant to avail itself of the privilege of conducting activities” within Massachusetts). An evidentiary hearing is required to resolve the factual issues raised by the affidavits. See Kleinerman v. Morse, 26 Mass.App.Ct. 819, 821 n.4 (1989).
+ORDER
+It is hereby ORDERED that defendant’s motion for summary judgment is DENIED. Further, an eviden-tiary hearing on the issue of personal jurisdiction is to be held.
+Because the Court’s ruling takes into account factual material outside the pleadings, the Court treats this motion as one for summary judgment pursuant to Mass.R.Civ.P. 56. Spring v. Geriatric Authority of Holyoke, 394 Mass. 274, 292 (1985).
+These two inquiries are very similar as the Massachusetts longarm statute has been interpreted to confer jurisdiction to the limits of the United States Constitution. See Droukas v. Divers Training Academy, 375 Mass. 149, 152 (1978).
+The plaintiff has already submitted various white and yellow page listings from the Haverhill area phonebooks which list Custeau’s phone number and address. Assuming these listings were evidence of solicitation of business, the listings cover the years of 1987-1988 and 1996-1997 and are thus irrelevant.
