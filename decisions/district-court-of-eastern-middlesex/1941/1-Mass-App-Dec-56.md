@@ -1,0 +1,30 @@
+---
+court: "District Court of Eastern Middlesex"
+docket: "2928"
+decided: "1941-07-07"
+citations: ["1 Mass. App. Dec. 56"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. H. McGUIRE & CO., INC. v. WINN"]
+source_url: "https://static.case.law/mass-app-dec/1/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4033274
+cites_cases: ["187 Mass. 402", "230 Mass. 119", "256 Mass. 66", "277 Mass. 75", "278 Mass. 321", "281 Mass. 364", "296 Mass. 263", "299 Mass. 432"]
+---
+
+# H. H. McGuire & Co. v. Winn
+
+## Majority (SULLIVAN, J.)
+
+SULLIVAN, J.
+(Jones, P. J., and Wilson, J.)—Action of contract to recover the price of goods sold and delivered. There was a finding for the plaintiff. The report states that it contains all the evidence material to the questions reported. The error alleged is the specific denial of six rulings requested by the defendant and the implied denial of two other such requests.
+The first ruling requested and denied is that: “Upon all the facts the defendant asks that there be a finding in his behalf.’
+The request does not comply with Rule 27 of the District Court Rules (1940 Ed.). While not based “upon all the evidence,” as specified in the- rule, it' is based “upon the facts” and clearly admits of specifications. The defendant impliedly concedes that the request is open to attack on this score by his argument that the Appellate Division, in its discretion, should review the denial. Consideration of the request in the first instance was discretionary with the trial judge; if it did not comply with the rule, denial of it by the trial judge was not prejudicial error. On appeal, the Appellate Division could review it in its discretion. DiLorenzo v. Atlantic National Bank, 278 Mass. 321. If, however, the Appellate Division, in its discretion does not review the denial, there is no error. Magrath v. Sheenan, 296 Mass. 263.
+We have considered - carefully whether or not, in our discretion, we should review the denial of this request, but considering the full findings, of fact made by the trial judge, appearing in the report, several of which are directly contrary to the contentions of the appellant and wholly warrant the trial judge’s ultimate finding, we are of the opinion that we should not review the denial.
+The defendant’s chief contention is that the plaintiff contracted with the corporation formed by the defendant and that the corporation was not in existence when.the contract was made and that “the parties intended- that the agreement should be between the plaintiff and the defendant individual c/b as the Woburn Construction Co.,” in our opinion are conclusive of the case and leave nothing else to be decided. On its facts this case is the reverse of Farnum v. Bankers & Shippers Ins. Co., 281 Mass. 364, but the principle of that case governs this nevertheless. The second and third requests denied raise the issue whether the instrument signed by the parties constituted a contract. This was a question • of law for the court, Bresky v. Rosenburg, 256 Mass. 66. Roberts v. Lynn Ice Co., 187 Mass. 402. Kehlor Flour Mills Co. v. Linden, 230 Mass. 119.
+The instrument describes itself as an agreement; one party agrees to sell certain specified merchandise and the other “hereby accepts the above agreement and agrees to purchase from the said party of the first part the above stated material and to pay” a specified amount for the same. On the face of the instrument, every element of a contract is present. There was no error in the denial of these requests.
+The two requests, designated 4 and 4A, are actually requests for findings of facts. Each request states certain facts, in each instance, the trial judgé disposed of the request by finding facts contra to facts in the request.' Request 4 contains a statement that the corporation known as the Woburn Construction Co. was in existence prior to the execution of the agreement between the parties. The trial judge found definitely that it was not. Even if the request had been for a ruling of law, the elimination -of an important premise would have made the request inapplicable. Request 4A contains a statement of fact regarding the plaintiff’s knowledge of the existence of the corporation at the time that the agreement was executed. The trial judge found explicitly that- the plaintiff had no such knowledge. If these had been requests for rulings of law, their denial would have been proper in such circumstances. White v. Beacon Trust Co., 277 Mass. 75. Cameron v. Buckley, 299 Mass. 432. These requests, however, are not requests for rulings of law but are purrely requests for findings of fact which the trial judge was not obliged to make. There was no prejudicial error in their implied denial by findings of fact to the contrary.
+The defndant’s chief contention is based on the denial of his ninth request. This request states no principle of law but is a contentious statement of facts as to several of which there is no.evidence in the report. Few if. any of the facts set forth in the request have more than a possible probative value; none of them, and no combination of them, compel a ruling of law favorable "to the defendant. The request ignores entirely the written agreement, expressly found by the trial judge to be a valid contract between the parties, and seeks by statements of extrinsic evidence and argumentative facts to disprove the existance of any contract. There was no error in the denial.
+The finding was clearly warranted that the plaintiff and the defendant made a written contract before the corporation was organized. The plaintiff was entitled to deal with the party with whom he contracted. No action to which he did not consent, after the contract was signed, could take away the legal relation which had been created between him and the defendant by the written agreement.
+No prejudicial error appears and the report will be dis' missed.
