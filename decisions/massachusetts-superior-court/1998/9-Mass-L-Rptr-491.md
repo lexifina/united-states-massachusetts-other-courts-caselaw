@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "982025"
+decided: "1998-10-20"
+citations: ["9 Mass. L. Rptr. 491"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Betty Lawler v. Malden Housing Authority et al."]
+source_url: "https://static.case.law/mass-l-rptr/9/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189147
+cites_cases: ["410 Mass. 706", "423 Mass. 1021", "43 Mass.App.Ct. 212"]
+---
+
+# Lawler v. Malden Housing Authority
+
+## Majority (Dortch-Okara, J.)
+
+Dortch-Okara, J.
+This matter is before the court on the motion of the individual named defendants for summary judgment. In support of their motion, defendants argue that Betty Lawler (“Lawler”) failed to name them as respondents in her Massachusetts Commission against Discrimination (“MCAD”) complaint, and that this action is therefore barred under G.L.c. 15 IB. Lawler argues that defendants are not entitled to summary judgment because they were aware of her claim of age discrimination and of their alleged discriminatory conduct.
+BACKGROUND
+Sixty-one year old Lawler was a clerk-cashier at the Malden Housing Authority (“MHA”) for ten years. In January 1996, the position ofTenant Selector became vacant, and the MHA Board of Commissioners (“Board”) posted it internally, inviting all employees to apply. The only two applicants were Lawler and twenty-one year old Stacy Condon (“Condon”). Con-don, who had worked for the MHA part time since 1994, had been Acting Tenant Selector for the month preceding the posting. Without conducting interviews, the Board voted on February 27, 1996 to hire Condon.
+Lawler filed a grievance with the MHA concerning the Board’s failure to hire her. On March 28, 1996, her attorney sent a letter to defendant John Daly (“Daly”), the Executive Director of the MHA. The letter charged the MHA with age discrimination, demanded the immediate hiring of Lawler as Tenant Selector, and informed Daly that Lawler would proceed through the grievance process, but reserved her right to seek redress in another forum. As part of the grievance procedure, Lawler and counsel appeared at two meetings in the spring of 1996, one before Daly and one before the Board.
+On July 18, 1996, the Board affirmed its hiring of Condon as Tenant Selector. On July 25, 1996 Lawler filed a complaint with the MCAD charging the MHA with age discrimination in violation of G. L. c. 15 IB. Lawler did not name the individual defendants in her complaint. On April 9, 1998 Lawler decided to file charges in Superior Court and the MCAD dismissed her complaint. On April 22,1998, Lawler filed the current action against the MHA and the individual named defendants.
+DISCUSSION
+Summary judgment is appropriate where there is no genuine issue as to any material fact, and the moving party is entitled to judgment as a matter of law. Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991). In the current action, there are no disputed issues of fact. The court must decide as a matter of law whether plaintiffs failure to include defendants as respondents in her MCAD action bars her from naming them as defendants in this civil action.
+In order to bring a discrimination action in court, a plaintiff must first file with the MCAD within six months of the discriminatoiy conduct. G.L. 15 IB, §5. Regulations promulgated under c. 15 IB require that the MCAD charge include “appropriate identification of the Complainant(s) and the person(s) alleged to have committed unlawful discriminatoiy acts.” 804 Code Mass. Regs. §1.03(4)(a). The purpose of the filing requirement is to provide defendants with notice of a potential suit and an opportunity to investigate and conciliate the claim of discrimination. Carter v. Commissioner of Correction, 43 Mass.App.Ct. 212, 217 (1997). Consequently, failure to file with the MCAD bars recoveiy in a subsequent judicial action. Andrews v. Arkwright Mut. Ins. Co., 423 Mass. 1021 (1996).
+Ordinarily, failure to name a parly as a respondent in an MCAD complaint bars a later lawsuit against that party. Chatman v. Gentle Dental Center, 973 F.Sup. 228, 236 (D.Mass. 1997). The bar, however, does not apply if the administrative complaint gave the party sufficient notice of the claimed discriminatory conduct and an opportunity to conciliate the claims. Id. Thus, a recent case in this court (Chin, J.) permitted a plaintiff to add additional defendants when he filed suit following his MCAD complaint. Kuketz v. MDC Fitness Corp. et al., 9 Mass. L. Rttr. 261 (Civil No. 98-0114A, Suffolk, August 10, 1998). In Kuketz. a paraplegic racquetball player named a health club as respondent in an MCAD proceeding. The health club filed for bankruptcy. When Kuketz subsequently filed a complaint in Superior Court, he named two additional defendants, including the club manager.
+Although the manager had not been named as a respondent, the MCAD complaint had identified her as the person who denied the plaintiffs application. Furthermore, she attended the MCAD investigative conference regarding the plaintiffs allegations and signed an affidavit filed by the health club with the MCAD. In that case, the court found that the manager had received sufficient notice to satisfy the purpose of the filing requirement. Kuketz, supra.
+In the present case, Lawler seeks to include Daly and the Board as individual defendants in her lawsuit. Although they were not named as respondents in her MCAD complaint, she argues that her March 1996 letter to Daly and her appearances before Daly and the Board during the grievance procedure provided the defendants with adequate notice to satisfy the filing requirement of G.L.c. 15IB.
+In this case, however, Lawler has not shown that the defendants received notice of her MCAD complaint. Unlike Kuketz, Lawler has presented no evidence that her MCAD complaint against the MHA identified these defendants as the individuals who discriminated against her. Likewise, there is no evidence that the individual defendants attended MCAD conciliation meetings or filed affidavits with the MCAD. Although the defendants participated in Lawler’s grievance meetings at the MHA, those meetings preceded the filing of the MCAD complaint. Consequently, participation in the MHA grievance process does not prove that defendants were aware of Lawler’s subsequent MCAD complaint.
+■Where Lawler did not name these individual defendants as respondents in her MCAD action, and where Lawler has not shown that her MCAD complaint gave defendants notice of their alleged discriminatoiy conduct or an opportunity to participate in MCAD conciliation efforts, as a matter of law, Lawler is barred from including the individual defendants in her lawsuit. Chatman v. Gentle Dental Center, 973 F.Sup. 228, 236 (D.Mass. 1997).
+ORDER
+For the foregoing reasons, it is hereby ORDERED that the individual defendants’ motion for summary judgment is ALLOWED.
