@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Superior Court"
+docket: "93-1110"
+decided: "1994-04-13"
+citations: ["2 Mass. L. Rptr. 72"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Omar Salhab v. Middlesex County et al"]
+source_url: "https://static.case.law/mass-l-rptr/2/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11922886
+cites_cases: ["23 Mass.App.Ct. 538", "355 U.S. 41", "372 Mass. 96", "378 Mass. 85", "403 U.S. 388", "411 Mass. 426", "42 U.S.C. §1983", "436 U.S. 658", "624 F.Supp. 33", "741 F.Supp. 1008", "804 C.M.R. 1"]
+---
+
+# Salhab v. Middlesex County
+
+## Majority (Cowin, J.)
+
+Cowin, J.
+Plaintiff Omar Salhab (“Salhab”) filed this action against Middlesex County, Middlesex County Sheriff John P. McGonigle (“McGonigle”), Frank W. Brown (“Brown”), Richard Gallant (“Gallant”) and Winslow Holman (“Holman”), alleging employment discrimination under G.L.c. 15 IB, intentional infliction of emotional distress, and violations of 42 U.S.C. §1983, Article I of the Massachusetts Constitution, and G.L.c. 152, §75B(2) (“Workers’ Compensation Act”). Defendant Middlesex County has moved to dismiss all counts against it pursuant to Mass.R.Civ.P. 12(b)(6). For the following reasons, defendant’s motion is allowed in part and denied in part.
+DISCUSSION
+When evaluating the sufficiency of a complaint pursuant to Mass.R.Civ.P. 12(b)(6), the court must take the allegations of the complaint, as well as any inference which can be drawn from those allegations in the plaintiffs favor, as true. Eyal v. Helen Broadcasting Corp., 411 Mass. 426, 429 (1991), and cases cited. The “complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that the plaintiff can prove no set of facts in support of [his] claim which would entitle [him] to relief.” Nader v. Citron, 372 Mass. 96, 98 (1977), quoting Conley v. Gibson, 355 U.S. 41, 45-46 (1957). A complaint is not subject to dismissal if it could support relief tinder any theory of law. Whitinsville Plaza, Inc. v. Kotseas, 378 Mass. 85, 89 (1979).
+Count I alleges racial discrimination in the workplace by Middlesex County and the other defendants in violation of G.L.c. 151B, §4. G.L.c. 151B contains an administrative exhaustion requirement which mandates that a plaintiff suing under this chapter must first file a complaint with the Massachusetts Commission Against Discrimination (“MCAD”) within six months after the alleged unlawful conduct took place. G.L.c. 151B, §9. The plaintiff may amend the complaint after the issuance of the notice of public hearing by leave of the Hearing Commissioner. 804 C.M.R. 1.03(5)(b). After a complaint has been pending before the MCAD for 90 days, the plaintiff may then file a complaint in state court. G.L.c. 151B, §9.
+As discussed in this Court’s Memorandum dated March 24, 1994, there is no question that Salhab filed a timely complaint with the MCAD with respect to defendants McGonigle and Holman. However, Salhab’s MCAD complaint failed to name Middlesex County as a defendant. Further, Salhab failed to serve Middlesex County pursuant to 804 C.M.R. 1.03(6). Salhab never attempted to amend his complaint to add Middlesex County as a defendant during the period of almost two years while his complaint was pending at the MCAD. Because Salhab did not comply with the statutory requirements with respect to Middlesex County pursuant to G.L.c. 151B, Count I is dismissed as against that defendant.
+Count III alleges violations of 42 U.S.C. §1983 against defendants Middlesex County and McGonigle. In a §1983 action, a municipality such as Middlesex County can only be liable if the unlawful conduct occurred as the result of a policy or custom of the municipality. Monell v. Department of Social Services, 436 U.S. 658, 690 (1978). ‘The touchstone of the §1983 action against a government body is an allegation that official policy is responsible for a deprivation of rights protected by the Constitution.” Scarpa v. Murphy, 624 F.Supp. 33, 35 (D.Mass. 1985), quoting Monell, supra at 690. Salhab has made no allegation that any policy or custom of Middlesex County operated to deprive him of his constitutional rights. Therefore, Count III is dismissed against defendant Middlesex County.
+Count IV claims that Middlesex County violated Article I of the Massachusetts Declaration of Rights. Where no statute creates a cause of action to remedy a violation of constitutional rights, the Supreme Court has stated that, at least as to the federal Constitution, the courts may infer a right of action. See Bivens v. Six Unknown Named Agents of the Federal Bureau of Narcotics, 403 U.S. 388, 390-97 (1971). Here, however, there is a separate, exclusive statutory scheme under c. 151B to address the violations of which Salhab complains. Thus, no cause of action lies under Art. I of the Massachusetts Declaration of Rights. See Mouradian v. General Electric Co., 23 Mass.App.Ct. 538 (1989); Butler v. RMS Technologies, Inc., 741 F.Supp. 1008 (D.Mass. 1990). Count IV is therefore dismissed.
+Count V charges retaliatory discharge in violation of G.L.c. 152, §75B. Section 75B provides that “no employer or duly authorized agent of an employer shall discharge, refuse to hire, or in any other manner discriminate against an employee because the employee has exercised a right afforded by this chapter” (workers’ compensation). By the clear language of the statute (“or in any other manner discriminate against an employee ...”), it protects those who have been forced to resign as well as those who are fired. Salhab alleges that he was threatened with termination if he did not resign. He also alleges thathis workers’ compensation appeal was pending before the Department of Industrial Accidents at the time he was threatened with termination. At least as pleaded, the facts state a cause of action for retaliatory discharge in violation of c. 152. Count V therefore survives a motion to dismiss.
+ORDER
+For the foregoing reasons, it is hereby ORDERED that defendant Middlesex County’s motion to dismiss is ALLOWED as to Counts I, III and IV of the Complaint and DENIED as to Count V.
+For a full procedural and factual background, refer to this Court’s Memorandum of Decision and Order on Defendants’ (McGonigle, Brown and Gallant’s) Motion to Dismiss, dated March 23, 1994, 2 Mass. L. Rptr. No. 2, 35 (May 16, 1994).
+Middlesex County is not named in Count II.
+In light of the Court’s decision, it is unnecessary to reach the issue of whether Salhab as a non-citizen is afforded any constitutional rights whatsoever.
