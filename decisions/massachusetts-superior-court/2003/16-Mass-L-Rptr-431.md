@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "981067"
 decided: "2003-07-01"
-citations: ["16 Mass. L. Rptr. 431", "16 Mass. L. Rptr. 432"]
+citations: ["16 Mass. L. Rptr. 431"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Anna Poncin, Executrix v. Central Locating Service, LTD et al. Sharon
 source_url: "https://static.case.law/mass-l-rptr/16/cases/0431-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3622048
-cites_cases: ["15 F.3d 500", "20 Mass.App.Ct. 172", "287 Mass. 454", "374 Mass. 249", "39 Mass.App.Ct. 247", "395 Mass. 1103", "396 Mass. 1", "407 Mass. 185", "418 Mass. 783"]
+cites_cases: ["15 F.3d 500", "407 Mass. 185", "418 Mass. 783"]
 ---
 
 # Poncin v. Central Locating Service, Ltd.
