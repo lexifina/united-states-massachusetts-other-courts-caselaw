@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "967262B"
+decided: "1997-08-29"
+citations: ["7 Mass. L. Rptr. 494"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Municipal Management Associates, Inc. v. Ann Marie Beauregard"]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0494-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11786526
+cites_cases: ["4 Mass. L. Rptr. 411", "5 Mass. L. Rptr. 283"]
+---
+
+# Municipal Management Associates, Inc. v. Beauregard
+
+## Majority (Quinlan, J.)
+
+Quinlan, J.
+Plaintiff, Municipal Management Associates, Inc. (“Municipal Management”), has brought a defamation action against Defendant, Ann Marie Beauregard, for statements she made to the press after a parking enforcement contract with the City of Marlborough (“the City”) was terminated. Defendant moves to dismiss Municipal Management’s claim pursuant to the “anti-SLAPP” statute, G.L.c. 231, §59H (1996 ed.), contending that her statements constituted an exercise of her right to petition government. For the reasons set forth below, defendant’s special motion to dismiss is DENIED.
+BACKGROUND
+In May 1990, Municipal Management contracted with the City to provide parking enforcement services for the city’s downtown area. On July 7, 1995, Municipal Management and the City signed a new three-year contract for such services. The contract was subject to renewal and appropriation for years two and three.
+On May 29, 1996, the Mayor and Chief Procurement Officer of the City notified Municipal Management that the second year of the contract would not be renewed and that the contract would expire on June 30, 1996. Municipal Management did not seek review or reconsideration of the contract’s termination.
+Defendant is the parking clerk for the City. Her alleged responses to an inquiry by a reporter concerning the reasons the City decided not to renew its contract with Municipal Management appeared in the July 10, 1996 edition of the Middlesex News. Defendant reportedly stated that “(t]he City’s decision not to renew a contract for privatized downtown parking enforcement was based on example after example of the company’s poor performance and standards" and that there were “insurmountable problems.” Municipal Management further claims that defendant accused it of failing to meet basic data processing standards, writing unwarranted tickets to capitalize on the contract’s pay per-ticket provision, making collection impossible when it purged hundreds of tickets from its system, and causing her to void excessive numbers of tickets.
+Consequently, on December 23, 1996, Municipal Management brought suit against Defendant, asserting claims for defamation, intentional interference with its advantageous relationship with the City, and unfair and deceptive trade practices in violation of G.L.c. 93A. Defendant has filed a special motion to dismiss pursuant to G.L.c. 231, §59H on the ground tihat she was merely exercising her right to petition government when she purportedly made the statements attributed to her in the Middlesex News article. Municipal Management argues that the anti-SLAPP statute is inapplicable for two reasons: 1) the termination of its contract with the City was not an issue under consideration by a governmental body; and 2) defendant is a government official for whom the statute is not designed to protect.
+DISCUSSION
+Chapter 231, Section 59H allows a party to bring a special motion to dismiss when it asserts that the civil claims, counterclaims, or cross claims against it are based on its “exercise of its rights of petition under the constitution of the United States or of the commonwealth.” G.L.c. 231, §59H. The statute defines the exercise of the right to petition as:
+any written or oral statement made before or submitted to a legislative, executive, or judicial body, or any other governmental proceeding; any written or oral statement made in connection with an issue under consideration or review by a legislative, executive, or judicial body, or any other governmental proceedings; any statement reasonably likely to encourage consideration or review of an issue by a legislative, executive, or judicial body or any other governmental proceeding; any statement reasonably likely to enlist public participation in an effort to effect such consideration; or any other statement falling within constitutional protection of the right to petition government.
+Id. The court must grant the special motion to dismiss unless the nonmoving party shows: 1) “that the moving party’s exercise of its right to petition was devoid of any reasonable factual support or arguable basis in law” and 2) “that the moving party’s acts caused actual injury to the responding party.” Id. When making its determination, the court must “consider the pleadings and supporting and opposing affidavits stating the facts upon which the liability or defense is based.” Id.
+Although the statute is silent, this court construes §59H as requiring a threshold showing by the party invoking the protection of the anti-SLAPP statute bears the initial burden of establishing its applicability. See Zappo v. Foster, Civil No. 962448 (Norfolk Super. Ct. April 22, 1997); Margolis v. Gosselin, Civil No. 953837, 5 Mass. L. Rptr. 283 (Middlesex Super. Ct. May 22, 1996). Once the burden is satisfied, the burden then shifts to the nonmoving party.
+Defendant has failed to meet her burden because the statements attributed to her by the Middlesex News were unconnected to an exercise of her right to petition government. As an initial matter, defendant is a government official who spoke publicly to justify a governmental action. She did not make these statements before a legislative, executive, or judicial body in the course of governmental proceedings or in connection with an issue under consideration by the government. Nor is there evidence that she made the statements to encourage public participation with respect to the City’s decision to terminate the contract. Thus, the instant case is distinguishable from those cited by Defendant. See Thomson v. Town of Andover Board of Appeals, Civil No. 931716, 4 Mass. L. Rptr. 411 (Essex Super. Ct. July 25, 1995) (letters sent to Boston Globe to protest proposed development fell within right to petition); Jordan v. Murray, Civil No. 941560 (Norfolk Super. Ct. June 29, 1995) (letter notifying Department of Environmental Protection of possible violations and statements to conservation commission opposing building on lot constituted exercise of right to petition).
+Because the statements attributed to her by the Middlesex News do not fall within her right to petition government, defendant is not entitled to the protection of the anti-SLAPP statute. Therefore, this court must deny defendant’s special motion to dismiss.
+ORDER
+For the foregoing reasons, it is hereby ORDERED that Defendant Ann Marie Beauregard’s special motion to dismiss is DENIED.
