@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Superior Court"
+docket: "82-2364"
+decided: "1995-01-09"
+citations: ["3 Mass. L. Rptr. 207"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter J. Ottowitz and another v. Arlene Letourneau and others"]
+source_url: "https://static.case.law/mass-l-rptr/3/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686902
+cites_cases: ["26 Mass.App.Ct. 819", "326 U.S. 310", "34 Mass.App.Ct. 543", "357 U.S. 235", "378 Mass. 1", "403 Mass. 1001", "416 Mass. 763", "471 U.S. 462"]
+---
+
+# Ottowitz v. Letourneau
+
+## Majority (Gershengorn, J.)
+
+Gershengorn, J.
+The plaintiffs, Peter J. Ottowitz (“Ottowitz”) and Apple Polishes, Incorporated (“Apple”), bring this action for contempt. This court issued a preliminary injunction which essentially restrained defendant, Arlene Letourneau (“Letourneau”), from making use of leather care formulas allegedly owned by the plaintiffs. The plaintiffs now contend the defendants violated that order by Letourneau’s continuous sale of leather care products on behalf of her distributor, the defendant S.H. Frank and Company.
+S.H. Frank and Company moves to dismiss the complaint for lack of personal jurisdiction pursuant to Mass.R.Civ.P. 12(2). For the following reasons; the motion is DENIED.
+DISCUSSION
+“The burden of establishing facts sufficient to fend off a motion to dismiss for lack of jurisdiction over the person is on the plaintiffls].” KLetnerman v. Morse, 26 Mass.App.Ct. 819, 820 (1989) (citations omitted). A determination of jurisdiction may rest on the facts alleged in the complaint, and for the purposes of this motion, the allegations contained in the complaint are treated as true. Kleinerman, supra at 821 n.3 and cases cited. In addition, this court considers the affidavits submitted by both parties in its determination of whether there is personal jurisdiction over S.H. Frank & Company. Id.
+Personal jurisdiction refers to the power of the court to award a judgment that imposes personal liability on the defendant. Personal jurisdiction of a nonresident defendant requires a two-step analysis. A court must first be able to exercise jurisdiction over a defendant pursuant to the longarm statute. G.L.c. 223A, §§3(a)-(g). The court must then consider whether the exercise of jurisdiction would be constitutional under the Due Process Clause. Good Hope Industries, Inc. v. Ryder Scott Co., 378 Mass. 1, 5-6 (1979); Morris v. Morris, 403 Mass. 1001 (1988); Tatro v. Manor Care Inc., 416 Mass. 763, 767 (1994).
+The Massachusetts longarm statute lists the minimum contacts which provide a basis for a court to exercise personal jurisdiction over a nonresident defendant. G.L.c. 223A, §3. The particular circumstances of the case must come within one of the specific subsections of G.L.c. 223A, §3.
+G.L.c. 223A, §3(a) provides that this court “may exercise personal jurisdiction over a person, who acts directly or by an agent, as to cause of action in law or equity arising from the person’s (a) transacting any business in this commonwealth . . .” (emphasis added). The complaint shows that Letourneau received orders from various companies on behalf of S.H. Frank and Company. She engaged in the selling, marketing, shipping, and ordering of certain leather care products for the benefit of S.H. Frank & Company. For many years Letourneau operated her business from a Massachusetts address. Letourneau’s Massachusetts customers included Tumi Leather Company and North Beach Leather. These companies ordered the leather care products from Letourneau while she was acting on behalf of S.H. Frank & Company. The contacts are, therefore, sufficient to satisfy personal jurisdiction over the defendant pursuant to G.L.c. 223A, §3(a).
+S.H. Frank & Company’s contacts additionally satisfy the requirements for personal jurisdiction under §3(b) of the longarm statute. Section 3(b) provides that this court “may exercise personal jurisdiction over a person, who acts directly or by an agent, as to cause of action in law or equity arising from the person’s ... (b) contracting to supply services or things in this commonwealth.” At the time Letourneau worked from a Massachusetts address, S.H. Frank contracted with her to distribute leather care products. As a result of this business relationship with S.H. Frank & Company, Letourneau placed numerous orders from leather companies with S.H. Frank & Company. Accordingly, S.H. Frank & Company has the necessary contacts to satisfy section 3(b) of the longarm statute.
+This court now turns to whether the exercise of jurisdiction over S.H. Frank & Company would satisfy the Fourteenth Amendment due process test of minimum contacts. Tatro, supra at 767; Packard v. Packard, 34 Mass.App.Ct. 543, 548 (1993). Jurisdiction is proper if the defendant has minimum contacts with the forum state, such that the lawsuit would not offend “traditional notions of fair play and substantial justice.” International Shoe v. Washington, 326 U.S. 310, 316 (1945). This court looks to the reasonableness of the assertion of jurisdiction “taking into account such factors as the burden on the defendant of litigating in the plaintiff[s’] chosen forum, the forum state’s interest in adjudicating the dispute, and the plaintiffs’] interest in obtaining relief.” Tatro, supra at 773 (citation omitted).
+S.H. Frank & Company’s solicited business, through Letourneau, in Massachusetts. It is, therefore, reasonable to conclude that S.H. Frank & Company has “invoked the benefits and protections” of Massachusetts laws. Id. S.H. Frank has deliberately drawn its agent and its customers from Massachusetts thereby purposefully availing itself of the “privilege of conducting activities within the forum state, thus invoking the benefits and protections of its laws.” Hanson v. Denkla, 357 U.S. 235, 253 (1958); Good Hope Industries Inc., 378 Mass, at 5-6; Packard, supra at 549.
+Further, the plaintiff, Ottowitz, is a Massachusetts resident and the plaintiff, Apple, is a duly organized corporation having a place of business in the commonwealth. The plaintiffs allege that the combined acts of S.H. Frank & Company and Letourneau constitute a violation of this court’s order. This court has a manifest interest in the nature of this action and “in providing its residents with a convenient forum for redressing injuries inflicted by out-of-state actors.” Burger King Corp. v. Rudzewicz, 471 U.S. 462, 473 (1985) (citations omitted).
+ORDER
+For all of the foregoing reasons, it is hereby ORDERED that the motion of the defendant, S.H. Frank and Company, be DENIED.
