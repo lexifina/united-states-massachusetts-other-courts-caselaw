@@ -2,7 +2,8 @@
 court: "Massachusetts Superior Court"
 docket: "97-2307"
 decided: "1999-12"
-citations: ["11 Mass. L. Rptr. 40", "11 Mass. L. Rptr. 231"]
+decided_precision: "month"
+citations: ["11 Mass. L. Rptr. 40"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Thomas F. Linnen and other v. A.H. Robins Company, Inc. and others"]
 source_url: "https://static.case.law/mass-l-rptr/11/cases/0040-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9474738
-cites_cases: ["118 S. Ct. 512", "119 S. Ct. 1167", "270 Or. 375", "293 F. 1013", "370 Mass. 69", "376 Mass. 426", "38 Mass. App. 344", "394 Mass. 131", "396 Mass. 818", "40 Mass. App. Dec. 198", "403 Mass. 430", "41 Mass.App.Ct. 317", "410 Mass. 706", "419 Mass. 15", "428 Mass. 1", "509 U.S. 579", "548 A.2d 798", "549 A.2d 935", "584 A. 2d 888", "67 Ohio St.2d 192", "78 F. 3d 316", "832 F. Supp. 341", "877 F. Supp. 1380", "9 Mass.App.Ct. 502", "950 F. Supp. 1160", "964 F. Supp. 841", "976 F.2d 77"]
+cites_cases: ["118 S. Ct. 512", "119 S. Ct. 1167", "293 F. 1013", "376 Mass. 426", "38 Mass. App. 344", "403 Mass. 430", "41 Mass.App.Ct. 317", "419 Mass. 15", "428 Mass. 1", "509 U.S. 579", "549 A.2d 935", "584 A. 2d 888", "78 F. 3d 316", "832 F. Supp. 341", "877 F. Supp. 1380", "950 F. Supp. 1160", "964 F. Supp. 841"]
 ---
 
 # Linnen v. A.H. Robins Co.
