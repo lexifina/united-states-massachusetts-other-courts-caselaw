@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "033991BLS"
+decided: "2003-10-22"
+citations: ["16 Mass. L. Rptr. 815"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert E. Levesque, Jr. v. Jeffrey A. Ojala et al."]
+source_url: "https://static.case.law/mass-l-rptr/16/cases/0815-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3623694
+cites_cases: ["375 Mass. 220"]
+---
+
+# Levesque v. Ojala
+
+## Majority (van Gestel, J.)
+
+van Gestel, J.
+This matter is before the Court on several motions, in order of their docketing as follows.
+Motion to Dismiss by the Defendant Arthur T. Demoulas (the “Demoulas motion”) (Paper #9); Defendants Jeffrey A. Ojala and Dram Cup Hill, Inc.’s Motion to Dismiss (the “Ojala motion”) (Paper #10); Motion of Defendant, Lisa B. Miller, Trustee of the Second Campana Trust, for Change of Venue (the “Miller motion”) (Paper #11); and Plaintiffs Motion for Leave to File First Amended Complaint (the "Plaintiffs motion”) (not docketed but included within Paper #11).
+Part of the basis for the Demoulas motion and the Ojala motion, and all of the basis for the Miller motion, relates to the question of the proper venue for this case. The undocketed, and apparently unfiled, Plaintiffs motion also relates to the venue issue. Because the venue issue is dispositive, the Court will address it only, taking no position and making no rulings on other aspects of any of the motions.
+All of the parties to this action reside in or have their principal places of business in Middlesex County, Massachusetts or in the State of New Hampshire. This is what correctly can be characterized as a transitory action. G.L.c. 223, Sec. 1, provides in material part as follows:
+A transitory action shall..., if any one of the parties thereto lives in the commonwealth, be brought in the county where one of them lives or has his usual place of business ... If an action is dismissed because the defendant has raised timely objection to venue, the defendant shall be allowed double costs.
+Thus, “the venue rules of transitory actions is in the county where a party to the suit lives or has its usual place of business.” Williams College v. Attorney General 375 Mass. 220, 223-24 (1978).
+In the unfiled and undocketed Plaintiffs motion to amend the complaint it is asserted that “Levesque has subsequently discovered that defendant, Arthur T. Demoulas has a place of residence at the Four Seasons/Heritage at 220 Boylston Street in Boston.” If this were true, then venue for this action could properly lie in Suffolk County. However, included as Exhibit A to the Demoulas motion is an affidavit of Arthur T. Demoulas stating that he is “a resident of Lowell in Middlesex County.” Further, Demoulas swears in the affidavit that a corporation in which he holds a minority interest owns a condominium at the Four Seasons/Heritage on Boylston Street, Boston, which is “used predominantly to accommodate out of town visitors and at times for business purposes.” Demoulas further avers that he does “not reside there and [he] has never resided there. [He has] not even spent an evening there for several years.”
+Given the foregoing, this Court must conclude, on the record before it, that Demoulas is a resident of Lowell, not Boston.
+This action properly was filed by the plaintiff in Suffolk Couniy pursuant to Administrative Directive No. 03-1. By Administrative Directive No. 03-1, the Chief Justice of the Superior Court opened the discretionary venue of the Business Litigation Session (“BLS”) to accept cases that would otherwise have venue in the judicial district or county of Essex, Middlesex or Norfolk. Administrative Directive No. 03-1 did not, however, as it could not, change the venue statutes as they currently appear in the General Laws. Thus, the process can only proceed on waiver principles.
+With the authority of Administrative Directive No. 03-1, cases can come to the BLS Session in the following ways.
+1.If venue lies in Essex, Middlesex, Norfolk or Suffolk, by filing with the Suffolk County Civil Clerk’s Office and utilizing the special BLS Civil Action Cover Sheet describing why counsel believes the case belongs in the BLS. Upon such filing, the Presiding Justice of the BLS will review the complaint to assess its appropriateness. In particular, if the case is not accepted, counsel will be notified and given 30 days to transfer to the proper couniy or judicial district; unless it is a Suffolk case, in which situation the case will be sent to the Civil Clerk’s Office for assignment to a regular civil time-standards Sessions.
+If a plaintiff files in the BLS in Suffolk, that plaintiff will be deemed to have waived venue in Essex, Middlesex or Norfolk. If the defendant, in its initial pleading, does not object to the Suffolk filing, it too will be deemed to have waived venue in Essex, Middlesex or Norfolk. However, if a defendant does object to the Suffolk filing, and the objection is valid, the case will be transferred to the appropriate county or judicial district.
+2. If a plaintiff files in Essex, Middlesex or Norfolk, or other than in the BLS in Suffolk, a defendant brought into the case who believes the case warrants transfer to the BLS may bring a motion to do so before the Court where the case is pending. If the case is pending in Suffolk, but not in the BLS, the motion may be brought in either the Session to which the case was originally assigned or in the BLS. The Justice before whom the motion is brought will decide, initially at least, if a transfer to the BLS seems appropriate. Here again, if any party in Essex, Middlesex or Norfolk objects to the transfer, and that objection is valid, there should be no transfer because there is no waiver of the statutory venue provisions. If the Session Justice denies the motion, there is no appeal to the BLS. If, however, the Session Justice allows the motion, the case still must be screened in the BLS for appropriateness before being accepted therein.
+3. A Justice in another Suffolk Session, and in an Essex, Middlesex or Norfolk Session if no party validly objects — such objection meaning that the venue statutes do not compel the case to be litigated in Essex, Middlesex or Norfolk — may, on his/her own determination, send a case to the BLS for discretionary review by the Presiding Justice.
+4. If issues are joined in a case filed in Essex, Middlesex or Norfolk with neither party seeking transfer to the BLS, then thereafter no party will be permitted to move for transfer even if all parties assent. The BLS was created to handle and manage cases from start to finish. It is not a place where cases can be sent at the last minute for trial.
+In the situation before the Court, the defendants have not waived, but rather insist upon, their statutory right to venue in Middlesex County. This Court must, therefore, honor that right. It will do so, however, not by dismissing the case, but rather by transferring it to Middlesex County. This is not a case in which the plaintiff wrongfully brought the action in Suffolk County, properly having taken advantage of Administrated Directive No. 03-1. Consequently, no double costs are due under G.L.c. 223, Sec. 1.
+ORDER
+For the foregoing reasons, those aspects of the motions in Papers number 9, 10 and 11 that seek dismissal or transfer to Middlesex County on venue grounds are ALLOWED to the limited extent that this case will be transferred to Middlesex County for all further action herein. No costs shall be awarded to any of the moving parties as a result of this transfer.
