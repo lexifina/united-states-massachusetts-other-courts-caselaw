@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Superior Court"
+docket: "965614F"
+decided: "1996-12"
+citations: ["6 Mass. L. Rptr. 239"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bridgewater Corporation et al. v. Massachusetts Bay Transportation Authority"]
+source_url: "https://static.case.law/mass-l-rptr/6/cases/0239-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1194816
+cites_cases: ["1996 WL 528408"]
+---
+
+# Bridgewater Corp. v. Massachusetts Bay Transportation Authority
+
+## Majority (Sikora, J.)
+
+Sikora, J.
+This case was before the court on December 11, 1996 for hearing on the above-captioned motion. It involves a claim by the plaintiffs that the defendant breached a contract under which it is obligated to remediate certain land contaminated by oil that leaked from underground storage tanks. The defendant seeks dismissal on the grounds that the plaintiffs have not complied with G.L.ch. 2IE, §4A, which contains notice provisions which must be met before a party may bring a suit in the Superior Court to determine the responsibilities of parties potentially liable for environmental cleanup.
+For the reasons which follow, the defendant’s motion to dismiss is DENIED.
+I.Background
+The essential facts are as follows:
+In or about April, 1992, a release of oil was discovered on certain property located in Bridgewater. The Department of Environmental Protection determined that the plaintiff Bridgewater Corporation (as the owner of the property at that time), the plaintiff W.H. Maze Company (as the owner of the underground oil storage tanks leaking and causing the release of the oil), and the defendant MBTA (as the owner of the land on which the oil tanks were physically located) were “potentially responsible parties” for the soil contamination resulting from the leaks, purusant to G.L.ch. 21E, s. 5(a). The three parties conducted extensive remediation efforts over the next several years, but a significant amount of work remained as of June, 1995, when the three parties entered an agreement regarding the remaining work. Pursuant to the agreement, the MBTA was to complete the remediation work on its own land, while Bridgewater and Maze were to complete the remediation work on the property formerly owned by Bridgewater.
+As part of the agreement, the plaintiffs were to pay the MBTA $150,000 as their contribution to the cost of the cleanup to be performed by the MBTA. Subsequently, it became apparent that remediation of the MBTA property would involve substantially more work than was thought at the time of the formation of the agreement: according to the “Draft Work Plan” that was incorporated into the agreement, the cleanup on the MBTA land involved removal of 3,000 cubic yards of soil; but now it might prove necessary to remove 10,000 cubic yards of soil. When the MBTA did not perform its work by the deadline contained in the agreement, the plaintiffs brought this lawsuit in order to compel the MBTA to complete the cleanup.
+The MBTA claims that the agreement between the parties is null and void because of the unexpected volume of soil removal necessary to remediate the land; the plaintiffs argue that the agreement takes into account the possibility that more work would be required than originally envisioned, that the MBTA is required to do the extra work, and that the parties are thereafter required to negotiate an “equitable adjustment” regarding the contribution of the parties to the cost of the extra work.
+II. The Present Motion
+The defendant argues that the lawsuit must be dismissed because the plaintiffs have not met the notice requirements of G.L.ch. 2 IE, §4A. That section governs the procedure-that a party undertaking to perform a cleanup such as the one involved here must follow if it wishes to obtain contribution from another party for the costs involved in the cleanup, or if it wishes to require another party to participate in the cleanup. The party seeking contribution or participation must first send notice to the party from whom it seeks contribution and/or participation, and the party notified must respond within 45 days. Then, the parties must within 60 days confer in good faith to resolve any disputes with respect to the participation or contribution of each in the cleanup. After conferring, either party can, within a certain time, request that the disputes be settled through arbitration or other alternate dispute resolution methods. Only after all of these procedures are exhausted can the original notifying party bring suit in Superior Court seeking contribution or participation. See G.L.c. 2IE, §4A.
+The court agrees with the plaintiffs that they need not have taken the steps required by Section 4A before bringing the present action, for two independent reasons. First, the plaintiff companies did not bring this lawsuit pursuant to ch. 2IE; rather, it is an action to enforce a contractual duly which the defendant MBTA now challenges.
+Second, even if the present action were a chapter 21E lawsuit, the mandatory exhaustion of the Section 4A procedural steps would now be pointless. The parties have already served the purpose of these steps. The 4A notice scheme is designed to encourage the parties to negotiate an agreement about cleanup costs and workload. See Zecco, Inc. v. The Travelers, Inc., C.A. No. 96-10028-GAO. 1996 WL 528408 (D. Mass. Aug. 16, 1996), at 1. The parties have already carried out that process. Repetition of it would serve no additional purpose except delay. The parties can, of course, discuss compromise and solution of the case as the present contract action progresses. Procedural delay would risk sanctions against the parties by the DEP and the protraction of the hazardous condition at the contaminated site. These dangers seem clearly undesirable as consequences of the operation of the statutory scheme of which Section 4A is an integral component.
+III. Further Proceedings
+The plaintiffs have filed a motion for summary judgment. The defendant has opposed it. Both sides have submitted extensive legal argument and affidavit material in support of their positions. In order to decide a motion for summary judgment, the court must determine the presence of any genuine issue of material fact. Materiality hinges, in turn, upon the claims and defenses framed by the pleadings. The present denial of the defendant MBTA’s motion to dismiss clears the way for the submission of its answer.
+To expedite decision of the motion for summary judgment, the court directs the defendant MBTA to file its answer within ten days of receipt of the present decision. With the answer the MBTA should file a supplemental memorandum of law of ten pages or less, if necessary, to address the merits of summary judgment in light of the pleadings. Within ten days thereafter, the plaintiffs may file a responsive memorandum of law. The parties should then inform the session clerk of an agreeable date for final oral argument of the summary judgment motion.
+ORDER
+Accordingly, the court ORDERS as follows:
+1. entry of DENIAL of the defendant MBTA’s motion to dismiss:
+2. filing, within ten days of receipt of that denial, of the MBTA’s answer along with any supplemental memorandum of law upon the pending plaintiffs motion for summary judgment:
+3. filing of any responsive memorandum of law within ten days thereafter by the plaintiff companies: and
+4. joint proposal by the parties of a hearing date, if necessary, upon the pending motion for summary judgment in light of the completed pleadings and any supplemental memoranda.
+The facts affecting the outcome of this motion are not in dispute. Both parties’ written submissions contain extensive recitations of the sequence of events that led to the filing of this lawsuit, and the court does not find it necessary to repeat them here at length. A brief summary is sufficient to put this decision into its proper context.
+he provision of the agreement at issue states: “Notwithstanding any contrary provision of this Agreement, if DEP requires a materially different scope of Work from that contemplated by the Draft Work Plan or requires any other work in excess of the Draft Work Plan (the “Excess Work”), then this Agreement shall be of no force or effect as to such Excess Work and the parties shall negotiate in good faith an equitable adjustment on account of such Excess Work . . .
