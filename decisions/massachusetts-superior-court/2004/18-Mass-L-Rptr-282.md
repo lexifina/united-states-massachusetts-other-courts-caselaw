@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Superior Court"
+docket: "03375"
+decided: "2004-08-10"
+citations: ["18 Mass. L. Rptr. 282"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaret C. Hadley v. Alfonsina A. Bacchiocchi et al."]
+source_url: "https://static.case.law/mass-l-rptr/18/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5672162
+cites_cases: ["369 Mass. 550", "371 Mass. 358", "390 Mass. 419", "393 Mass. 622", "393 Mass. 660", "404 Mass. 14", "410 Mass. 706", "410 Mass. 805", "417 Mass 643"]
+---
+
+# Hadley v. Bacchiocchi
+
+## Majority (Moses, J.)
+
+Moses, J.
+INTRODUCTION
+This is a personal injury action that stems from a two-car accident in South Attleboro, Massachusetts. The plaintiff, Margaret C. Hadley (“Hadley”), was a passenger in one of the vehicles and suffered injuries during the crash. Hadley then brought this suit against the two drivers involved in the accident, Alfonsina A. Bacchiocchi (“Bacchiocchi”) and Lauren Iannelli (“Iannelli”), as well as Mitsubishi Motors Credit of America (“MMCA”), the lessor/owner of Bacchiocchi’s vehicle.
+Hadley, Bacchiocchi and Iannelli were Rhode Island residents at the time of the accident. Hadley now seeks a declaratory judgment that Rhode Island law governs the issue of lessor liability. MMCA, however, claims that Massachusetts law governs. Both Hadley and MMCA have moved for summary judgment on the issue of lessor liability. For the reasons stated below, Hadley’s motion is DENIED, and MMCA’s motion is ALLOWED.
+BACKGROUND
+The following facts are undisputed. The accident occurred on December 29, 2000, near the Hearth & Kettle restaurant in South Attleboro. Bacchiocchi collided with Iannelli while attempting to make a left hand turn into a parking lot. Hadley was a passenger in the vehicle driven by Bacchiocchi. According to tibe police report, Hadley sustained a “serious visible injury.”
+Hadley, Bacchiocchi and Iannelli were Rhode Island residents at the time of the crash. The vehicles driven by Bacchiocchi and Iannelli were both registered in Rhode Island, and Iannelli’s vehicle was owned by a resident of Rhode Island. Bacchiocchi, however, leased her vehicle, a 1997 Mitsubishi Mirage, from Vachon Imports, Inc. (“Vachon”), a Massachusetts corporation in the business of selling and leasing Mitsubishi automobiles.
+Vachon maintains a Mitsubishi dealership located at 1000 Washington Street in South Attleboro. Bacchiocchi leased her Mitsubishi from that dealership in September 1997. Vachon then assigned all right, title and interest in the lease to MMCA. As a result, MMCA owned the Mitsubishi at the time of the accident.
+DISCUSSION
+Summary judgment is appropriate where there are no genuine issues as to any material fact and the moving party is entitled to judgment as a matter of law. Mass.RCiv.P. 56(c); Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue and that the summary judgment record entitles the movant to judgment as a matter of law. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). The moving party may satisfy this burden either by submitting affirmative evidence that negates an essential element of the opposing party’s case or by demonstrating that the opposing party has no reasonable expectation of proving an essential element of his case at trial. Flesner v. Technical Communications Corporation, 410 Mass. 805, 809 (1991); Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991).
+In this case, the choice of law may have a substantial impact on the ultimate outcome of the case. Under Massachusetts law, the owner of a vehicle is not liable for the negligence of a lessee unless there is proof of a master/servant relationship. Cheek v. Econo-Car Rental System of Boston, Inc., 393 Mass. 660, 662 (1985) (holding that, in the case of a leased automobile, negligence of operator may only be imputed to the owner “if at the time of the accident the relationship . . . was that of master and servant,” and the owner “had a right to control the result to be accomplished . . . and the means employed to accomplish it”).
+Rhode Island law is quite different. Under Rhode Island law, the owner of a vehicle “shall be jointly and severally liable with the operator” for any damages caused by the negligence of the operator, regardless of “whether or not proof of financial responsibility has been given.” R.I.G.L., §31-34-4(b) (emphasis added). Thus, under Rhode Island law, MMCA would incur joint and several liability automatically if Bacchiocchi was found negligent.
+When faced with a conflict of law, Massachusetts courts traditionally apply the substantive law of the jurisdiction in which the tort occurred. Cosme v. Whittin Machine Works, Inc., 417 Mass 643, 645 (1994). Occasionally, however, another state may have a stronger interest in the resolution of a particular issue. Pevoski v. Pevoski, 371 Mass. 358, 360 (1976). In these situations, the courts apply a “functional choice of law approach” and consider a series of factors enumerated by the Restatement (Second) of Conflict of Laws (1971) to determine which law to apply. Bushkin Associates, Inc. v. Raytheon Co., 393 Mass. 622, 634 (1985). Those factors are: 1) the needs of the interstate system; 2) the relevant policies of the forum; 3) the relevant policies of other interested states; 4) the protection of justified expectations; 5) the basic policies underlying the law; 6) predictability of uniformity of result; and 7) the ease in the application of the law to be applied. Id., citing Restatement (Second) of Conflict of Laws (1971), §6(2).
+In this case, the balance of factors weighs in favor of Massachusetts law. Both Vachon and MMCA have a substantial interest in the predictability and uniformity of result that would result from the application of Massachusetts law. Were the Court to adopt Hadley’s argument and apply Rhode Island law, Vachon and its assignees could logically be subject to suit under the laws of any state based solely upon the residence of the customer. As MMCA correctly points out, such a decision would negatively impact interstate commerce by 1) creating undue complexity in ordinary business transactions; 2) increasing costs; and 3) discouraging Massachusetts businesses from doing business with out-of-state customers. Accordingly, the needs of the interstate system also favor the application of Massachusetts law.
+It is true that all of the individuals involved in the accident were Rhode Island residents, and the motor vehicles were both registered in the State of Rhode Island. Moreover, there are certainly policy considerations behind Rhode Island’s decision to apply joint and several liability in cases involving lessor liability. Nevertheless, Vachon is a Massachusetts corporation that conducts its business under the laws of Mássachusetts. As the Restatement asserts, “(i]t would be unfair and improper to hold a person liable under the local law of one state when he has justifiably molded his conduct to conform to the requirements of another state.” Restatement (Second) of Conflict of Laws (1971), §6(2) comment g.
+The lease was executed in Massachusetts, and Vachon, Vachon’s customers, and the Commonwealth of Massachusetts have a justified expectation that Massachusetts law will apply to the transaction. In light of these factors, Massachusetts law must govern the issue of lessor liability in this case.
+ORDER
+For the foregoing reasons, it is hereby ordered that Hadley’s motion is DENIED, and MMCA’s motion is ALLOWED.
+Chris Iannelli.
+D/B/A Vachon Mitsubishi.
