@@ -2,6 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "CA947562"
 decided: "1995-02-28"
+decided_as_given: "1995-02-29"
 citations: ["3 Mass. L. Rptr. 379"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
