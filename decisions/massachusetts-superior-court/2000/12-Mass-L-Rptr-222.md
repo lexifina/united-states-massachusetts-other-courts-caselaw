@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "CA990910C"
+decided: "2000-09-12"
+citations: ["12 Mass. L. Rptr. 222"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eastern Casualty Insurance Co., Inc. v. EDJS Floor Covering, Inc."]
+source_url: "https://static.case.law/mass-l-rptr/12/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 192240
+cites_cases: ["229 Mass. 193", "31 Mass.App.Ct. 661", "318 Mass. 175", "356 Mass. 119", "387 Mass. 142", "404 Mass. 14", "424 Mass. 226"]
+---
+
+# Eastern Casualty Insurance v. EDJS Floor Covering, Inc.
+
+## Majority (Fahey, J.)
+
+Fahey, J.
+Plaintiff Eastern Casualty Insurance Company, Inc. (“Eastern”) brings this action to recover the amount of $130,300 in unpaid insurance premiums due under a workers’ compensation policy issued by Eastern. Defendant EDJS Floor Covering, Inc. (“EDJS”) contends that because the unpaid premiums do not pertain to “employees” of EDJS but only to independent contractors, EDJS is not required to pay premiums under the policy. Plaintiff alleges that failure to pay the required premiums constitutes breach of contract (Count I) and breach of the covenant of good faith and fair dealing (Count II). For the reasons set forth below, plaintiff s motion is ALLOWED.
+BACKGROUND
+The undisputed material facts as established by the summary judgment record are as follows. On July 4, 1995, Eastern issued a one-year workers’ compensa-' tion policy to EDJS. The policy was thereafter renewed for a second one-year period running from July 4, 1996 to July 4, 1997. Exhibit 3 at 1, 3. The policy states in part, that Eastern must “pay promptly when due the benefits required of you by the workers' compensation law.” Exhibit 3 at 5. The policy also states that EDJS must pay Eastern premiums for “all other persons engaged in work that could make us liable under . . . this policy [unless] you give us proof that the employers of these persons lawfully secured their workers’ compensation obligations.” Exhibit 3 at 9.
+Eastern subsequently discovered, through a routine audit, that EDJS had been hiring installers to install the flooring and carpeting for their customers. EDJS failed to list these installers as employees, as required by the policy, in order to compute its workers’ compensation premiums. EDJS also failed to provide proof that the employers of these installers “lawfully secured their workers’ compensation obligations,” as is mandated by the policy if EDJS wants to avoid being assessed a premium on these workers. Exhibit 3 at 9.
+DISCUSSION
+Summary judgment is appropriate when no material facts are in dispute and the moving party is entitled to judgment as a matter of law. Mass.R.Civ.R 56(c); Highlands Ins. Co. v. Aerovox, Inc., 424 Mass. 226, 232 (1997). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue and showing that the summary judgment record entitles the moving party to judgment as a matter of law. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). If the moving party establishes the absence of a triable issue, the party opposing the motion must respond and allege specific facts establishing the existence of a material fact in order to defeat the motion. Pederson. 404 Mass. at 17.
+To prevail on its claims, Eastern must establish that the installers are employees of EDJS and not independent contractors. To determine whether a person is classified as an employee or an independent contractor, the courts apply a multifactor test. See Chase v. Independent Practice Assoc., Inc., 31 Mass.App.Ct. 661, 665 (1991). Under the test, an employment relationship is determined by examining “the (employer’s degree of control] over the details of the work done by the employee, the method of payment, the skill required in the particular occupation, and whether the employer supplies the tools, instrumentalities, and place of work . . .” Id. at 665. See also Silvia v. Woodhouse, 356 Mass. 119, 124 (1969).
+The issue of whether an individual is classified as an employee or independent contractor is an issue of law. See McAllister’s Case, 229 Mass. 193 (1918).
+The record supports plaintiffs assertion that the installers are in fact employees of EDJS and not independent contractors. EDJS exercises control over the work to be done by the installers by initiating contact with customers and sending an estimator to the customer’s home or commercial property in order to determine the detail of work to be performed. Exhibit 5 at 28-30. The EDJS estimator determines whether flooring or carpeting needs to be removed before new flooring or carpeting is installed and the installers are called upon to complete this work. Exhibit 5 at 29-30. The supplies and materials that the installer uses for installation are furnished by EDJS and are delivered by an EDJS driver to the job site. Exhibit 5 at 23-24. EDJS schedules and assigns the installers to various jobs and determines which installers report to specific job sites. Exhibit 5 at 40-45. EDJS also monitors the installer’s quality of work and deals with all customer complaints and dissatisfaction. Exhibit 5 at 58. If a customer is unhappy with the work, EDJS directs the installer to fix and repair the problem. Exhibit 5 at 58-59. In addition, EDJS is responsible for compensating the installers every Friday. Exhibit 5 at 34-35.
+As support for its position, plaintiff relies primarily on McAllister’s Case, 229 Mass. 193 (1918). In McAllister, the Supreme Judicial Court held that a wallpaper installer hired by a retail store to install wallpaper in customer’s homes was an employee for the purposes of G.L.c. 152, §1. The Court focused on the degree of control and direction that the employer had over the employee’s work, as well as whether the services of the employee were integral to the employer’s usual business.
+Similarly, here, there is no question but that for the factual reasons described above, EDJS possesses sufficient control and direction over the installer’s work. Exhibit 5 at 20-21. Accordingly, this court finds that the installers were employees as a matter of law, rather than independent contractors.
+“A policy of insurance whose provisions are plainly and definitely expressed in appropriate language must be construed in accordance with its terms.” Cody v. Connecticut General Life Ins. Co., 387 Mass. 142, 146 (1982), quoting Hyfer v. Metropolitan Life Ins. Co., 318 Mass. 175, 179 (1945). The record demonstrates that EDJS did not pay the premium or provide Eastern with evidence of insurance for the installers as was required by the unambiguous language of Eastern’s policy. Failure to do so, therefore, constitutes breach of contract and covenant of good faith and fair dealing.
+ORDER
+For the foregoing reasons, plaintiffs motion for summary judgment is ALLOWED.
+Unless otherwise noted, exhibits cited herein are attached to plaintiffs memorandum of law in support of motion for summary judgment.
