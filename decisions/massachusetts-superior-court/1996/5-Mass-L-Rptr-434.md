@@ -1,0 +1,41 @@
+---
+court: "Massachusetts Superior Court"
+docket: "932181B"
+decided: "1996-06-21"
+citations: ["5 Mass. L. Rptr. 434"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laurence E. Fontaine v. Eric P. McAvene et al."]
+source_url: "https://static.case.law/mass-l-rptr/5-2/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11923630
+cites_cases: ["19 Mass.App.Ct. 296", "195 Mass. 262", "327 Mass. 279", "344 Mass. 695", "354 Mass. 722"]
+---
+
+# Fontaine v. McAvene
+
+## Majority (Butler, J.)
+
+Butler, J.
+The plaintiff, Laurence E. Fontaine (“Fontaine”) has filed suit against Eric P. McAvene (“McAvene”), in his capacity as the Chief of Police of the Town of Lancaster, and Peter O’Malley, John M. Bailey and James, J. Ford, Jr., in their capacities as members of the Board of Selectmen of the Town of Lancaster (“Board”). Fontaine is challenging the denial of his application for a license to peddle. Both Fontaine and the defendants, McAvene and the Board, have moved for summary judgment. For the following reasons, both Motions for Summary judgment are DENIED and the case is REMANDED to the Board for reconsideration.
+BACKGROUND
+Fontaine is a resident of the Town of Lancaster. Between 1984 and 1988, he was annually issued a peddler’s license by the Director of Standards, Office of Consumer Affairs. Fontaine v. McAvene, Civ. No.88-2883 (Worcester Super. Ct. January 23,1990). He sold food and beverages from a canteen truck. In September 1986 Fontaine was arrested for drug possession. At the time of his arrest, a substantial amount of cash was found in his home and was seized.
+In 1987, McAvene, as the Chief of Police for the Town of Lancaster, pursuant to G.L.c. 101, §22, made the required certification to renew Fontaine’s license, and the license was subsequently renewed. In June 1988 the Supreme Judicial Court affirmed a District Court dismissal of complaints against Fontaine which charged possession with intent to distribute marijuana, and hashish. Complaints for possession only of those drugs by Fontaine were returned to the District Court for trial. Id.
+In July, 1988, Fontaine submitted his application for a renewal of his peddler’s license to McAvene. McAvene did not sign it because he did not believe that Fontaine was “of good repute as to morals and integrity” as pursuant to G.L.c. 101, §22. Fontaine brought an action against McAvene and the Town of Lancaster. He brought suit, seeking the Court to order McAvene to certify that Fontaine was “of good repute as to morals and integrity” on his 1988 application for renewal. In January 1990 Judge Mulkern held that McAvene’s refusal to certify was neither arbitrary nor capricious and ordered that Fontaine’s complaint be dismissed. Id.
+In June, 1991, the forfeiture action pertaining to the money found at Fontaine’s home at the time of his arrest, was dismissed with prejudice. In September, 1991, Fontaine again submitted an application for a peddler’s license to McAvene. McAvene again refused to certify that Fontaine was “of good repute as to morals and integrity.” Fontaine filed another suit which was dismissed on May 24, 1993; the merits of the suit were not reached.
+On July 12, 1993, Fontaine made an oral request of McAvene to sign Fontaine’s application for a license. McAvene declined to sign the application, based on the belief that Fontaine was not “of good repute as to morals and integrity.”
+On August 10, 1993, Fontaine applied to the Board for alicense to peddle pursuant to G.L.c. 101, §17. On August 25, 1993, the Board voted to deny Fontaine’s application. The minutes of the Board meeting reflect that the Board denied Fontaine’s application based on input received from Chief of Police McAvene.
+Fontaine filed suit against the Board and McAvene, in his capacity as the Chief of Police of Lancaster. Fontaine is seeking an order that the Board approve his license application, that McAvene sign his application, and that the Board reimburse him for attorney fees. Both Fontaine and the defendants have filed Motions for Summary Judgment.
+DISCUSSION
+General Laws c. 101, §22, requires a signed certificate by the Police Chief “that to the best of his knowledge and belief the applicant therein named is of good repute as to morals and integrity.” The statute places a large amount of discretion in the chief of police. The Court will not challenge the findings of Police Chief McAvene as relating to his denial to certify Fontaine’s license application.
+General Laws c. 101, §17, vests in the Board of Selectmen of a town the power to enact by-laws to regulate the sale of items by peddlers. The pertinent Bylaw of the Town of Lancaster states:
+Section 1. No person shall go from place to place in this Town selling or bartering, or carrying or exposing for sale or barter, any fruits, vegetables or fish in or from any cart, wagon or other vehicle, or in any other manner, without a license therefor from the Board of Selectmen . . . Section 2. The Board of Selectmen shall have authority to grant such license to any person of good repute for morals and integrity . . .
+Article VI, p. 7. The Board denied Fontaine’s license application based on information from McAvene. It is this denial that the Court will address.
+Municipalities and the Commonwealth have a strong interest in regulating peddling. “The business of peddling furnishes such opportunities for the practice of fraud that it is a proper subject for legislative regulation.” Hall-Omar Baking Co. v. Commissioner of Labor & Industries, 344 Mass. 695, 701 (1962), quoting Commonwealth v. Hana, 195 Mass. 262, 265. General Laws c. 101, §17 does not provide for a hearing. “In a case such as the present where the Commonwealth has a strong interest in regulating an occupation in order to protect the public and where that occupation is not one in which the individual affected has a substantial vested interest, the licensing procedure is wholly discretionary, and there is no constitutional right to a hearing.” Commonwealth v. Gordon, 354 Mass. 722, 726 (1968), citing Clarke v. Board of Collegiate Authy. 327 Mass. 279, 283-85 (1951).
+Although there is no constitutional right to a hearing under G.L.c. 101, §17, “arbitrariness or caprice is the more readily found by a court in an agency decision where the individual affected has not been given a chance to have its say.” Yerardi’s Moody Street Restaurant & Lounge, Inc. v. Board of Selectmen of Randolph, 19 Mass.App.Ct. 296, 302 (1985). In the present case, the Board based its decision to deny Fontaine’s license application on the recommendation of Police Chief McAvene.
+It can be presumed that McAvene’s denials of Fontaine’s license applications are based on Fontaine’s 1986 arrest on drug charges. Since McAvene’s original denial of Fontaine’s application in 1988, the charges against Fontaine for possession with intent to distribute were dropped and it was determined that the money seized during Fontaine’s arrest was not the product of a drug deal. If a hearing were held, Fontaine would have an opportunity to present evidence, including this information. The Board may, if it chooses, take additional evidence as it sees it.
+From the Board’s minutes it appears that the Board relied solely on McAvene’s findings as to Fontaine’s “good repute for morals and integrity.” While under G.L.c. 101, §22, McAvene has discretion in deciding whether to certify an individual to be of good moral character, neither G.L.c. 101, §17, nor the Town of Lancaster Bylaws state that the Board is bound by the Chief of Police’s determination whether an individual is of “good repute as to morals and integrity.”
+Conducting a hearing in these circumstances, would ensure that the Board has considered all relevant information and has made an independent judgment, using its own sound discretion.
+ORDER
+For the foregoing reasons, it is hereby ORDERED that both the plaintiffs and the defendants’ Motions for Summary Judgment are DENIED. The case is REMANDED to the Board for a hearing on the issue of whether Fontaine is eligible for a peddler’s license within the meaning of G.L.c. 101, §17 and the Bylaws of the Town of Lancaster.
