@@ -1,0 +1,23 @@
+---
+court: "Massachusetts House of Representatives"
+decided: "1825"
+citations: ["1 Rep. Cont. El. 236"]
+reporter: "rep-cont-el"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LYNN."]
+source_url: "https://static.case.law/rep-cont-el/1/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6684080
+---
+
+# Lynn
+
+## Majority
+
+The election of James Pratt, Jr., and Thompson Burrill, two of the members returned from the town of Lynn, was controverted by James Gardner and others, because the said Pratt and Burrill were not chosen until after the town had voted not to send but one representative, and had chosen one accordingly.
+At the January session, the committee on elections reported as follows, on this case: —
+“ On the 13th day of May, 1824, a town meeting was held in Lynn, for the choice of one or more representatives from said town to the general court. After the meeting was opened, a motion was made to send one representative, and one only; but before that motion was put, another motion was made to send six, which was put and decided in the negative. Other motions were then made, to send five, four, three, and two, and severally put and decided in the negative. The first motion, to send one, and one only, was then put and decided in the affirmative, by twenty-one votes in the affirmative, and nineteen in the negative, as appears by parol evidence, there being no record of the number of votes given. The voters were then called upon to bring in their votes for one representative. They were brought in and counted, and Ezra Mudge, Esq., was chosen, about eighty-five votes being given for him, and about twenty-five against him, as appears by parol evidence, no record of the numbers having been made. After the choice of one representative, a motion was made to reconsider the vote which had passed, to choose one representative, and one only, and being put, was carried in the affirmative, by about forty-five voting in the affirmative, and about twenty-nine in the negative, as appears by parol evidence, A motion was then made to choose two representatives, in addition to the one already chosen, and carried in the affirmative, (the town being entitled to that number and more.) The votes were then called for and carried in, and upon being counted, it was found that James Pratt and Thompson Burrill were chosen. The petitioners state, that the votes given for James Pratt were recorded as given for James Pratt, Junior. The facts are, that two men resided in said town, by the name of James Pratt. The person who claims the seat, is known in Lynn, by the name of James Pratt only, and is never designated as James Pratt, Junior; and the other James Pratt is a man very far advanced in life, known only as a day laborer, and ineligible to the office of representative. It is a fact, admitted by the petitioners, that the individual claiming the seat, was the one intended by the voters. The committee are unanimously of opinion, that, as no other James Pratt was eligible to the office, it would be doing violence to every sound rule of proceeding, in such eases, to presume that the electors voted for one whom they could not constitutionally elect, when the individual intended was constitutionally eligible, and that no substantial objection arises, on this ground, to the member holding his seat. As to the first ground of iobjection, mentioned by the petitioners, the committee are of opinion, that notwithstanding a vote was passed, to choose one, and one only, yet it was competent for the town, while the town-meeting, called for the purpose of choosing one or more representatives, was open, to reconsider the vote to choose one only, and add two more; that in so doing, they exercised only their constitutional rights, and that no good cause is shewn for vacating the seats of the said James Pratt and Thompson Bur-rill. The committee have examined several reported cases of controverted elections, but have not been able to find any precisely like the one at bar; but, upon general principles, the committee feel .warranted in the opinion above expressed, as well as from what they know to be the usage of towns, on the subject of reconsideration of votes. By a certificate of the town clerk of Lynn, the committee were informed that such was the usage of that town, when a larger number was present. The committee therefore report, that the said James Pratt and Thompson Burrill, are entitled to hold their seats.”
+The report was agreed to.
+45 J. H. 66, 119.
+Same, 160, 165, 186, 187, 190.
