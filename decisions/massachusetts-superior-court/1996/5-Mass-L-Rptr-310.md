@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "915338D"
 decided: "1996-05-06"
-citations: ["5 Mass. L. Rptr. 310", "5 Mass. L. Rptr. 309"]
+citations: ["5 Mass. L. Rptr. 310"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Douglas S. Grant et al. v. Hexalon Real Estate, Inc. et al."]
 source_url: "https://static.case.law/mass-l-rptr/5/cases/0310-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11925283
-cites_cases: ["26 Mass.App.Ct. 611", "317 Mass. 652", "326 Mass. 93", "345 Mass. 66", "345 Mass. 727", "36 Mass.App.Ct. 608", "383 Mass. 218", "383 Mass. 796", "388 Mass. 153", "39 Mass.App.Ct. 1", "404 Mass. 484", "414 Mass. 747", "416 Mass. 684", "444 N.E.2d 982", "458 N.Y.S.2d 518", "708 F.Supp. 436"]
+cites_cases: ["26 Mass.App.Ct. 611", "317 Mass. 652", "326 Mass. 93", "36 Mass.App.Ct. 608", "383 Mass. 218", "383 Mass. 796", "39 Mass.App.Ct. 1", "416 Mass. 684", "444 N.E.2d 982", "458 N.Y.S.2d 518", "708 F.Supp. 436"]
 ---
 
 # Grant v. Hexalon Real Estate, Inc.
