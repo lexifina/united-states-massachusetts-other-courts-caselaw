@@ -1,0 +1,68 @@
+---
+court: "Massachusetts Appellate Tax Board"
+docket: "99770, 99771, 99772, 99773"
+decided: "1982-01-19"
+citations: ["3 Mass. Supp. 148"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["By John P. Mulvihiil, Chairman", "Attest: Steven C. Douglas Clerk of the Board"]
+parties: ["FASHION AFFILIATES, INC. vs. COMMISSIONER OF REVENUE (formerly State Tax Commission)"]
+source_url: "https://static.case.law/mass-supp/3/cases/0148-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3291463
+cites_cases: ["286 App. Div. (NY) 446", "354 Mass. 85", "355 Mass. 454", "356 Mass. 8", "358 Mass. 563", "371 Mass. 254"]
+---
+
+# Fashion Affiliates, Inc. v. Commissioner
+
+## Majority
+
+These are appeals under the formal procedure pursuant to G.L.c. 62C, § 39 from the refusal of the appellee to abate use taxes assessed under c. 641 for the period from December 1973 through November 1976,
+These findings of fact and report are made pursuant to a request by the appellee under the provisions of c. 58A, § 13, as amended.
+FINDINGS OF FACT AND REPORT
+The appellant, Fashion Affiliates, Inc., is a Massachusetts corporation engaged in the business of manufacturing women’s dresses. It has a principal place of business at 33 Dover Street, Brockton, Mass.
+As a result of an audit by the Department of Corporations and Taxation, the Commissioner of Corporations and Taxation notified the appellant by letter dated January 17, 1977 of his intention to assess .sales and use taxes for the period from December 1973 through November 1976. The appellant had filed a sales and use tax return only for the third quarter of 1976 (July, August and September). The notice of intention to assess referred to above was in the amount of $5,903.02, but the parties agree that only $5,467.47 of this amount is attributable to the “Markamatic System” which is the subject matter of these appeals. Notice of assessment of sales and use taxes was sent to the appellant on May 27, 1977 and the taxes were subsequently paid. The use taxes were on the monthly rental of $5,800 per month of the “Markamatic System”, which is certain machinery used by the appellant in the manufacture of its dresses.
+On or about January 10, 1978 the appellant timely filed with the appellee applications for abatement of the said sales and use taxes. The appellee did not act on said applications for six months from the date of filing and they were deemed denied by operation of law on July 10, 1978. Timely appeals were filed with this board on July 31, 1978.
+On August 27, 1978 the appellee filed a “Plea in Bar” moving that the petitions be dismissed for the reason that the appellant did not file any sales and use tax returns for the period of time in question other than the third quarter of 1976. The board denied the “Plea in Bar” on January 30, 1979.
+In order to determine if the rental of the “Markamatic System” is liable to taxation, we must first describe appellant’s dress manufacturing operation.
+A dress has its start as an idea of a designer who draws a pencil sketch and selects the fabric to be used for the dress. (Exhibit 8). The pattern maker then cuts out a paper pattern, measured in sample size 10, of the parts of the dress which are stitched together to form a garment that looks like the dress the designer sketched. it is then tried on a sample size form where the necessary adjustments are made.
+The sample pattern dress then enters the “Markamatic System” room where the pattern grader makes notations on the pattern pieces in order to indicate the increments and decrements which the computer will have to calculate in order to convert this sample size pattern into the various sizes of dresses.
+The “Markamatic System” is an automatic grading and marking system designed for the apparel industry. It is an assemply of five electronic devices, controlled by a central processing unit described as follows. A digitizer is an apparatus that records the X and Y coordinates of the various sizes and shapes of the pattern pieces within one-thousandth of an inch. The digitizer is connected to the central processing unit which has two magnetic disks attached to it in which this information is kept for future reference. Attached to this is a card reader capable of reading punch cards and a typewriter-like piece of machinery \yhich will type out messages, correct errors or keep track of programs running on the computer. The next piece of equipment attached to the computer is a cathode-ray tube which will verify and display on a television screen the pattern pieces that have been digitized on a field representing the cloth. It has a penlight piece that allows the operator to move the pattern pieces around and locate them in the field, rotate them, enlarge them or make them smaller so as to make maximum use to the fabric, which comes in bolts measuring one hundred yards long. The last piece of machinery is a plotter or drawing machine which, under the direction of the computer, will draw out the completed paper maker, using information which has been kept in the disk memory of the computer.
+The heart of the “Markamatic System” is the mini-computer. It stores data on numerous sample pattern pieces. Once a sample pattern has been put into the system, Markamatic automatically grades to the desired size range, marks the layout, then produces full-size paper master markers that are ready for the cutting room. The paper markers are stenciled to the cloth to guide a cutting knife in cutting the fabric to the desired size. This paper marker is destroyed in the cutting process. The pieces of the dress are then stitched together and pressed to make a dress.
+Insofar as it is a question of fact, the board finds that the “Markamatic System” is “machinery used directly and exclusively in ‘an industrial plant’ in the actual manufacture” of dresses to be sold.
+Insofar as it is a question of fact, the board finds that the “Markamatic System” effects a direct and immediate physical change in the raw material (cloth) which, when sewn together, become dresses to be sold.
+OPINION
+The first issue is whether the board had jurisdiction to hear these appeals where the appellant did not file use tax returns at or before bringing its applications for abatement.
+Chapter 62C, § 37 provides that an application for abatement may be filed if the tax is excessive in amount or illegal. ^
+Chapter 62C, § 38 provides in relevant part as follows:
+“No tax assessed on any person liable to taxation shall be abated unless the person assessed shall have filed at or before the time of bringing his application for abatement, a return as required by this chapter for the period to which his application relates...”
+The monthly use tax return “as required by this chapter” is contained in c. 62C, §§ 5 and 16(h)(i).
+This is not a case of a dispute as to the amount of the tax, but whether or not a use tax is in fact due. The appellant .in these appeals has always maintained that it is not liable for any use taxes on the rental “Markamatic Syatem” at all. We do not think it was the intent of the legislature in enacting said § 38 to bar a person on whom use taxes were assessed for which he was not liable from obtaining an abatement because he had not filed use tax returns at or before bringing his applications for abatement.
+The board has found above that the rental charges for the “Markamatic System” on which the Commissioner of Corporations and Taxation has assessed a use tax are exempt from taxation under c. 64H, § 6(s); therefore, the appellant is not “liable to taxation” and is not required to file use tax returns for the periods in question.
+“The policy that taxing statutes be strictly enforced and that citizens be diligent to protect their rights thereunder does not require exaction, as though there were taxes due, of assessments made without any basis in fact or in any construction of the law.” Leonardi v. State Tax Commission, 355 Mass. 454, 459 (1969).
+The second issue is on the merits and it is whether certain machinery rented by the appellant, known as the “Markamatic System” is exempt from use taxes under c. 64H, § 6(s) as ameneded by St. 1971, c. 555, § 45, and made applicable to use taxes by c. 641, § 7(b).
+The use tax is the counterpart of the sales tax and is imposed under c. 641, § 2 upon the storage, use or other consumption in the Commonwealth of tangible personal property purchased from any vendor.
+Chapter 64H, § 6 reads in pertinent part as follows:
+“The following sales and the gross receipts therefrom shall be exempt from the tax imposed by this chapter:—
+(s) Sales of machinery, or replacement parts thereof, used directly (and exclusively)...in an industrial plant in the (actual) manufacture, conversion or processing of tangible personal property to be sold...(and machinery shall be deemed to be used directly and exclusively in the actual manufacture, conversion or processing of tangible personal property to be sold only where such machinery is used solely during a manufacturing conversion or processing operation to effect a direct and immediate physical change upon the tangible personal property to be sold; to guide or measure direct or immediate physical change upon such property where such function is an integral and essential part of turning, verifying or aligning the component parts of such property; or to test or measure such property where such function is an integral part of the production flow or function.”)
+The appellee contends that the “Markamatic System” is not exempt from the use tax because it is not used “directly and exclusively”*in the “actual” Manufacturing of tangible personal property to be sold and “does not effect a direct and immediate physical change upon the tangible personal property to be sold.” The board does not agree.
+As the Court said in Lowell Gas Company and another v. Commissioner of Corporations and Taxation, 1979 Mass. Adv. Sh. 323, 327, in discussing c. 64H, § 6(s), “We have recognized that the scope of these exemptions is somewhat uncertain. Wakefield Ready Mixed Concrete Co. v. State Tax Commission, 356 Mass. 8, 10 (1969). There is no requirement that this type of exemption be interpreted narrowly, Id. at 12. Courier Citizen Co. v. Commissioner of Corps, and Taxation, 358 Mass. 563, 569 (1971). Ace Heating Service, Inc. v. State Tax Commission, 371 Mass. 254 (1976).”
+The Court also said in Courier Citizen Co. v. Commissioner of Corps. and Taxation, supra at Page 571, “A taxing statute should receive a practical construction.” Appellant’s integrated process of manufacturing dresses using the “Markamatic System” cannot be reduced to fragments or segments. The process of manufacturing a dress does not start when the pattern is affixed to the cloth as the appellee contends, but begins much earlier in the process.
+To be competitive, a manufacturer must make a certain style dress in a tariff of sizes which necessitates a tariff of patterns. The “Markamatic System” is a modem and efficient method of producing the required tariff of patterns.
+In determining whether the “Markamatic System” is used directly and exclusively in the actual manufacture of tangible personal property to be sold, the board applied the ^functional approach set forth in Niagra Mohawk Power Corp. v. Wanamaker, 286 App. Div. (NY) 446 and embraced in Courier Citizen Co. v. Commissioner of Corps, and Taxation, supra, page 571, and Lowell Gas Company and another v. Commissioner of Corporations and Taxation, supra, page 328, as follows:
+(1) Is the disputed item necessary to production? ...Although dresses can be produced by hand-cutting and stitching, such an operation in mass-production would not be economically feasible.
+(2) How. close physically and causally is the disputed item to the finished product? ...The system plays an integral part in all steps necessary to the finished product except the actual stitching together which is the last step in “finishing the product”.
+(3) Does the disputed item operate harmoniously with the admittedly exempt machinery to make an integrated and synchronized system? Yes.
+“Any other interpretation runs counter to the plain statutory purpose to tax only the sale of the end product.” Courier Citizen Co. v. Commissioner of Corps. and Taxation, supra, page 573.
+Even though the exemption statute, c. 64H, § 6(s), was somewhat limited by the amendments made by St. 1971, c. 555, § 45, it is the opinion of the board that the , “Markamatic System” comes within the express terms of the statute. It does “effect a direct and immediate physical change upon the tangible personal property to'be sold”. It “guides a direct and immediate physical change upon such property”. In the digitizing function, it directs the sizes into which the cloth is cut as well as aligns the cloth in order that the component parts of the dress may be manufactured. In its function of creating a paper maker,, the machine guides and aligns the cloth cutter.
+Tax statutes are to be strictly construed and all doubts are to be resolved in favor or the taxpayer. Mass. Assoc. of Tobacco Distributors v. State Tax Commission, 354 Mass. 85 (1968).
+Our decision for the appellant was promulgated April 9, 1981.
+APPELLATE TAX BOARD
+By John P. Mulvihiil, Chairman
+A True Copy
+Attest: Steven C. Douglas Clerk of the Board
+(Sales and use tax returns were filed for the third quarter of 1976 but no tax was due).
+Emphasis supplied.
+The term “sale” includes the lease or rental of tangible personal property, c. 64H, § l(12)(a).
+Words in parenthesis were added by St. 1971, c. 555, §45.
