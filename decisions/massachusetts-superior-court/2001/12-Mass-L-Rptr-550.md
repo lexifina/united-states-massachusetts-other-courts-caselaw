@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Superior Court"
+docket: "964871"
+decided: "2001-01-22"
+citations: ["12 Mass. L. Rptr. 550"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A.W. Chesterton Company v. Allstate Insurance Company et al."]
+source_url: "https://static.case.law/mass-l-rptr/12/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 192227
+cites_cases: ["110 F.R.D. 685", "118 F.R.D. 24", "121 F.R.D. 141", "139 F.R.D. 269", "144 F.R.D. 600", "1999 WL 1260280", "408 Mass. 480", "449 U.S. 383", "487 F.2d 480", "50 F.R.D. 117", "542 F.2d 655", "560 F.2d 326", "623 A.2d 1118", "66 F.R.D. 154", "839 F.Supp. 86"]
+---
+
+# A.W. Chesterton Co. v. Allstate Insurance
+
+## Majority (McHugh, J.)
+
+McHugh, J.
+In accordance with the case-management order I entered earlier, discovery is proceeding in tranquil fashion due to the professional efforts of able counsel for all parties. The parties now, however, are at an impasse regarding whether certain documents described in a privilege log plaintiff prepared and furnished to defendants are or are not covered by the privileges plaintiff asserts. Plaintiff, of course, says they are. Defendants disagree and have filed the present motion to compel their production.
+The present record is insufficient to allow me to determine whether or not the documents in fact are or are not covered. From the papers the parties have filed, however, it appears that three principles will be of key importance in ultimately determining whether specific documents are or are not covered. While this court has no power to issue broad pronouncements on abstract principles, it does have the power, akin to its power to render declaratory judgments, to make such rulings, judgments, orders and declarations in a pretrial context as will materially aid the litigation’s ultimate disposition. See generally Mass.R.Civ.P. 16. With that thought in mind, the three principles are as follows:
+First, a privilege does not exist simply because the privilege-holder asserts it. Instead, the burden is on the holder of the privilege to demonstrate, factually and legally, that the privilege exists and covers the documents or communications the privilege-holder claims it covers. See Colonial Gas Co. v. Aetna Cas. & Sur. Co., 144 F.R.D. 600, 605 (D.Mass. 1992); Sham v. Hyannis House Hotel, Inc., 118 F.R.D. 24, 25 (D.Mass. 1987); Fairbanks v. American Can Co., Inc., 110 F.R.D. 685, 687 (D.Mass. 1986).
+Second, the work-product privilege only applies to documents actually prepared in anticipation of some specific litigation. A general apprehension that litigation may be brewing, a general concern that litigation may sometime occur and a general belief that litigation is in the air are not enough. Mezer v. Horan, 1999 WL 1260280 (Worcester Sup. 1999) citing City of Worcester v. HCA Management Co., Inc., 839 F.Supp. 86, 88 (D.Mass. 1993); In re Atlantic Financial Management Securities, Ltd., 121 F.R.D. 141, 144 (D.Mass. 1988).
+At the same time, the work-product privilege applies to documents created in anticipation of litigation other than the litigation in which the documents are sought. To be sure, several courts have concluded that. the privilege applies only to the litigation in which the motion to compel was filed. United States v. IBM, 66 F.R.D. 154, 178 (S.D.N.Y. 1974); Honeywell, Inc. v. Piper Aircraft Corp., 50 F.R.D. 117, 119(E.D.Pa. 1970). That, however, is the minority view. The majority view is to the contrary. See In re Murphy, 560 F.2d 326, 334-35 (8th Cir. 1977); United States v. Leggett & Platt, Inc., 542 F.2d 655, 660 (6th Cir. 1976); Duplan Corp. v. Moulinage et Retordiere de Chavanoz, 487 F.2d 480, 482, 405 (4th Cir. 1973); Colonial Gas Co. v. Aetna Casualty & Surety Co., 139 F.R.D. 269, 275 (D.Mass. 1991).
+The majority rule is the better rule. Given the strong support decided Massachusetts cases have given to the relationship between client and attorney, see generally, e.g., Matter of John Doe Grand Jury Investigation, 408 Mass. 480 (1990), that is the rule I am persuaded Massachusetts appellate courts will adopt when and if the issue is squarely presented to them. The work-product privilege rests on the proposition that an attorney should be able to prepare his or her case without fearing that the effort he or she expands in doing so ultimately will be used against his or her client. In this context, as in others, protection of the client is paramount. As the Eighth Circuit put it
+(c)ounsel should be allowed to amass data and commit . . . opinions and thought processes to writing free of concern that, at some later date, an opposing party may be entitled to secure any relevant work product documents merely on request and use them against his [or her] client.
+In re Murphy, supra, 560 F.2d at 334. Limiting the work-product privilege to the case in which the documents are prepared thus would severely undermine one of the privilege’s principal goals.
+Third and finally, a privilege-holder is not required to disclose purely factual portions of documents covered by the attorney-client privilege. That privilege, after all, covers facts disclosed to an attorney by a client in confidence for the purpose of seeking legal advice. See generally P. Liacos et al., Handbook of Massachusetts Evidence 777 (7th ed. 1999).
+Defendants’ argument in the contrary rests on misapprehension of the thrust of the passage from Upjohn Co. v. United States, 449 U.S. 383, 395-96 (1981), quoted., inter alia, in Hoechst Celanese Corp. v. National Union Fire Insurance Company, 623 A.2d 1118, 1122 (De. 1992). That passage stands for the proposition that a fact is not immunized from discovery by a client’s act of disclosing it to an attorney. The disclosed fact is and remains discoverable. The client’s disclosure of the fact, however, lies near the heart of the privilege. Put another way, to require disclosure of the “purely factual” portions of a communication between a lawyer and a client invariably requires disclosure of two facts: the underlying substantive fact and the fact that the client has disclosed the underlying fact to the attorney. The latter fact may itself have evidentiary value and is an essential part of what the attorney-client privilege protects.
+ORDER
+In light of the foregoing, it is hereby ORDERED that Defendants’ motion to compel production of documents should be, and it hereby is, DENIED without prejudice.
