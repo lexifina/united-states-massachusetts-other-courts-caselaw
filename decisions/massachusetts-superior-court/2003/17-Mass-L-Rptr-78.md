@@ -1,0 +1,44 @@
+---
+court: "Massachusetts Superior Court"
+docket: "011179B"
+decided: "2003-08-14"
+citations: ["17 Mass. L. Rptr. 78"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R.L. Whipple Co., Inc. v. Coastal Energy, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/17/cases/0102-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1078061
+cites_cases: ["214 Wis.2d 443", "231 Conn. 381", "369 Mass. 550", "373 N.E.2d 957", "374 Mass. 524", "390 Mass. 419", "404 Mass. 14", "405 Mass. 207", "410 Mass. 706", "410 Mass. 805", "533 N.E.2d 764", "543 A.2d 1238", "562 N.W.2d 109", "650 A.2d 153", "784 So.2d 862"]
+---
+
+# R.L. Whipple Co. v. Coastal Energy, Inc.
+
+## Majority (McCann, J.)
+
+McCann, J.
+For the plaintiff, R.L. Whipple Co., Inc., Philip M. Stone, Esq.
+For the defendant, Coastal Energy, Inc., Michael L. Mahoney, Esq. For the defendant, Pond View Excavation Corp., Michael J. Mascis, Esq.
+R.L. Whipple Co., Inc.’s (Whipple) complaint is in three counts. Counts I and II are each against Coastal Energy, Inc. who is not a party to this Motion for Summary Judgment. Count III is a negligence count against Pond View. Essentially it is a third-party complaint by the employer of an injured employee which seeks to recover damages as a result of an injury to its employee Paul Landiy (Landiy) causing its Workers’ Compensation insurance to be increased.
+FACTS
+Landiy was employed by Whipple. He was injured while at work at a construction project at UMass Memorial Health Care’s Hahnemann Campus at 281 Lincoln Street, Worcester, Massachusetts. The accident occurred May 24, 1999.
+Whipple claims Dana Fernandes (Fernandes) an employee of Pond View Excavation Corp. (Pond View) was negligent and caused the injuries to Landiy. Whipple claims that Workers’ Compensation benefits paid to Landiy have caused Whipple’s insurance costs to be increased in two respects: (1) a dividend loss of $41,275.00 for the dividend payable in July 2001; and (2) an increased experience modification difference of $7,048.
+Whipple asserts that it therefore has suffered damages in its increased insurance costs as a result of Pond View’s negligence in regard to the injuiy to Landry. "Whipple seeks by its action to recover such loss from Pond View.
+DISCUSSION
+Summary judgment shall be granted where there are no genuine issues as to any material fact and where the moving party is entitled to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue, “and [further] that the moving party is entitled to judgment as a matter of law.” Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). A party moving for summary judgment who does not have the burden of proof at trial may demonstrate the absence of a triable issue either by submitting affirmative evidence that negates an essential element of the opponent’s case or “by demonstrating that proof of that element is unlikely to be forthcoming at trial.” Flesner v. Technical Communications Corp., 410 Mass. 805, 809 (1991); accord, Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991). “If the moving party establishes the absence of a triable issue, the party opposing the motion must respond and allege specific facts which would establish the existence of a genuine issue of material fact in order to defeat [the] motion.” Pederson, supra, 404 Mass, at 17. “[T]he opposing party cannot rest on his or her pleadings and mere assertions of disputed facts to defeat the motion for summary judgment.” LaLonde v. Eissner, 405 Mass. 207, 209 (1989).
+1.Plaintiff has failed to state a claim upon which relief can be granted.
+G.L.c. 152 sets forth guidelines for the initiation of a Third-party Action when Workers’ Compensation benefits have been paid to an employee. The language of §15 specifically excludes the employer from initiating a Third-party Claim based on negligence. The statute makes no provision for the employer to share in the recovery from a Third-party Action. The statute specifically states that it is the insurer who may recover from a third-party tort-feasor the Workers’ Compensation benefits it has paid. The injured employee is entitled to any excess recovery. G.L.c. 152, §15.
+The statute is devoid of any provision providing for the employer to recover any alleged costs of running and insuring its business. If a workers’ compensation carrier opts to pursue a Third-party Action and recovers, such recovery will later be reflected in a reduction in the employer’s insurance cost. G.L.c. 152, §53A provides for a complex and comprehensive treatment of “expense modification” and premiums. The statute takes into account that payment recovery may occur. It expressly provides that where previously paid Workers’ Compensation benefits are recovered by an insurer from a negligent third party the premium rating reports must be revised. G.L.c. 152, §53A(4).
+This Court takes judicial notice that Landiy is a plaintiff in a third-parly complaint against Pond, Worcester Superior Court Docket No. WOCV199902457. Any recoveiy in that Third-party Action will benefit Whipple’s insurer and thus Whipple will be appropriately compensated under c. 152, §53A.
+Whipple’s third-party suit against Pond View in this present action is an attempt to interfere with the regulation of Workers’ Compensation third-party recoveiy as provided for in the controlling statute G.L.c. 152. Employers enjoy the protection of further risks of suit by the exclusivity of the Workers’ Compensation statute. Employer’s immunity from tort claims by a plaintiff employee bars a third-party defendant’s right of contribution from the employer. Liberty Mutual v. Westerlind, 374 Mass. 524, 373 N.E.2d 957 (1978).
+2.Pond View owes no duty to Whipple.
+A reasonable person would not foresee and appreciate any danger of harm to Whipple’s insurance costs in the present set of facts where Pond View’s employee, Fernandes, is alleged to have caused injuries to Landry, Whipple’s employee. A nexus between Whipple’s lost profits and the act of Pond View’s employee is too tenuous to impose liability for such collateral consequences. RK Constructors, Inc. v. Fusco Corporation, 231 Conn. 381, 650 A.2d 153 (1994).
+3.The attempt may result in double recovery.
+G.L.c. 152, § 15 provides that in the event that Pond View is proved to be negligent against Landry, in Landry’s Third-party Action, the insurer will recover compensation it paid for Landiy. If that happens, in Landry’s Third-party Action, Whipple’s insurer would be made whole and Whipple should have little or no effect on its Workers’ Compensation loss ratio and therefore no damages to Landry’s on-the-job injury. G.L.c. 152, §53A provides for the complex and comprehensive treatment of “expense modification” and premiums. The statute takes into account that payment recovery may occur and expressly provides that where previously paid Workers’ Compensation benefits are recovered by an insurer from a negligent third party, the premium rating reports must be revised. G.L.c. 152, §53A(4).
+4. Case of first impression.
+There do not appear to be any statutory provisions and no decisions by either the Supreme Judicial Court or the Massachusetts Appeals Court which permits a claim raised by Whipple in this case. An explanation for that might be the exclusivity provisions of G.L.c. 152 and the statutory scheme which the legislature has clearly and fully allocated among employees, employers and insurers as to how any third-party recovery will be shared. G.L.c. 156, §§15 and 53A. Decisions in other states which have considered the issue have ruled that an employer cannot recover its Workers’ Compensation insurance costs through a Third-party Action against an alleged third-party tort-feasor. RK Constructors, Inc. v. Fusco Corporation, supra (Conn.); Schipke v. Grad, 562 N.W.2d 109 (1997) (South Dakota); Vogel v. Liberty Mutual Insurance Co., 214 Wis.2d 443, 571 N.W.2d 704 (Wisconsin); Margolis v. Jackson, PA.Super. 182, 543 A.2d 1238 (1988) (Pennsylvania); Cincinnati Bell Telephone Company v. Straley, 40 Ohio St.3rd 372, 533 N.E.2d 764 (1988) (Ohio); Louisiana Swabbing Services, Inc. v. Enterprise Products Company, 200-1161 La.App.3rd Cir. 5/2/01, 784 So.2d 862 (Louisiana).
+For the reasons set forth Whipple fails to state a claim against Pond View upon which it is entitled to recover and Count III of the complaint against Pond View Excavation Corp. is dismissed.
+ORDER
+The Motion for Summary Judgment of the defendant Pond View Excavation Corp. is ALLOWED as to Count III.
+“Either the employee or insurer may proceed to enforce the liability of the third party . . .”
