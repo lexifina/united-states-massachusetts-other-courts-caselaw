@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "952297"
+decided: "1997-04-23"
+citations: ["6 Mass. L. Rptr. 654"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hession Enterprises, Inc. v. Commonwealth of Massachusetts Architectural Access Board"]
+source_url: "https://static.case.law/mass-l-rptr/6/cases/0670-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1194592
+---
+
+# Hession Enterprises, Inc. v. Commonwealth Architectural Access Board
+
+## Majority (Cowin, J.)
+
+Cowin, J.
+INTRODUCTION
+Pursuant to G.L.c. 30A, §14, plaintiff Hession Enterprises, Inc. (Hession), seeks judicial review of the decision of the defendant Architectural Access Board (Board) that Hession violated the Board’s accessibility regulations by failing to provide vertical access for handicapped individuals to the second floor of its building, Finian’s Restaurant at 910 Washington Street, Dedham (the building). Each party has filed a motion for judgment on the pleadings. A hearing was held on said motions on April 7, 1997. The Court has considered the arguments of the parties, the materials submitted prior to the hearing and additional materials that were submitted following the hearing.
+BACKGROUND
+The Board is responsible for promulgating rules and regulations designed to make public buildings accessible to and functional and safe for use by physically handicapped persons. G.L.c. 22, §13A (1994 ed.); 521 C.M.R. §2.1 (1977).
+All construction, reconstruction, alteration, and remodeling of public buildings or other facilities open to the public must conform to the Board’s regulations. G.l,. c. 22, §13A; 521 C.M.R. §3.1 (1993); 521 C.M.R. §2.4 (1977). “Public buildings” are defined as privately or publicly financed buildings that are open to the public and used by the public. 521 C.M.R. §4.11 (1977).
+The Board’s regulations provide that if work being performed on a building amounts to more than twenty-five percent (25%) of the one hundred percent (100%) equalized assessed value of the building, the entire facility must comply with all the Board’s regulations. 521 C.M.R. §4.7.2.(C) (1977). The accessibility regulation here at issue is 521 C.M.R. §14.1 (1977): “Buildings ... having two (2) levels shall provide ramp or elevator access to each level.”
+On January 24, 1995, the Board notified Hession that its restaurant at 910 Washington Street, Dedham violated its regulations because vertical access to the second floor for handicapped individuals was not provided. Hession denied that it was in violation. The Board further informed Hession that the reason Finian’s Restaurant was in violation was because improvements in an amount greater than twenty-five percent of the assessed value of the building had been made within a 24-month period, thus subjecting the building to the requirements of the accessibility regulations. The issue raised by this plaintiff is whether transfer of ownership of a building to someone who had no ownership interest at the time the improvements were made has the effect of exempting the building from the regulation’s requirements.
+In this case, renovation work on the building was done during the period March 1981 to August 1982 and in October 1981, the total cost of which was greater than 25% of the assessed value of the building at that time. Because of the cost of the renovation work, the building was required to comply with the regulations for access for handicapped individuals. The building was not in compliance because vertical access was not provided to the second floor. Hession argued to the Board that it did not purchase the property until 1994 and thus it neither owned the site nor operated a restaurant thereon at the time when the construction work was done. Accordingly, Hession maintained that it should not be responsible for the ramifications of construction that occurred a decade before it owned the building.
+On September 11, 1995, the Board held a hearing concerning Hession’s failure to comply with the accessibility regulations. Hession offered the above argument in contending that as the buyer of Finian’s Restaurant in 1994 it was not obligated to remedy a past violation occurring while it did not own the building.
+On September 25, 1995, the Board issued a decision stating that a party who buys a property already in violation of the Board’s regulations is responsible for bringing the property into compliance after the purchase. The Board’s reasoning was that outstanding violations in a building do not disappear when the building is sold. The Board informed Hession that it could seek a variance and ordered it to prepare a plan demonstrating how access to the second floor would be provided in order to remedy the violation. On October 20, 1995, Hession filed a complaint seeking judicial review of the Board’s decision.
+DISCUSSION
+Plaintiffs argument would in effect permit owners of public buildings to defeat the purpose of the Board’s regulations merely by transferring title to a building to a new owner. This would essentially render much of the accessibility regulations meaningless. A violation of law survives transfers in ownership and is not erased by a sale of the building if, as in this case, it is the type of violation that the Legislature intended would continue in effect from one owner to the next. Further, the fact that the building was not in compliance with the Board’s regulations could have been determined at the time of purchase of the locus by the plaintiff. While there are no cases on this subject, it clearly was not the Legislature’s intention to exempt buildings from handicapped accessibility because of a change in ownership. Otherwise, the requirement could be evaded merely by conveying the property.
+The situation presented here is not unique. The Massachusetts lead paint statute, for example, requires a new owner of a building to abate any lead-containing materials found in the purchased premises. See G.L.c. Ill, §197. The focus of these improvement statutes and regulations is on the site involved and not on the individual owner. A transfer of title cannot be permitted to defeat the purpose of these regulations. For the above reasons, the defendant’s motion for judgment on the pleadings is ALLOWED.
+While the Board’s decision cites the 1993 version of the Board’s regulations, this opinion refers to the 1977 version of 521 C.M.R. because the 1977 regulations were in effect when the relevant construction work, see infra, was performed in 1981. This citation difference is insignificant because the two versions are substantially similar with respect to the violation(s) germane to this case.
+This opinion, however, cites procedural and policy aspects of the 1993 regulations which have superseded and revised previous versions of the regulations. 521 C.M.R. §1.3 (1993) (“521 CMR supersedes and revised the Rules and Regulations of the [Board] . . . filed ... on March 3, 1977”).
+The 1993 citation for this regulation is 521 C.M.R. §35.1 (1993).
