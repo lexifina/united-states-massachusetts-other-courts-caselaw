@@ -1,0 +1,46 @@
+---
+court: "Massachusetts Appellate Decisions"
+docket: "6240; No. 5643"
+decided: "1966"
+citations: ["35 Mass. App. Dec. 131"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PERMA-HOME CORP. v. SUMNER LAZARUS"]
+source_url: "https://static.case.law/mass-app-dec/35/cases/0131-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4043815
+cites_cases: ["278 Mass. 429", "282 Mass. 196", "293 Mass. 552", "294 Mass. 187", "295 Mass. 527", "297 Mass. 448", "297 Mass. 479", "303 Mass. 367", "309 Mass. 223", "312 Mass. 570", "313 Mass. 612", "314 Mass. 167", "317 Mass. 145", "325 Mass. 79", "338 Mass. 568", "338 Mass. 765", "339 Mass. 4", "346 Mass. 349", "349 Mass. 250"]
+---
+
+# Perma-Home Corp. v. Lazarus
+
+## Majority (Durkin, J.)
+
+Durkin, J.
+This is an action of contract in which the plaintiff seeks to recover the sum of $2,405.00 on an account annexed. The defendant’s answer was a general denial, illegal transaction, excuse from performance and estoppel.
+At the trial there was evidence tending to show the following: The defendant was a salesman in the employment of the plaintiff corporation from June 5, 1964,. until February 19, 1965. The defendant was employed on a so-called “draw against commission basis”; at the termination of the defendant’s employment with the plaintiff corporation his drawing account exceeded commissions that he had earned by the sum of $2,405.00. The defendant at the commencement of his term of employment with the plaintiff corporation orally agreed to be responsible for all sums received in excess of commissions earned, regardless of the status of his commissions. On or about September 25, 1964, the defendant advanced to the position of a “Closer”, and orally agreed to be responsible for all moneys he had drawn as a “Lead-taker”. The plaintiff presented a written agreement to the defendant entitled “Closer Agreement with Perma-Home Corporation”, which was an express written agreement for the defendant to be personally responsible for any money drawn in excess of commissions earned. The defendant did not sign this agreement.
+The defendant denied that he ever orally agreed that he would be responsible for any sums received in excess of commissions.
+The defendant at the close of trial and before final arguments made the following requests for rulings that the court denied:
+4. If the court finds that the only evidence of an express or implied contract to repay excesses on earned commissions from a source other than future earned commissions was from testimony from the plaintiff and that the said testimony was contradicted and rebutted by the defendant, such evidence cannot be construed as “fair preponderance” of evidence of an express or implied agreement that any overdrawn commissions were to be paid from a source other than future earned commissions, wherefore the court must find for the defendant as a matter of law.
+5. That the written agreement to the defendant by the plaintiff entitled “Closer Agreement with Perma-Home Corporation” was an express written agreement for the defendant to be personally responsible for any overdrawn commissions. If the court finds that the defendant did not, in fact, sign or otherwise enter into the aforesaid agreement, and refused to sign the said agreement and left the employ of the defendant after said agreement was presented to him for signature, such action by the defendant was a repudiation of any express agreement and the plaintiff under these circumstances cannot substantiate the burden of proof of showing an agreement by implication, wherefore, the court must find for the defendant as a matter of law.
+The plaintiff made the following requests for rulings that the court allowed:
+2. There is enough evidence in the case at bar to warrant both an express contract or an implied contract between the parties to support a finding for the plaintiff for the excess of advances over commissions earned.
+3. A finding for the plaintiff is warranted upon all the evidence.
+4. A finding for the defendant is not warranted upon all the evidence.
+The court found for the plaintiff and made the following findings of fact:
+“I find that there was an express agreement between the parties that the weekly advances made to the defendant by the plaintiff were loans and were to be paid back to the plaintiff from the commissions the defendant earned or from other sources; and that when the defendant left the employ of the plaintiff, he owed the plaintiff the sum of $2,405.00.”
+The defendant has presented for review the correctness of the trial court’s disposition of the plaintiff’s and defendant’s requests for rulings.
+It was held in Perma-Home Corp. v. Nigro, 346 Mass. 349, 353 and restated in Pesanelli v. Lombardi, 349 Mass. 250, that the rule which has been adopted in this jurisdiction is that “in the absence of an express or implied agreement to repay any excess of advances over the commissions earned, the employer may not recover from the employee the amount of the excess.” Here the judge has made a finding of fact warranted by the evidence that there was an express agreement.
+It clearly appears that the judge in denying the defendant’s request No. 4 considered that it was based upon a novel theory, unsupported by any reliable authority to substantiate as a principle of law, that the defendant’s denial of the plaintiff’s testimony must be so weighed in the scales of justice that the plaintiff’s evidence, if believed, cannot be construed as “fair preponderance” of evidence.
+The defendant’s requested ruling No. 5 sought to be reviewed is based upon a fragmentary portion of the evidence and was therefore properly denied. Norton v. Boston El. Ry., 317 Mass. 145; Caruso v. Shalit, 282 Mass. 196, 198, 199. The denial of request No. 5 by the judge was correct in that it is not only fragmentary but also a request for a finding of fact. Castano v. Leone, 278 Mass. 429, 431; Gibbons v. Denoncourt, 297 Mass. 448, 457; Geraci v. A. G. Tomasello & Son, Inc., 293 Mass. 552.
+The defendant claims to be aggrieved by the granting of the plaintiff’s requests, Nos. 2, 3 and 4.
+To the extent that No. 2 relates to evidence warranting a finding of an express agreement, the judge has found that there was such an express agreement. The report sets forth ample recitation of evidence, that, both at the commencement of employment and later, the defendant orally agreed to be responsible for the excess of commissions earned. Findings of fact based upon oral testimony are final in the absence of clear manifestation in the report that they had not any support in the evidence or from rational inferences arising from the evidence or unless they are wrong as a matter of law. Dolham v. Peterson, 297 Mass. 479; Barttro v. Watertown Square Theatre, Inc., 309 Mass. 223, 224; MacDonald v. Adamian, 294 Mass. 187. Since the result is based upon the finding of an express agreement, any error resulting from the inclusion in the request of the words “or an implied contract” is harmless and did not prejudice the defendant.
+The trial judge was not obliged to accept the defendant’s testimony as the true facts. He could disbelieve it as he apparently did in accepting the plaintiff’s evidence as shown by his finding in its favor.
+The granting by the judge of the plaintiff’s requests Nos. 2 and 3 was justified by the fact that there was ample evidence as appears from the report of an express contract. These two requests are to the effect that a finding for the plaintiff is “warranted” upon all the evidence and were properly allowed.
+Findings made on oral evidence will not be disturbed if they can be sustained upon any reasonable view of the evidence. O’Toole v. Magoon, 295 Mass. 527; Codman v. Bean, 312 Mass. 570. It cannot be said that this finding was unsupported by the evidence. Butler v. Cromartic, 339 Mass. 4. The weight to be given to the oral evidence of witnesses was for the trial judge and was not reversible except as affected by error in rulings of law. Deitrick v. Siegal, 313 Mass. 612, 613.
+As for the plaintiff’s request No. 4, we believe that to have been improperly granted. Obviously, in view of the sharply conflicting evidence both for and against the existence of an express agreement in this case a finding of fact either way was warranted. Denial of requests may be rendered harmless and not prejudicial by the special findings of the trial judge warranted by the evidence. Cassiani v. Bellino, 338 Mass. 765, 766; Perry v. Hanover, 314 Mass. 167, 175, 176; Horton v. Tilton, 325 Mass. 79; M. DeMatteo Construction Co. v. Commonwealth, 338 Mass. 568, 585; Wood v. Spedoni, 303 Mass. 367. We believe that the special findings of an express agreement, warranted by the evidence that such an agreement was made at the beginning of the employment, makes it clear that the defendant was not harmed by the granting of the plaintiff’s request No. 4.
+There was no prejudicial error in the granting of the plaintiff’s requests and in the denial of the defendant’s requests and the report is ordered dismissed.
+Arnold L. Slavet Herbert S. Hades
+of Boston of Boston
+For Plaintiff For Defendant
