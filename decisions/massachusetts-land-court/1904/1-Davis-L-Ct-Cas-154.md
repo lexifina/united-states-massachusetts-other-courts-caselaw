@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Land Court"
+decided: "1904-06"
+citations: ["1 Davis. L. Ct. Cas. 154"]
+reporter: "davis-l-ct-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLARD PUTNAM, TRUSTEE, v. MARIA F. HILL."]
+source_url: "https://static.case.law/davis-l-ct-cas/1/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6764553
+cites_cases: ["115 Mass. 204", "125 Mass. 287", "132 N. Y. 430", "153 Pa. St. 294", "158 Mass. 577", "171 Mass. 220", "189 Mass. 353", "2 Cush. 327", "2 Met. 234"]
+---
+
+# Putnam v. Hill
+
+## Majority
+
+In 1885 one Lake, then the owner of a tract of land which comprised the present estates of both the petitioner and the respondent, conveyed the respondent’s lot to her, with the building thereon, by a deed which called for a frontage on the street of thirty-five feet from the land of one Spring, who was the adjoining owner on the west. The land remaining in Lake is now owned by the petitioner. The boundary line between the respondent and the petitioner was never defined on the ground, delineated on a plan, or its exact location in any way asserted by either party, until by a survey made in 1902 the boundaries of the Spring land were determined. It then appeared that the eaves of the respondent’s house, which still remain as they were originally built, overhung the petitioner’s boundary line by six inches, and the respondent claims the right to have them so continue.
+On this question no Massachusetts case has been cited that is directly in point. On the general subject of the acquirement of easements by implied grant and by implied reservation there has been a good deal of conflict of decisions and of dicta both in England and in this country. The confusion seems to have arisen from a failure to observe the distinction, as to an easement implied by law, between a grant and a reservation. The whole subject is very fully discussed in Jones on Easements, Sections 126 to 136.
+In England, after full consideration and some conflict of authorities, the distinction has been clearly drawn and the law settled. Suffield v. Brown, 4 DeG. J. & S. 185. Wheeldon v. Burroughs, L. R. 12 Ch. Div. 31. Russell v. Watts, L. R. 25 Ch. Div. 559.
+And so in some of the American cases. “ As a grantor cannot' derogate from his own grant, while a grantee may take the language of the deed most strongly in his favor, the law will imply an easement more readily in favor of a grantee than it will in favor of a grantor, and this distinction explains many of the apparent inconsistencies in the reported cases. Some learned Judges in considering what may he termed an implied grant as distinguished from an implied reservation, without however mentioning the distinction, have used language apparently applicable to all easements existing by implication.” Wells v. Garbutt, 132 N. Y. 430.
+In Massachusetts an easement will not he implied by way of reservation unless it be of a right- that is actually necessary to the grantor’s remaining estate. The deed is to be construed most strongly against the grantor, and unless the case be one of actual necessity, and even then one which the grantor cannot supply for himself at reasonable' expense, no easement will be implied in his favor by reservation. Johnson v. Jordan, 2 Met. 234. Buss v. Dyer, 125 Mass. 287. (Note, and see O’Brien v. Murphy, 189 Mass. 353, 355.)
+As to a grant, however, the same rule of construction should work substantially the opposite result. As the grant is to be construed most strongly against the grantor, there should pass by way of implied grant whatever is either' necessary to the beneficial enjoyment of the land granted, or is obviously used in connection with it, if in the power of the grantor to convey.
+A case directly in point is the Pennsylvania case of Grace Church v. Dobbins. The facts are substantially identical with those in the case at bar, and the Court lays down the proposition that “ where an owner of land subjects part of it to an open, visible, permanent and continnons service or easement in favor of another part, and then aliens either, the purchaser takes subject to the burden or the benefit as the Case may he,” and adds that “ this is the general rule founded on the principle that a man shall not derogate from his own grant.” Unfortunately, however, the Court not only failed to distinguish between a grant and a reservation; hut went on to say that most of the cases in Pennsylvania are cases of implied reservation; in which “ the rule has been uniformly held as above stated. Its enforcement would be a fortiori where the vendee purchases the dominant estate.” While both the precedents cited and much of the dicta are contrary to the Massachusetts cases, the decision itself, as well as the principal contention on which it rests, seems to be perfectly sound. Grace Church v. Dobbins, 153 Pa. St. 294.
+The whole matter, like every question of the kind, rests on the intention of the parties. The petitioner argues that the overhang of six inches in the eaves cannot be deemed to be really necessary to the respondent’s estate. But in the case of a grant, unlike that of a reservation, the implication of intent is not limited by necessity. An implied grant of an easement is not to be extended by construction beyond what was necessary or what is fairly shown to have been within the intention of the creator of it.” Baker v. Willard, 171 Mass. 220.
+In the case at bar the grant was of a lot of land with the buildings thereon, standing as now,' complete and obvious, and with eaves projecting as at present. There was no mistake mutual or otherwise, as to the distance of the boundary line from the house. It was simply allowed to remain undetermined. The 'right to maintain the house as it existed at the date 'of the grant must be deemed to have passed to the respondent under her deed. Johnson v. Jordan, 2 Met. 234. Thayer v. Payne, 2 Cush. 327. Keats v. Hugo, 115 Mass. 204. Case v. Minot, 158 Mass. 577.
+G. A. A. Pevey for petitioner.
+Nay & Abbott for respondent.
+Decree accordingly.
