@@ -1,0 +1,36 @@
+---
+court: "Massachusetts District Court"
+docket: "81-1135-MC"
+decided: "1982-03-01"
+citations: ["3 Mass. Supp. 362"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["John McNaught, United States District Iudge", "John J. McNaught United States District Judge"]
+parties: ["William DAVIS, Jr., plaintiff vs. P.M. VIDEO, INC., defendant"]
+source_url: "https://static.case.law/mass-supp/3/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3294226
+cites_cases: ["326 U.S. 310", "361 Mass. 441"]
+---
+
+# Davis v. P.M. Video, Inc.
+
+## Majority (McNaught, D.J.)
+
+MEMORANDUM AND ORDER
+McNaught, D.J.
+The plaintiff in this civil action, a resident of Marshfield, Massachusetts, seeks to recover for injuries which he allegedly sustained on February 6, 1981 when he fell from a ladder in Kingston, Rhode Island. At the timé of the incident, the plaintiff was “undergoing employment training” at the defendant’s job site in Rhode Island. He was then being instructed and supervised by one Daniel Cole, an employee of the defendant corporation. The complaint alleges that the plaintiff was injured due to negligence on the part of Mr. Cole in failing to secure a ladder properly. The defendant (whose correct name is P.M. Video Network, Inc.) was organized under the laws of the State of Delaware and has a principal place of business in Warwick, Rhode Island. The action came on to be heard on the defendant’s motion to dismiss for lack of personal jurisdiction over the defendant. Fed. R. Civ. P. 12(b)(2).
+The question submitted for resolution is whether the conduct or actions of the defendant were such that this Court may exercise personal jurisdiction pursuant to Mass. General Laws, c. 223A (the long-arm statute).
+The plaintiff relies upon Section 3(a) of Chapter 223A inasmuch as it provides that: “A .court may exercise personal jurisdiction over a person, who acts directly or by an agent, as to a cause of action in law or equity arising from the person’s: (a) transacting any business in this Commonwealth;...”.
+In support of his position, the plaintiff submitted affidavits of Mr. Davis, Jr. and his friend, William Meech. These affidavits are to the effect that before February 1, 1981, plaintiff and Mr. Meech were requested to meet with a John Puma and Steven Meehan, officers of defendant. “This meeting took place at a house in Walpole, Massachusets, being rented at the time by Mr. Puma and Mr. Meehan. One purpose of the meeting was to discuss potential employment with P.M. Video. Following these negotiations, a second meeting was arranged for February 1, 1981 at the same location. At this meeting, Mr. Puma offered both the plaintiff and Mr. Meech a job with^P. M. Video, which was accepted. Pursuant to this agreement, plaintiff and Mr. Meech again met with Mr. Meehan and Mr. Puma on Februdry 4, 1981, at the same location, to follow them to their place of business in Warwick, Rhode Island. On or about February 6, 1981, while undergoing employment training at the defendant’s job site in Rhode Island, the plaintiff sustained severe personal injury when he fell from a residential roof.”
+This is the activity principally relied upon by the plaintiff as constituting the transaction of business in the Commonwealth of Massachusetts. Plaintiff, then, relies upon “the formation of the employment agreement in Massachusetts” as well as the fact that representatives of the defendant picked up various supplies (antennae, cables, decoders, etc.), work orders and checks from New England Subscription T.V. in Norwood, Massachusetts.
+As counsel for the plaintiff argued at the hearing of this motion, the Supreme Judicial Court of Massachusetts intended the function of its long-arm statute as an assertion of jurisdiction over the person “to the limits allowed by the Constitution of the United States”. “Automatic” Sprinkler Corp. of America v. Seneca Foods Corp., 361 Mass. 441, 443 (1972). I conclude that on the facts as presented by plaintiff, this Court is not authorized to exercise jurisdiction over the defendant under Sectiop 3(a) of the Massachusetts statute. Plaintiff conceded that the complaint attempts to set forth a theory of liability in tort for negligence on the part of Daniel Cole, which, it is claimed, is attributable to the defendant P.M. Video, Inc. The most that the plaintiff has been able to establish (see paragraph 6, Count I of the complaint) is that the plaintiff was hired in Massachusetts to perform duties on behalf of the defendant outside the Commonwealth of Massachusetts. There is nothing from which one might draw an inference that it was even within the contemplation of the parties that the plaintiff would perform any portion of the work (if hired) in Massachusetts. Indeed, it appears to have been expected that the plaintiff, as an employee of defendant, would work totally outside this Commonwealth. The only “business” that was done here, according to plaintiff, was the business of entering into the contract, of employment. The cause of action did not arise from the transaction of that business, in the commonly understood meaning of that phrase. The offer and the acceptance necessarily preceded activity under the contract, but even at that time, the defendant had its principal places of business in Warwick, Rhode Island and in New York, had no office in Massachusetts, was not licensed to do business in Massachusetts, did not solicit business here, owned no real estate here, had no bank accounts here, had never entered into contracts to perform services in or to supply goods to Massachusetts, derived no revenue from goods used or services rendered in Massachusetts, and its only contract here was the performance of work for a Massachusetts corporation, Preview Subscription Television Systems, all of which work was done outside of Massachusetts.
+The injury of which plaintiff complains arose, not out of the cbntract of employment, but out of alleged negligence (if there be any liability on the part of the defendant) in the State of Rhode Island. Sections 3(b), (c), and (d) provide no basis for the assertion of jurisdiction over the defendant.
+The maintenance of this action in the District of Massachusetts would “offend traditional notions of fair play and substantial justice”. International Shoe Co. v. Washington, 326 U.S. 310, 316 (1945). What was done here by way of offering employment to two Massachusetts citizens had no substantial impact on the economy of the Commonwealth. A tort may have been committed, but if it was, it was one which arose out of conduct in the State of Rhode Island, allegedly negligence on the part of a fellow employee, for which the plaintiff seejes to hold the employer liable in tort.
+In sum, the facts here do not present a picture of the minimum contacts with the forum state required by International Shoe, supra, to allow the exercise of personal jurisdiction.
+John McNaught, United States District Iudge
+JUDGMENT
+In accordance with the Memorandum and Order issued this same date, it is hereby ORDERED, ADJUDGED, and DECREED that the motion of the defendant seeking dismissal is allowed.
+Judgment is for the defendant.
+John J. McNaught United States District Judge
