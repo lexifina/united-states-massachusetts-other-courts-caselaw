@@ -1,0 +1,25 @@
+---
+court: "Massachusetts Land Court"
+decided: "1907-05"
+citations: ["1 Davis. L. Ct. Cas. 279"]
+reporter: "davis-l-ct-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN J. SULLIVAN v. MANUEL P. BEGASO, et al."]
+source_url: "https://static.case.law/davis-l-ct-cas/1/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6765564
+cites_cases: ["10 Allen 146", "11 Gray 217", "137 Mass. 516", "16 Gray 142", "163 Mass. 428", "190 Mass. 87", "195 Mass. 571", "196 Mass. 179", "6 Allen 401", "8 Gray 515"]
+---
+
+# Sullivan v. Begaso
+
+## Majority
+
+This is a writ of entry brought under ‘the provisions of Revised Laws, Chapter 178, Section '47, by a purchaser at execution sale to recover possession of land specially attached by him as fraudulently standing in the name of Anna Begaso, since deceased, under whom all of the tenants claim title by inheritance in addition to a claim of homestead made by Manuel P. Begaso individually.
+On September 13, 1902, the defendant Manuel P. Begaso was seized of the demanded premises, which constituted his home in Gloucester and was the only property which he then had. He had bought the place some years before with his own money and had partially paid off the outstanding mortgage on it. On that date, September 13, 1902, said Manuel committed an assault upon one Monize. On the same day, and immediately following the assanlt, he retained counsel. On September 19th he executed a mortgage to his counsel as security for professional services, and on the 20th, .by advice of counsel and for the purpose, as he testified, of putting his property in his wife’s name in snch a manner that “ I can stay in the house,” he executed a declaration of homestead under the statute, and also a conveyance through a conduit without any pecuniary consideration and expressly subject to the homestead, to his wife the said Anna Begaso. On October 7th the property was specially attached in an action of tort brought by said Monize against said Manuel as being property the record title to which was fraudulently standing in the name of the said Anna. Judgment was obtained by the plaintiff (see Monize v. Begaso, 190 Mass. 87) and the property was thereafter duly sold on execution sale to the plaintiff on March 21, 1906. The said Anna died January 22, 1904, intestate, and the tenants are her surviving husband and children, the latter all being minors.
+Two points have been made by the defense. Rirst, that the conveyance to the wife was not fraudulent against the plaintiff, the liability to damages arising from the assault on Monize not constituting the latter a creditor against whom a voluntary conveyance can be deemed to be a fraud. I find that both the conveyance and the homestead declaration were made for the purpose of placing this property out of the reach of any claim growing out of the assault which had been committed against Monize. There is some divergence of decision in this country on whether claims for damages arising from torts are within the protection of the statutes against fraudulent conveyances, and there is hot much law on the subject in this state. I rule that the conveyance was fraudulent as against Monize and those claiming under him, and that the demandant is entitled to judgment in this action. Livermore v. Boutelle, 11 Gray 217; Leonard v. Bolton, 163 Mass. 428. (Note:—And see Shepherd v. Shepherd, 196 Mass. 179.)
+The second point is that the tenants are nevertheless entitled to the benefit of the homestead, the execution not having been levied “ for a’ debt contracted ” before the writing required by section 2 of R. L. Chapter 131, was recorded; see R. L., Chapter 131, Sec. 4. There seems to be even less law with regard to this. The matter of homestead is one of public policy rather than of private right, established by statute for the protection of the family, and which, like the similar estate of dower, can only be barred in the specific manner provided therefor, and is not even subject to estop-pel. It is good except as against certain specified matters, among them “ for a debt contracted ” béfore tbe declaration is recorded. There is a marked distinction in tbe phraseology, as well as in tbe intent, of the homestead exemption act and that of tbe statute as to fraudulent conveyances. Under tbe latter from tbe time of tbe statute of Elizabeth a design to defraud future creditors is within tbe meaning of tbe act. Subsequent creditors may avoid a conveyance made with an express intent to defraud them, whereas tbe homestead exemption is good as against all but debts actually contracted. There is no “debt” under a chose'in action in tort until after judgment. Stevens v. Stevens, 10 Allen 146; Rice v. Southgate, 16 Gray 142; Pelham v. Aldrich, 8 Gray 515; Child v. Boston Co., 137 Mass. 516; and see Savage v. Shaw, 195 Mass. 571. Judgment may be entered for tbe demandant, subject to tbe estate in homestead of Manuel P. Begaso. See Castle v. Palmer, 6 Allen 401.
+J. M. Marshall for demandant.
+M. J. Conolly for respondents.
+So ordered.
