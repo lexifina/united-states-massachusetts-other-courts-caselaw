@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Superior Court"
+docket: "001893"
+decided: "2001-01-23"
+citations: ["12 Mass. L. Rptr. 551"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Graphics Financial Group, Inc. v. ARC-O-Type Graphics, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/12/cases/0551-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 192246
+---
+
+# Graphics Financial Group, Inc. v. ARC-O-Type Graphics, Inc.
+
+## Majority (Fabricant, J.)
+
+Fabricant, J.
+After hearing on the defendants’ motion for summary judgment as to the plaintiffs claims, and having considered all materials submitted and arguments made, the Court concludes that the motion must be allowed, for the following reasons.
+The motion for summary judgment could properly be allowed based solely on the plaintiffs’ failure to respond to the defendants’ statement of undisputed material facts, submitted pursuant to Superior Court Rule 9(A)(b)(5), since the facts set forth in that statement establish the defendants’ full compliance with all obligations under the agreement, and the rule provides that facts contained in such a statement “shall be deemed to have been admitted unless controverted in the manner” required by the rule. It appears, however, that the plaintiffs failure to respond to the Rule 9A(b)(5) statement resulted solely from inadvertence of counsel, and that the plaintiff does seek to offer evidence in contradiction to one — and apparently only one — of the facts set forth there. Under the circumstances, as a matter of discretion, rather than apply Rule 9A(b)(5) strictly the Court would permit plaintiffs counsel additional time to submit the response required to present the factual dispute. As the factual dispute is relatively simple, and is clearly presented by the affidavit submitted by the plaintiff, the Court sees no need to go through that process, but rather has considered the affidavit offered, and the facts asserted in it, in the light most favorable to the plaintiff, for purposes of the summary judgment analysis. On that basis, the Court concludes that the only factual dispute between the parties is not material to the plaintiffs claims, and that the defendants are entitled to judgment as a matter of law on those claims.
+The evidence offered, in the light most favorable to the plaintiff, and with all reasonable inferences drawn in the plaintiffs favor, presents a dispute as to whether the defendants, having fully complied with all other requirements of the contract, and having fully met all conditions to their exercise of the purchase option, met the contractual deadline for giving notice of exercise and making the token one dollar payment. It is undisputed that the defendants did give notice and tender payment on October 25, 1999, but that date was some thirty days later than the deadline specified in the contract. Whether defendants had done so previously, within the specified time, is in dispute.
+This dispute is material, however, Only if the deadline set in the purchase option was of the essence of the contract, such that a failure to meet this requirement would be an act of default. The terms of the contract, in the context of the transaction as a whole, establish beyond dispute that it was not. The essential nature of the transaction, as reflected in the contract documents, was a secured loan. Indeed, the plaintiffs own affidavit characterizes the transaction as such, asserting that “the Defendants approached [the plaintiffs predecessor] seeking a loan to purchase” the equipment, and that the plaintiffs predecessor “responded by loaning the Defendants the purchase price.” In the context of such a financing transaction, notice of exercise of the purchase option was not necessary to dispel any uncertainty regarding the purchaser’s intention, since no uncertainty could possibly exist; no reasonable purchaser would choose not to exercise the option, nor could any reasonable lender have any doubt of its exercise. Rather, notice and nominal payment were a mere formality, serving only to trigger the ultimate transfer of title that was a fundamental object of the transaction from its beginning. Accordingly, the factual dispute over their timing is immaterial to the plaintiffs claim of default under the contract, and the defendants are entitled to judgment as a matter of law on the plaintiff s claim.
+CONCLUSION AND ORDER
+For the reasons stated, the defendants’ Motion for Summary Judgment is ALLOWED.
+The conclusion that this factual issue is in genuine dispute rests on a particularly charitable reading of the record. In the face of an affidavit of the defendant Lydia Baghdassarian explicitly asserting that she mailed the payment within the required time, the plaintiffs affidavit asserts only that it has “no records” of the payment. Lack of a record does not in itself establish the plaintiffs lack of receipt, still less the defendants’ failure to mail, which is all the contract by its terms required the defendants to do. Nevertheless, the Court concludes that, were the jury to credit the plaintiffs witness and discredit the defendant’s, it could infer from the plaintiffs lack of records that the defendant did not make the required mailing as claimed.
