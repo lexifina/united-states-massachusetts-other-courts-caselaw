@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Superior Court"
+docket: "96296"
+decided: "1997-05-09"
+citations: ["7 Mass. L. Rptr. 373"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Michael Llorca"]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0373-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11783005
+cites_cases: ["423 Mass. 216"]
+---
+
+# Commonwealth v. Llorca
+
+## Majority (Rivard-Rapoza, J.)
+
+Rivard-Rapoza, J.
+Background
+On March 14, 1997, the defendant came before the court on his motion for discovery of certain counselling records of the complaining witness, Maia Livramento. A court order issued requiring production of records by all service providers listed in the “Discovery Information Form” filed by the Commonwealth. Orders were thus directed to the Women’s Center in New Bedford, the University of Massachusetts Counselling Center in North Dartmouth and St. Luke’s Hospital. The Women’s Center notified the court that it considered its records to be privileged and confidential and that the Center was without authority to release any such records pertaining to Ms. Livramento.
+On May 7, 1997, the defendant sought enforcement of the original production order and the Women’s Center, through counsel, was heard in opposition. The court indicated that it would treat the Center’s opposition as a motion to reconsider the issuance of the original order and the parties proceeded on the understanding that the issue before the court was whether the defendant’s original motion for production satisfied the threshold requirements of Commonwealth v. Fuller, 423 Mass. 216 (1996).
+At the hearing the defendant presented, through representations of counsel, evidence that the complainant had made certain inconsistent statements relative to both the defendant and the events surrounding the alleged rape. Thus, the defendant indicated that the statement by the complainant that she had not seen the defendant in three years conflicted with her later admission that on three occasions in 1996 the defendant had visited her at her college dormitory and that she had borrowed money from him. The defendant also brought out that the complainant had at some point acknowledged that she and ihe defendant had been sitting on a couch watching the Olympics prior to the alleged rape and that, contrary to her original statement, she had not been raped immediately upon entering a second-floor apartment with the defendant.
+Discussion
+The defendant has not sustained his burden of demonstrating a “good faith, specific, and reasonable basis for believing that the [rape counselling] records will contain exculpatory evidence which is relevant and material to the issue of the defendant’s guilt.” Commonwealth v. Fuller, 423 Mass. 216, 226 (1996).
+The defendant has pointed out inconsistencies in the complainant’s statements concerning events on and before the date of the alleged offense, although such inconsistencies did not constitute a denial or recantation of the claim that a rape had, in fact, occurred. The issue now before the court is whether the existence of such inconsistent statements is sufficient to permit the defendant access to otherwise privileged records pertaining to the complainant.
+The court concludes that the defendant has failed to show how the records sought would tend to create a reasonable doubt as to the defendant’s guilt which might not otherwise exist in the absence of access to the counselling records. Id. The inconsistent statements of the complainant put forward by the defendant do not rise to the level of the predicate showings which Fuller describes as sufficient to warrant an in camera inspection of a complainant’s rape counselling records. Id. Thus, there has been no credible showing that the complainant has previously “fabricated allegations of sexual assault,” nor has there been a “showing of bias against the defendant” or a presentation of “credible information suggesting that the complainant has difficulty distinguishing fantasy from reality.” Id.
+Accordingly, an in camera inspection of the complainant’s counselling records is not warranted at this time. To rule otherwise would require adopting a rule of “virtually automatic in camera inspection for an entire class of extremely private and sensitive privileged material.” Id. at 224. Even an in camera review is “a substantive invasion of the privacy of a complaining witness” and a routine allowance of such an examination “would make the privilege no privilege at all.” Id. At 225 and 224.
+ORDER
+For the foregoing reasons, it is ORDERED that the prior order of the court for production of records entered on March 14, 1997 (Rivard-Rapoza, J.) is hereby VACATED as it pertains to the Women’s Center and the University of Massachusetts Counselling Center and the defendant’s motion for discovery of privileged counsel-ling records from the Women’s Center and the University of Massachusetts Counselling Center is DENIED.
+The University of Massachusetts Counselling Center and St. Luke’s Hospital complied and produced records as ordered. Although “a keeper of records ... is expected to assert its client’s interest in the confidentiality of records in its possession,” see, Commonwealth v. Fuller, 423 Mass. 216, 228, the failure of a keeper of records to assert the privilege does not constitute a waiver by the client. Accordingly, the court shall address the issue of privilege raised by the Women’s Center as it applies to the counselling records of the University of Massachusetts Counselling Center as well. Regarding the submissions by St. Luke’s Hospital, where such materials are apparently treatment records from a medical hospital rather than rape counselling records subject to G.L.c. 233, §20J, this Memorandum and Order does not address their production.
+This is not to say that the inconsistencies in the complainant’s statements are without significance. Indeed, they provide the defendant with substantial fodder for cross examination. For example, the defendant supplied the court with written documentation from the University of Massachusetts confirming that the defendant had not only visited the complainant on three occasions in 1996, but did so after she had “signed him in,” thereby permitting the visits. Although such information is insufficient to permit disclosure of the complainant’s confidential counselling records under Fuller, the defendant’s access to such information confirms that his right to a fair trial can be preserved without an invasion of the complainant’s privileged records.
