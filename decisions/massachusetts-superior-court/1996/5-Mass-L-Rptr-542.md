@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "940473A"
+decided: "1996-07"
+citations: ["5 Mass. L. Rptr. 542"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frederick Howcroft et al. v. David V. Lombardi et al."]
+source_url: "https://static.case.law/mass-l-rptr/5-2/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11924323
+cites_cases: ["15 Mass.App.Ct. 365", "157 A.2d 129", "177 Mich. App. 448", "199 N.W.2d 224", "1994 U.S. App. LEXIS 34994", "281 Mass. 47", "299 Mass. 604", "31 N.J. 270", "341 F. Supp. 628", "368 So.2d 609", "374 So.2d 98", "389 Mass. 1101", "395 A.2d 18", "40 Mich. App. 634", "415 N.W.2d 178", "429 Mich. 347", "442 N.W.2d 682", "470 F.2d 995", "530 P.2d 254", "787 S.W.2d 708", "84 Wash. 2d. 975"]
+---
+
+# Howcroft v. Lombardi
+
+## Majority (Whitehead, J.)
+
+Whitehead, J.
+INTRODUCTION
+Frederick Howcroft (“Howcroft”), a police officer injured while trying to assist the defendant, David V. Lombardi (“Lombardi”), at an accident scene, seeks to recover against Lombardi on the ground that he negligently caused the situation which required the rescue. Howcroft’s wife has also brought a loss of consortium claim. Lombardi has moved for summary judgment on the grounds that:
+1. As a matter of law, Lombardi was not negligent and thus he is not liable to the Howcroft.
+2. As a matter of law, Howcroft’s harm is beyond the scope of the Lombardi’s duty.
+3. As a matter of law, any negligence by Lombardi did not cause Howcroft’s damages.
+Issues One and Three are close questions; however, the court, need not resolve them in light of its affirmative answer with respect to Issue Two.
+SUMMARY OF UNDISPUTED FACTS
+On March 7, 1991, Lombardi was driving his automobile on Russell Street in Peabody. Swerving to avoid an obstacle at the crest of a hill, Lombardi’s vehicle went off the road and down an embankment, coming to rest against a tree.
+Howcroft, a police officer with the Town of Peabody, was on private detail at a nearby plaza. Howcroft reported to the scene of the accident and assisted other officers in attending to Lombardi. While aiding Lombardi, Howcroft claims to have experienced chest pain and hyperventilation. He was subsequently hospitalized and treated for a heart condition.
+DISCUSSION
+Under a rule of law known as the “rescue doctrine,” negligence which creates danger invites rescue efforts, and where a rescuer is injured in the process, the rescuer may recover against the primary tortfeasor. Barnes v. Geiger, 15 Mass.App.Ct. 365, 369, rev. denied, 389 Mass. 1101 (1983), citing W. Page Keeton, Prosser and Keeton on Torts §43, at 258-59 (4th ed. 1971); Restatement (Second) of Torts §445 cmt. d (1965). Massachusetts has adopted the doctrine, but case law on the issue is sparse. Most cases applying the doctrine hold that rescuers cannot be culpable of contributory/comparative negligence for imperiling themselves in tire course of a rescue. Barnes, supra, citing Burnett v. Conner, 299 Mass. 604, 607-08 (1938); Barnes v. Burkshire St. Ry., 281 Mass. 47, 49-50 (1932). Notably, however, not every person “secondarily” injured at or near the scene of an accident is entitled to recovery from the tortfeasor. Under Barnes v. Geiger, supra, the court requires that a plaintiff perform “some act of intervention” in order to reach rescuer status. Put another way, “(t]here must be asserted some specific mission of assistance by which the plight of the imperilled could reasonably be thought to be ameliorated.” Id., citing Hughes v. Polk, 40 Mich. App. 634, 199 N.W.2d 224 (1972).
+A “professional rescuer doctrine,” an exception to the rescue doctrine, has emerged in other jurisdictions to whittle the liabilities of a tortfeasor to those “secondarily” injured. Under that doctrine, which has not yet been adopted by Massachusetts, those engaged in rescue work within the ambit of their employment may not recover against those from whose negligence their injuries proximately arose. Maltman v. Sauer, 84 Wash. 2d. 975, 530 P.2d 254 (1975). First dubbed the “fireman’s rule” by some jurisdictions on account of its predominant application to injured firefighters, Kreski v. Modern Wholesale Elec. Supply Co., 429 Mich. 347, 415 N.W.2d 178 (1987), Krauth v. Geller, 31 N.J. 270, 157 A.2d 129 (1960), the doctrine has also been interpreted to embrace police officers, Gillespie v. Washington, 395 A.2d 18 (D.C. App. 1978) (officer injured while attempting to upright capsized vessel barred from recovery); Wilson v. Florida Processing Co., 368 So.2d 609 (Fla. Dist. Ct. App.) and reh’g denied, dismissed, 374 So.2d 98 (1979) (officers inhaling gas while evacuating town residents barred from recoveiy), and arguably, other public servants. San Juan Dupont Plaza Hotel Fire Litig., Civil Action No. 94-1009, 1994 U.S. App. LEXIS 34994 (1st Cir. December 14, 1994) (under laws of Puerto Rico, professional rescuer doctrine prevents recovery for assistant district attorney who inhales smoke at fire scene). But see Kowalski v. Gratopp, 177 Mich. App. 448, 442 N.W.2d 682 (1989) (declining extension of rule to paramedic); Krause v. U.S. Truck Co., Inc., 787 S.W.2d 708 (Mo. 1990) (declining to extend professional rescue doctrine to ambulance driver).
+Given the fairly liberal application of this doctrine in a majority of jurisdictions, and given the various justifications supporting its adoption, this court finds the professional rescue doctrine both rational and sound. Where the nature of a public servant’s profession implicitly involves aiding civilians in distress, and where, as here, state law provides sufficient statutory and monetary compensation to cover risks associated with such rescues, the tortfeasor should not have to shoulder yet another liability.
+Of course, it is important to note that “professional rescuers” do not assume every risk associated with rescue. Cf. Carter v. Taylor Diving & Salvage Co., 341 F. Supp. 628, 631 (E.D. La. 1972), aff'd, 470 F.2d 995 (5th Cir. 1973). But cf. Gillespie, supra (professional rescuer doctrine does apply to police officer injured while attempting to right capsized boat). The original rescue doctrine still applies with respect to hazards nonincidental to their employment. Gillespie, supra, at 21. In this case, however, there is no genuine issue of material fact as to whether a police officer’s provision of aid at the scene of an accident while on detail falls within the scope of his duties. Certainly, one of the principal duties of a police officer is to aid civilians in precisely the situation of Howcroft.
+ORDER
+For the foregoing reasons, it is hereby ordered that Lombardi’s motion for summary judgment be GRANTED.
+Howcroft also seeks recovery against his insurer, Liberty Mutual Insurance Co., for failing to extend PIP benefits to him.
+For example, in the context of proceedings to collect accidental retirement allowances and death benefits, heart ailments suffered by police and/or fire personnel are presumed to arise from the line of duty under the “Heart Law,” G.L.c. 32, §94. The same presumption applies to fire department members suffering from lung or respiratory problems. G.L.c. 32, §94A. See also G.L.c. 32, §83 et seq. (setting forth Policemen’s Retirement and Pension Act). Cf. Krauth, supra, at 273, 157 A.2d at 131 (“The fireman should receive appropriate compensation from the public he serves, both in pay which reflects the hazard and in workmen’s compensation benefits for the consequences of the inherent risks of the calling”).
