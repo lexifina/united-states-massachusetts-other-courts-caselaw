@@ -1,0 +1,47 @@
+---
+court: "Massachusetts Superior Court"
+docket: "75972"
+decided: "1997-12-16"
+citations: ["7 Mass. L. Rptr. 728"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Lorenzo Q. Scott"]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0728-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11793028
+cites_cases: ["30 Mass.App.Ct. 623", "363 Mass. 601", "376 Mass. 338", "376 Mass. 74", "378 Mass. 900", "380 Mass. 403", "382 Mass. 717", "384 Mass. 262", "386 Mass. 834", "387 Mass. 481", "390 Mass. 714", "395 U.S. 238", "410 Mass. 1103", "685 N.E.2d 1163"]
+---
+
+# Commonwealth v. Scott
+
+## Majority (Barrett, J.)
+
+Barrett, J.
+INTRODUCTION
+This matter comes before this court on defendant’s motion to vacate guilty pleas and motion for a new trial pursuant to Massachusetts Rule of Criminal Procedure 30(b). Defendant argues that because he did not voluntarily enter guilty pleas, this court should vacate the pleas and grant defendant a new trial. For the reasons that follow, defendant’s motions are DENIED.
+. BACKGROUND
+On December 29, 1980, the defendant pled guilty to one count of burglary, one count of knowingly receiving stolen property, and one count of malicious injury to real property before Chmielinski, J. The defendant was sentenced to the following terms of imprisonment: a minimum of six years and a maximum of ten years on the burglary charge; a minimum of three years and a maximum of five years on the receiving stolen property charge and a minimum of two and one-half years and a maximum three years on the malicious injury to real property charge. All sentences were to run concurrently. Although the defendant filed a notice of appeal from the sentences imposed upon him, he took no further action.
+On September 27, 1996, the defendant was convicted of breaking and entering during the nighttime and of being a habitual criminal. Pursuant to G.L.c. 279 §25, defendant was sentenced to the maximum term on the breaking and entering in the nighttime charge of twenty years imprisonment.
+On January 9, 1997, the defendant filed motions to vacate his guilty pleas and for a new trial. This action comes before this court on those motions. In support of his motions, defendant argues that the pleas taken by Judge Chmielinski in 1981 were not knowing, intelligent or voluntary as required by law, and unless the Commonwealth can prove that they were, the guilty pleas should be vacated and the court should grant defendant a new trial. The Commonwealth argues that it does not retain the burden of proving the voluntariness of the plea when defendant has failed to raise his claims after several years have passed following the plea.
+In the present case, almost sixteen years have passed since defendant entered his guilty pleas. Judge Chmielinski is deceased and neither the prosecution nor the defense counsel has any recollection of the proceedings. The transcript of the plea colloquy has been destroyed pursuant to Supreme Judicial Court Rule 1:12, 382 Mass. 717 (1981). These developments have made it impossible for the Commonwealth to reconstruct the record.
+Therefore, the first issue before this court is whether the burden of showing that the defendant’s pleas were knowing, voluntary and intelligent has remained with the Commonwealth since 1981 or has shifted to the defendant because of his failure to raise his claims over the past sixteen years. Following this determination, the court will evaluate whether the party bearing the burden has satisfied it.
+DISCUSSION
+I. New Trial Standard
+A judge may grant a defendant’s motion for a new trial if it appears that justice may not have been done. Mass.R.Crim.P. 30(b), 378 Mass. 900 (1979). Commonwealth v. DeMarco, 387 Mass. 481, 482-86. Amotion for a new trial is addressed to the sound discretion of the trial judge and will not be overturned for abuse of discretion unless it is manifestly unjust. Commonwealth v. Little, 384 Mass. 262, 269 (1981).
+II. Voluntariness Standard
+A plea of guilty implicates three constitutional rights: the right against self-incrimination, the right to confront one’s accusers, and the right to trial. Boykin v. Alabama, 395 U.S. 238, 243 (1969). Because a guilty plea involves these constitutional rights, a plea is valid only when the defendant offers it voluntarily, knowingly and intelligently. Commonwealth v. Fernandes, 390 Mass. 714 (1983); see also Boykin, 395 U.S. at 243. Therefore, a judge may not accept a guilty plea without an affirmative showing that the defendant acts voluntarily and understands the consequences of his actions. Boykin, 395 U.S. at 242; Commonwealth v. Morrow, 363 Mass. 601, 604 (1973). Mass.R.Crim.P. 12(c)(3), specifically requires the judge to conduct a hearing on the record to ensure that the defendant is informed of his constitutional rights.
+III. Proving Voluntariness
+Generally, the Commonwealth bears the burden of showing that a defendant who pleads guilty enters that plea “understandingly and voluntarily.” Commonwealth v. Duquette, 386 Mass. 834, 841 (1982); Commonwealth v. McGuirk, 376 Mass. 338 (1978), cert. denied, 437 U.S. Commonwealth v. Duest, 30 Mass.App.Ct. 623, 625 rev. denied, 410 Mass. 1103 (1991). The Commonwealth may satisfy its burden through examination of the record of the plea proceedings. Duest, 30 Mass.App.Ct. at 625.
+Where a stenographic or contemporaneous record of the proceedings is unavailable, the Commonwealth may reconstruct the record. Commonwealth v. Harris, 376 Mass. 74, 77-79 (1978). In the present case, despite the Commonwealth’s efforts, its attempt to reconstruct the record after sixteen years has been unsuccessful. The judge who gave the colloquy is deceased and now neither the prosecution nor the defense has any recollection of the proceedings.
+When there has been a long delay in the defendant’s attacks on the guilfy pleas, it is appropriate to accord the plea proceedings a presumption of regularify. Commonwealth v. Gonzalez, 43, Mass.App.Ct. 926, 685 N.E.2d 1163 (1997) (rescript). In Gonzalez, the Supreme Judicial Court affirmed the denial of a motion for a new trial and motion to withdraw guilfy pleas on grounds virtually identical to those in the present case. The defendant challenged the voluntariness of his guilfy pleas ten years after their tender. Id. Specifically, the defendant claimed that at the time he entered his pleas he was intoxicated by drugs and alcohol and did not have effective assistance of counsel. Id. The records of the colloquy had been lawfully destroyed. Id. Docket entries for the case indicated that private counsel represented the defendant, although there was no indication as to whether his attorney was present in the courtroom when the defendant entered his pleas. Id. The Court further noted that the defendant was apparently induced to attack his pleas at such a late date, because he was faced with enhanced penalties under federal law. Id. Acknowledging the defendant’s long delay in attacking the pleas, the Court accorded a presumption of regularify to the plea proceedings. Id. The Court held that the burden fell on the defendant to persuade the judge that he was without legal assistance at the time of his pleas and that the defendant failed to satisfy this burden. Id.
+So too should the pleas proceedings in the present case be accorded a presumption of regularify. See id. More than sixteen years have passed since the defendant entered his pleas. As in Gonzalez, the defendant faces an enhanced penalty under a habitual offender statute and, therefore, may be similarly induced to seek reexamination of his pleas. See id. The docket reflects that defendant was also represented by counsel. Moreover, the Commonwealth’s notes indicate that the defendant’s attorney was present at the plea proceedings. Finally, the defendant asserts no reason for the lengthy delay in challenging the voluntariness of his pleas.
+In conclusion, because the defendant, without good reason, has failed to raise the issue of the voluntariness of his plea seasonably, he maintains the burden of proving the involuntariness of his guilfy pleas. I find, on the record before this court, that the defendant has not met this burden and, therefore, his motions must be denied.
+ORDER
+It is hereby ORDERED that Defendant’s motions are DENIED.
+violation of G.L.c. 266 §15, Indictment No. 75973.
+Violation of G.L.c. 266 §60, Indictment No. 75974.
+Violation of G.L.c. 266 §104, Indictment No. 75972.
+G.L.c. 279 §25 provides: “Whoever has been twice convicted of a crime and sentenced and committed to prison in this or another state, or once in this and once or more in another state, for terms of not less than three years each, and does not show that he has been pardoned for either crime on the ground that he was innocent, shall upon conviction of a felony, be considered a habitual criminal and be punished by imprisonment in the state prison for the maximum term provided by law as a penalty for which he is then to be sentenced.”
+Stenographic notes of court testimony may be destroyed after six years following their creation, so long as there is no pending order for transcripts.
+A post-conviction motion to withdraw a guilty plea is treated as a motion for a new trial. Commonwealth v. Huot, 380 Mass. 403, 406 (1980).
