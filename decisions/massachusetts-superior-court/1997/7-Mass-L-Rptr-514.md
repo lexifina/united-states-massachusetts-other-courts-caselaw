@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Superior Court"
+docket: "921636"
+decided: "1997-08-15"
+citations: ["7 Mass. L. Rptr. 514"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William Langton et al. v. Larry Dubois et al."]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0514-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11787146
+cites_cases: ["382 Mass. 57", "390 Mass. 523", "407 Mass. 455", "42 Mass.App.Ct. 387", "548 F.Supp. 1193"]
+---
+
+# Langton v. Dubois
+
+## Majority (Donohue, J.)
+
+Donohue, J.
+This matter is before the court on defendants’ motion for reconsideration of that portion of this court’s June 18, 1997 decision which entered declaratory judgment in favor of plaintiffs. Defendants now seek reconsideration of the declaratory relief on the grounds that plaintiffs have no standing to raise violations of Department of Public Health Regulations. Upon further consideration of the issue, and in light of the authorities submitted by the Commonwealth, the defendants’ motion for reconsideration is ALLOWED.
+BACKGROUND
+This is an action brought by inmates of the North Central Correctional Institution (“NCCI”) at Gardner, Massachusetts. The plaintiffs allege that the conditions at NCCI violate certain Department of Public Health (“DPH’j regulations and constitute cruel and unusual punishment as prohibited by the Eighth Amendment to the United States Constitution.
+On June 18, 1997, this court issued a Memorandum of Decision and Order on Defendants’ Motion for Summary Judgment and Plaintiffs’ Cross Motion for Summary Judgment. The court granted defendants’ motion on all counts of the complaint with the exception that the court declared that defendants were in violation of 105 CMR §450.343.The court found that the plaintiffs were entitled to declaratory relief because the defendants acknowledged that plaintiffs’ cell contained two twenty-watt fluorescent bulbs and the governing regulation, 105 CMR §450.343, requires that every cell have “at least one electric light fixture containing a bulb of at least 60 Watts.” The court ordered the defendants to take steps to comply with the regulation forthwith.
+The defendants now seek reconsideration of the declaratory relief on the grounds that (1) plaintiffs have no standing to raise violations of DPH regulations; (2) judicial intervention is unwarranted in the absence of a finding of violation by the DPH; and (3) the issue regarding plaintiffs’ lighting is moot because they are no longer incarcerated at NCCI.
+DISCUSSION
+The Department of Public Health is responsible for inspecting correctional institutions and making findings and recommendations. M.G.L.c. 111, §§20, 21. Under the terms of these two statutory provisions, the primary responsibility for enforcing the regulations is with the Department of Public Health and the superintendent of the correctional facility. The Commissioner of Public Health is vested with the authority to enforce institutional compliance with these regulations. Id. This authority is shared by the Attorney General, as the chief law officer of the Commonwealth. Attorney General v. Sheriff of Worcester County, 382 Mass. 57, 59 (1980). Neither c. 111 or the regulations themselves, however, expressly or implicitly create any private cause of action or standing for the plaintiffs.
+While there has been no definitive resolution of this issue on the appellate level, numerous Superior Court decisions have held that no private cause of action exists. See McGuinness v. Duval, Civil No. 94-4168-D (Worcester Super Ct. April 12, 1996) (Neel, J.); O’Brien v. DuBois, Civil No. 94-2170-C (Worcester Super Ct. March 3, 1995) (Carhart, J.); Langton v. Fair, Civil No. 86-24234 (Plymouth Super Ct. May 16, 1991) (Hely, J.). This court has reviewed these decisions and finds their reasoning persuasive. The plaintiffs are not entitled by statute or regulation to enforce the DPH regulations, and they have demonstrated no other authority to do so.
+Moreover, the use of two twenty-watt fluorescent bulbs, as opposed to the required sixty watt bulb, does not amount to cruel and unusual punishment. Indeed, in Richardson, the court recognized that “(s)tate regulations governing conditions of confinement reflect current standards of decency against which we measure alleged constitutional violations.” Richardson, 407 Mass. at 460 (citing Michaud, 390 Mass. at 527). However, the court further stated that “the mere failure to conform to State minimum standards does not per se establish a constitutional violation.” Richardson, 407 Mass. at 460 (citing Strachan v. Ashe, 548 F.Supp. 1193, 1202 (D.Mass. 1982). In a recent decision, the Appeals Court discussed the relevant inquiry when determining whether prison conditions constitute cruel and unusual punishment:
+A prison official violates the Eighth Amendment when two requirements are met: “First, ‘the deprivation alleged must be, objectively, sufficiently serious,’ . . . [it] must result in the denial of the ‘minimal civilized measure of life’s necessities.’ ” Farmer v. Brennan, 511 U.S. at 834, 114 S.Ct. at 1977. Second, the prison official must have a sufficiently culpable state of mind, that is, the official must have “deliberate indifference” to the inmate’s health or safety. Id. Thus, to be held liable under the Eighth Amendment for denying an inmate humane conditions of confinement, a prison official must know and disregard an excessive risk to inmate health or safety, (citation omitted). It would appear that art. 26. of the Declaration of Rights has the same two requirements.
+‘Abdullah v. Secretary of Public Safety, 42 Mass.App.Ct. 387, 394 (1997). Assuming arguendo that the lighting conditions violate the applicable DPH regulations, the alleged conditions described by the plaintiffs do not rise to the level of cruel and unusual punishment. Cf. Michaud v. Sheriff of Essex County, 390 Mass. 523 (1983) (incarceration in cell which has no flush toilets, sinks or running water constitutes cruel and unusual punishment). Accordingly, plaintiffs’ Eight Amendment rights were not violated.
+ORDER
+For the foregoing reasons, the defendants’ motion for reconsideration is ALLOWED, and summary judgment is granted to defendants on this claim.
+Prior to the issuance of this order, defendants filed a Supplemental Memorandum of Motion for Reconsideration. The memorandum and accompanying affidavit were not considered in conjunction with this order.
+105 CMR §450.343 requires that:
+Each cell has for each intmate at least one wall convenience outlet and at least one electric light fixture containing a bulb of at least 60 watts which is conveniently located for reading, providing at least 100 foot-candles at desk level.
+The question of whether an inmate has standing to seek relief based on the violation of DPH regulations has been raised, but left unanswered, in two Supreme Judicial Court opinions. See Michaud v. Sheriff of Essex County, 390 Mass. 523, 526 (1983); Richardson v. Sheriff of Middlesex County, 407 Mass. 455, 460 (1990). The court declined to address the issue because it found that the conditions at the jail, although a violation of DPH regulations, also constituted cruel and unusual punishment. Richardson, 407 Mass. at 463 (failure to provide beds, limited access to toilets); Michaud, 390 Mass. at 524 (failure to provide a toilet or running water in cell).
