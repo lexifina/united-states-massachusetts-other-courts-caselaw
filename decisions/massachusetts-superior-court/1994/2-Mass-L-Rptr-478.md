@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Superior Court"
+docket: "92-5584-C"
+decided: "1994-08-29"
+citations: ["2 Mass. L. Rptr. 478"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ellen Meehan et al v. Town Lyne House Restaurant et al"]
+source_url: "https://static.case.law/mass-l-rptr/2/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11925521
+cites_cases: ["150 F.R.D. 525"]
+---
+
+# Meehan v. Town Lyne House Restaurant
+
+## Majority (McHugh, J.)
+
+McHugh, J.
+Plaintiff has brought this motion for sanctions against defendant Town Lyne House Restaurant and its attorneys for “abuse of the litigation and discovery process.” The memorandum in support of the motion details, and an affidavit asserts, a variety of acts or omissions on the part of defendants’ counsel that plaintiff claims entitles her to an award of sanctions. Defendant has responded to the memorandum and affidavits of its own counsel. After hearing and review of the papers, the motion for sanctions is denied.
+There are three general sources for the court’s power to award “sanctions” in connection with the discovery process. Rule 37(a) empowers the court to award costs, including attorney’s fees, to the prevailing party on a motion to compel withheld discovery responses whether the prevailing party is the person seeking the responses or the person opposing them. Rule 37(b) empowers the court to award costs, again including attorneys fees, against those who violate court orders issued in connection with some phase of the discovery process itself. Rule 37(d) empowers the court to award costs, again including attorneys fees, for willful failures to do certain things the discovery rules require.
+With those principles as background, several points plaintiff has raised warrant only brief discussion. Although the defendants’ interrogatory answers and defendants’ response to the request for production of documents were not fully forthcoming and although they exhibit reflexive, non-responsive boilerplate that is all too common in today’s discovery process, none of those responses was the subject of a motion to compel. For all that appears in the record, the problems those responses posed were obviated by subsequent responses or were immaterial to the progress of the case. Awarding sanctions for the addition of a third-party defendant would be anomalous because the motion to amend to add the third-party defendant was allowed, by the court. The motion for further answers to interrogatories seeking to put a dollar figure on the claim for loss of consortium was denied by the court. No costs or other sanctions were sought from or awarded by the judge who decided that motion. The deposition scheduling controversy reveals the kind of back and forth and last minute adjustments that inevitably occur in a busy litigation practice. In any event, the affidavits fail to show that sanctionable conduct occurred in the course of those scheduling disputes. Given the amount of money involved, the IME scheduling dispute should have been resolved without resort to the judicial process but resorting to the judicial process is not sanctionable conduct. Finally, use of multiple attorneys on a case and the fact that those attorneys sometimes do not have the information they should have, while undeniably frustrating, does not amount to sanctionable conduct either.
+That leaves coaching at the deposition, Plaintiffs’ memorandum, §V(2); and plaintiffs’ treatment of requested documents at that deposition, Plaintiffs’ memorandum, §V(3). Insofar as coaching at the deposition is concerned, the kind of coaching that Mr. Burke engaged in and the suggestions that he made are wholly inconsistent with the purpose of the discovery process and the obligations imposed on attorneys while that process is going forward. See generally Hall v. Clifton Precision, 150 F.R.D. 525, 528 (E.D. Pa. 1993):
+The witness comes to the deposition to testify, not to indulge in a parody of Charlie McCarthy, with lawyers coaching or bending the witness’s words to mold a legally convenient record.
+From my review of the transcript, however, it appears that the witness did not decline to answer any material question or change the answer to a material question in response to Mr. Burke’s conduct. Had he done so, I would have awarded sanctions without hesitation. The notion that Mr. Burke’s conduct “was merely effective lawyering,” see Defendants’ brief (containing unnumbered pages) immediately beneath the heading for Section Five, is absurd.
+Finally, counsel’s treatment of Request No. 2 attached to the notice of the deposition under Rule 30(b)(6) and the treatment of Request No. 4 raises very troubling questions. The record is not sufficient to permit a determination concerning whether documents falling into those the categories described in Requests 2 and 4 were willfully concealed from the plaintiff. Plaintiff may conduct any proper interrogation or inquiry of defendants or defendants’ counsel to determine whether documents in fact were willfully concealed and, if it turns out that they were, counsel may file a further motion for appropriate sanctions. In that regard, therefore, denial of plaintiffs’ motion is without prejudice to a successor motion if an appropriate predicate with respect to concealment of documents is created.
