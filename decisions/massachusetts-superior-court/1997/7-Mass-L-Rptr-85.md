@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Superior Court"
+docket: "9600389F"
+decided: "1997-05-27"
+citations: ["7 Mass. L. Rptr. 85"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Debra Kramer-Rutter v. John T. Cinella, Jr."]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0085-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11775693
+cites_cases: ["20 Mass.App.Ct. 348", "316 Mass. 234", "369 Mass. 550", "394 Mass. 274", "396 Mass. 254"]
+---
+
+# Kramer-Rutter v. Cinella
+
+## Majority (Smith, J.)
+
+Smith, J.
+Plaintiff brought this action against defendant, an attorney, for negligence and breach of contract in the context of a real estate transaction. Plaintiff also alleges violations of Chapter 93A. For the reasons discussed below, defendant’s motion for summary judgment on all three counts is granted.
+I. BACKGROUND
+In 1985, plaintiff Debra Kramer-Rutter (“plaintiff) purchased a condominium unit located in Arlington, MA. To finance this transaction, the plaintiff sought a loan from Home Owner’s Federal Savings Bank (“the bank”). Defendant John T. Cinella (“defendant”) served as the bank’s attorney for this transaction. As part of the loan transaction, plaintiff was required to pay the attorneys fees billed by the defendant for his role in the sale transaction. As one of his functions, the defendant, at the closing, executed a document certifying to both the bank and the plaintiff that the condominium, with certain exceptions here not relevant, had good and sufficient title. Six years later, the plaintiff sought to sell her condominium and hired attorney Drew Yanno (“Yanno”) to counsel her on the sale. In the course of his work, Yanno discovered that there was no unit plan for the condominium. After being informed of this problem, the defendant immediately sent the plaintiff both a unit plan and confirmatory deed. The defendant did not charge the plaintiff for this corrective effort.
+Subsequently, plaintiffs husband, Dawson Rutter (“Rutter”), sent the defendant a letter asking defendant to pay Yanno’s fee of $2,052. The defendant did not respond to this letter. Sometime thereafter, the plaintiff retained attorney John McArdle (“McArdle”), who then sent the defendant a 93A demand letter, designated as such. Defendant responded to the demand letter within the requisite 30 days with a settlement offer of $500. Rejecting this offer, plaintiff filed suit in district court which granted summary judgment in favor of the defendant. The plaintiff appeals from that judgment to this Court.
+II.DISCUSSION
+To be entitled to summary judgment a party must show, based on the pleadings, depositions, answers to interrogatories, admissions on file, and affidavits, that there is no genuine issue of material fact and that it is entitled to judgment as a matter of law. Community Nat'l Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). The burden is on the moving party to demonstrate with admissible evidence that there is no genuine issue as to any material fact. Godbout v. Cousens, 396 Mass. 254, 261 (1985).
+III.NEGLIGENCE CLAIM
+In Count I, the plaintiff claims that the defendant negligently represented to her that she was receiving a clear and marketable title to the condominium. The defendant’s failure to provide her with a unit plan, she claims, caused her to retain counsel to rectify this problem and thereby incur expenses in the amount of $2,052.
+The parties concur on the applicability of G.L.c. 93, §70, which requires an attorney acting for a mortgagee to provide a certification of title to both the mortgagor and the mortgagee. The parties differ, however, on what obligations this statute conferred on the defendant. The defendant contends that he complied with the statute by providing title certification and by later giving plaintiff the unit plan. Plaintiff asserts that this statute gave defendant a duty to perform a competent title inspection and that he breached that duty by failing to uncover a title defect.
+G.L.c. 93, §70 has been amended several times. Prior to 1979, the statute included the following language:
+. . . the mortgagor or his attorney shall be given a copy of any certification of title to the mortgaged property rendered by the mortgagee’s attorney, and such certification shall be deemed to have been rendered for the benefit of the mortgagor to the same extent as it is for the mortgagee.
+The current version of the statute lacks this language and simply provides that “an attorney acting for or on behalf of the mortgagee shall render a certification of title to the mortgaged premises to the mortgagor and to the mortgagee.”
+The deleted language, were it still present, would support the plaintiffs argument that the statute creates a kind of a situational attorney-client relationship between a mortgagor and a mortgagee’s attorney. However, absent that language, the statute is not amenable to such an interpretation. Nothing in the statute or in the relationship between the instant parties creates an inference that defendant owed plaintiff any duty other than to provide title certification, which was done. Beyond this, any attorney-client relationship and attendant duties existed solely between defendant and the bank. Absent any legal duty, defendant cannot be liable to plaintiff for negligence. See Newlin v. New England Telephone, 316 Mass. 234, 237 (1944).
+IV.CHAPTER 93A CLAIM
+Because the plaintiffs claims of negligence and breach of contract fail, as stated above, her G.L.c. 93A claim, which is premised upon these two claims, must likewise fail. However, the Court will address her claim. The gist of the plaintiffs complaint is that the defendant failed to respond to a “Chapter 93A demand letter,” sent to the defendant by her husband. The “demand letter” in question was a 1991 letter from plaintiffs husband to the defendant requesting that defendant pay attorney Yanno’s fees totaling $2,052.00. The parties agree that defendant did not respond to this letter with a written offer of settlement as would be required if the 1991 letter constituted a demand letter for purposes of G.L.c. 93A. On the other hand, there is no dispute that the defendant did timely respond to the February 25, 1994 letter, sent to him by the plaintiffs attorney and designated by him as a G.L.c. 93A demand letter. The plaintiff does not allege that the defendant’s offer of settlement was made in bad faith.
+The Court finds that the 1991 letter did not constitute a valid 93A demand letter, and that defendant’s failure to respond to it is not actionable. An adequate demand letter which reasonably describes the allegedly deceptive act and injury suffered is a prerequisite for a Chapter 93A action. G.L.c. 93A, §9. Cassano v. Gogos, 20 Mass.App.Ct. 348, 349 (1985). The instant letter was neither from plaintiff nor her counsel. Moreover, the letter failed to reasonably describe the allegedly deceptive act or practices as required by statute and case law. See Spring v. Geriatric Society of Holyoke, 394 Mass. 274, 288 (1985). Finally, the letter did not refer to Chapter 93A or the consumer protection act. See Cassano, 20 Mass.App.Ct. at 350. (letter asserting conventional contract claim and threatening conventional legal action, but failing to characterize claim as one under consumer protection statute, failed to meet statute’s requirement of demand letter). Absent any minimal indicia that this was indeed a proper demand letter, the defendant was under no obligation to respond to it. Further, when the plaintiffs counsel later sent the defendant a proper 93A demand letter, the defendant responded with a settlement offer.
+V. BREACH OF CONTRACT CLAIM
+This claim may disposed off on essentially the same grounds as the negligence claim. Just as there was no attorney-client relationship between plaintiff and defendant, nor was there a contractual relationship. The contractual relationship was strictly between defendant and the bank.
+VI. PLAINTIFFS CROSS MOTION FOR SUMMARY JUDGMENT
+In light of this Court’s ruling on the defendant’s motion for summary, the Court shall deny the plaintiffs cross motion for summary judgment.
+ORDER
+It is therefore ORDERED that defendant’s motion for summary judgment be ALLOWED and that the plaintiffs cross motion for summary iudgment be DENIED.
