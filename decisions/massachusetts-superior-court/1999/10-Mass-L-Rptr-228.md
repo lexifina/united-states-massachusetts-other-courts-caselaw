@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Superior Court"
+docket: "972536"
+decided: "1999-05-04"
+citations: ["10 Mass. L. Rptr. 228"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mekdes Habtewold et al. v. Binyam Tamene"]
+source_url: "https://static.case.law/mass-l-rptr/10/cases/0228-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9477100
+---
+
+# Habtewold v. Tamene
+
+## Majority (McHugh, J.)
+
+McHugh, J.
+The tortuous, and sometimes confusing, history of this litigation is recounted fully in my Order of January 22, 1999 (Paper No. 22) and will not be repeated here. Suffice it to say that after that Order was entered, plaintiffs responded to interrogatories defendant had propounded in such a way as to provoke a motion to strike their interrogatory answers and a motion to dismiss for failure to comply with the Order. When those motions came on for hearing, plaintiffs filed, as they had the right to do, a voluntary notice of dismissal under Mass.R.Civ.P. 41(a)(1).
+Now defendant has filed a motion for imposition of costs in which he seeks to recover all of the attorneys fees he incurred in defending this action. He seeks to recover those costs on the theory that the interrogatory responses were improper, that those responses amounted to a violation of G.L.c. 231, §6F and Mass.R.Civ.P. 11 and that the court has the power to impose sanctions under the statute and under the Rule even after the case has been voluntarily dismissed.
+Plaintiffs oppose the imposition of sanctions claiming that they responded to the interrogatories in the way they did because of a misunderstanding concerning the import of the court’s Order and claiming that they had an absolute right to dismiss the case when they dismissed it and they should not be penalized for doing so.
+During the hearing at which plaintiffs tendered their notice of dismissal, I characterized some of their discovery responses as “beyond the pale.” I used that phrase advisedly for the discovery responses contained, among other things, frivolous objections to requests for information that clearly lay at the heart of the dispute between the parties.
+Nevertheless, I think it inappropriate to impose costs on the plaintiffs because of an alleged violation either of G.L.c. 231, §6F or of Mass.R.Civ.P. 11. If plaintiffs had not dismissed their claim, I would have been required to consider defendant’s motion to dismiss and defendant’s motion to strike the interrogatory responses on the merits. If I had agreed with defendants — and given my review of the interrogatory responses, it is highly likely that I would have agreed with defendants — that the interrogatory responses were grossly deficient, I would then have had to consider what sanctions to impose. The most severe sanction I could have imposed was dismissal of the case. Had I imposed that sanction, defendant would have achieved a final result in his favor in litigation he had been called upon to defend. To be sure, he would not have achieved that dismissal after trial or after a motion for summary judgment but he would have achieved it nonetheless. Under those circumstances, and absent proof that the litigation was brought in bad faith from the outset, there would have been no basis for awarding counsel fees designed to compensate defendant for his successful defense of the plaintiffs' claim.
+Plaintiffs’ voluntary dismissal of the action has provided defendant with a result similar to the result he would have achieved had I imposed a dismissal sanction. To be sure, the dismissal plaintiffs delivered does not preclude another suit against defendant for the same, or similar, claim or claims. There will be more about that in a minute. There is some doubt, however, whether dismissal resulting from sanctions has the finality of an adjudication on the merits.
+The question thus becomes whether there is any other source of power upon which the court may award attorneys fees under circumstances like those this case presents. I raise that question because it was I who suggested when plaintiffs tendered their dismissal notice I would entertain a motion for such fees given what I perceived to be plaintiffs’ abysmal response to the discovery requests and the timing of their dismissal notice. However, the answer to that question, in my view, is “no.” Mass.R.Civ.P. 41(a)(1) gives a plaintiff an absolute right to dismiss a claim at any time before the answer is filed. After the answer is filed the plaintiffs dismissal must proceed in a manner specified in Mass.R.Civ.P. 41(a)(2) which contains an explicit provision for conditioning the dismissal on such terms and conditions as the court deems just. Indeed, all of the nonsanction fee cases defendant has cited in support of its contention that it is entitled to attorneys fees are cases that proceeded under Rule 41(a)(2) or its federal counterpart.
+I do not reach the foregoing conclusion lightly. This is an instance in which the absolute right to dismiss contained in Mass.R.Civ.P. 41(a)(1) has produced a hardship of some consequence. Defendant has defended a lawsuit and incurred significant legal bills in doing so. The lawsuit is over but defendant does not have an adjudication on the merits that prevents a similar lawsuit at some point in the future. Moreover, because of the way the lawsuit proceeded, defendant’s legal fees were largely incurred in procedural go rounds producing little that will be of any utility if a future lawsuit is filed. To be sure, defendant could have prevented the present result by filing an answer on the merits, proceeding with a motion under Mass.R.Civ.P. 12(b)(6) and depriving plaintiffs of the power to dismiss the case unilaterally. The difficult result here reached thus was one defendant had the power to avoid.
+ORDER
+In light of the foregoing, is hereby ORDERED that defendant’s motion for costs should be, and hereby is, DENIED.
+The record contains no such evidence. Indeed, the case began with my issuance of a preliminary injunction against the defendant.
+Beyond all that, no theory of which I am aware would entitle defendant to recover all legal fees expended in defense of the entire case because of plaintiffs derelictions with respect to interrogatory answers.
