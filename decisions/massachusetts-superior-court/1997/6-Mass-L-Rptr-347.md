@@ -1,0 +1,43 @@
+---
+court: "Massachusetts Superior Court"
+docket: "CA 953812"
+decided: "1997-11-20"
+citations: ["6 Mass. L. Rptr. 347"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. Peter Downing v. City of Lowell et al."]
+source_url: "https://static.case.law/mass-l-rptr/6/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1194626
+cites_cases: ["27 Mass.App.Ct. 822", "396 Mass. 383", "416 Mass. 252", "423 Mass. 34"]
+---
+
+# Downing v. City of Lowell
+
+## Majority (Hely, J.)
+
+Hely, J.
+I. INTRODUCTION
+All parties have moved for summary judgment. The material facts necessary for summary judgment are not in dispute. The plaintiff was a principal at a public school in Lowell, the C. G. McDonough Arts Magnet School. He contends that the city and various school officials dismissed him and terminated his employment as principal in violation of G.L.c. 71, §41, par. 2. The defendants are entitled to summary judgment. Under the terms of the statute in effect on the date of the termination, the superintendent of schools lawfully terminated the plaintiffs contract as principal.
+II. UNDISPUTED FACTS
+The plaintiff and the city entered into a written one-year employment contract employing the plaintiff as principal for the period of July 1, 1994, through June 30, 1995. A copy of the parties’ contract is attached to and incorporated in the verified complaint.
+On April 11, 1995, the superintendent informed Mr. Downing by letter that he was being dismissed as principal effective at the end of the 1995 school year. This letter stated that Mr. Downing was being dismissed for good cause as well as inefficiency, insubordination and conduct unbecoming a principal. The letter then detailed the numerous specific grounds for the dismissal in nine and a half single-spaced pages. The April 11 letter also referred to G.L.c. 71, §41. It informed Mr. Downing that he had seven days to review the superintendent’s decision with him and stated that he may be represented by an attorney to present information pertaining to the basis of the decision.
+The next day a much briefer letter was delivered to Mr. Downing. In his April 12, 1995, letter, the superintendent informed him that “you will not be offered a contract for employment as a Principal in the Lowell School System after this school year.” In reply to both letters, Mr. Downing requested in writing a meeting with the superintendent and the plaintiffs attorney to review the superintendent’s decision under G.L.c. 71, §41.
+In a letter dated April 27, 1995, the superintendent told Mr. Downing’s counsel that he had “decided that Mr. Downing will not be dismissed or demoted during the period of his current contract.” Instead, the letter reiterated that the superintendent “has decided that Mr. Downing will not be offered a contract for the 1995-1996 school year.” The superintendent stated that for this reason a review is not necessary.
+By the end of the school year in June, 1995, Mr. Downing had served for more than three years as the school’s principal.
+Mr. Downing petitioned the commissioner of education to initiate arbitration of the matter. The commissioner referred the matter to the American Arbitration Association. The city declined to arbitrate, asserting that a decision to not offer Mr. Downing a new contract was not a matter for arbitration. The city has not renewed Mr. Downing’s contract or returned him to the position of principal.
+III. RULINGS A.The Statute in Effect When the Contract Was Signed
+The plaintiffs contract for the year ending June 30, 1995, was signed on June 29, 1994. The plaintiff argues that his rights with respect to termination as principal are controlled by a version of G.L.c. 71, §41, par. 2, that was in effect on the date the contract was signed. Assuming that this version of the statute is controlling, the nonrenewal of the plaintiffs contract was lawful.
+The version of G.L.c. 71, §41, par. 2, in effect on the date of this contract, was added by the Education Reform Act of 1993. St. 1993, c. 71, §43. The second paragraph of §41 stated that principals “shall not be represented in collective bargaining” and “may enter into individual employment contracts with the districts that employ them concerning the terms and conditions of their employment.” As a result of this statute, principals have no collective bargaining rights, and their terms and conditions of employment are controlled by their “individual employment contracts.” Neither the statute in effect in 1994 nor Mr. Downing’s contract with the city gave him any right to continue or renew his employment as principal beyond the one-year term specified in the contract.
+The “good cause,” hearing and arbitration provisions in G.L.c. 71, §41, par. 3, apply only when a principal is “dismissed or demoted.” Reading Section 41 as a whole, it is clear that the Legislature did not impose any “good cause” restriction on the nonrenewal of a principal’s contract. Imposition of a “good cause” requirement or a similar prerequisite to nonrenewal of a principal’s contract “would conflict with a statutorily mandated, fixed term of appointment, which otherwise could be terminated at will (assuming no improper motive) at the expiration of the appointment by the appointing authority.” School Committee of Natick v. Education Association of Natick, 423 Mass. 34, 38 (1996); see Costello v. School Committee of Chelsea, 27 Mass.App.Ct. 822, 825-26 (1989).
+The Education Reform Act of 1993 completely rewrote the first paragraph of G.L.c. 71, §41. The Act also added a new second paragraph providing for “individual employment contracts” that would govern the “terms and conditions” of a principal’s employment. Due to this major legislative revision of the statute, principal tenure decisions based on a prior version of §41 are no longer controlling. See, e.g., Rantz v. School Committee of Peabody, 396 Mass. 383, 386 (1985).
+Under the contract between Mr. Downing and the city, Mr. Downing’s employment as principal was for the period of July 1, 1994, through June 30, 1995. In his April 12, 1995, letter, the superintendent explicitly informed Mr. Downing that his contract would not be renewed after the current school year. This non-renewal notice rendered the April 11 dismissal notice a nullity. The city was not permanently locked in to the dismissal procedure; it retained the right to not review the contract at the end of the contract year. By notifying Mr. Downing on April 12 that his contract would not be renewed, the superintendent effectively and lawfully ended his employment as a principal at the expiration of the term of his one-year contract. “A failure to reappoint is not a ‘removal.’ ” Massachusetts Coalition of Police, Local 165, AFL-CIO v. Northborough, 416 Mass. 252, 255 (1993); Costello, supra.
+B.The Statute in Effect in 1995
+The reasoning set forth above also applies if the version of G.L.c. 71, §41, par. 2, as amended by St. 1994, c. 346, governs this case. This more recent version of the statute gives principals no collective bargaining rights but does give them the opportunity “to meet and discuss individually” the terms and conditions of employment and to be represented by an attorney or other representative. The new version of the statute also states that individual contracts with principals “shall be for terms of up to three years in length." Under the current statute, all that is required to not renew a principal’s contract is notification of nonrenewal “at least sixty days” prior to the contract’s expiration date.
+In this case, the superintendent gave Mr. Downing more than sixty days notice of the nonrenewal of his contract, and the nonrenewal was legally valid under the current version of the statute.
+C.The City’s Counterclaim for Counsel Fees and Costs
+The city’s counterclaim seeks counsel fees and costs under G.L.c. 231, §6F. Upon careful consideration of the summary judgment papers and hearing, the court finds that the plaintiffs claims in this case were not “wholly insubstantial’’ or “frivolous.” The plaintiffs claims were based on a misreading of the amendments to G.L.c. 71, §41, and on precedents interpreting earlier versions of the statute prior to the Education Reform Act of 1993. The plaintiffs argument was a stretch, but it was not frivolous.
+ORDER
+Summary judgment will enter for the defendants on the claims in the verified complaint.
+Summary judgment will enter for the plaintiff on the counterclaim of the City of Lowell and related defendants.
