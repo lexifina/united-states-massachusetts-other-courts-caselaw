@@ -1,0 +1,30 @@
+---
+court: "District Court of Southern Essex"
+docket: "2841"
+decided: "1941-05-06"
+citations: ["1 Mass. App. Dec. 12"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PERRY v. BOSTON & MAINE RAILROAD"]
+source_url: "https://static.case.law/mass-app-dec/1/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4032261
+cites_cases: ["200 Mass. 214", "209 Mass. 552", "215 Mass. 588", "233 Mass. 147", "275 Mass. 251", "297 Mass. 182", "300 Mass. 264"]
+---
+
+# Perry v. Boston & Maine Railroad
+
+## Majority (PETTINGELL, J.)
+
+PETTINGELL, J.
+(Wilson, & Henchey, JJ.)—Action of tort to recover for injuries caused by a fall on ice on a sidewalk under the overhead bridge maintained by the defendant at Blossom Street, Lynn. The plaintiff’s declaration is in two counts, one based on negligence in the maintenance of the over' head bridge structure in “allowing or permitting ice to accumu' late unnaturally on the sidewalk beneath the bridge’’ and the other for maintaining a nuisance by “permitting snow and ice to accumulate beneath the bridge structure, which condition had existed for a number of years prior to the accident.”
+The plaintiff offered evidence that the plaintiff fell on ice on the sidewalk near the easterly abutment of the bridge and that the ice came from water which ran down the easterly abutment, coming from above where the bridge “rested on the abutment” and flowing down the abutment across the sidewalk and into the gutter. After the accident the plaintiff saw strips of ice about a foot wide which ran all the way down the abutment and across the sidewalk. She fell on one of these strips of ice. There was no evidence that either water or ice came from or through the bridge at any other point. There was no testimony that water dropped from the bridge itself except as it ran down at the abutment and there was no testi' many indicating the source of the water, except that it came from an “unnatural accumulation” of ice or snow on the defendant’s premises.
+The real issue in the case is whether there is any evidence sufficient to warrant a finding for the plaintiff on either the ground of negligence or that of the maintenance of a nuisance.
+It is apparent at once that there is no evidence in the report of any negligence in the maintenance of the bridge. There is not an iota of testimony that the bridge was defective, or that any of the water which came down the abutment came from or through the bridge. The statute required that the bridge should have a waterproof flooring. As far as the evidence presented is concerned, no water came through the bridge flooring.
+It is apparent, also, that if the defendant is liable in this case, its liability is not based upon the theory of water dripping from a structure and freezing, as in cases such ás Marston v. Phipps, 209 Mass. 552, and Bullard v. Mattoon, 297 Mass. 182. Any liability existing on the facts appearing here must rest upon the theory of the collecting of surface water in a definite channel and its subsequent discharge upon a public way, as in Cerchione v. Hunnewell, 215 Mass. 588, and Cochran v. Barton, 233 Mass. 147. All the evidence that there is in the report is to the effect that water from “an unnatural accumulation of ice and snow on the premises of the defendant” ran down the abutment coming from above where the bridge “rested on the .abutment.” There is nothing to show where on the premises of the defendant the “unnatural accumulation" was, what its nature was, why it was there, who was responsible for it or how the water from it got to the bridge abutment. It may have been snow plowed from the defendant’s tracks, or it may have been snow piled up by shovellers in clearing tracks, platforms or other structures.
+An “unnatural accumulation” of snow in itself, even if piled up by a defendant, is not sufficient to establish liability, even if it melts and freezes, producing ice which causes injury. In two cases the Supreme Judicial Court has decided that no liability exists where snow, piled up in clearing off a sidewalk, melts, runs on the sidewalk and then freezes, with resulting injury to a pedestrian. In Mahoney v. Perrault, 275 Mass. 251, at 253, the shoveller piled the snow upon the grass plot between the outer edge of the sidewalk and the street, and in Rosemblum v. Economy Grocery Stores Corp. 300 Mass. 264, at 265, 266, the snow was piled on the inside of the sidewalk against a building. Later it melted, ran down on the sidewalk in puddles, and froze. The underlying principle in these cases seems to be that piling snow in a normal, reasonable manner in the necessary work of clearing up after a storm creates no liability even if subsequent melting and freezing cause ice on a sidewalk which results in injury.
+Nor does the single fact that water, which came from the defendant's premises, caused the ice on which the plaintiff fell, without more, determine the defendant’s liability. See Troy v. Dix Lumber Co. 200 Mass. 214, at 216. Also Harrison v. Poli-New England Theatres, Inc. Mass. Adv. Sh. (1939) 1517 (23 BTL 616).
+In the case at bar there is nothing in addition to the one fact of water coming from the defendant’s premises down the face of an abutment. How far it had come, from what direC' tian, whether from one source alone, or from several, whether in a channel or as the natural unaided drainage of the upper level, does not appear, any more than does enlightening infor' motion as to the “unnatural accumulation” of snow mentioned but not described.
+Nor is there anything to show that water did not come down naturally at this place before the bridge was built or that it comes down in any greater amount than formerly. Anything that may be said on any of these points is purely speculative! We are of the opinion that there was not sufficient evidence presented to the trial judge to require him to give the first, third and fifth rulings requested by the plaintiff, and that there was no prejudicial error in their denial.
+The report is to be dismissed.
