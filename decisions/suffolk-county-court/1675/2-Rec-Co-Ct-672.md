@@ -1,7 +1,7 @@
 ---
 court: "Suffolk County Court"
 decided: "1675-01-25"
-citations: ["2 Rec. Co. Ct. 672", "2 Rec. Co. Ct. 671"]
+citations: ["2 Rec. Co. Ct. 672"]
 reporter: "rec-co-ct"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
