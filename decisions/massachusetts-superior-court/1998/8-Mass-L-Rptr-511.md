@@ -1,0 +1,40 @@
+---
+court: "Massachusetts Superior Court"
+docket: "972314C"
+decided: "1998-02-05"
+citations: ["8 Mass. L. Rptr. 511"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bills v. Boby’s Food Enterprises, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/8/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 380058
+cites_cases: ["32 Mass.App.Ct. 919", "394 Mass. 45", "402 Mass. 815", "405 Mass. 439", "455 U.S. 385"]
+---
+
+# Bills v. Boby's Food Enterprises, Inc.
+
+## Majority (Gershengorn, J.)
+
+Gershengorn, J.
+This is a sexual discrimination suit filed pursuant to G.L.c. 151B. Plaintiff Jessica Bills (“Bills”) claims that Boby’s Food Enterprises, Inc. (“Boby’s’’) and Haralamros Kapsimalis (“Kapsimalis”), defendants, discriminated against her while she was employed at Donut Land. Boby’s and Kapsimalis have moved to dismiss pursuant to Mass.R.Civ.P. 12(b)(1) for lack of subject matter jurisdiction, and Mass.R.Civ.P. 12(b)(6) for failure to state a claim upon which relief can be granted. For the following reasons, the motion to dismiss is DENIED.
+BACKGROUND
+The relevant facts are as follows. Bills was terminated from her position at Donut Land in February 28, 1994. Donut Land is a Maynard, Massachusetts, restaurant owned by Boby’s. She was terminated before her eighteenth birthday on September 9, 1994.
+On December 2, 1994, Bills filed ¿ complaint with the Massachusetts Commission Against Discrimination (“MCAD”) alleging Kapsimalis had sexually harassed her and that Boby’s wrongly terminated her after she complained about the harassment. The MCAD dismissed the complaint for lack of jurisdiction on January 27, 1995.
+On February 7, 1995, Bills appealed the MCAD decision to the MCAD appeals board. On April 25, 1995, the MCAD appeals board held a hearing and remanded Bills’ case for further investigation. On May 13, 1996, MCAD affirmed its decision to dismiss the complaint because Bills had not filed her complaint within six months of the alleged discrimination pursuant to G.L.c. 151B, §5. Bills subsequently filed a complaint in Middlesex Superior Court on May 5, 1997, alleging Boby’s and Kapsimalis sexually discriminated against her in violation of G.L.c. 15 IB, §4.
+DISCUSSION
+Defendants argue that this Superior Court complaint should be dismissed because Bills missed the six-month period in which to file a MCAD claim. They contend that the six-month time period in which to file an MCAD claim is inconsistent with the general tolling statute for minority, G.L.c. 260, §7, under G.L.c. 260, §19. Defendants allege that the six-month time period provided by G.L.c. 151B, §4 is the operative statute of limitations for discrimination claims brought under G.L.c. 151B, §4. See G.L.c. 260, §§7, 19.
+Alternatively, defendants contend that filing a MCAD complaint is analogous to a presentment which cannot be tolled for minority, and since it was not tolled, Bills could not have filed a proper MCAD complaint. This, they allege, requires the action be dismissed because there was no proper MCAD filing which is a precondition for Bills to maintain this suit.
+Bills argues that the MCAD improperly dismissed her claim. Bills claims that the six-month period in which she had to file a MCAD had tolled on the account of her minority and she properly filed a complaint within six months of her eighteenth birthday, the age of majority in Massachusetts.
+The issue before the court is whether the six-month time period for filing a complaint with the MCAD can be harmonized with the minority tolling provision of G.L.c. 260, §7. This court concludes that Bills may maintain her Superior Court suit. The six-month time period contained in G.L.c. 151B, §5 is not a jurisdictional prerequisite. See Christo v. Edward Boyle Ins. Agency, Inc., 402 Mass. 815, 817 (1988). Rather, it is a statute of repose subject to limitations of waiver, estoppel, and equitable tolling. Id.
+The state legislature knows how to provide for specialized statute of limitations when it wants to limit a cause of action. See G.L.c. 231, §60D; Hernandez v. City of Boston, 394 Mass. 45 (1985). “(W]here the Legislature did not intend to adopt a shortened statute of limitations for the special statute, and the special statute is silent as to a tolling period, the [ ] tolling statute is not ’inconsistent’ with the terms of the special statute.” O’Brien v. Massachusetts Bay Transportation Authority, 405 Mass. 439, 442 (1989).
+General Laws c. 15IB, §5 provides that a complainant has six months in which to bring a’ claim with the MCAD, but makes no special tolling provisions regarding minority status. This court concludes that G.L.c. 260, §7, which tolls statute of limitations for minors, is not inconsistent with G.L.c. 15 IB, §5, and therefore tolls the six-month period in which to bring a claim of sexual discrimination. See G.L.c. 260, §§7, 19.
+The Massachusetts Court of Appeals suggested the same result in Cherella v. Phoenix Technologies, LTD., 32 Mass.App.Ct. 919 (1992). The appeals court was ready to toll the six-month statute of limitations provided in G.L.c. 151B, §5 on account of G.L.c. 260, §7. Cherella, 32 Mass.App.Ct. at 920. However, the appeals court did not because the plaintiff in that case suffered a physical back injury, which is not a mental incapacity within the meaning of G.L.c. 260, §7. Id. Nowhere did the Cherella court suggest that the general tolling provisions provided by G.L. 260 (for mental incapacity as well as minority status) was inapplicable to G.L.c. 15 IB because it was inconsistent pursuant to G.L.c. 260, §19.
+This view is bolstered by federal case law interpreting Title VII of the Civil Rights Act of 1964, which is analogous to G.L.c. 151B. Christo, 402 Mass. at 817. In Zipes v. Trans World Airlines, Inc., 455 U.S. 385 (1982), the Supreme Court discusses a suit brought by female flight attendants for unlawful sex discrimination. Id. The Court held that filing a timely complaint with the Equal Employment Opportunity Commission was not a jurisdictional prerequisite to a suit in federal court, but was a statute of limitations subject to waiver, estoppel, and equitable tolling. Zipes, 455 U.S. at 1135. In so holding, the Court concluded that the primary purpose of the filing requirement to give prompt notice to an employer of possible discrimination claims was preserved, even though the filing requirement was subject to tolling. Id. The Massachusetts Supreme Judicial Court has cited Zipes approvingly. See Christo, 402 Mass. at 817.
+There is no sound reason why minority should not toll the six-month time period in G.L.c. 15 IB, §5. This court concludes that the six-month time-period was tolled by Bills’ minority status at the time the discriminatory acts occurred and began running at her eighteenth birthday. The MCAD was incorrect when it dismissed Bills’ complaint on the grounds that it was not filed within six months. Bills filed her complaint within six months of her eighteenth birthday, and within the six-month time period. Thus Bills has met the MCAD filing prerequisite for bringing an action in Superior Court under G.L.c. 151B, §4. In light of the foregoing discussion, defendants’ alternative presentment argument is without merit.
+ORDER
+For the foregoing reasons, the court ORDERS that defendants’ motion to dismiss be DENIED.
+General Laws c. 260, §7 provides that “[i]f the person entitled thereto is a minor, or is incapacitated by reasons of mental illness when a right to bring an action first accrues, the action may be commenced within the time hereinbefore limited the disability is removed.”
+General Laws c. 260, §19 provides that “[i]f a special provision is otherwise made relative to the limitation of any action, any provision of this chapter inconsistent therewith shall not apply.”
+This is not a G.L.c. 30A, §14 appeal of the MCAD’s decision. Therefore the court does not examine the legal basis for the MCAD decision to dismiss Bills’ complaint for lack of jurisdiction.
