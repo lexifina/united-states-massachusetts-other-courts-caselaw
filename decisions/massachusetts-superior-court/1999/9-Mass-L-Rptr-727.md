@@ -1,0 +1,47 @@
+---
+court: "Massachusetts Superior Court"
+docket: "SUCR 9811253"
+decided: "1999-03"
+citations: ["9 Mass. L. Rptr. 727"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. Sammy Young"]
+source_url: "https://static.case.law/mass-l-rptr/9/cases/0727-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189213
+cites_cases: ["386 Mass. 434", "402 Mass. 199", "402 Mass. 789", "423 U.S. 897", "435 U.S. 499", "521 F.2d 246"]
+---
+
+# Commonwealth v. Young
+
+## Majority (VOLTERRA, J.)
+
+VOLTERRA, J.
+Background
+Defendant seeks to suppress evidence of possession of cocaine with intent to distribute and certain statements which he made to police officers contemporaneously with his arrest on July 10, 1998.
+Defendant’s arrest took place in the apartment of Maureen Tait. Ms. Tait was the mother of children fathered by the defendant.
+The defendant’s arrest took place in a bedroom of the apartment. The arrest was made by two Boston police officers who had accompanied a probation officer of the Boston Municipal Court (BMC) who was ostensibly making a “home visit” of his probationer Sammy Young, the defendant under this indictment.
+The defendant’s arrest and seizure of contraband was accomplished during an ongoing joint police and probation department operation known as OPERATION NIGHTLITE. This effort has been organized statewide through the cooperation of the Commissioner of Probation and various local police departments. OPERATION NIGHTLITE’s objectives are: to apprehend probationers who have defaulted on court appearances; to arrest probationers sought on probation violation warrants; and to apprehend probationers who the probation officers has reasonable grounds or suspicion to believe has or is violating the terms of his probation conditions.
+For the reasons that follow and after taking evidence from two witnesses, hearing the arguments of counsel and considering the submissions of the parties, I conclude that the warrantless search, seizure and arrest of the defendant was unlawful and performed in violation of the defendant’s rights guaranteed by Art. 14 of the Declaration of Rights of the Inhabitants of the Commonwealth of Massachusetts. Accordingly, all evidence seized and statements made by the defendant are suppressed. The defendant’s Motion to Suppress is ALLOWED.
+DISCUSSION
+On August 19, 1997, the defendant was placed on probation by the Boston Municipal Court until August 19,1998. The defendant agreed to abide by the probation conditions imposed upon him by the court. The conditions were the garden variety type with no extraordinary provisions such as the disapproved condition that “[the probationer] submit to any search of herself, her properties or any place where she resides or is situate, with or without a search warrant, by a probation officer or by any law enforcement officer at the direction or by the request of the probation officer.” See Commonwealth v. LaFrance, 402 Mass. 789, 790-91, n. 2 (1988).
+On August 19, 1997, when the defendant was put on probation by the court, Probation Officer Timothy Norris, assumed supervision of the defendant’s probation.
+Norris, consistent with the probation protocols established by the BMC, made twelve periodic home visits to the defendant’s unofficial residence of apartment 149, 16 Shandon Road, Dorchester. Norris never sought or utilized police assistance when he made prior home visits at 16 Shandon Road, Dorchester.
+Norris knew that the defendánt cohabited with Maureen Tait. Tait and the defendant had two children together. Defendant officially resided at 26 Williams Street, Roxbuiy, but he was never there. Norris, from previous contacts with Tait, had found her to be a pleasant woman and with whom he was happy to talk to. Norris believed that Tait was a very nice woman. Norris had made his first home visit with Young at Tait’s address fourteen days after accepting the case for supervision. On other occasions during the course of his probation, Young reported to Norris at his office in the New Court House. There was no evidence that Norris was in danger requiring police assistance. There was no suspicion of any sort that the probationer was or had engaged in criminal acts.
+On July 10, 1998, at approximately 6:00 p.m., Norris accompanied by Detective Earl Perkins, a Boston police officerwith twelve years of experience, who was assigned to the Drug Task Force, and who had performed hundreds of drug investigations, and another police officer, one Conroy, decided to make a home visit at Tait’s apartment to speak with the defendant.
+Norris knocked on the door. Ms. Tait opened the door. Norris and the two police officers entered the apartment. Norris and the two police officers had their official badges displayed from dog tag chains around their necks.
+Norris asked Tait, ‘Where’s Sammy?” Tait replied that he was in the back of the apartment. Ms. Tait walked to the rear of the apartment with Norris and the two police officers walking rapidly behind her. Tait opened the bedroom door. Norris and the officers observed the defendant laying on the bed in his underwear. Ms. Tait tried to close the bedroom door behind her to keep Norris and the police officers out of the bedroom. Detective Perkins prevented her from closing the door. Norris and the police officers burst into the bedroom.
+Detective Perkins observed that the defendant’s hands were under the pillow. Perkins, who had his pistol pointed at the defendant shouted, “Show me your hands! Show me your hands!”
+The defendant pushed a brown paper bag off the bed. Norris and Officer Conroy jumped on the bed. Norris seized the brown paper bag which was discovered to contain crack cocaine. The police seized a digital weighing scale and personal papers belonging to the defendant from the room. Also seized from the defendant’s bedroom was $2,280.00 in U.S. currency.
+The defendant was arrested, given the Miranda warning, and handcuffed. The defendant told the police that all the contraband was his property, and that Ms. Tait was not involved with his criminal conduct.
+After the defendant was arrested, probation officer Norris said to Young, “I can’t believe this, Sammy!”
+I rule that the search of the premises of Ms. Tait at 16 Shandon Road, Dorchester was an arbitrary warrantless search which was not based on reasonable suspicion on the part of Probation Officer Norris that the defendant was engaged in criminal activiiy at Ms. Tait’s apartment. Indeed, had Norris had reasonable suspicion it was open to him to apply for the issuance of a search warrant. Id,, supra at 794-95. As was taught in LaFrance at 795, citing Latta v. Fitzharris, 521 F.2d 246, 257 (9th Cir. 1975) (Hufstedler, J. dissenting), “The requirement that [a probation] officer articulate his reasons for making a search before he searches is a substantial deterrent to impulsive and arbitrary official conduct and a real safeguard against after-the-fact justification,” cert. denied, 423 U.S. 897.
+Here, Norris and the police officers invaded the defendant’s room without any reasonable suspicion that the defendant had or was committing a crime or that he was in violation of his probation conditions.
+Although it is clear that probation officers have the traditional right to visit and meet with probationers, LaFrance, supra at 795, that right does not extend to warrantless searches without reasonable suspicion.
+A right to visit necessarily implies a right to visit in aperson’s apartment or home in an area where visitors are usually received such as a foyer, a living room, dining room, study or kitchen. I rule that right does not extend to following the person who admitted the visitor down to a back bedroom to burst into the room where a probationer is lying on a bed undressed.
+To authorize probation officers to conduct such intrusions into a probationer’s zone of household of privacy without a warrant would deprive Art. 14 of all its strength and vigor for large numbers of persons. All probationers would be subject to arbitrary and impulsive governmental conduct in the very bosom of their zones of human privacy.
+I further infer that the police officers who accompanied Norris were experienced drug investigators who in all likelihood had been given a tip that Young was dealing crack cocaine. Thus the “home visit” by Norris was merely a subterfuge to conduct a search of the premises occupied by the defendant. See Commonwealth v. Eagleton, 402 Mass. 199, 207 n.113 (1988); Commonwealth v. Frodyma, 386 Mass. 434, 435 (1982).
+The search and seizure of contraband from the defendant’s room, and his subsequent statements made by him to the arresting officers are suppressed as being manifestly unreasonable pursuant to Art. 14. A probation officer making a home visit is restrained to perform such a visit in a limited fashion. The home visit cannot be used as a subterfuge in avoiding the probable cause burden that must be used to support a criminal investigative search. Once the purpose behind the search shifts from a home visit to a quest for evidence to be used in a criminal prosecution, the Commonwealth may only enter the premises upon securing a warrant supported by full probable cause. Frodyma, supra at 445, citing Michigan v. Tyler, 435 U.S. 499, 508 (1977).
+ORDER
+For the foregoing considerations, the Defendant’s Motion to Suppress Evidence and Statements is ALLOWED.
