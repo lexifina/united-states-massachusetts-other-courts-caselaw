@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Land Court"
+decided: "1901-03"
+citations: ["1 Davis. L. Ct. Cas. 51"]
+reporter: "davis-l-ct-cas"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLARD WELSH v. JOHN B. McKENNA et al."]
+source_url: "https://static.case.law/davis-l-ct-cas/1/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6763518
+cites_cases: ["102 Mass. 72", "126 Mass. 97", "136 Mass. 32", "180 Mass. 411", "7 Cush. 503", "9 Gray, 38", "99 Mass. 29"]
+---
+
+# Welsh v. McKenna
+
+## Majority
+
+The respondents in this case have filed twenty requests for rulings. All but the 12th, 16th and 17th are fully covered by the opinion filed with the decision in Robinson v. Church, Land Court Decisions, p. 13, ante.
+The 16th and 17th requests are based upon the following uncontroverted facts: Three of the lots covered by this petition (88, 90 and 92) were assessed for the taxes of 1893 by mistake to Spaulding and Wells, owners of neighboring land, but having no interest in these lots. The warrant by which the taxes for 1893 were committed to the collector contained the names of Spaulding and Wells as the owners of these lots. When the collector prepared to hold his sale for the unpaid taxes of 1893 he notified Messrs. Spaulding and Wells, who informed the assessors of their error. The taxes were thereupon (Aug. 5, 1895) reassessed to the true owner, one Lewis. The collector upon being informed by the assessors of this reassessment, and at their request, struck out from the original warrant as committed to him, the names of Spaulding and Wells as the owners of the lots in question, by drawing his pen through their names, and inserted in their place the name of Lewis. Demand of payment was then made on Lewis, and thereafter the collector proceeded to sell as for unpaid taxes of 1893 assessed to said Lewis as owner.
+Hnder the early decisions an illegality in the assessment invalidated a sale. Goodrich v. Lunenburg, 9 Gray, 38. This, however, was changed by the Acts of 1859, Chapter 118. Cone v. Forest, 126 Mass. 97.
+Under the provisions of the General Statutes taxes improperly assessed to the wrong owner might be reassessed to the person to whom such tax ought at first to have been assessed. G. S. Chap. 11, Sec. 53. The reassessment having been made, a recommitment to the collector became necessary. Jennings v. Collins, 99 Mass. 29. Under the provisions of the General Statutes such recommitment did not necessarily call for a new warrant however. The list as originally committed to the collector was liable to change by reason both of subtractions from and additions to the warrant. Taxes assessed under G. S. Chap. 11, Sec. 50, to persons omitted from the original assessment, were to be added to and entered in the tax lists of the collector, and paid over as specified in his warrant, and this provision was held to apply also to cases of reassessment. Hubbard v. Garfield, 102 Mass. 72.
+This case would be conclusive as to the case at bar had not the statute again been changed. As the Act of 1859 was passed to meet the overstringency of the rule declared in Goodrich v. Lunenburg, Chapter 394 of the Acts of 1870 seems to have been passed in immediate consequence of Hubbard v. Garfield. By that Act it was provided that taxes reassessed shall be committed to' the collector for the time being in the same manner as other taxes, except that the name of the person to whom the taxes were originally assessed shall be stated in the warrant. This provision is still in force. Acts of 1870, Chap. 394. P. S. Chap. 11, Sec. 80. I think this calls for a new commitment and a new warrant. A mere change made in the old warrant by the collector even at the request of the assessors, by striking out the former names and substituting therefor the name of the person to whom the land was assessed, not as a reassessment, but as of the date of the original warrant, is not a compliance with the requirements of the present statute.
+Joseph Bennett for petitioner.
+W. C. Rogers, G. W. Bartlett for respondents.
+A further objection to the validity of the sale is raised by the respondents’ 12th request, because of the amount of the collector’s charges. It appeared in evidence that the collector charged one dollar for his affidavits recorded in the registry of deeds, and thirty cents each for recording, while the actual price paid for recording them was only fifteen cents for each. The statute authorizes the recording in the registry of deeds of an affidavit as to demand of payment, and of an affidavit as to the posting and publishing of notice of sale by “ a disinterested person, or any deputy collector, or of the collector who makes the sale.” Acts of 1888, Chap. 890, Sec. 39,
+The charges and fees which shall be allowed a collector are specifically enumerated and they “ and no other ” shall by statute “ be severally added to the amount of the tax.” Among them are “ For obtaining affidavit of disinterested person, one dollar. For recording affidavit, the register’s fees.” Acts of. 1890, Chap. 331, Sec. 2. These charges being “ added to the amount of the tax ” become a part of, the tax itself so far as the sale is concerned. Not only is an owner entitled to know the exact amount of the tax for which his land is held, so that he may avail himself of his statutory right to discharge it before sale, but the collector has no authority to make any sale whatever except for the payment of the tax committed to him. Alexander v. Pitts, 7 Cush. 503. Knowlton v. Moore, 136 Mass. 32. (Note: — See also Fancy v. Snow, 180 Mass. 411.)
+Petition dismissed.
