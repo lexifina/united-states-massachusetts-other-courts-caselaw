@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Superior Court"
+docket: "030800B"
+decided: "2003-12-09"
+citations: ["17 Mass. L. Rptr. 123"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Noemi Hernandez, individually and as Administratrix of the Estate of Susana Diaz v. Tammy Vargas, M.D. et al."]
+source_url: "https://static.case.law/mass-l-rptr/17/cases/0163-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1078236
+cites_cases: ["1994 WL 878922", "27 Mass.App.Ct. 729", "3 Mass. L. Rptr. 91", "33 Mass.App.Ct. 328", "380 Mass. 464", "9 Mass.App.Ct. 639"]
+---
+
+# Hernandez v. Vargas
+
+## Majority (Agnes, A.J.)
+
+Agnes, A.J.
+1.Introduction
+This is a medical malpractice action in which the plaintiff has filed a motion to compel the defendants to respond to certain discovery requests including plaintiffs First Set of Interrogatories, and First Request for Production of Documents. The defendant opposes the motion on grounds that six months have passed since the defendant filed an answer and a request to convene a Medical Malpractice Tribunal under G.L.c. 231, §60B. The defendant adds that “plaintiff has not served an Offer of Proof or any expert affidavit(s)/report(s) in support of her claims against Dr. Vargas. Moreover, no tribunal has been convened. Consequently, there is no basis on the record as it now exists to determine whether the complaint presents a legitimate issue appropriate for judicial review ... The purpose of requiring a medical malpractice tribunal at the outset of litigation is meaningless if discoveiy is permitted prior to the time that the tribunal is convened.” Defendant’s Memorandum in Opposition at 2.
+2.Purpose of Medical Malpractice Tribunal
+The defendant is correct that the legislature has provided that “(e]ach such action for malpractice shall be heard by said tribunal within fifteen days after the defendant’s answer has been filed.” G.L.c. 231, §60B. She also is correct that the statute is designed “to discourage frivolous claims whose defense would tend to increase premium charges for medical malpractice insurance.” Brodle v. Gardner Pierce Nursing and Rest Home, Inc., 9 Mass.App.Ct. 639, 641 (1980). A prompt tribunal hearing also serves to relieve the defendant in such cases of the costs and burdens associated with most discoveiy because “the hearing before the tribunal ordinarily precedes discovery.” Gugino v. Harvard Community Health Plan, 380 Mass. 464, 468 (1980). In practice, however, this intended benefit may not occur because tribunal hearings rarely take place in less than several months after filing of the answer.
+3.Pre-tribunal Discovery
+Courts have responded to objections to pre-tribunal discoveiy in several ways. In some cases, trial judges routinely deny requests for a stay of discoveiy. See Albury v. Glidden, Suffolk Superior Court, Civil Action 44242 (December 15, 1990) (Young, J.), quoted in Schell v. Birnbaum, 1994 WL 878922 (Mass. Super. 1994) (Doerfer, J.) (3 Mass. L. Rptr. 91). In some of these cases, however, an order is made that no discoveiy received prior to the tribunal hearing will be available for use at the tribunal hearing. See also Rogers v. City of Boston, 33 Mass.App.Ct. 328, 331 (1992). In other cases, all discoveiy is stayed until a tribunal hearing is held and a decision rendered. E.g., Albano v. Lareau, M.D., Middlesex Superior Court No. 2001-02149 (September 25, 2001) (Giles, J.). See also Tesorero v. Rau, Norfolk Superior Court No. 98-0984 (November 11, 1998) (Doerfer, J.) (Court orders a tribunal hearing convened and stays discovery pending the hearing). See generally Lauriat, McChesney, Gordon & Rainer, DISCOVERY §1.33 (49 Mass. Prac. Series 2002 and Supp. 2003) (“Stays of discovery are often issued in medical malpractice cases pending a hearing and determination by the medical malpractice tribunal"). However, there is nothing contained in the tribunal statute that relieves the defendant from the obligation to provide discoveiy prior to a tribunal hearing. See Tibbets v. Wisniewski, 27 Mass.App.Ct. 729, 730 (1989) (“Under the mistaken impression that no response to discovery was required until a medical malpractice tribunal had ruled, plaintiffs counsel did not dignify the defendant’s requests for discoveiy with a reply”). Yet, the unmistakable intent of the legislature as expressed in G.L.c. 231, §60B, is that tribunal hearings occur at the veiy outset, if not prior to, the commencement of the discoveiy process. While there are many reasons why a tribunal hearing is not scheduled within 15 days of the filing of an answer as required by G.L.c. 233, §60B, lengthy delays undermine the purpose of the tribunal statute. A stay of discovery may work an injustice to the plaintiff even as it fails to accomplish the purpose of the tribunal statute.
+ORDER
+4. Accordingly, pursuant to the court’s authority to regulate the terms of discovery in civil cases, see Mass.R.Civ.P. 26(a), (b) and (c) and 81(e), the plaintiff s motion to compel discovery is ALLOWED SUBJECT TO CONDITIONS. Discovery may proceed as moved by the plaintiff only on condition that the plaintiff first files a written Offer of Proof with the Clerk that satisfies the requirements of G.L.c. 231, §60B. The defendant’s motion for a protective Order is DENIED WITHOUT PREJUDICE. Following the filing of the Offer of Proof the defendant may renew the request for a protective order or take any other appropriate action.
+Of course, it must be acknowledged that even if the plaintiffs offer of proof is not sufficient to raise a legitimate question of liability sufficient for judicial inquiry, see G.L.c. 321, §60B, the plaintiff may post a bond and proceed with the case, including full discovery.
