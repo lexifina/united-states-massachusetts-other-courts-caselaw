@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Superior Court"
+docket: "CA 926764G"
+decided: "1995-04-21"
+citations: ["4 Mass. L. Rptr. 38"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Seymour Kessler, as Trustee of Jori Kessler Trust et al. v. Michael J. Sinclair et al."]
+source_url: "https://static.case.law/mass-l-rptr/4/cases/0038-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11923000
+cites_cases: ["14 Mass.App.Ct. 121", "17 Mass.App.Ct. 668", "333 Mass. 517", "477 A.2d 1040", "607 F.2d 765"]
+---
+
+# Kessler v. Sinclair
+
+## Majority (Doerfer, J.)
+
+Doerfer, J.
+The plaintiffs, Seymour Kessler (“Kessler”), as Trustee of Jori Kessler Trust, and Arthur S. Davis (“Davis”), brought this derivative action on behalf of Lifetime Corporation (“Lifetime”) against the defendants, the Lifetime Board of Directors. The defendants have now moved to dismiss the action for lack of subject matter jurisdiction on the ground that the shares of Lifetime stock owned by Kessler, as Trustee of Jori Kessler Trust, were sold on July 21, 1993. Kessler opposes the motion and contends that, since he owns shares of Lifetime stock in his capacity as Trustee of Surgical and Orthopedic Podiatrists Ltd. Money Purchase Plan (“the SOP Plan”), the court has subject matter jurisdiction over the action. For the reasons which follow, the defendant’s motion to dismiss for lack of subject matter jurisdiction is allowed.
+BACKGROUND
+The plaintiffs’ derivative action against the defendants challenges Lifetime’s payment of allegedly excessive compensation to defendant Michael J. Sinclair (“Sinclair”). At the time the original complaint was filed, Kessler, as Trustee of Jori Kessler Trust, owned shares of Lifetime stock.
+The defendants filed a joint motion to dismiss the action on the ground that the plaintiffs had failed to make demand upon the Board of Directors of Lifetime and had offered a legally insufficient excuse for this failure. On May 4, 1993, the Superior Court dismissed the complaint for failure to make demand. The plaintiffs appealed the dismissal of the complaint.
+On July 30, 1993, Lifetime ceased to exist as a corporate entity as a result of a “stock swap” merger into Olsten. Pursuant to this merger, Lifetime shareholders relinquished their shares in Lifetime and became shareholders in Olsten. The defendants then moved to dismiss the appeal on the ground that, by reason of the merger and the translation of Kessler’s shares into Olsten shares, Kessler lost his standing to prosecute the appeal and to maintain the lawsuit.
+On October 27, 1994, the Appeals Court denied the defendants’ motion to dismiss the appeal and vacated the judgment of the Superior Court. The Appeals Court remanded the action to the Superior Court with a direction that Kessler amend the complaint “to join Olsten formally as a defendant and to amend the complaint on the new footing.” (Order, p. 8.)
+While the Amended Complaint was being prepared, Kessler became aware that, on or about July 21,1993, his broker had caused the Lifetime shares owned by the Jori Kessler Trust to be sold. Kessler, however, still owned 311 shares of Olsten stock in his capacity as Trustee of the SOP Plan. Kessler thereby changed the caption of the Amended Complaint and listed himself, as Trustee of the SOP Plan, as the plaintiff in this action. The defendants contend that, when all the shares of Lifetime stock owned by Kessler, as Trustee of the Jori Kessler Trust, were sold on July 21, 1993, Kessler lost standing to maintain this action and, therefore, this action must be dismissed for lack of subject matter jurisdiction.
+DISCUSSION
+“Whenever it appears by suggestion of a party or otherwise that the court lacks jurisdiction of the subject matter, the court shall dismiss the action.” Mass.R.Civ.P. 12(h)(3); Flynn v. Contributory Retirement Appeal Board, 17 Mass.App.Ct. 668, 670 n. 3 (1984). Because subject matter jurisdiction is an issue to be determined solely by the court, the parties cannot waive jurisdiction or confer jurisdiction where it does not exist. Shea v. Neponset River Marine & Sportflshing, Inc., 14 Mass.App.Ct. 121, 129 (1982); Mark v. Kahn, 333 Mass. 517, 519 (1956).
+Both parties concede that, under Delaware law, a plaintiff must retain his status as a shareholder throughout the litigation in order to continue to prosecute a derivative action. Portnoy v. Kawecki Berylco Industries, Inc., 607 F.2d 765, 767 (7th Cir. 1979). “A plaintiff who ceases to be a shareholder, whether by reason of a merger, or for any other reason, loses standing to continue a derivative suit.” Lewis v. Anderson, 477 A.2d 1040, 1049 (1984).
+The central issue presented is whether Kessler, by changing the caption on the Amended Complaint and alleging that he is now proceeding as Trustee of the SOP Plan, rather than as Trustee of Jori Kessler Trust, can maintain this action. Mass.R.Civ.P. 8(a) requires a complaint to set forth a “claim showing that the pleader is entitled to relief . . .” Mass.R.Civ.P. 8(a). Pursuant to Delaware law, Kessler, as Trustee of Jori Kessler Trust, lost his standing to pursue á derivative action against the defendants when the Lifetime stock, owned by Jori Kessler Trust, was sold on July 21, 1994.
+Mass.R.Civ.P. 17(a) requires that every action be prosecuted in the name of the real party in interest and allows a trustee of an express trust to sue as the trust, without joining the beneficiaries of the trust. Mass.R.Civ.P. 17(a). However, as the defendants contend, neither Mass.R.Civ.P. 17(a) nor any other procedural device allows a trustee of one trust to prosecute an action for a wholly different trust, unless the other trust, through its representative, commences a new action or moves to intervene in the pending action. See Mass.R.Civ.P. 24(b) and (c) .
+Kessler contends that the Appeals Court, in its October 27 1994 decision, explicitly directed Kessler to amend the complaint. Kessler therefore asserts that it was proper for him to file the Amended Complaint in the capacity of Trustee of the SOP Plan. The court disagrees. The Appeals Court addressed the effect of the merger of Lifetime with Olsten, and ordered the plaintiff to join Olsten formally as a defendant. However, the decision of the Appeals Court did not contemplate the substitution of a completely different plaintiff, if Kessler, in his named capacity, were to sell his stock and thereby lose standing.
+Contrary to Kessler’s contention, Kessler, as Trustee of the SOP Plan, cannot inject himself into a pending action simply by placing his name on the caption of the Amended Complaint. Accordingly, because Kessler, as Trustee of Jori Kessler Trust, has no standing to maintain this action, the defendants’ motion to dismiss for lack of subject matter jurisdiction is allowed. While Kessler, as Trustee of the SOP Plan, may well have a valid action against the defendants, he must properly exercise those rights by commencing a new action in this capacity.
+ORDER
+For the foregoing reasons, the defendants’ Motion to Dismiss for Lack of Subject Matter Jurisdiction is ALLOWED.
+In a footnote, the Appeals Court noted that “Olsten has substituted itself as a defendant in the caption of the case on appeal and characterized itself as ‘successor by merger to Lifetime Corporation.’ Formal joinder of Olsten would be desirable (with consequent repleading).” (Order, p. 8, n. 11.)
