@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Superior Court"
+docket: "20022167"
+decided: "2005-03-08"
+citations: ["19 Mass. L. Rptr. 121"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Linda M. Manganaro v. Lawrence Hudson et al."]
+source_url: "https://static.case.law/mass-l-rptr/19/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8979283
+cites_cases: ["373 Mass. 208", "398 Mass. 464", "412 Mass. 139", "433 Mass. 662"]
+---
+
+# Manganaro v. Hudson
+
+## Majority (Fishman, J.)
+
+Fishman, J.
+The plaintiff, Linda Manganaro, brings this action against the defendants, Lawrence Hudson, a City of Cambridge police officer, Keefe Funeral Home, Inc., Carl Narsisian, and the City of Cambridge (“City”), seeking to recover damages sustained when the plaintiff, while walking across Massachusetts Avenue in Arlington, Massachusetts, was struck by a motorcycle driven by Hudson. The motorcycle was part of a funeral escort service provided by the City to assist the Town of Arlington. The City moves for summary judgment on so much of Count V of the plaintiffs First Amended Complaint that alleges that the City was negligent in its management, supervision and conduct of the funeral escort. After hearing, and upon review and consideration, the motion for partial summary judgment is DENIED.
+It is the City’s contention that it is immune from liability pursuant to the statutory exception embodied in G.L.c. 258, §10(b). Section 10(b) exempts from liability “any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function or duty on the part of the public employer or public employee, acting within the scope of his office or employment, whether or not the discretion involved is abused.” The first step in determining whether the discretionary function exception bars the plaintiffs claim “is a determination whether the [government] actor had any discretion to do or not to do what the plaintiff claims caused [her] harm.” Barnett v. Lynn, 433 Mass. 662, 663-64 (2001), quoting Harry Stoller & Co. v. Lowell, 412 Mass. 139, 141 (1992). The City is correct in its contention that its determination whether to provide a motorcycle escort involves a high degree of discretion involving the allocation of its police personnel. The issue here, however, is not whether the City’s determination to provide this service was negligent, but rather whether it was negligent in implementing the technique employed by the police during the escort, i.e., the so-called “leapfrog” procedure, due to improper training and supervision. The City’s employees had discretion as well with regard to the manner in which it carried out the escort as no statute, regulation, or established agency practice prescribed a course of conduct that the City must have followed with regard to the service. Barnett, 433 Mass, at 664. For example, the number of motorcycles and officers to employ were within the discretion of the police department officials.
+As the Supreme Judicial Court held in Barnett, however:
+“The second and far more difficult step is to determine whether the discretion that the actor had is that kind of discretion for which § 10(b) provides immunity from liability.” [Harry Stoller & Co., 412 Mass, at 141]. Generally, such discretionary conduct is “characterized by the high degree of discretion and judgment involved in weighing alternatives and making choices with respect to public policy and planning.” Patrazza v. Commonwealth, 398 Mass. 464, 467 (1986), quoting Whitney v. Worcester, 373 Mass. 208, 218 (1977). “Where there is room for policy judgment and decision there is discretion.” Patrazza v. Commonwealth, supra at 469.
+433 Mass, at 694.
+Here, the alleged negligent conduct that caused the plaintiff to be struck by a police motorcycle was not founded on planning or policy considerations. The claimed negligence is the failure to provide proper training and supervision to police officers engaged in funeral procession escorts, and particularly the leapfrog procedure. Planning and policy considerations are not involved when the City, through the officer in charge of the police escort, permitted Officer Hudson to participate in a leapfog escort without proper training or supervision.
+Although the claim is not barred by the discretionary function exception, the summary judgment record presents no genuine issue of material fact regarding the adequacy of the training. Motorcycle officers receive training in the leapfrog technique at the police academy and in escort techniques on the job by supervisors. The plaintiff has presented no evidence to suggest that the nature and extent of that training are inadequate. An issue of material fact does exist, however, with regard to the adequacy of the supervision in this case. The City of Cambridge has no specific rules, written or otherwise, governing the leapfrog technique, and specifically concerning the minimum number of officers needed to safely execute the technique in a given situation. The officer in charge of the escort makes an on-site determination regarding the execution of the escort procedure. The City does not argue that expert testimony is necessary to sustain a claim of inadequate supervision. Presumably, a jury could determine from the manner in which the collision with the plaintiff occurred, together with evidence of the manner in which the escort was conducted, and particularly the number of police officers employed and their placement along the procession route, whether the supervision was inadequate.
+ORDER
+Based on the foregoing, it is hereby ORDERED that the defendant City of Cambridge’s motion for partial summary judgment is DENIED.
+The leapfrog technique involves motorcycle officers covering multiple intersections along a procession route, with an officer on a motorcycle traveling from the last cleared intersection, past controlled intersections, to the next uncontrolled intersection, to enable safe control of traffic along the procession route.
