@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Superior Court"
+docket: "92-0663G, 92-0662G, 92-0664G and 92-0665G"
+decided: "1993-11-17"
+citations: ["1 Mass. L. Rptr. 634"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald A. Marson v. Markings, Inc. and others"]
+source_url: "https://static.case.law/mass-l-rptr/1/cases/0634-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6127835
+cites_cases: ["340 Mass. 73", "390 Mass. 419", "404 Mass. 14", "410 Mass. 706", "477 U.S. 317"]
+---
+
+# Marson v. Markings, Inc.
+
+## Majority (Roseman, J.)
+
+Roseman, J.
+Plaintiff Donald A. Marson has brought an action for wrongful death, negligence, loss of consortium, and emotional distress, alleging that defendants breached their duly of care while constructing and maintaining crosswalks at the intersection of Garfield Ave. and Revere Beach Parkway in Chelsea, MA. Defendant Markings, Inc. moves for summary judgment pursuant to Mass R. Civ.P. 56(b)(6), arguing that plaintiffs have not established that Markings’s contract with the Metropolitan District Commission (MDC) established a duty of care that Markings breached in the performance of its duties. For the reasons stated below, Markings’s motion for summary judgment is Denied.
+BACKGROUND
+On February 1, 1989, at approximately 2:30 p.m., Annette Marson, with her six-year-old son Billy S. Marson and her seven-year-old son Donald B. Mar-son, were struck by a car driven by Steven Clerico at the intersection of Garfield Avenue and Revere Beach Parkway. The Marson family was walking in a crosswalk at the intersection painted by defendant Markings. As they were crossing Garfield Avenue, the Marson family was forced to pass in front of a truck waiting to turn right and enter onto Revere Beach Parkway. Clerico, pulling up to the left of the truck, also was attempting to turn right. Because of the nature of the intersection and the location of the truck, neither Clerico nor the Marson family saw the other. As a result of the collision, Annette and Billy Marson died, and Donald B. Marson suffered severe injuries.
+DISCUSSION
+Summary judgment shall be granted only when no genuine issues as to any material fact are in dispute. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Mass.R.Civ.P. 56(c). The moving party bears the burden of proving the absence of a triable issue and “[further,] that the moving party is entitled to judgment as matter of law.” Pederson v. Time, Inc., 404 Mass. 14, 17 (1989). “Acomplete failure of proof concerning an essential element of the non-moving party’s case renders all other facts immaterial” and mandates summary judgment in favor of the moving party. Kourouvacilis v. General Motors Corp., 410 Mass. 706, 711 (1991), citing Celotex v. Catrett, 477 U.S. 317, 322 (1986).
+Defendant argues that its duty was limited by the terms of its contract with the MDC, and that the plaintiffs can show no act which would place the essential element of breach into dispute. According to defendant, the governing contract required Markings merely to paint directly over preexisting crosswalk markings at the Garfield Avenue and Revere Beach Highway intersection and forbid Markings from modifying, altering, or amending the existing crosswalk markings. Defendant’s Memorandum in Support of Summary Judgment at 3.
+After the numerous corrections of the original filings, it appears that both sides agree that Markings’s work on the crosswalk was governed by MDC Contract for Installation of Reflectorized Pavement Markings P87-1428-M1A (P87). Markings had a statutory and contractual duty to install all pavement markings according to the prepared plans and specifications. See G.L.c. 85 §2; G.L.c. 30 §391 (incorporated by reference into P87 at G-25 to G-26); and P87 at G-3. P87 also required Markings to “keep [itself] fully aware of all State and Federal laws and municipal ordinances, regulations, and by-laws, in any manner affecting those engaged or employed in the work” and report any discrepancy or inconsistency “discovered in the plans, drawings, specifications, or contract for the work... to the Engineer in writing . . .” P87 at G-22.
+Defendant points out that according to Restatement (2nd) of Torts §324, liability may be predicated if either (1) its painting operations increased the risk of harm, or (2) it assumed some duty owed by the MDC to inspect or design the crosswalk allegedly involved. Defendant’s Memorandum at 6. The terms of P87 create a duty upon Markings to follow MDC plans when painting the crosswalks. Plaintiff has submitted evidence that the painted crosswalks do not coincide with the plans submitted as exhibits, and that the failure to follow these plans was a proximate cause of the two deaths. See Exhibit D, Plaintiffs’ Memorandum Opposing Defendant’s Motion for Summary Judgment. Markings’s obligation “is measured by the terms of its contract . . . , and if under a duty to maintain ... or to inspect it for defects, it is liable to third persons not parties to the contract who are foreseeably exposed to danger and injured as a result of its negligent failure to carry out that obligation.” Banaghan v. Dewey, 340 Mass. 73, 80 (1959). Defendant has submitted no evidence which would create the absence of a triable issue. Accordingly, this court does not find that Markings is entitled to judgment as a matter of law.
+ORDER
+It is therefore ORDERED that the defendants’ motion for summary judgment be DENIED.
+Originally, Exhibit A of defendant’s Memorandum in Support purported to be another MDC contract: P88-1540-M1A (P88). In fact, the Memorandum itself refers only to P88. However, plaintiff pointed out in its Supplemental Memorandum in Opposition to Summary Judgment that several pages of the contract served and filed by defendant differed from the certified copy of P88 produced by the MDC. Plaintiff also produced internal MDC documents that suggested that P88 did not take effect until April 1989. At this point, defendant amended Exhibit A of its Memorandum and substituted the cover page of P87 for the cover page of P88. Markings therefore seems to concede that P88 was not executed until after 1989 and P87 governed the work immediately preceding the accident.
