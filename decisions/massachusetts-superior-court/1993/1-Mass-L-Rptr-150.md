@@ -1,0 +1,68 @@
+---
+court: "Massachusetts Superior Court"
+docket: "92-5261"
+decided: "1993-09-03"
+citations: ["1 Mass. L. Rptr. 150"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wellington Management Company v. City of Boston et al"]
+source_url: "https://static.case.law/mass-l-rptr/1/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6104303
+cites_cases: ["146 F.2d 996", "21 Mass.App.Ct. 268", "24 Mass.App.Ct. 118", "309 Mass. 433", "31 Mass.App.Ct. 315", "331 Mass. 688", "355 Mass. 79", "363 Mass. 52", "365 Mass. 481", "395 Mass. 1010", "403 Mass. 604", "405 Mass. 86", "493 U.S. 975", "52 F.Supp. 615", "618 F.2d 147"]
+---
+
+# Wellington Management Co. v. City of Boston
+
+## Majority (Zobel, J.)
+
+Zobel, J.
+Background
+Plaintiff, a financial services company, at all pertinent times maintained two offices within the City of Boston: 75 State Street and 200 State Street. In February 1991, plaintiff filed two “Forms of List” with the City of Boston Assessing Department, see, G.L.c.59, §29, for the purpose of paying personal property taxes for fiscal year (“FY”) 1992.
+The Forms of List provided an inventory of taxable tangible personal property at each location.
+On one Form of List, plaintiff provided, on the appropriate blank lines, the business address of the 200 State Street office, and the location of the personal property (also 200 State Street). On the other Form of List, plaintiff filled in “75 State Street” as both the business address and the location of the property.
+The inventory of personal property on each form was correct with respect to the respective addresses that plaintiff provided. However, plaintiff accidentally placed the 200 State Street information on a form to which was attached a pre-printed mailing label bearing the 75 State Street address, and vice versa.
+In processing the first Form of List, an employee at the Assessing Department crossed out the hand-written number “200” in both places where plaintiff had filled it in, i.e., the business address and properly location, and substituted the number “75,” to match the mailing label at the top of the form.
+The employee then examined the Department’s files, and reevaluated the property based on plaintiffs FY 1991 Form of List for the 75 State Street property, thus producing a much higher valuation.
+On the second form, an Assessing Department employee (presumably the same one) replaced "75” with “200” each time it appeared, and wrote in “200,” to match the mailing label. However, in this case, the employee did not recalculate the property value based on prior years’ taxes paid for 200 State Street. This refiguring would have generated a much lower valuation.
+At no time did plaintiff receive notice of the various changes the Assessing Department had made. In accordance with the statute, G.L.c. 59, §57C, the first two quarterly bills sent to plaintiff were preliminary bills, based on tax paid in the prior year. Because, therefore, they gave plaintiff no reason to suspect error, plaintiff paid each bill promptly.
+On December 31, 1991, the Assessing Department sent bills for the third quarter, for the first time reflecting the higher valuation on the 200 State Street property, G.L.c. 59, §57C.
+Because the 200 State Street bill so closely matched the quarterly amount due on the 75 State Street property, and because it arrived 20 days after the bill for 75 State Street, plaintiff did not immediately perceive the change in the 200 State Street assessment, did not then become aware of the discrepancy, and again paid the bills in full.
+In April 1992, receipt of the fourth quarter bills finally alerted plaintiff to the Assessing Department’s gratuitous editing. Although paying the bills in full, plaintiff gave notice of intent to recover the overpayment.
+In June 1992, well after the statutory deadline, G.L.c. 59, §59, plaintiff filed a request with the Board of Review for relief, G.L c. 58, §8:
+Whenever in the opinion of the commissioner [of revenue], the assessors ... assessing a tax, assessment, rate or charge have made an obvious clerical error and such tax, assessment, rate or charge has been paid, the commissioner may, in writing, authorize the assessors ... to abate any part or the whole of such tax, assessment, rate or charge . . .
+After a hearing on July 24, 1992, the Board issued a ruling denying plaintiff relief, because although not disputing plaintiffs version of the facts, it did “not agree with [plaintiffs] characterization of the law as presented in [its] submission” made after the hearing. Because no provision exists for appealing an adverse decision, plaintiff brought this suit in August 1992, seeking declaratory relief and relief in the nature of certiorari.
+Plaintiff has now moved for summary judgment. Because the matter presents only issues of law, the Court treats plaintiffs motion and defendants’ opposition as cross-motions for summary judgment.
+Discussion
+Plaintiff has acted in good faith at every step, and has proceeded both properly and ethically in attempting to unshackle itself from a clearly inequitable tax. Nonetheless, it finds itself lost in an infinitely complex administrative maze from which, defendants contend, escape is unfortunately impossible.
+The sole cause of plaintiffs problem, defendants say, was plaintiffs disregarding the pre-printed labels on the Forms of List.
+This Court, however, attaches small significance to the mailing label. Defendants suggest nothing to indicate in any way that the label was meant to serve any purpose other than as an address visible in the taxing authority’s “window” envelope. Nothing about the label warns the taxpayer that the Assessing Department relies on it or will even look at it when processing the Forms of List.
+The separate lines in which the taxpayer must insert the business address and location of property emphasize the label’s insignificance. Plaintiff committed no lapse when completing the Forms. Any problems sprang from the Assessing Department, which gratuitously, needlessly, and (as it turned out) incoixectiy altered a taxpayer’s forms without consultation or even notice.
+Plaintiff seeks relief under G.L.c. 58, §8, as amended in the pertinent language of which was added in December 1990 by St. 1990, c. 490. Neither decisional law nor legislative history can aid exegesis. In analyzing the provision, therefore, a court must look to the history of the statute as a whole, taking into account the particular purpose of the new language.
+Before amendment, the statute afforded only limited relief. It conditioned abatements on certain “statutory procedures protecting the tax collector,” Forbes & Wallace, Inc. v. Springfield., 21 Mass.App.Ct. 268, 275-76 (1985), citing Lawrence Print Works v. Lynch, 52 F.Supp. 615, 616-17 (D.Mass. 1943), aff'd, 146 F.2d 996 (1st Cir. 1945).
+Abatements applied only to “unpaid and uncollectible taxes,” Codman v. Assessors of Westwood, 309 Mass. 433, 437 (1941), see also 1933 Op. Atty. Gen. at 21, provided the abatement was deemed to be in the public interest. Codman v. Assessors of Westwood, supra, at 437.
+Generally, the provision encouraged efficient clearance of arrears by local tax assessors, 1933 Opp. Atty. Gen. at 21. In certain limited situations, an individual taxpayer could seek relief, see Marzelli, Handbook of Massachusetts Real Estate Taxes and Abatements 97 (1980). However, the taxpayer could not, by petition for mandamus, “require the assessors to take action upon the abatement of a tax that the commissioner has authorized them to abate,” nor “merely on account of [private] interest compel either the commissioner or the assessors to act or to grant an abatement,” Codman v. Assessors of Westwood, supra, at 437, 438.
+The provision added in 1990 worked significant changes, by allowing for abatement after payment, when the assessors have committed an “obvious clerical enror.” This echoes the statutory distinction between abatements and refunds for clerical errors, G.L.c. 62C, §§36A, 37; see also Belt Realty Corp. v. State Tax Commission, 363 Mass. 52, 56 (1973) (“The word ‘abatement’ is sometimes used in a general sense which is broad enough to encompass all proceedings which may result in the setting aside or voiding of a tax in whole or in part [but]... [d]efinitions of the word in such a broad sense are not helpful here”); Columbia Pontiac Co v. Board of Assessors of Boston, 395 Mass. 1010, 1011 (1985) (rescript).
+A taxpayer may seek an abatement within three years, G.L.c. 62C, §37; but a refund for a clerical error may be granted “at any time,” G.L.c. 62C, §36A. Here, a taxpayer may pursue relief from a clerical error even after the usual deadline for seeking an abatement.
+The provision serves not as a device for avoiding the normal abatement procedure under G.L.c. 59, §59, but rather as a safely net when extraordinary or mitigating circumstances prevent obtaining relief, see Property Tax Bureau, Division of Local Services, Massachusetts Department of Revenue, Informational Guideline Release (IGR) No. 92-206 (October 1992); see also, Marzelli, Handbook of Massachusetts Real Estate Taxes and Abatements 97 (1980).
+Defendants assert that plaintiff cannot obtain G.L.c. 58, §8 relief because of failure to follow the normal statutory procedure, G.L.c. 59, §59, and failure to demonstrate the futility of such an attempt.
+Neither of the supposed prerequisites applied to plaintiff, however, because, as all agree, plaintiff missed the 30-day abatement application deadline. That lapse doomed the application: The time limits are enforced strictly, Guzman v. Board of Assessors of Oxford, 24 Mass.App.Ct. 118, 120 (1987), and cases cited.
+Because plaintiff missed the deadline through extraordinary, mitigating circumstances, statutory relief is nonetheless available, G.L.c. 58, §8. Plaintiff could not have foreseen a tax reassessment; failure to realize the Assessing Department’s mistake within 30 days of mailing the third-quarter bill was entirely reasonable, given the Assessing Department’s own unwarranted actions.
+Did the Assessing Department commit an “obvious clerical error”? Defendants do not attribute the tax increase to anything but (1) the transposition of the addresses to make them match the respective pre-printed mailing labels; and (2) the Assessing Department’s own failure to enter property values reflecting the Department’s alterations. Taken together, these amount to an “obvious clerical error."
+A statute providing a remedy for clerical error “deals with mechanical corrections that do not alter the operative significance” of the substantive claim, Scola v. Boat Frances, R. Inc., 618 F.2d 147, 152 (1st Cir. 1980); see also, Commonwealth v. Pellegrini, 405 Mass. 86, 87 (1989), cert. denied, 493 U.S. 975 (judge’s failure to sign search warrant was clerical error).
+Here, correcting the Assessing Department’s error would require only a clerical change to return the forms to their original state.
+We turn then to the question of relief. The statute, G.L.c. 58, §8, permits a taxpayer to request relief from the Board of Review, which must then petition the commissioner to authorize an abatement.
+Plaintiff properly filed the request, but the Board of Review refused to petition the commissioner. As defendants correctly observe, because the Commissioner of Revenue is not party to this suit, the Court may not grant relief as to him.
+Plaintiff seeks declaratory relief and relief in the nature of certiorari. The deadline for filing an application under G.L.c. 59, §59 has passed, and no appeal lies from the adverse judgment under G.L.c. 58, §8. A court may therefore provide declaratory relief, Meenes v. Goldberg, 331 Mass. 688, 690-91 (1954); see also, Gardner v. Berkman, 365 Mass. 481, 482 (1974).
+“Certiorari is available to correct errors of law in administrative proceedings where, as here, judicial review is otherwise unavailable,” Mayor of Revere v. Civil Service Commission, 31 Mass.App.Ct. 315, 321 (1991). “A court will correct only a substantial error of law . . . which adversely affects a material right of the plaintiff,” Carney v. Springfield, 403 Mass. 604, 605 (1988).
+As (1) there has been a quasi-judicial proceeding, (2) all other remedies are foreclosed, and (3) a substantial injustice would occur were the Board of Review’s decision to stand, certiorari is appropriate, Boston Edison Co. v. Board of Selectmen of Concord, 355 Mass. 79, 83 (1968).
+ORDER
+Accordingly, it is Ordered, that Plaintiffs Motion for Snmmary.Inrigment.be. and the same hereby Allowed; and it is
+Further Ordered, that Defendants’ Motion for Summary Judgment be, and the same hereby is Denied; and it is
+Further Ordered, that judgment enter forthwith as follows:
+1. Plaintiff was prevented by “extraordinary or clearly mitigating circumstances” from pursuing any remedy that may have been available to it under G.L.c 59, §59;
+2. The City of Boston Assessing Department committed an obvious clerical error within the meaning of G.L.c. 58, §8, when on plaintiffs respective Forms of List it substituted incorrect addresses for the correct addresses plaintiff had supplied; and
+3. The Board of Review acted arbitrarily and capriciously in failing to petition the Commissioner of Revenue to authorize an abatement to plaintiffs tax; and
+4. The decision of the Board of Review is annulled; and
+5. Defendant City of Boston owes plaintiff the sum of $135,517.30 for overpayment of taxes, without interest, with costs.
