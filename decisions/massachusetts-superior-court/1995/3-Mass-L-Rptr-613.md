@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "94606"
+decided: "1995-03-15"
+citations: ["3 Mass. L. Rptr. 613"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John French et al. v. Governor William Weld et al."]
+source_url: "https://static.case.law/mass-l-rptr/3/cases/0613-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686899
+cites_cases: ["104 U.S. 668", "155 P.2d 9", "170 Mass. 63", "18 Mass.App.Ct. 502", "210 Mass. 263", "27 Mass. (10 Pick.) 112", "351 Mass 184"]
+---
+
+# French v. Weld
+
+## Majority (Garsh, J.)
+
+Garsh, J.
+INTRODUCTION
+Two hundred and ten years after the maturing of an obligation of the State of Massachusetts Bay, John and Mary French demanded payment. When their demand was rejected, this action against the Commonwealth, the Governor and the Treasurer followed. It seeks the dollar equivalent of the principal, which was to have been paid in pounds and shillings, plus interest. The defendants now move to dismiss the complaint pursuant to Mass.R.Civ.P. 12(b)(6). That motion is allowed for the reasons discussed below.
+BACKGROUND
+For purposes of the motion to dismiss, the allegations set forth in the complaint are deemed to be true. Plaintiffs are in possession of an authentic document dated January 18, 1779. It is an obligation of the State of Massachusetts Bay issued in connection with a state lottery. Translated into modern text, the body of the document provides:
+For Value received for the use of the State of Massachusetts-Bay, I do in behalf of said State hereby promise and oblige myself and Successors in the Office of Treasurer to pay to the Possessor of this Note the Sum of Twenty two pounds ten shillings by the First Day of January, One Thousand seven Hundred and Eighty three, with Interest at Six per Cent per Annum- The Interest to be paid Annually.
+The writing was executed by the Treasurer. The obligation has not been satisfied in whole or in part. Plaintiffs made a demand for payment on or about January 5, 1993.
+DISCUSSION
+State lotteries are not a invention of the twentieth century. On May 1, 1778, the General Court resolved to pay gratuities to Massachusetts officers and private soldiers who had enlisted in a Continental battalion and to raise funds for that purpose by a state lottery. The resolve specified that all prizes of fifty dollars and upwards “shall be paid by Treasurer’s notes for the amount of such prizes,” bearing the date of the last drawing of the lottery, payable, with interest, on January 1, 1783. Chapter 1079, Resolves of 1777-1778. The obligation presented by plaintiffs for payment in 1993 was issued pursuant to chapter 1079.
+Whether the obligation is a “note” — the term used in the enabling legislation and the document itself — or a “bond,” as plaintiffs prefer to denominate it, the defendants need not honor it at this late date. The statute of limitations governing payment of a note or a bond begins to run at the time of maturity. Campanella & Cardi Construction Co. v. Commonwealth, 351 Mass 184, 185 (1966); Koshkonong v. Burton, 104 U.S. 668, 673 (1881). If the writing is a “note,” an action seeking payment should have been brought within six years from the date of maturity. G.L.c. 260, §2. It was not. If the writing is a bond, an instrument generally under seal, the twenty-year statute of limitations governing actions upon contracts under seal, G.L.c. 260, §1 (First), would govern. Id. (“the word ‘bond’ at common law (and even now as a general rule) imports a sealed instrument” and, accordingly, a municipal bond “unattested” by a seal treated as a sealed instrument for purposes of the statute of limitations).
+Even if, as plaintiffs argue, the language in the note to the effect that the Treasurer “obliges” himself and his successors to make payment renders inapplicable all statutes of limitations — which it does not — the complaint nevertheless would be time-barred. The doctrine of laches has been developed to prevent a parly from “sleep(ing) over his rights.” Codman v. Rogers, 27 Mass. (10 Pick.) 112, 120 (1830) (demand for payment must be made within a reasonable period of time). When a governmental entity issues a public obligation, it must devise a fiscal policy so that an adequate sum is available to pay for the matured debt. Accordingly, bondholders may not “stand idly by after their bonds mature." Irvine v. Bossen, 155 P.2d 9, 14 (Ca. 1944). See also Howland v. Shurtlejf 43 Mass. (Metcalf 2) 26, 27 (1840) (noting the common law presumption applicable to bonds that “an abandonment, for a great length of time, of a legal interest without any attempt to enforce it, furnishes reasonable ground for the inference that the party has in some way parted with his interest, or discharged his claim”). Pursuit of a claim for payment over two hundred years after maturiiy of an obligation defeats sound fiscal planning and is per se unreasonable. Campbell v. Whoriskey, 170 Mass. 63, 67 (1898) (what is a reasonable time is a question of law). As the Commonwealth points out, tolerating these kinds of delays would mean that the “government would never know when a claim would be made, and would be unable to ensure that there would be sufficient funds available when claimants, at their whim, finally decide to bring suit.” Whitney v. Chesire Railroad Co., 210 Mass. 263, 270 (1911) (when the public interest is at stake, “doctrine of laches will be applied more strictly”).
+Finally, neither the statutory language nor logic supports plaintiffs’ argument that the government is legally obligated under the terms of chapter 1079 to make payment at the current time. Chapter 1079 does nothing more than provide for the payment of lottery prizes by “Treasurer’s notes ...” payable at a specified rate of interest on a specified date. Cf. Eldreadge v. Board of Selectmen, 18 Mass.App.Ct. 502, 504 (1984) (G.L.c. 260, §2 applies when a contractual right is created by statute). Nothing in chapter 1079 can be read as creating a sui generis instrument excluded from the operation of any statute of limitations and the common law doctrine of laches. Whether the Commonwealth is “morally bound,” as plaintiffs maintain, to honor an obligation “directly derived from the blood, sweat, toil and tears of those who fought for independence” is beyond the purview of this court.
+ORDER
+For the foregoing reasons, it is ORDERED that defendants, motion to dismiss the complaint be ALLOWED.
+At oral argument, plaintiffs conceded that chapter 35 of the Province Laws of 1778-1779 was not the legislative authority for issuance of the obligation in question. That law, enacted on February 11, 1779, authorized the issuance of additional “notes” in order to raise funds to redeem the prizes awarded as a result of the lottery authorized by chapter 1079.
