@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Superior Court"
+docket: "012637"
+decided: "2001-10-18"
+citations: ["13 Mass. L. Rptr. 677"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fallon Development, Inc. v. Barry S. Taylor et al."]
+source_url: "https://static.case.law/mass-l-rptr/13/cases/0677-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1073706
+cites_cases: ["13 Mass. L. Rptr. 556", "372 Mass. 96", "387 Mass. 889", "411 Mass. 426"]
+---
+
+# Fallon Development, Inc. v. Taylor
+
+## Majority (Brassard, J.)
+
+Brassard, J.
+This case arises out of an agreement between the plaintiff, Fallon Development, Inc. (“FDI”), and the defendants, Barry S. Taylor and Amy Taylor (collectively “the Taylors”), whereby FDI agreed to provide labor and/or materials for the renovation to the Taylors’ home (“the Property”) located at 270 Winter Street, Weston, Massachusetts. FDI alleges that the Taylors owe a balance of $75,635.04 for materials and labor. FDI has brought a claim seeking enforcement of a mechanic’s lien (Count I), as well as claims alleging breach of contract (Count II), quantum meruit (Count III), goods sold and delivered (Count IV) and unjust enrichment (Count V). The Taylors have moved to dismiss the complaint pursuant to Mass.R.Civ.P. 12(b)(6) for failure to state a claim upon which relief may be granted. The parties have agreed to stay Counts II, III, IV and v. pending arbitration proceedings.
+BACKGROUND
+On July 14, 2000, the Taylors and FDI entered into a written contract for the renovation of the Taylors’ home. FDI provided labor and/or materials for the' renovation of the Property and the Taylors agreed to pay FDI in accordance with FDI’s invoices. FDI performed work from August 2000 through January 2001 and invoiced the Taylors a total of $351,222.11 for such work. On December 21, 2000, FDI filed a notice of contract with the Middlesex (South District) County Registry District of the Land Court, pursuant to G.L.c. 254, §2. On March 26, 2001, FDI filed a signed and sworn Statement of Amount Due with the Middlesex (South District) County Registry District of the Land Court, pursuant to G.L.c. 254, §8.
+DISCUSSION
+I. Standard of Review
+A motion to dismiss for failure to state a claim is appropriate where the plaintiff would not be entitled to relief under any set of facts which could be proved in support of the claim. Stop & Shop Companies, Inc. v. Fisher, 387 Mass. 889, 893 (1983). When evaluating the sufficiency of a complaint pursuant to Mass.R.Civ.P. 12(b)(6), the Court must take the allegations of the complaint as true, as well as draw any inferences from those allegations in the plaintiffs favor. Eyal v. Helen Broadcasting Corp., 411 Mass. 426, 429 (1991). The complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that the plaintiff can prove no set of facts in support of its claim which would entitle it to relief. Nader v. Citron, 372 Mass. 96, 98 (1977).
+II. G.L.c. 254
+G.L.c. 254 promulgates a timeline during which certain notices must be filed in order to enforce a mechanic’s lien. G.L.c. 254, §§2 and 8. Both §§2 and 8 provide that their respective notices must be filed no later than the earliest of three dates: (i) a set amount of time after the filing or recording of a notice of substantial completion under §2A; or (ii) a set amount of time after the filing or recording of a notice of termination under §2B; or (iii) a set amount of time after the last day someone affiliated with the party seeking to enforce the lien performed or furnished labor or material or both labor and materials. G.L.c. 254, §§2 and 8. The amounts of time differ under each section.
+FDI alleges that it filed notices under §§2 and 8 in accordance with subsection (iii) of each section. The Taylors assert, however, that the notices were not timely filed because G.L.c. 254, §2A requires a filing of a notice of substantial completion, and that the timely filing of a notice of substantial completion is a condition precedent to filing the notices under §§2 and 8. In support of that argument, the Taylors rely primarily on a prior decision of this court which held that G.L.c. 254, §2A requires the recording of a notice of substantial completion prior to the filing of notices under §§2 and 8. NG Brothers Construction, Inc. v. John Cranney, Civil No. 994259, 13 Mass. L. Rptr. 556 (Zobel, J., Middlesex Super. Ct. March 12, 2000) (granting summary judgment for the defendant as the plaintiff contractor did not file a notice of substantial completion). This court, however, respectfully disagrees with that holding.
+While G.L.c. 254, §2A states that a party “shall” file a notice of substantial completion, there is no part of the statute that holds that filing a notice under §2A is a prerequisite to filing notices under §§2 and 8. In fact, §§2 and 8 use the word “or” in setting forth the possible deadlines. This supports the construction that filing a notice under §2A is one of three possible options that can determine the deadline for filing a notice under the statute.
+Further, G.L.c. 254, §2 allows a notice of contract to be filed any time after the contract has been executed, “whether or not the date for performance stated in such written contract has passed and whether or not the work under such written contract has been performed.” G.L.c. 254, §2. This language makes clear that a notice of contract can be filed before a notice of substantial completion. It follows, therefore, that the filing or recording of a notice of substantial completion is not a prerequisite to the filing or recording of a notice of contract. Because a notice of termination under §2B can only be filed by the landowner, a contractor who did not or could not file a notice of substantial completion can preserve its lien only by filing or recording a notice of contract within 90 days of the date work was last performed. A contractor who performs work but does not substantially complete that work is as entitled to a lien as a contractor who substantially completes. It is noted that §8 of the statute provides that “nothing in this section shall prohibit the filing or recording of a statement under this sectionprior to the filing or recording of the notices under section two A or two B.” G.L.c. 254, §8 (emphasis added). Again, c. 254 permits a contractor to perfect a mechanic’s lien although a notice of substantial completion was not filed or recorded.
+ORDER
+For the foregoing reasons, defendants’ motion to dismiss the complaint is DENIED.
