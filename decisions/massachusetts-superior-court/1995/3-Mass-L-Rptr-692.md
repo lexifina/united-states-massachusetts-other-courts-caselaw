@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "CA 942110E"
 decided: "1995-05-26"
-citations: ["3 Mass. L. Rptr. 692", "3 Mass. L. Rptr. 694"]
+citations: ["3 Mass. L. Rptr. 692"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
