@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Superior Court"
+docket: "970073"
+decided: "1998-11-04"
+citations: ["9 Mass. L. Rptr. 304"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commerce Insurance Company v. Joyce W. Cameron, Administratrix of the Estate of Rebecca Ann Wagoner and George Vaudreil"]
+source_url: "https://static.case.law/mass-l-rptr/9/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189075
+cites_cases: ["307 Mass. 64", "34 Mass.App.Ct. 639", "389 Mass. 327", "393 Mass. 622", "417 Mass. 643"]
+---
+
+# Commerce Insurance v. Cameron ex rel. Estate of Wagoner
+
+## Majority (Fecteau, J.)
+
+Fecteau, J.
+This is an action brought by the plaintiff insurer seeking a judgment under G.L.c. 231A that declares that the case of Thaler v. American Insurance Co., 34 Mass.App.Ct. 639 (1993), does not apply in determining whether the plaintiff, a Massachusetts-based insurer, may insist on obtaining a release of claim on behalf of its insured, the defendant Vaudreil, a Massachusetts resident, upon its tender of policy limits to the defendant administratrix, as a result of a motor vehicle accident which occurred in Connecticut which caused the death of the deceased Rebecca Wagoner, a Connecticut resident.
+The parties have executed an agreed statement of facts as well as an agreement which allowed tender of the policy limits without a release subject to a declaratory judgment action being filed, agreeing further to be bound by its decision, meaning that should the plaintiff herein prevail, the defendant administratrix would provide a release. Ahearingwas held on October 22, 1998, at which the parties agreed that there were no genuine issues of material fact and that one party or the other was entitled to a judgment as a matter of law. At least inferentially, the parties also agree that the factual predicate of Thaler is present in the case at bar, namely, that liability is reasonably clear and that the damages exceed the policy limit of Vaudreil’s policy with Commerce. The issue, then, is whether, under choice of law rules, Connecticut law applies, in which case Thaler would not apply, and Commerce may insist upon a release of claim in favor of its insured, or, if Massachusetts law applies, in which case Thaler does apply, and the plaintiff may not insist upon a release.
+Traditionally, in matters of tort, the courts of this Commonwealth apply the substantive laws of the jurisdiction wherein the tort occurred. See Cohen v. McDonnell Douglas Corp., 389 Mass. 327, 333 (1983). Generally, however, Massachusetts courts will apply their own rules of procedure. Murphy v. Smith, 307 Mass. 64, 66 (1940). Where it is not clear that a rule of law is procedural in the Commonwealth for choice-of-law purposes, we take a functional approach in determining the choice-of-law issue, using established criteria and considerations. See Bushkin Associates, Inc. v. Raytheon Co., 393 Mass. 622, 631-36 (1985).
+Cosme v. Whitin Machine Works, Inc. 417 Mass. 643, 645 (1994).
+Clearly, whether an insurer is entitled to insist on a release of claim on behalf of its insured, as an interpretation of the law of insurer bad faith, is substantive. It therefore follows that G.L.c. 176D and its interpretative case law is substantive law of Massachusetts since it creates affirmative duties on the part of insurers and bases for causes of action on behalf of injured claimants. Likewise, the duty of an insurer to a resident of Connecticut, for injuries that arise out of a cause of action which occurred in Connecticut is a matter of the substantive law of Connecticut. See Conn. Gen. Stat. c. 704, Sec. 38A-815 and 816. Significant to the case at bar, Connecticut decisional law has not taken the step which our Appeals Court took with the Thaler decision. The law of Connecticut should and does apply under traditional analysis.
+Even if we were to take a more functional approach as suggested by the Restatement (Second) of Choice of Law, Section 6, the more significant relationship to the facts at bar would be with the State of Connecticut, especially in view of the fact that the injured parly, had she lived, would not have had justified expectation that the law of any jurisdiction other than Connecticut would apply, given that she was a Connecticut resident and that the accident happened there, all other factors being relatively equal. The underlying claim is not a “first-party” coverage claim. The release of claim which the plaintiff seeks has a direct relationship with the underlying, “third-party,” personal injury claim or suit since it would permit a closure of that wrongful death claim. Massachusetts’ interest in this litigation is not superior to that of Connecticut.
+Not addressed by the parties in their written arguments but perhaps of some significance is that this personal injuiy/death claim is brought against “extraterritorial coverage,” so-called, of the Commerce policy, a coverage which is optional and which permits claims to be made on behalf of persons injured in out-of-state accidents on this coverage, as opposed to the insured party being uninsured for those particular risks. This creates a justified expectation in the Massachusetts parties that they will be subject to the laws of the foreign jurisdiction.
+A judgment, therefore, shall issue, in favor of the plaintiff, declaring that the case of Thaler v. American Insurance Co. does not apply and that the plaintiff may insist on obtaining a release of claim on behalf of its insured.
