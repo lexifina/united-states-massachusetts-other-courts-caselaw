@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "942583"
 decided: "1998-06-10"
-citations: ["8 Mass. L. Rptr. 574", "8 Mass. L. Rptr. 581"]
+citations: ["8 Mass. L. Rptr. 574"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John B. Walsh v. Carney Hospital Corporation et al."]
 source_url: "https://static.case.law/mass-l-rptr/8/cases/0574-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 379881
-cites_cases: ["117 S.Ct. 1280", "168 F.R.D. 94", "34 Mass.App.Ct. 258", "369 Mass. 47", "371 Mass. 130", "38 Mass.App.Ct. 498", "380 Mass. 350", "382 Mass. 340", "387 Mass. 841", "399 Mass. 790", "402 Mass. 385", "405 Mass. 682", "410 Mass. 553", "411 U.S. 792", "415 Mass. 309", "418 Mass. 394", "418 Mass. 576", "418 Mass. 590", "419 Mass. 220", "42 Mass.App.Ct. 527", "423 Mass. 534", "424 Mass. 285", "424 Mass. 758", "424 Mass. 813", "427 Mass. 1", "427 Mass. 80", "43 Mass.App.Ct. 13", "476 U.S. 79", "509 U.S. 443", "749 F.2d 1501", "773 F.2d 857", "774 F.2d 1", "822 F.2d 1249", "863 F.2d 1503", "883 F.2d 1472", "975 F.2d 934"]
+cites_cases: ["117 S.Ct. 1280", "168 F.R.D. 94", "34 Mass.App.Ct. 258", "369 Mass. 47", "371 Mass. 130", "38 Mass.App.Ct. 498", "380 Mass. 350", "382 Mass. 340", "387 Mass. 841", "399 Mass. 790", "402 Mass. 385", "405 Mass. 682", "410 Mass. 553", "411 U.S. 792", "415 Mass. 309", "418 Mass. 394", "418 Mass. 576", "418 Mass. 590", "419 Mass. 220", "42 Mass.App.Ct. 527", "423 Mass. 534", "424 Mass. 285", "424 Mass. 758", "424 Mass. 813", "427 Mass. 1", "427 Mass. 80", "43 Mass.App.Ct. 13", "476 U.S. 79", "509 U.S. 443", "749 F.2d 1501", "773 F.2d 857", "774 F.2d 1", "822 F.2d 1249", "863 F.2d 1503", "883 F.2d 1472"]
 ---
 
 # Walsh v. Carney Hospital Corp.
