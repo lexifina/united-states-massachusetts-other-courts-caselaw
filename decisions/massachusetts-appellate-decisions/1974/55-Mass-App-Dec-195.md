@@ -2,7 +2,7 @@
 court: "Massachusetts Appellate Decisions"
 docket: "235017"
 decided: "1974-10-24"
-citations: ["55 Mass. App. Dec. 195", "55 Mass. App. Dec. 174"]
+citations: ["55 Mass. App. Dec. 195"]
 reporter: "mass-app-dec"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["ALLEN B. SCHWARTZ AND DUCO ASSOCIATES, INC. v. WILLIAM B. STRONG AND 
 source_url: "https://static.case.law/mass-app-dec/55/cases/0195-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4337072
-cites_cases: ["102 Mass. 65", "205 Mass. 472", "209 Mass. 105", "210 Mass. 56", "225 Mass. 608", "249 Mass. 451", "253 Mass. 528", "279 Mass. 147", "289 Mass. 277", "30 Mass. App. Div. 163", "301 Mass. 386", "304 Mass. 478", "319 Mass. 490", "339 Mass. 778", "348 Mass. 71"]
+cites_cases: ["102 Mass. 65", "205 Mass. 472", "209 Mass. 105", "210 Mass. 56", "249 Mass. 451", "253 Mass. 528", "279 Mass. 147", "289 Mass. 277", "30 Mass. App. Div. 163", "301 Mass. 386", "304 Mass. 478", "319 Mass. 490", "339 Mass. 778", "348 Mass. 71"]
 ---
 
 # Schwartz v. Strong
