@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Superior Court"
+docket: "974725"
+decided: "1999-04-27"
+citations: ["10 Mass. L. Rptr. 63"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Karen Crocker et al. v. Wakefield Little League Association, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/10/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9475813
+cites_cases: ["263 Mass. 435", "270 Mass. 299", "284 Mass. 300", "410 Mass. 314", "411 Mass. 202", "420 Mass. 587", "43 Mass.App.Ct. 5", "43 Mass.App.Ct. 927", "696 F.2d 135"]
+---
+
+# Crocker v. Wakefield Little League Ass'n
+
+## Majority (Spurlock, J.)
+
+Spurlock, J.
+The defendant, Wakefield Little League Association, Inc. (“WLLA”), moves for summary judgment on Counts III and IV of plaintiffs’ complaint. Count III alleges that WLLA failed to properly supervise a little league game’s spectators and caused the negligent erection of spectator bleachers. Count IV is a parental loss of consortium claim. WLLA contends that this court should grant it summary judgment for three reasons. First, WLLA argues that the Statute of Repose, G.L.c. 260, §2B, shields it from actions alleging the negligent design, planning, construction or general administration of an improvement to real property, like bleachers, arising six years after the improvement’s completion. Second, WLLA claims it had no legal duty to supervise spectators. Finally, even if it had a duty to supervise spectators, WLLA contends that G.L.c. 231, §85V immunizes it from negligent acts and omissions. The court agrees with WLLA’s final argument. Thus, defendant’s motion for summary judgment is ALLOWED.
+FACTS
+The relevant undisputed facts follow. On May 30, 1997, Karen Crocker took her two sons, Tyler and Derek, to Fernald Field in Wakefield, Massachusetts. Tyler played little league ball and was scheduled to play a game that evening. His mother and brother came to watch the game. While there, Derek played in some off-field areas including a dirt pile and a structure known as the “press box.” After playing in the press box, Derek began to walk back to the dirt pile. During this trek, he walked under the bleachers. When he emerged from beneath the bleachers, co-defendant MacKenzie O’Keefe jumped off of the bleachers and landed on Derek. Derek sustained injuries.
+DISCUSSION
+This court grants summary judgment where no genuine issues of material fact exist and the law entitles the moving party to judgment as a matter of law. McNeil v. Metropolitan Prop, & Liab, Ins. Co., 420 Mass. 587, 589 (1995); Allstate Ins. Co. v. Reynolds, 43 Mass.App.Ct. 927, 929 (1997). The court resolves any conflicts in the affidavits, documents, or facts the parties present, and makes all logically permissible inferences in the nonmoving party’s favor. Willitts v. Roman Catholic Archbishop of Boston, 411 Mass. 202, 203 (1991) (citations omitted). Where there is any doubt that a genuine issue of material fact exists, the court should deny a summary judgment motion. Correllas v. Viveiros, 410 Mass. 314, 316-17 (1991) (citations omitted).
+WLLA contends that G.L. 231, §85V immunizes it from negligent acts and omissions arising from its administration of its little league program. The pertinent part of the statute provides that “no nonprofit association conducting a sports or sailing program... shall be liable to any person for any action in tort as a result of any acts or failures to act in rendering such services or in conducting such sports program.” This case seeks to answer whether providing bleachers and supervising spectators falls under the ambit of “sports program.”
+No available case law construes §85V. Nonetheless, judicial construction of the §85K of the same chapter does provide adequate guidance. §85K limits the liability of charitable organizations for torts committed in the course of activities conducted to directly accomplish its charitable purposes. The provision caps liability at $20,000. The Supreme Judicial Court has broadly construed the statute stating that only activities with no connection to the organization’s charitable purpose fall outside of the statute’s protection. Missett v. Cardinal Cushing High School, 43 Mass.App.Ct. 5, 11 (1997) (holding that extracurricular activities like a high school dance are within the charitable purpose of conducting a school “for learning” even where the organization charged admission). “[P]ainting a building ... or maintaining steps or a sidewalk . . . are directly charitable even though the physical plant is not the true object of the charity’s bounty.” Mason v. Southern New England Conf, Ass’n, ETC., 696 F.2d 135, 139 (1982) (citing Reavey v. Guild of St. Agnes, 284 Mass. 300, 302 (1933); Enman v. Trustees of Boston University, 270 Mass. 299, 300 (1930) (running and maintaining a dormitoiy part of charitable purpose); Glaser v. Congregation Kehillath Israel, 263 Mass. 435, 436 (1929)).
+Where §85K limits liability, §85V immunizes a select portion of nonprofit organizations. It follows that the Legislature intended to give nonprofits conducting sports programs with greater protection than other nonprofits. Thus, since §85K requires a broad interpretation of “charitable purpose,” the court must interpret §85V broadly enough to encompass all activities integral to a sports program.
+When WLLA conducts its little league program, it does not only provide the ball player with an opportunity to participate in an organized sport, but also provides the player’s family with the opportunity to watch him play. Baseball is a spectator sport. A spectator sport requires spectators. A cheering crowd enhances the game. The chance to perform in front of your family, particularly your parents, is an important factor motivating many children to participate in athletic programs. Erecting bleachers promotes this aspect of the sports experience. If WLLA negligently erected the bleachers at Femald Field, it did so under the protection of G.L.c. 231, §85V. For the same reasons, if WLLA had a duly to supervise spectators, mere negligence would not breach that duty.
+Since §85V immunizes WLLA from plaintiffs’ allegations, the other arguments for summary judgment will not be addressed.
+ORDER
+For the reasons set forth above, it is hereby ORDERED that the defendant’s motion for summary judgment is ALLOWED as to Counts III and IV of plaintiffs’ complaint.
