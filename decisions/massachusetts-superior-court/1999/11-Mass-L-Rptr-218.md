@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "995029A"
 decided: "1999-11-24"
-citations: ["11 Mass. L. Rptr. 218", "11 Mass. L. Rptr. 221"]
+citations: ["11 Mass. L. Rptr. 218"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Richard Roe and others v. Thomas Reilly and others"]
 source_url: "https://static.case.law/mass-l-rptr/11/cases/0218-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9475950
-cites_cases: ["11 Mass. L. Rptr 148", "11 Mass. L. Rptr. 148", "11 Mass.App.Ct. 714", "368 Mass. 831", "372 Mass. 844", "374 Mass. 176", "379 Mass. 70", "414 Mass. 458", "414 Mass. 489", "423 Mass. 843", "425 Mass. 210", "425 Mass. 217", "426 Mass. 136", "428 Mass. 90", "430 Mass. 155"]
+cites_cases: ["11 Mass. L. Rptr 148", "11 Mass.App.Ct. 714", "374 Mass. 176", "426 Mass. 136", "428 Mass. 90", "430 Mass. 155"]
 ---
 
 # Roe v. Reilly
