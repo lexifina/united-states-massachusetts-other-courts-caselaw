@@ -1,0 +1,45 @@
+---
+court: "Massachusetts Superior Court"
+docket: "956483F"
+decided: "1999-01-11"
+citations: ["10 Mass. L. Rptr. 95"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward White v. City of Boston et al."]
+source_url: "https://static.case.law/mass-l-rptr/10/cases/0095-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9476035
+cites_cases: ["361 Mass. 35", "382 Mass. 465", "407 Mass. 498", "413 Mass. 407", "417 Mass. 235", "420 Mass. 699", "423 Mass. 826", "428 Mass. 250", "7 Mass. L. Rptr. 232", "8 Mass.App.Ct. 220"]
+---
+
+# White v. City of Boston
+
+## Majority (Fremont-Smith, J.)
+
+Fremont-Smith, J.
+INTRODUCTION
+This case is before the court on plaintiff Edward White’s petition for contempt. The plaintiff contends that the City of Boston (“City”) has not fully reinstated him as a police officer with the Boston Police Department (“Department”) in compliance with this court’s order of July 22, 1997 [7 Mass. L. Rptr. 232), which was subsequently affirmed by the Supreme Judicial Court on October 28, 1998, see White v. City of Boston, 428 Mass. 250, 256 (1998), and seeks an order to fully implement such reinstatement, including an order compelling the City to submit a retraining program proposal to the Personnel Administrator in accordance with G.L.c. 31, §39, and to compel the Personnel Administrator for the Commonwealth to approve such retraining program.
+For the following reasons, the plaintiffs petition for contempt is DENIED, but the Court enters the following order to clarify its previous order of July 22, 1997, in light of the issues raised by plaintiffs petition.
+DISCUSSION
+I. Plaintiffs Petition for Civil Contempt
+‘To constitute civil contempt, there must be a clear-cut, undoubted disobedience of a clear and unequivocal command.” United Factory Outlet v. Jay’s Stores, Inc., 361 Mass. 35, 36 (1972). See Commonwealth v. One 1987 Ford Econoline Van, 413 Mass. 407, 411 (1992); Warren Gardens Housing Cooperative v. Clark, 420 Mass. 699, 700-01 (1995). This Court ordered the City to “reinstate the plaintiff effective as of the date of his post-enactment demand,” but did not specify the terms of employment. The City followed this order, having reinstated the plaintiff to full-time employment as a police officer on October 18, 1998. As of yet, plaintiff has failed to prove any substantial inconsistency between this Court’s order and the City’s conduct.
+A. Issuance of a Service Revolver
+The plaintiff contends that he has not been fully reinstated because the Department has not issued a service revolver to him, thus depriving him of the opportunity to earn extra wages by way of details and overtime assignments. However, the police commissioner possesses broad discretion over the issuance of weapons to officers. Kraft v. Police Comm’r of Boston, 417 Mass. 235, 239 (1994); City of Boston v. Boston Police Patrolmen’s Assoc., Inc., 8 Mass.App.Ct. 220, 225-26 (1979); G.L.c. 41, §98 (police officers may carry “such weapons as the chief of police or the board or officer having control of the police in a city or town shall determine”); St. 1906, c. 291, §14, as appearing in St. 1962, c. 322, §1 (Boston police officers “shall when on duty carry such weapons as the police commissioner shall determine”).
+Thus, the plaintiff is not now entitled, nor was he ever entitled, to carry a weapon. On his reinstatement, plaintiff is subject to the “same managerial prerogatives” of the police commissioner, see Kraft, supra, at 240, and to prevail on his claim, plaintiff would have to show that personal hostility rather than fair exercise of his managerial prerogatives motivated the decision to not issue a weapon. See City of Boston, supra, at 227. The plaintiff has not met this threshold showing.
+B. Issuance of a Badge
+Plaintiff complains that he has not been issued a badge.
+Similar authorily granting the police commissioner total discretion in the issuance of badges does not exist. To deny the plaintiff a badge after he has been reinstated has no legal justification. As a police officer, the plaintiff is entitled to a badge.
+II. The Plaintiffs Retraining
+Both parties agree that upon his reinstatement under G.L.c. 32, §8, the plaintiff became subject to retraining as provided by G.L.c. 31, §39, which provides, in relevant part, “such placement right shall be subject to the complation by such employee of a retraining program established by the appointing authorily, and approved by the personnel administrator.” The City, however, has recently proposed that plaintiff undergo training pursuant to the regulations of the Massachusetts Criminal Justice Training Council (“MCJTC”) which, pursuant to G.L.c. 6, §118 and G.L.c. 41, §96B, promulgates the training program for all police officers. In support of this, the City points to 550 Code Mass. Regs. §3.03(6)(c), which provides that an officer separated from service for a period exceeding five years shall “successfully complete an additional council-approved basic police recruit academy subject to department sponsorship and compliance with admission requirements. ” This program would subject his reinstatement to his successful completion of the stringent physical requirements which new recruits must meet. The City has proposed, but the Personnel Administrator has refused to approve, such requirements. Plaintiff points out that after being cleared to return to duty, Officer White went through the entire process for reinstatement as a police officer, including attending medical and psychological examinations in late 1994by physicians designated by the City. Following that, Officer White underwent a full battery of physical and psychological examinations administered by the Department, and was cleared by all City-designated physicians who saw him.
+While it is true that G.L.c. 41, §96B and the MCJTC regulations provide generally for the training of all police officers, the more recent enactment of G.L.c. 31, §39, which specifically addresses the reinstatement of a formerly disabled employee, indicates a legislative intent that, to the extent there is any inconsistency, the “general statutory language must yield to that which is more specific.” See Lukes v. Bd. of Election Commissioners of Worcester, 423 Mass. 826, 829 (1996); Risk Management Found. of Harvard Med. Inst. v. Comm’r. of Ins., 407 Mass. 498, 505 (1990).Thus, G.L.c. 31, §39 limits the operation of G.L.c. 41, §96B and the MCJTC regulations, to the extent they may be inconsistent. It follows that, in the context of an officer reinstated under G.L.c. 31, the physical and psychological requirements of the MCJTC cannot be made a condition of plaintiffs reinstatement, except to the extent they are approved by the Personnel Administrator.
+While the Court concludes that the Ciiy may not subject the plaintiff to yet another round of physical and medical tests and exams as a condition of placement, except as may be approved by the Personnel Administrator for the Commonwealth, the Court notes that the plaintiff remains subject to the general medical and fitness standards, applicable to all police officers, promulgated by the Personnel Administrator pursuant to G.L.c. 31, §61A, with the same consequences for failure to meet such standards as may be fairly applied to any other similarly situated officer.
+III. Attorneys Fees and Costs
+The plaintiff seeks attorneys fees and costs incurred in bringing this petition and also the imposition of a prospective fine on the defendants to ensure compliance with this Court’s order. As this Court finds that the defendants are not in contempt, the plaintiff is not entitled to attorneys fees, costs or a prospective fine. See Labor Relations Comm’n v. Fall River Educators Ass’n, 382 Mass. 465, 466 (1981).
+ORDER
+It is hereby ORDERED that the plaintiffs petition for contempt and motion for attorneys fees and costs be DENIED, without prejudice.
+The City of Boston Police Department is hereby ORDERED to place the plaintiff in the same or similar position from which he was separated, which placement shall not be subject to plaintiffs completion of any retraining program other than such program as shall have been established by the Boston Police Department and approved by the Personnel Administrator for the Commonwealth.
+The Ciiy of Boston Police Department is further ORDERED to restore a badge to the plaintiff.
+This Court ordered the plaintiffs reinstatement pursuant to G.L.c. 31, §39, which provides that an employee shall be placed in a “position in the same or similar title in the department from which he was separated.”
+At the hearing on this matter, the defendants asserted that they could not be held in contempt because final judgment did not enter after rescript in accordance with Mass.R.App.P. 28. This Court need not address this issue, as the City has complied with the order.
+The plaintiffs petition for contempt is premature, but may be appropriate if the City fails to comply with the Court’s July 22, 1997 order as clarified by this Order.
