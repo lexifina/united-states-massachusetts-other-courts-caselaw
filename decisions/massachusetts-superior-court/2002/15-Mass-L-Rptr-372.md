@@ -1,0 +1,60 @@
+---
+court: "Massachusetts Superior Court"
+docket: "993906F"
+decided: "2002-10-31"
+citations: ["15 Mass. L. Rptr. 372"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael DiCorato et al. v. Procopio Construction Co., Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/15/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3619605
+cites_cases: ["396 Mass. 818", "409 Mass. 796", "410 Mass. 706"]
+---
+
+# DiCorato v. Procopio Construction Co.
+
+## Majority (Gants, J.)
+
+Gants, J.
+In 1978, the plaintiffs, Michael and Elaine DiCorato (“the DiCoratos”), executed a “Contract Agreement” with the defendant, Procopio Construction Co., Inc. (“Procopio”), to construct a new home on a lot they owned in Stoneham. To finance this construction, the DiCoratos executed a “Construction Loan Agreement” with the defendant, MassBank for Savings (“MassBank”), under which MassBank loaned the DiCoratos $50,000. Procopio completed the DiCoratos’ new home in October 1978, and they moved in the following month. Nearly 19 years later, around September 1997, the DiCoratos noticed cracking in the half-basement and garage walls, which grew worse over time. In June 1998, they retained a geotechnical engineer to conduct test pit excavations of the site. Those tests revealed that the house sat on fill that was unsuitable to support the home, and that posed a high risk of severe movement and settlement. To prevent this risk, the DiCoratos had to spend considerable money to stabilize their house. The DiCoratos now look to Procopio and MassBank essentially to pay for the cost of stabilization.
+The defendants have moved for summary judgment as to all claims. After hearing and for the reasons stated below, the defendants’ motions for summary judgment are ALLOWED.
+DISCUSSION
+The DiCoratos have brought six claims:
+Count I: negligence against Procopio;
+Count II: negligence against MassBank;
+Count III: fraud against Procopio;
+Count IV: breach of contract against Procopio:
+CountV: breach of contract against MassBank; and
+Count VI: violation of G.L.c. 93A against Procopio.
+This Court will address the various claims separately, since they warrant separate analysis
+Count I: Negligence against Procopio
+Under G.L.c. 260, §2B:
+Actions of tort for damages arising out of any deficiency or neglect in the design, planning, construction or general administration of an improvement to real properly . . . shall be commenced only within three years next after the cause of action accrues; provided, however, that in no event shall such actions be commenced more than six years after the earlier of the dates of (1) the opening of the improvement to use; or (2) substantial completion of the improvement and the taking of possession for occupancy by the owner.
+G.L.c. 260, §2B establishes both a statute of limitation of three years from the date the cause of action was or reasonably should have been discovered, and a statute of repose of six years from the earlier of the date of substantial completion or the opening of the improved property to use. While there may be a dispute as to whether this action is barred by the statute of limitations, because the DiCoratos contend that they reasonably had notice of this problem no earlier than 1997, there can be no dispute that this action is barred by the statute of repose. The new home was substantially completed and occupancy commenced in 1978, but the action was not brought until 1999. Since the negligence claim against Procopio is plainly a tort cause of action “for damages arising out of any deficiency or neglect in the design, planning, construction or general administration of an improvement to real property,” the statute of repose has barred this claim since late autumn in 1984. See Sullivan v. Iantosca, 409 Mass. 796 (1991). Therefore, summary judgment must be allowed as to Count I.
+Count II: Negligence against MassBank
+The DiCoratos attest that they paid MassBank $2 50 on four separate occasions for inspections that Mass-Bank conducted during the course of construction, but learned nothing from MassBank about the shoddy fill, which was a problem that should have been obvious to a competent inspector. They allege that MassBank had a duly to them to perform reasonable inspections of the construction being done on their property and to inform them of significant problems with that construction.
+This Court need not address whether MassBank owed the DiCoratos any such duty, because I find that this cause of action arises “out of any deficiency or neglect in the . . . planning, construction or general administration of an improvement to real property,” and therefore is barred by the statute of repose. The DiCoratos contend that the negligent inspections here fall outside the statute of repose because the damages they seek arise from the inadequacy of the inspections, not from any deficiency or neglect in the construction of their home. This Court disagrees, for two reasons.
+First, the crux of the DiCoratos’ claim against Mass-Bank is that its inspector failed reasonably to inspect the property and inform them of the problem involving the shoddy fill. This alleged failure caused damage to the DiCoratos only because it prevented them from remedying the problem during the course of construction of their home. Consequently, while the DiCoratos seek to characterize this claim simply as one of negligent inspection, it truly is a claim of negligent inspection that caused a deficiency in the construction of their home. Therefore, since the negligent inspection is alleged to have caused, at least in part, the construction of the DiCoratos’ home on shoddy fill, this claim also “arises out of any deficiency or neglect in the design, planning, construction or general administration of an improvement to real property.”
+Second, if the DiCoratos’ interpretation were to prevail, the Legislature that enacted the statute of repose would have intended after six years to protect from liability the contractor who negligently constructed the home, but left subject to liability the inspector who failed to detect the negligence. This Court does not believe that the Legislature intended the bizarre result that, once six years had passed, a negligence claim against the general contractor is barred but the unhappy homeowner can still sue the inspector, who must pay the entirety of damages without contribution from the general contractor. Therefore, summary judgment must be allowed as to Count II.
+Count III: Fraud against Procopio
+The DiCoratos’ fraud claim is also barred by the statute of repose in G.L.c. 260, §2B. That statute applies not only to claims of negligence, but to any action of tort for damages that arise out of any deficiency in the construction of one’s home. “The fact that a defendant caused the deficiency by gross negligence, wanton conduct, or even knowing and intentional wrongdoing makes no difference as §2B is written.” Sullivan v. Iantosca, 409 Mass. at 798-99. Therefore, summary judgment must be granted on Count III.
+Count IV: Breach of Contract against Procopio
+The Contract Agreement between Procopio and the DiCoratos contains the following express warranty, “All work shall be performed in a good workmanlike manner, conforming to present local building codes, and shall be completed on or about September 1978 (about ninety days).” The DiCoratos contend that Procopio violated both the express warranty that the “work shall be performed in a good workmanlike manner” and that it shall conform to local building codes.
+This claim requires a wholly different factual analysis. A claim of breach of an express warranty in a contract falls outside the scope of the statute of repose in G.L.c. 260, §2B, which governs only actions in tort. Actions in contract are governed by G.L.c. 260, §2, which permits an action to be brought within six years of the date the cause of action accrued. The discovery rule applies to contract claims, so the DiCoratos’ contract cause of action began to accrue only when they knew or should have known of the breach. See Anthony's Pier Four, Inc. v. Crandall Dry Dock Engineers, Inc., 396 Mass. 818, 825-26 (1986). Since there is evidence that the DiCoratos should not reasonably have learned of the breach of the express warranties until 1997, when the cracking first emerged, summary judgment on this claim is not justified on statute of limitations grounds.
+There is, however, another ground that entitles Procopio to summary judgment on this contract claim. In December 1999, Procopio’s attorney served upon the DiCoratos’ attorney a Request for Admissions. The DiCoratos have failed to date to respond to this Request, thereby admitting to the assertions in the request. Mass.R.Civ.P. 36.
+As a result of their failure to respond to the Request for Admissions, the DiCoratos have admitted to the following facts:
+the Contract Agreement did not require Procopio to make any tests of the soil prior to construction;
+the DiCoratos instructed Procopio to build the home on the DiCoratos’ lot without making any soil tests;
+Procopio had nothing to do with the soil conditions on the lot and never used any unsuitable fill material; and
+Procopio was not obliged under the contract to check any soil condition.
+In view of these admissions, this Court finds that the DiCoratos have no reasonable expectation of proving a breach of contract by Procopio. See Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991). Therefore, summary judgment must be granted on Count IV.
+Count V: Breach of Contract against MassBank
+The only provision in the Construction Loan Agreement between MassBank and the DiCoratos that discusses inspections provides, “Lender and its representatives shall at all times have the right to enter the Premises for the purpose of inspecting the progress of work and materials thereon.” There is nothing in this Agreement that promises that inspections will be conducted by MassBank or that the DiCoratos will be informed of the results of any inspection. Therefore, the DiCoratos’ claim of breach of contract must fail.
+Count VI: Violation of G.L.c. 93A against Procopio
+While this Court acknowledges that G.L.c. 93Amay not fall strictly within the rubric of a common-law “tort,” this Court finds that allegations of Chapter 93A violations that “aris[e] out of any deficiency or neglect in the design, planning, construction or general administration of an improvement to real property” are governed by the statute of repose. Since so many common-law torts can be recharacterized as a Chapter 93A violation, to rule otherwise would deny any true repose to those for whom repose was intended. Therefore, summary judgment must be granted on Count VI.
+ORDER
+For the reasons stated above, the motions for summary judgment brought by Procopio and MassBank are ALLOWED as to all claims.
+The Construction Loan Agreement was actually executed by the Melrose Savings Bank, which is now known as Mass-Bank.
+This Court is aware that the DiCoratos’ attorney, at the hearing, declared that he had never received this Request for Admissions. Yet, in its motion for summary judgment, Procopio’s attorney attested that he had sent the DiCoratos’ attorney the Request for Admissions, attached both the Request for Admissions and his transmittal letter, dated December 9, 1999, and argued the legal consequences of the DiCoratos’ failure to respond to this Request. The DiCoratos failed in their opposition to make mention of the Request for Admissions or to present any affidavit denying receipt. Since the unrefuted evidence in the summary judgment record demonstrates that the Request for Admissions was served and since the DiCoratos have been aware of Procopio’s reliance on their failure to respond to this Request since shortly after January 2, 2002, when the Procopio’s motion was sent to the DiCoratos’ attorney, this Court will continue to treat these assertions as admitted.
