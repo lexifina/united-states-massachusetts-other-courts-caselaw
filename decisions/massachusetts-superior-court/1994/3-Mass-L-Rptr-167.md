@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "92-3900"
 decided: "1994-12-21"
-citations: ["3 Mass. L. Rptr. 167", "3 Mass. L. Rptr. 171"]
+citations: ["3 Mass. L. Rptr. 167"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
