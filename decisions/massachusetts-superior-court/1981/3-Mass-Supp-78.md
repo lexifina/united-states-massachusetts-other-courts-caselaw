@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Superior Court"
+docket: "134243"
+decided: "1981-12-09"
+citations: ["3 Mass. Supp. 78"]
+reporter: "mass-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Paul G. Garrity Justice of the Superior Court"]
+parties: ["ESSEX BITUMINOUS CONCRETE CORPORATION, Plaintiff vs. David E. WALSH, et al., Defendants"]
+source_url: "https://static.case.law/mass-supp/3/cases/0078-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3294190
+cites_cases: ["200 Mass. 209", "339 Mass. 717"]
+---
+
+# Essex Bituminous Concrete Corp. v. Walsh
+
+## Majority
+
+RULINGS, ORDERS AND MEMORANDUM OF DECISION ON THE DEFENDANTS’ (DAVID E. WALSH, INDIVIDUALLY AND AS TRUSTEE, PATRICIA A. WALSH, RICHARD M. WALSH, AND WARREN CORPORATION), MOTIONS TO DISMISS AND THE DEFENDANT DAVID E. WALSH’S MOTION TO MODIFY INJUNCTION
+Introduction
+In its complaint, which commenced this action on August 13, 1981, Essex Bituminous Concrete Corporation (Essex) as guarantor, pursuant to an instrument dated August 27, 1975 and entitled “Guaranty”, of the obligations up to the amount of $1,168,000 of a currently defunct organization, known as Wales Corporation (Wales) to the First National Bank of Boston (the Bank)j seeks contribution from the defendants David E. and Patricia A. Walsh, as alleged “co-guarantors,” for their proportionate share of monies which Essex previously paid on account of its August 27, 1975 guaranty to the Bank. In addition, Essex in its complaint seeks to reach and apply certain assets of the defendants which it, Essex, claims have been fraudulently concealed and conveyed for the purpose of defrauding creditors, including Essex. On August 24, 1981, pursuant tó a stipulation of the parties, a preliminary injunction was ordered enjoining the defendants from encumbering or transferring certain of their assets as specified in the injunction.
+Facts
+In 1973 the Bank loaned monies to Wales. In connection with that loan the defendants David E..(then Wales’ president) and Patricia A. Walsh, by an instrument dated October 19, 1973 and entitled “Guaranty”, guaranteed Wales’ obligations to the Bank without any limit as to amount. Sometime in 1975 Wales defaulted on the loan to it from the Bank and Essex, whose President David Drislane then was and currently is Wales’ treasurer, executed the August 27, 1975 guaranty referred-to above. The Bank thereafter made demand upon both Essex and the defendants David E. and Patricia A. Walsh for them to honor their guarantys of Wales’ obligations to the Bank. Between June 1976 and the end of 1979, Essex paid to the Bank approximately $478,000 in consequence of its guaranty while the defendants David E. and Patricia A. Walsh paid nothing.
+In May 1976 the Bank commenced an action against the defendants David E. and Patricia A. Walsh seeking to collect on theif October 19, 1973 guaranty to it of Wales’ obligations (Suffolk Civil Action No. 14710). In July 1980, Essex purchased from the Bank all of its right, title and interest in and to the Bank’s loan to Wales including all collateral security, guarantys and pending civil actions previously brought by the Bank against the defendants David E. and Patricia A. Walsh. Essex’s motion to intervene as of right pursuant to Mass. R. Civ. P. 24(a) in that action commenced by the Bank is presently before Lynch, C.J.
+Rulings and Memorandum of Decision
+In their motions to dismiss, each made pursuant to Mass. R. Civ. P. 12(b)(7), the defehdants argue that because this action is one for “eqüitable contribution” between co-suretites, dismissal is required because. Essex has failed to join as necessary, party defendants all co-sureties. In an affidavit in support of his position the defendant David Walsh asserts that “The obligations of Wales' Corppration to the First National Bank of Boston towards which the plaintiff claims to have made payments pursuant to its guaranty executed on or about August 27, 1975, were also guaranteed by each of David Drislane, John Drislane, Dennis Drislane and Elliot Construction Co., Inc.”. In support of their position the defendants cite Restatement of Security, § 164 (1941) which provides:
+Contribution: Necessary Parties in Actions in Equity
+Where a surety seeks contribution in equity, the principal and co-sureties are necessary parties if they are in the jurisdiction unless the surety can show that to join them in an action would be a useless formality.
+Essex disclaims any right of action for contribution against those whom, the defendants claim are indispensable parties, and in an affidavit its president David W. Drislane asserts “that there are no other persons, firms or entities which stand on a relationship of co-surety with the Plaintiff such that the Plaintiff would be entitled to contribution from any such persons, firms or entity.”
+It is quite correct that if the others who provided a guaranty of Wales’ obligations to the Bank are ultimately determined to be co-sureties, joinder of them ip this action would be necessary unless Essex can show that such joinder would be a useless formality. See, Nissenberg v. Felleman, 339 Mass. 717, 725, 726 (1959): Wood v. Farmer, 200 Mass. 209 (1908). However, the resolution of this issue ultimately depends on facts which are not presently before this Court. A determination of what legal relationship exists among those other guarantors of Wales’ obligations to the Bank vis-a-vis Essex depends in large part on what they understood to be their mutual rights and obligations at the time they provided their guarantys. They may be co-sureties with an equitable right of poritribution; they may be sub-sureties with no such right; or they may have an entirely different kind of status with different rights and obligations. Kurzman v. Steir, Mass. App. Ct. Adv. Sh. (1981) 1668, 1671; see, Restatement of Security, Section 146, comments a-g, (1941). No evidence has been presented concerning what the parties intended when they executed the various guarantys relevant to the claims of the defendants. Without such evidence a court cannot determine whether those, claimed by the defendants to be indispensable to. this action should in fact be so characterized. The defendants’ motion to dismiss aecordirigly should be denied.
+The defendant David E. Walsh, as noted above, additionally seeks to modify the preliminary injunction granted previously in this action. As grounds for that motion he urges in part that his “maximum liability to Essex is $160,000 and that the preliminary relief previously allowed against him was excessive.” The monetary extent of David E. Walsh’s liability to Essex is an ultimate issue in this action; it is an issue which this Court cannot determine with precision at this early stage of his litigation. It would be premature to grant a modification of the preliminary injunction at this time considering the scope of Essex’s claims against that defendant.
+The facts of this action and those of the interrelated actions currently pending before this Court are rather complex. It is suggested perhaps in the interest of judicial economy, that it may be appropriate for the parties to seek consolidation and assignment of this and those actions to á single justice of this Court.
+ORDERS
+For the reasons set out above, the defendants’ motions to dismiss and to modify the preliminary injunction are DENIED.
+Paul G. Garrity Justice of the Superior Court
