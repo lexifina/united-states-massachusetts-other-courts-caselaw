@@ -1,0 +1,30 @@
+---
+court: "Massachusetts Superior Court"
+docket: "011989B"
+decided: "2002-05-13"
+citations: ["14 Mass. L. Rptr. 633"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wayne J. Adams et al. v. Wesley G. Price et al."]
+source_url: "https://static.case.law/mass-l-rptr/14/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3632815
+cites_cases: ["26 Mass.App.Ct. 557", "427 Mass. 156", "49 Mass.App.Ct. 401"]
+---
+
+# Adams v. Price
+
+## Majority (Murphy, J.)
+
+Murphy, J.
+The plaintiffs, Wayne J. and Terri L. Adams (“Adams”), brought this action alleging negligence in connection with the installation of a septic system. The Adamses agreed to purchase property from defendants, Wesley and Phyllis Price (“Prices”). One of the conditions of the purchase was that the Prices would install a Title V septic system with certified approval from the local Board of Health obtained prior to the closing. Thus, the Prices hired Whitman & Bingham Associates, Inc. (“Associates”) to design a Title V system and obtain the approval. Steven Whitman (“Whitman”) is a principal of Associates. Associates performed these tasks, and the Adamses closed on the property on December 3, 1999.
+In March 2000, the Adamses noted foul odors coming from the septic system and what they believed was excess runoff onto local roadways. Investigation revealed that the septic system installers, Kevin Lashua and Bill’s Sewer Service, Inc., used contaminated fill in the septic system. Additionally, the Adamses concluded that Associates’ design and engineering was faulty because it failed to account for nearby drainage facilities.
+The Adamses filed this action against the various named defendants. With regard to Whitman as an individual, the Adamses charged that he was negligent in failing properly to supervise the Associates’ employees who designed the septic system and performed the underlying engineering work. Whitman answered the complaint and asserted a counterclaim for abuse of process on the theory that he never dealt with the septic system project in anything other than a corporate capacity. Whitman termed attempts to impute individual liability to him as malicious acts designed solely to injure and embarrass him.
+The matter is before the Court on the Adamses’ motion to dismiss Whitman’s abuse of process counterclaim. The Adamses contend that this counterclaim should be dismissed under G.L.c. 231, §59H, because it is nothing but a SLAPP suit designed illegally to inhibit their right to petition the courts for relief. Whitman asserts he is entitled to bring this counterclaim and, in fact, must bring it at this stage of the proceedings, as it is a compulsory counterclaim under Mass.R.Civ.P. 13.
+For the following reasons, the Adamses’ special motion to dismiss Whitman’s abuse of process counterclaim is DENIED.
+DISCUSSION
+Massachusetts is one of a minority of states which has enacted legislation banning Strategic Litigation Against Public Participation (SLAPP) suits. This legislation originated in the perceived need to prevent large entities from employing overwhelming economic power to intimidate potential opponents from using their rights of free speech and to petition the government. See Duracraft Corp. v. Holmes Prod. Corp., 427 Mass. 156, 161-64 (1998). SLAPP suits are designed to prevent people from bringing issues of public concern to the attention of the larger public or the government or to punish them for doing so. Id. The counterclaim at issue implicates none of the concerns that gave rise to anti-SLAPP legislation. The Adamses have not framed an issue that implicates any public concern. They may have done this with allegations that the local Board of Health acted improperly or did so at Whitman’s urging, but as it stands, this remains the Adamses’ pursuit of a private grievance. Similarly, Whitman’s counterclaim does not implicate issues of public concern. Without this crucial element of public concern, the Adamses’ assertion Whitman’s counterclaim is a prohibited SLAPP suit adds procedural hurdles which would operate to destroy abuse of process as an independent tort.
+To withstand initial scrutiny Whitman’s abuse of process claim must allege that the Adamses’ naming him individually was done with illegitimate or ulterior .purpose causing him real damage. Kelley v. Stop & Shop Cos., 26 Mass.App.Ct. 557, 558 (1988). Because the petitioning right interfered with is access to the courts themselves, the logical outcome of Adamses’ position is that any abuse of process claim must demonstrate at the very outset that those seeking the court’s intervention did so with a claim totally devoid of legal or factual merit. The Adamses in this case must make a threshold showing through pleadings and affidavits that Whitman’s counterclaim is based on the Adamses bringing the case against him. See Vittands v. Sudduth, 49 Mass.App.Ct. 401, 414 (2000), citing Duracraft, 427 Mass. at 168. That presents no difficulty in these circumstances because the Adamses had no recourse to process against Whitman before filing this suit. After the Adamses satisfies this threshold showing, Whitman may maintain his suit only if he can show that the Adamses brought their suit devoid of legal or factual support and that he has suffered damages as a result. Id. Even ignoring the defects in theAdamses’ factual support, the Court finds this too heavy a burden on the private abuse-of-process plaintiff because it puts him in the “Catch 22" position of having to prove the tort before he can bring it. Especially in the context of a compulsory counterclaim, the Court concludes Mass.R.Civ.P. 12(b)(6) provides sufficient protection against defendants in an abuse of process claim arising from a purely private grievance.
+ORDER
+For the foregoing reasons, Wayne and Terri Adams’ special motion to dismiss Steven Whitman’s counterclaim for abuse of process pursuant to G.L.c. 231, §59H is DENIED.
