@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Superior Court"
+docket: "980364E"
+decided: "1999-02"
+citations: ["9 Mass. L. Rptr. 537"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joan W. Jenkinson v. Mitchell Adams, Commissioner, Massachusetts Department of Revenue"]
+source_url: "https://static.case.law/mass-l-rptr/9/cases/0537-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 189225
+cites_cases: ["369 Mass. 550", "390 Mass. 419", "462 U.S. 198", "613 F.2d 612", "675 F.Supp. 775"]
+---
+
+# Jenkinson v. Adams
+
+## Majority (Lauriat, J.)
+
+Lauriat, J.
+The plaintiff, Joan M. Jenkinson (“Jenkinson”), instituted this declaratory judgment action against the defendants, Mitchell Adams, Commissioner of the Massachusetts Department of Revenue (“the Commissioner”), and the Treasurer for the Town of West Tisbury, Massachusetts (“the Treasurer”), seeking the return of money withheld from her salary by the Treasurer pursuant to a levy issued by the Commissioner, and a declaration stating that the plaintiffs tax liability for the years 1982,1983, and 1984is time barred pursuant to the provisions of G.L.c. 62C, §53.
+This matter is before the court on Jenkinson’s motion for summary judgment. After hearing, and upon consideration of the memoranda and oral arguments of counsel, the plaintiffs motion for summary judgment is allowed in part and denied in part for the following reasons.
+BACKGROUND
+The following facts are undisputed. During the years 1988 and 1989, the Commissioner assessed certain income tax deficiencies against Jenkinson as follows:
+Amount of Date of
+Tax Year Assessment Assessment
+1982 $2,856 12/08/88
+1983 $4,540 02/08/89
+1984 $3,212 06/07/89
+On or about March 3, 1992, in order to satisfy Jenkinson’s outstanding tax obligation, the Commissioner levied on the salary that she received as an Animal Control Officer for the Town of West Tisbury, Massachusetts. Robert Jenkins, a supervisor in the Hyannis Office of the Department of Revenue, sent a Notice of Levy (Form M668-W) to the Treasurer on behalf of the Commissioner.
+Pursuant to the Commissioner’s garnishment order, the Treasurer withheld a portion of Jenkinson’s wages between June 30, 1992 and January 15, 1997. The Treasurer remitted a total of fifty-five checks, totaling $ 10,076.29, to the Department of Revenue; however, for reasons unknown to the parties and the court, not one of the fifty-five checks, made payable to the Commonwealth of Massachusetts, and sent to the Department of Revenue by the Treasurer pursuant to its garnishment order, was ever presented for payment. Moreover, none of the checks were ever returned to the Treasurer. As a result, the Treasurer continues to hold the money that was garnished from Jenkinson’s wages.
+DISCUSSION
+This Court will grant summary judgment where there are no genuine issues of material fact and where the summary judgment record entitles the moving party to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat'l Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c).
+Jenkinson contends that the Commissioner’s ability to recover any of the Massachusetts income taxes she owed for the years 1982 through 1984 is barred by the provisions of G.L.c. 62C, §53. That statute provides that “(t]he effect of a levy on salary or wages payable to or received by a taxpayer shall be continuous from the date such levy is first made until the liability out of which such levy arose is satisfied or becomes unenforceable by reason of lapse of time." G.L.c. 62C, §53(d) (emphasis added). General Laws c. 62C, §53(d) must be read in light of Section 50 which provides that “(s]aid lien shall in any event terminate not later than six years from the date it was created.” G.L.c. 62C, §50.
+It is undisputed that the Commissioner’s claim against Jenkinson for unpaid income taxes for the calendar years 1982, 1983, and 1984 became unenforceable on June 7, 1995, six years after the date of the last assessment. G.L.c. 62C, §50. The Treasurer, however, continued to garnish Jenkinson’s wages, pursuant to the garnishment order, until January 15, 1997, nearly nineteen months after the date the lien on Jenkinson’s salary lapsed. Therefore, any amount garnished from Jenkinson’s salary after that date must be returned to Jenkinson, together with interested as allowed by law.
+The remaining dispute between the parties thus centers on whether Jenkinson is entitled to the return of her wages garnished prior to June 7, 1995. In other words, did the failure of the Commissioner to obtain actual possession of the money levied and held by the Treasurer on the Commissioner’s behalf prior to the expiration of the six year period nullify the levy and restore Jenkinson’s right and title to those funds.
+Jenkinson makes no claim that the underlying tax liability is invalid other than by reason of the Commissioner’s failure to receive and/or cash the checks within the six year statute of limitations provided by G.L.c. 62C, §50. In support of her contention, Jenkinson cites United States v. Whiting Pools, Inc., 462 U.S. 198 (1983), for the proposition that a levy does not transfer ownership or extinguish the taxpayer’s interest in the property being levied. This argument is not persuasive.
+While it may be true that a levy does not extinguish a taxpayer’s interest in seized property, the proper avenue for asserting the taxpayer’s right to the return of levied funds is by challenging the underlying tax liability itself. Once garnished, the Commissioner maintained constructive possession of the funds at all times, even though it never received or presented for payment the checks sent by the Treasurer. Federal Courts addressing this issue have reached the same conclusion. “(SJervice of the notice of levy reduces the property or property right ... to the constructive possession of the United States.” United States v. Weintraub, 613 F.2d 612, 621 (6th Cir. 1979); see also United States v. Marine Midland Banks, N.A., 675 F.Supp. 775 (W.D.N.Y. 1987).
+Moreover, it is significant that there is no limitations period for actions by the Commissioner to enforce compliance with the levy against the Treasurer. Indeed, had the Treasurer refused to forward the garnished wages, the Commissioner would have been able to maintain an action against the Treasurer beyond the six year statute of limitations set forth in G.L.c. 62C, §50. Therefore, the Commissioner is entitled to the funds levied before June 7, 1995, the expiration date of the six year statute of limitations.
+It must be noted, however, that the action, or more precisely, the inaction, of the Commissioner regarding its handling of this lien is troublesome. The extraordinary power of the Commissioner to place such levies on the property of taxpayers, regardless of the validity of the tax liability, should not be taken lightly. The Commissioner has failed in the instant case to collect on and/or remain apprised of the status of its lien on Jenkinson’s salary. The parties agree that the lien terminated on June 7, 1995; however, the Commissioner thereafter failed to comply with G.L.c. 62C, §53, which specifically provides that “the commissioner shall promptly release the levy when the liability out of which such levy arose is satisfied or becomes unenforceable by reason of lapse of time, and shall promptly notify the person upon whom such levy was made that such levy has been released.” G.L.c. 62C, §53 (emphasis added). The Commissioner has failed this statutory duty in two respects. He failed to release the lien and failed to notify Jenkinson promptly that the lien had expired by reason of lapse of time. Such inattention by the Commissioner continued to allow the lien to remain in effect for nearly nineteen months, depriving Jenkinson of the rightful possession and use of her wages, a result which is inexcusable.
+ORDER
+For the foregoing reasons, it is hereby DECLARED, ORDERED and ADJUDGED that all sums garnished from Joan W. Jenkinson’s salary after June 7, 1995, by the Treasurer for the Town of West Tisbury be returned to Jenkinson, together with interest on those sums as provided by law; it is further DECLARED, ORDERED and ADJUDGED that all sums garnished from Joan W. Jenkinson’s salary prior to June 7, 1995 by the Treasurer for the Town of West Tisbury be forwarded by the Treasurer to the Massachusetts Department of Revenue.
