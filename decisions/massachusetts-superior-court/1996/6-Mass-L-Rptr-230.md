@@ -1,0 +1,46 @@
+---
+court: "Massachusetts Superior Court"
+docket: "955044"
+decided: "1996-12"
+citations: ["6 Mass. L. Rptr. 230"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Boston v. AFSCME, Council 93"]
+source_url: "https://static.case.law/mass-l-rptr/6/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1194708
+cites_cases: ["10 Mass.App.Ct. 843", "11 Mass.App.Ct. 698", "33 Mass.App.Ct. 649", "362 Mass. 560", "369 Mass. 550", "380 Mass. 18", "390 Mass. 419", "392 Mass. 184", "399 Mass. 341", "418 Mass. 21"]
+---
+
+# City of Boston v. AFSCME, Council 93
+
+## Majority (Fremont-Smith, J.)
+
+Fremont-Smith, J.
+Plaintiff seeks to vacate an arbitrator’s award in favor of defendant, pursuant to M.G.L.c. 150C §11(a)(3) or modification of the award pursuant to M.G.L.c. 150C §12(2). Defendant moves for summary judgment and plaintiff cross-moves for summary judgment. For the reasons explained below, defendant’s motion is ALLOWED. Plaintiffs motion is DENIED.
+BACKGROUND
+This action stems from an arbitration award in favor of defendant American Federation of State, County and Municipal Employees Counsel 93 (“Union”). The Union filed a Step one grievance with plaintiff City of Boston (“City”) on October 22, 1992, related to an alleged violation of a Supplemental Agreement to the parties’ collective bargaining agreement (“Agreement”). The grievance concerned the City’s failure to establish an “on-call” list for Health Inspectors within the union’s Rodent Control Unit, pursuant to Article IV, Section A of the Supplemental Agreement. The City denied the grievance at level one and the Union pursued the grievance to arbitration. On June 28, 1995, the parties conducted an arbitration before Daniel J. Pagnano, arbitrator.
+The arbitrator found that the City violated the Supplemental Agreement by not establishing the on-call list. However, the arbitrator also found that an undated second Supplemental Agreement between the parties thereafter relieved the City of its obligation to establish an on-call list for the Rodent Control Unit and, therefore, ordered the City to make the grievants whole for the approximately five year period between the effective dates of the first and second Supplemental Agreements. Matter of AFSCME Council 93, Local 1631, AFL-CIO and City of Boston, No. 4A-39, at 6 (1995) (Pagnano, Arb.).
+The City contends that the arbitrator exceeded his authority in ordering back pay for the period extending more than 21 days before the grievance was filed, citing Section two of the Agreement’s grievance procedure which provides:
+The Union . . . shall present the grievance orally to the aggrieved employee’s immediate supervisor outside the bargaining unit. The parties shall attempt to resolve the grievance informally. If they are unable to do so, the Union shall reduce the grievance to writing, within twenty-one (21) days after the employee or Union had knowledge or should have had knowledge of the occurrence or failure of occurrence of the incident on which the grievance is based, or it shall be waived.
+Accordingly, the City argues, that the Union waived its right to grieve any violations which occurred more that twenty-one days prior to the grievance.
+The Ciiy asserts that the arbitrator exceeded his authority under the CBA by awarding a remedy for violations which occurred more than twenty one days prior to the grievance and requests that the Court vacate the award in that regard.
+G.L.c. 150C §11(a)(3) provides:
+Upon application of a party, the superior court shall vacate an award if... the arbitrators exceeded their powers or rendered an award requiring a person to commit an act or engage in conduct prohibited by state or federal law.
+Section 12(2) provides:
+Upon application made within thirty days after delivery of a copy of the award to the applicant, the superior court shall modify or correct the award if ... The arbitrators have awarded upon a matter not submitted to them and the award may be corrected without affecting the merits of the decision upon the issues submitted.
+DISCUSSION
+The Court will grant summary judgment where there are no genuine issues of material fact and where the summary judgment record entitles the moving party to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). Since the parties do not dispute the material facts, summary judgment is appropriate.
+“Arbitrators have broad discretion in interpreting collective bargaining agreements and in providing complete relief to an aggrieved party.” Leahy v. Local 1526, AFSCME, 399 Mass. 341, 353 (1987). An arbitrator has broad authority in awarding relief so long as “the relief does not offend public policy, require a result contrary to statute or transcend the limits of the contract of which the agreement to arbitrate is but a part.” Painters District Council No. 35 v. J.A.L. Painting, Inc., 11 Mass.App.Ct. 698, 701-02 (1981) (citing Lawrence v. Falzarano, 380 Mass. 18, 28 (1980)).
+A court’s role in reviewing an arbitrator’s award is limited, Somerville v. Somerville Municipal Employees Assn., 418 Mass. 21, 24 (1994) (citing Concerned Minority Educators of Worcester v. School Committee of Worcester, 392 Mass. 184, 187 (1984), and G.L.c. 150C §11)) and the limited scope of review will generally preclude a court from reversing or modifying an arbitrator’s finding unless the Court finds that the arbitrator exceeded his authority. Somerville, at 24; Greene v. Mari & Sons Flooring Co., Inc., 362 Mass. 560, 562 (1972). Accordingly, a court will not overrule an arbitrator merely because of an alleged error of law or fact, Harvard Community Health Plan, Inc., v. Zack, 33 Mass.App.Ct. 649, 652 (1992), or because the Court would interpret a contract differently, Concerned Minority Educators of Worcester at 187. See also Standoff v. Hertz, 10 Mass.App.Ct. 843, 844 (1980).
+Here, it is true that the Agreement provides in Section 7 of Article VII that “the arbitrator hereunder shall be without power to alter, amend, add to or detract from the language of this Agreement. The decision of the arbitrator shall be final and binding on the parties ...”
+It is also true that the grievance procedure set forth in Article VII requires the grievance to be filed within twenty-one days of the grieved incident or else be waived (Section 2, Step 1) whereas Article IX, Section 2 provides: “the failure of the Municipal Employer or the Union to insist, in any one or more incidents, upon performance of any other terms or conditions of this Agreement shall not be considered as a waiver or a relinquishment of the right of the Municipal Employer or the Union to future performance of any such term or condition, and the obligations of the union and the municipal employer to such future performance shall continue in full force and effect.”
+Based on the above, it seems that a failure to grieve a violation within twenty-one days waives the violation, and that such failure does not constitute awaiver only with respect to future violations of the same type. This comports with the general rule in labor arbitration. See Fairweather, Practice and Procedure in Labor Arbitration (BNA, 2nd ed., 1983) wherein the rule is stated that:
+if the alleged violation can be considered to impose a continuing entry to the grievance, the arbitrator may find that the grievance is a continuing one and at the time of the filing of a grievance recommences each day and, hence, a filing of a grievance is never precluded. Damages or back pay on such a case, however, will be awarded only from the date the grievance was filed.
+Accord: State of California, Department of Fish & Game and California State Employees’ Association, 89-1 CCH Labor Arbitration Awards, 8180. Nor has any case been cited to or found by the Court, in which an arbitrator has been considered authorized to order retroactive relief in these circumstances, or in which an arbitrator has ordered retroactive compensation with respect to a practice which the union had condoned for years.
+Nevertheless, Article VII, Section 7 further provides that “the arbitrator shall have no power to recommend any right or relief for any period of time prior to the effective date of this Agreement” (the effect date of the Agreement in question being July 1, 1987) and the arbitrator’s award was retroactive only to that date.
+Accordingly, while this Court considers the arbitrator’s award to be contrary to the manifest intent of the Agreement, and violative thereof, it cannot be said that the arbitrator’s decision clearly exceeds his express authority under the Agreement to award retroactive relief back to the inception of the contract. In view of the almost unlimited deference which courts are instructed to afford to arbitrators’ decisions, even where an arbitrator’s misinterpretation of an agreement is evident, plaintiffs motion for summary judgment is denied and defendant’s motion is allowed.
+ORDER
+Judgment shall enter in favor of the defendant AFSCME, Council 93.
+Concerned Minority Educators of Worcester, supra at 187.
