@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "CR92-1006 through 1022"
 decided: "1993-08-24"
-citations: ["1 Mass. L. Rptr. 186", "1 Mass. L. Rptr. 184"]
+citations: ["1 Mass. L. Rptr. 186"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Commonwealth v. Wayne Lo"]
 source_url: "https://static.case.law/mass-l-rptr/1/cases/0186-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6105891
-cites_cases: ["15 Mass.App.Ct. 666", "208 Mass. 162", "217 Pa. Super. 432", "24 Mass.App.Ct. 290", "272 A.2d 271", "342 U.S. 48", "353 Mass. 487", "354 Mass. 200", "365 U.S. 610", "366 Mass. 790", "366 U.S. 717", "367 Mass. 474", "367 Mass. 798", "371 Mass. 803", "371 U.S. 471", "376 Mass. 349", "376 Mass. 885", "376 U.S. 483", "385 Mass. 244", "386 Mass. 385", "388 Mass. 358", "388 Mass. 98", "389 U.S. 347", "398 F.Supp. 777", "406 Mass. 112", "406 Mass. 230", "407 Mass. 617", "412 Mass. 224", "413 Mass. 823", "414 Mass. 313", "415 Mass. 502", "427 U.S. 539", "432 U.S. 282", "467 U.S. 431", "469 U.S. 17", "494 U.S. 325", "8 Mass.App.Ct. 694", "805 F.2d 68"]
+cites_cases: ["217 Pa. Super. 432", "24 Mass.App.Ct. 290", "272 A.2d 271", "342 U.S. 48", "365 U.S. 610", "366 Mass. 790", "367 Mass. 798", "371 U.S. 471", "376 Mass. 349", "376 Mass. 885", "376 U.S. 483", "385 Mass. 244", "386 Mass. 385", "389 U.S. 347", "398 F.Supp. 777", "406 Mass. 112", "406 Mass. 230", "407 Mass. 617", "412 Mass. 224", "413 Mass. 823", "414 Mass. 313", "467 U.S. 431", "469 U.S. 17", "494 U.S. 325", "8 Mass.App.Ct. 694", "805 F.2d 68"]
 ---
 
 # Commonwealth v. Lo
