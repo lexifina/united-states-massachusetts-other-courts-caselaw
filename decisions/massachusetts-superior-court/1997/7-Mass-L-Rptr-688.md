@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "970493"
+decided: "1997-11-19"
+citations: ["7 Mass. L. Rptr. 688"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Dehaan v. Pizza of Newburyport, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0688-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11791964
+---
+
+# Dehaan v. Pizza of Newburyport, Inc.
+
+## Majority (Fecteau, J.)
+
+Fecteau, J.
+This case involves contract and tort claims related, inter alia, to the recruitment, placement, training and fitness of the plaintiff for a managerial position with the defendant. The third-party defendant was an entity utilized by the defendant/third-party plaintiff for recruitment purposes and claims here also include breach of contract and misrepresentations related to their recruitment of the plaintiff for placement with the defendant/third-party plaintiff. Discovery disputes in connection with document requests under Rule 34 and deposition practice under Rule 30 now come before the court.
+A.DEFENDANTS MOTION TO COMPEL PRODUCTION OF DOCUMENTS FROM THE PLAINTIFF
+1. With respect to the defendant’s document requests numbered: 9, 10, 11, 14, 27: plaintiffs objections are overruled; plaintiff is to produce documents responsive to these requests within 30 days of this order.
+2. Request No. 12: the plaintiffs objection is sustained to the request as written. Should the defendants be willing to limit their request to convictions for crime within the parameters.of G.L.c. 233, Sec. 21, such a request would be allowed.
+3. Request No. 13: the plaintiffs objection is sustained to the request as written. Should the defendants be willing to limit the request to causes of action related to employment relationships within the last ten years, such a request would be allowed.
+B.DEFENDANTS’ MOTION WITH RESPECT TO DEPOSITION CONDUCT OF COUNSEL FOR THE PLAINTIFF:
+Counsel are within their rights to decide not to waive objections until time of trial. However, this form of deposition practice does not permit the instruction of witnesses not to answer questions which do not call for privileged information; it merely requires counsel to object on the record, and with ground therefore, to give examining counsel an opportunity to rethink and possibly rephrase the question. Objections which are not based on privilege should not prevent a deponent from answering the disputed question. If objecting counsel is insistent upon a judicial resolution of the objection during the pendency of the deposition, rather than at the time of the prospective use of the deposition at trial, he may call for a suspension of the objected-to lines of examination. The preferred practice would be for the deposition to continue to the point where the deposition is completed with the exception of the disputed lines of inquiry and then to seek judicial intervention on all such areas of dispute so that the parties are not subjected to the periodic parade to the courthouse with its attendant additional cost of time and expense. If counsel instructs a witness not to answer a question which does not call for privileged information, counsel gives such instructions at his or her peril. The two lines of questioning referenced by the moving party as examples of improper deposition conduct by plaintiffs counsel, on page 33 and 97 of the deposition transcript were, in fact, improper objections and instructions, and said objections are overruled. Of course, examining counsel must have some rational basis to believe that any question will either produce relevant and admissible information or may lead to such.
+The deposition is to be reconvened and held within 30 days following production of documents ordered herein or sooner, at the option of the defendant.
+With respect to the defendants’ request for costs and sanctions, due to the fact that the deposition had to be halted for reasons unrelated to this motion, and that it was going to have to be resumed in any event, the defendants’ request for costs associated -with the resumption of the deposition is denied. With respect to the filing of this motion, costs are granted in the amount of $500.00., payable to counsel for the defendant on or before the reconvening of the deposition.
+C.MOTION OF THE THIRD-PARTY PLAINTIFF TO COMPEL PRODUCTION OF DOCUMENTS BY THE THIRD-PARTY DEFENDANT
+1. With regard to document requests numbered 3, 8, 9, 16: objections of the third-party defendant are overruled; documents responsive to these requests are to be provided within 30 days following the entry of this order;
+2. Requests no. 12, 13, 14: objections of the third-party defendant are overruled unless it waives, in writing, personal jurisdiction as a viable issue; responsive documents shall be provided in 30 days;
+3. Request no. 10: objection of the third-party defendant is sustained to the request as written. Should the third-party plaintiff be willing to limit the scope of the request to those causes of action similar to those claims at issue in this case and during the last ten years, such a request would be allowed.
+D.MOTION OF THE THIRD-PARTY PLAINTIFF WITH RESPECT TO DEPOSITION CONDUCT OF COUNSEL FOR THE THIRD-PARTY DEFENDANT
+According to the deposition notice, this is a “Rule 30(b)(6)” deposition of the third-party defendant who was obliged to designate and authorize a spokesperson to give binding testimony on a number of issues identified in the agenda attached and made part of the deposition notice. This case is not a rear-end collision nor a slip and fall. There are many legitimate reasons why such a deposition might extend beyond a point at which the patience of counsel for the third-party defendant might be exhausted. Moreover, the deponent selected by the third-party defendant might well be able to offer percipient testimony concerning the other claims that exist between parties other than the third-party defendant. It was inappropriate of counsel for the third-party defendant to unilaterally call a halt to the deposition and leave. It is not up to counsel for a deponent to determine relevancy nor whether the examining attorney could have been more efficient or direct in his or her examination. The request by the third-party plaintiff for costs is allowed in the amount of $500.00 in connection -with the preparation and filing of this motion, the court reporter’s attendance fee for the reconvening of the deposition and that the reconvening shall take place at the office of counsel for the third-party plaintiff, to be held within 30 days of the production of documents ordered herein, or sooner at the option of the third-party plaintiff. Costs are payable to counsel for the third-party plaintiff on or before the reconvening of the deposition.
