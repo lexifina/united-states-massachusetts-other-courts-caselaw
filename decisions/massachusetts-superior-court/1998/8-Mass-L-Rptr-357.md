@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Superior Court"
+docket: "9601283"
+decided: "1998-04-14"
+citations: ["8 Mass. L. Rptr. 357"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Mayo et al. v. Donald Beatson et al."]
+source_url: "https://static.case.law/mass-l-rptr/8/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 379892
+cites_cases: ["31 Mass.App.Ct. 348", "369 Mass. 550", "390 Mass. 419", "395 Mass. 715", "403 Mass. 50", "404 Mass. 14", "405 Mass. 207", "408 Mass. 108", "410 Mass. 706", "410 Mass. 805", "8 Mass.App.Ct. 93"]
+---
+
+# Mayo v. Beatson
+
+## Majority (Doerfer, J.)
+
+Doerfer, J.
+This matter is before the court on the plaintiffs Michael, Donna, and Brandon Mayo’s motion for partial summary judgment pursuant to Mass.R.Civ.P. 56(c) on the issue of liability. Plaintiffs filed suit against defendants Donald and Patricia Beat-son (Beatsons) seeking damages for injuries sustained by Brandon Mayo (Mayo) as a result of being bitten by the Beatsons’ dog. Plaintiffs seek partial summary judgment on the basis that the Beatsons are strictly liable under G.L.c. 140, §155 for damages caused by their dog. The Beatsons argue that Mayo negligently entered the area occupied by the dog and provoked the dog and thus cannot avail himself of the strict liability statute. For the reasons set forth below, plaintiffs’ motion for partial summary judgment is ALLOWED.
+BACKGROUND
+The facts viewed in the light most favorable to the defendant as set forth in materials submitted in connection with the summary judgment motion, including affidavits and deposition transcripts, are as follows:
+On July 5, 1993, Mayo stopped at the Beatsons’ home located at 5 Martindale Road, Randolph, Massachusetts, to visit with the two Beatson sons outside in the driveway. During this visit Mayo played basketball in the driveway using the Beatsons’ ball and hoop. At one point the basketball went over a fence into the enclosed backyard of the Beatson residence. Mayo entered the yard to retrieve the ball by opening a closed, but unlocked gate. While in the yard, a dog owned by the Beatsons approached Mayo, lunged and bit his face and lip.
+Mayo knew that the Beatsons had a dog and had interacted with the dog on at least two prior occasions. Mayo knew that the dog had been released earlier that afternoon into the yard. There is no evidence that Mayo tormented, teased or provoked the dog.
+DISCUSSION
+Summary judgment shall be granted where the record establishes that there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat'l. Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue, and that it is entitled to judgment as a matter of law. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). A party moving for summary judgment who does not bear the burden of proof at trial may demonstrate the absence of a triable issue either by submitting affirmative evidence that negates an essential element of the opponent’s case or “by demonstrating that proof of that element is unlikely to be forthcoming at trial.” Flesner v. Technical Communications Corp., 410 Mass. 805, 809 (1991); Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991). Once the moving party establishes the absence of a triable issue, the party opposing the motion must respond and allege specific facts establishing the existence of a genuine issue of material fact. Pederson, 404 Mass. at 17; Madsen v. Erwin, 395 Mass. 715, 719 (1985). The opposing party cannot rest on mere assertions of disputed facts to defeat the motion. LaLonde v. Eissner, 405 Mass. 207, 209 (1989). The judge must consider the evidence presented in the light most favorable to the nonmoving party. Parent v. Stone & Webster Eng’g Corp., 408 Mass. 108, 113 (1990); Connecticut Nat'l Bank of Hartford v. Kommit, 31 Mass.App.Ct. 348, 353 (1991).
+Statute 140, §155 holds the owner of any dog liable for personal or property damages caused by the dog unless the victim was “committing a trespass or other tort, or was teasing, tormenting or abusing” the dog. The Beatsons argue that Mayo is precluded from recovery under the statute because he committed the tort of negligence by unreasonably entering the enclosed backyard. The tort of negligence “as it is commonly understood is conduct which creates an undue risk of harm to others." W. Page Keeton, et. al. Prosser & Keeton on Torts, §65, at 453 (5th ed. 1984). This is not the case at bar. The defendant appears to be referring to a duty of reasonable care Mayo owed to himself. This duty however, is not an element of the tort of negligence but rather the substance of a contributory negligence defense. See id. (stating “[i]t is perhaps unfortunate that contributory negligence is, called negligence at all. ‘Contributory fault’ would be a more descriptive term.”). Contributory negligence defenses are barred by strict liability. See Colter v. Barber-Greene Co., 403 Mass. 50, 63 (1988); Restatement (Second) of Torts, §524. Because Mayo did not commit a tort and contributory negligence defense is barred by statute, the defendant has failed to overcome plaintiffs’ motion for summary judgment.
+ORDER
+For the foregoing reasons, it is ORDERED that plaintiffs motion for summary judgment be and hereby is ALLOWED.
+The defendant submitted a medical record with the phrase ‘provocation?’ written upon it from the emergency room where Mayo was treated. No deposition or affidavit by the author was submitted nor was any other evidence of provocation provided.
+Defendants appear also to imply a trespass took place, although they do not include this as one of their arguments. Even if this claim had been put forth it would fail because Mayo was an invitee on the properly, and there is no evidence that he did not have permission to enter the yard. To the contrary, the gate was unlocked, there was no sign forbidding entry and no instructions were given to him to stay out of the yard. See Monterosso v. Gaudette, 8 Mass.App.Ct. 93, 100 (1979) (rej ecting as a matter of law trespass claim where store Customer entered a back hallway of store typically used only by employees, but where the area was not locked or marked as private).
