@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Superior Court"
+docket: "93-2428B"
+decided: "1994-10-28"
+citations: ["3 Mass. L. Rptr. 3"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kevin R. McDonough v. Alcoholic Beverages Control Commission and others"]
+source_url: "https://static.case.law/mass-l-rptr/3/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 686926
+cites_cases: ["27 Mass.App.Ct. 470", "385 Mass. 651", "386 Mass. 414", "401 Mass. 713", "412 Mass. 416", "7 Mass.App.Ct. 333"]
+---
+
+# McDonough v. Alcoholic Beverages Control Commission
+
+## Majority (Hinkle, J.)
+
+Hinkle, J.
+Pursuant to G.L.c. 30A, §14, petitioner Kevin McDonough seeks judicial review of a decision by the Alcohol Beverages Control Commission (ABCC) affirming the Woburn License Commission’s (Commission) decision to deny his application for an all alcoholic beverage package goods store license. All appeals have been timely filed. A hearing was held before this court on September 8, 1994. Based on the administrative record, the memoranda of the parties and oral argument, I affirm the decisions to deny McDonough’s license.
+BACKGROUND
+On November 13, 1992, McDonough filed an application for a Package Goods Store Alcoholic Beverage license with the Woburn License Commission. At a public hearing before the Commission on December 17,1992, the chairman stated that the City of Woburn had previously issued seven of its eight package store licenses. The Commission received letters of support and public testimony from 13 people. John Galante provided the only public testimony in opposition to McDonough’s application, essentially asserting that the City of Woburn “had enough problems with alcoholism,” and that it was already easy to purchase beer and wine in Woburn. Therefore, Galante claimed that he did not see the need for another package store in the city. (Adm. Rec. at 24.)
+At the close of the public testimony, Commissioners Donovan and Galante both expressed similar concerns and voiced their opposition to allowing any additional locations for purchasing liquor. Specifically, Commissioner Donovan stated,
+I have talked to people of all walks of life regarding this license, a truck driver, a plumber, all kinds of people. As a matter of fact I had a call from a mother whose daughter is pregnant, unwed due to alcohol. There’s numerous cases throughout the city and all over America where this is going on . . . Well where does liquor come from, I was a kid once, we got alcohol from the package stores.
+(Adm. Rec. at 27.)
+The Commission then voted 2-1 to deny the application, reasoning “that there [are] a sufficient amount of liquor establishments in the Ciiy of Woburn at the present time.” (Adm. Rec. at 2.)
+On December 21, 1992, the plaintiff filed an appeal with the Alcoholic Beverages Control Commission. A hearing on the appeal was conducted on March 9, 1993. The agency record included the transcript of the hearing before the Commission, as well as counsel’s stipulation that on January 19, 1993, Woburn House applied for a license to serve all alcoholic beverages on premises, which was approved by the Commission on March 2, 1993. On March 22, 1993, the ABCC affirmed the Woburn License Commissioner’s denial of plaintiffs application for a package store license, finding it an appropriate exercise of the Woburn License Commission’s discretion. On March 30, 1993, the ABCC also affirmed the Commission’s approval of Woburn House’s application.
+Plaintiff sought review by this court asserting that ABCC’s decision (1) was unsupported by substantial evidence, (2) was erroneous as a matter of law, (3) denied plaintiff due process of law, and (4) was arbitrary and capricious and an abuse of discretion.
+DISCUSSION
+The party appealing an administrative decision bears the burden of demonstrating the decision’s invalidity. Merisme v. Board of Appeals on Motor Vehicle Liab, Policies & Bonds, 27 Mass.App.Ct. 470, 474 (1989). In reviewing an agency decision, the court is required to give due weight to the agency’s experience, technical competence, specialized knowledge and the discretionary authority conferred upon it by statute. Flint v. Commissioner of Public Welfare, 412 Mass. 416, 420 (1992); Seagram Distillers Co. v. Alcoholic Beverages Control Comm’n, 401 Mass. 713,721 (1988). The reviewing court may not substitute its judgment for that of the agency. Southern Worcester County Regional Vocational School District v. Labor Relations Comm’n, 386 Mass. 414, 420-21 (1982). This court should not dispute an administrative agency’s choice between two conflicting views, even though the court might have made a different choice had the matter come before it de novo. Zoning Bd. of Appeals of Wellesley v. Housing Appeals Comm’n, 385 Mass. 651, 657 (1982). Additionally, new claims may not be raised on appeal if they were not also raised at the administrative appeal. M.H. Gordon & Son, Inc. v. Alcoholic Beverages Control Comm’n, 7 Mass.App.Ct. 333, 335 (1979).
+I find that the Alcoholic Beverages Control Commission’s decision affirming the action of the Woburn License Commission in denying McDonough’s license is supported by substantial evidence and the applicable law.
+McDonough’s petition rests in part on whether there was substantial evidence to support ABCC and Woburn’s decision. “Substantial evidence” means such evidence as a reasonable mind might accept as adequate to support a conclusion. G.L.c. 30A, §1(6). The administrative record indicates that the Commission based its decision on public testimony and discussion among the Commissioners. The record included both Galante’s opinion that alcoholism was causing problems in Woburn and Commissioner Donovan’s testimony that numerous Woburn residents were opposed to more package stores in Woburn. Accordingly, I find that the Commission acted within its discretion and that there was substantial evidence supporting the Commission’s conclusion that the City of Woburn did not need another package store.
+Plaintiff also asserts that the Commission’s decision to grant Woburn House an on-premises alcoholic beverages license demonstrates that the Commission acted arbitrarily and capriciously in denying McDonough’s application. I do not agree. Two separate provisions of M.G.L.c. 138, deal with the granting of licenses for on-premises consumption (§12) and package store licenses (§15). Chapter 138, section 17 specifically deals with license quotas and provides different formulas to determine quotas for section 12 and 15 licenses. Further, these types of licenses implicate different concerns and raise different considerations regarding the distribution and sale of the alcohol. Because Woburn House applied for a §12 license and McDonough applied for a §15 license, these applications are not sufficiently similar for me to rule that the Woburn License Commission acted arbitrarily, capricious or beyond its discretion.
+ORDER
+For the foregoing reasons, it is hereby ORDERED that judgment shall enter AFFIRMING the decision of the defendants Alcoholic Beverages Control Commission and Woburn License Commission denying Kevin McDonough an all alcohol beverage package goods store license.
