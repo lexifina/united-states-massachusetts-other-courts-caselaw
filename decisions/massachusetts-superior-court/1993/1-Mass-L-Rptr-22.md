@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Superior Court"
+docket: "92-1308"
+decided: "1993-07-02"
+citations: ["1 Mass. L. Rptr. 22"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Venancio Santo Domingo v. Town of Wellesley"]
+source_url: "https://static.case.law/mass-l-rptr/1/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6098159
+cites_cases: ["15 Mass.App.Ct. 1009", "342 Mass. 460", "362 Mass. 91", "366 Mass. 659", "369 Mass. 550", "390 Mass. 419", "404 Mass. 14"]
+---
+
+# Santo Domingo v. Town of Wellesley
+
+## Majority (Connolly, J.)
+
+Connolly, J.
+On February 26, 1993, this court denied the parties’ cross-motions for summary judgment on the issue of liability. The plaintiff. Venancio Santo Domingo, and defendant, Town of Wellesley (Wellesley) have filed a joint motion for reconsideration of this court’s orders on the motions for summary judgment, asserting that there are no disputes as to the material facts on the question of whether Mr. Santo Domingo is eligible for salary continuance pursuant to G.L.c. 41, §11 IF, assuming that he is indeed disabled. For the reasons enumerated below, this court’s order on the plaintiffs motion for summary judgment is vacated and partial summary judgment shall enter in favor of the plaintiff as to the issue of liability, pursuant to Mass.R.Civ.P. 56(c).
+BACKGROUND
+On June 14, 1991, the plaintiff was employed as a firefighter by Wellesley. On that date, Mr. Santo Domingo worked on a special detail at Wellesley College. It is undisputed that this assignment was purely voluntary, and if the plaintiff had elected not to take on this assignment he would have been off duty that day.
+Prior to reporting at Wellesley College, the plaintiff went to a satellite fire station (Station One) near the college to pick up a portable radio. After finishing the Wellesley College detail at 3:00 p.m., he returned to Station One to drop off the radio and then left to go home. While en route to his home, the plaintiff was involved in an automobile accident and was allegedly injured.
+DISCUSSION
+Summary judgment shall be granted when there are no material facts in dispute and the moving party is entitled to judgment as a matter of law. Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Community Nat’l Bank v. Dawes, 369 Mass. 550, 553 (1976); Mass.R.Civ.P. 56(c). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue, and that he or she is entitled to judgment as a matter of law. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989).
+The sole issue presented in the parties’ cross-motions for summary judgment is whether the injuries allegedly suffered by the plaintiff were sustained in the performance of his duties as a firefighter, such that they are compensable pursuant to G.L.c. 41, §11 IF. It is well settled that “[a]n injury arises out of the employment if it arises out of the nature, conditions, obligations or incidents of the employment; in other words, out of the employment looked at in any of its aspects.” Wormstead v. Town Manager of Saugus, 366 Mass. 659, 664 (1975), quoting Papanastassiou’s Case, 362 Mass. 91, 93 (1972).
+In Wormstead, supra, the Supreme Judicial Court examined “several factors” that were “particularly pertinent” to the circumstances underlying that specific case involving a police officer to determine whether the injury in question was compensable pursuant to G.L.c. 41, §11 IF. The factors that the court deemed especially relevant were that “the plaintiffs injury occurred during a period (1) for which he was being paid, (2) when he was on call, and (3) while he was engaged in activities consistent with and helpful to the accomplishment of police functions.” Id. The defendant urges this court to utilize these three factors as a litmus test to assess the merit of the plaintiffs cause of action, and contends that by such a measure, Mr. Santo Domingo’s claim for compensation must fail.
+The approach urged by Wellesley was specifically rejected in Allen v. Board of Selectmen of Weymouth, 15 Mass.App.Ct. 1009 (1983). In Allen, supra, the Appeals Court considered the case of John Allen, a police officer who had been directed by his superior to testify in court on a criminal matter on his day off, and was later injured while travelling home that day. Explaining that the three factors specified in Wormstead, supra, should not be given rigid application, the Allen court reversed the trial judge’s denial of benefits under G.L.c. 41, §11 IF.
+In most respects, Allen, supra, is directly on point with the case at bar, the only material exceptions being that Mr. Allen’s service was apparently compulsory, and that Mr. Allen was reimbursed for his travel expenses. Neither distinction, however, should serve to bar Mr. Santo Domingo’s recovery. In Yates v. Salem, 342 Mass. 460 (1961), salary continuance was afforded to a policeman who was injured while performing a voluntary special detail. No weight was given to the fact that the plaintiff was not required to take on the assignment. Further, in Allen, supra, the reimbursement of the plaintiffs travel expenses was considered only for the purpose of demonstrating that the plaintiffs use of his own automobile at the time of his accident was authorized. Allen, supra at 1010. In the absence of other factors which distinguish this case from Allen, supra, I conclude that the plaintiff will be entitled to salary continuance should he prove at trial that he became disabled as a result of the June 14, 1991 accident.
+ORDER
+For the foregoing reasons it is hereby ORDERED that this court’s February 26, 1993 order on the plaintiffs motion for summary judgment is VACATED. The plaintiffs motion for summary judgment is ALLOWED as to the issue of the defendant’s liability pursuant to G.L.c. 41, §11 IF. It is further DECLARED and ADJUDGED that any disabling injuries sustained by the plaintiff on June 14, 1991 are compensable pursuant to G.L.c. 41, §11 IF.
+In pertinent part, that section provides as follows:
+Whenever a . . . fire fighter of a . . . town, ... is incapacitated for duty because of injury sustained in the performance of his duty without fault of his own, or . . . fire fighter assigned to special duty by his superior officer, whether or not he is paid for such special duty by the .. . town, is so incapacitated because of injuries so sustained, he shall be granted leave without loss of pay for the period of such incapacity ... All amounts payable under this section shall be paid at the same times and in the same manner as, and for all purposes shall be deemed to be, the regular compensation of such . . . fire fighter.
+While the materials submitted in support of the cross-motions for summary judgment are silent on this point, Attorney Robinson has asserted in his memorandum that the plaintiffs travel expenses were not reimbursed. Since I do not attach great significance to this point, I shall assume that Attorney Robinson’s assertion is true for the purposes of deciding the motions.
+Wellesley does not contend that the plaintiffs use of his automobile at the time of the accident was unauthorized.
