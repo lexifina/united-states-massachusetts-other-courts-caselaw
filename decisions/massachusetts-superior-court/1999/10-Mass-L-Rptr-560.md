@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Superior Court"
+docket: "9103678"
+decided: "1999-10-12"
+citations: ["10 Mass. L. Rptr. 560"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Town of Sutton v. Vincent Gencarelli"]
+source_url: "https://static.case.law/mass-l-rptr/10/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9480972
+---
+
+# Town of Sutton v. Gencarelli
+
+## Majority (Fecteau, J.)
+
+Fecteau, J.
+On April 15, 1997, this court, by Fremont-Smith, J., entered a final judgment which included a permanent injunction that ordered the defendant to (1) refrain from any further earth removal activities at the locus in question without first complying with the by-laws of the plaintiff, and (2) restore the locus according to a plan which he was ordered to obtain and submit to the town earth removal board. The command of the order is clear and unequivocal. The restoration plan was to have been submitted to the town earth removal board within forty-five days and the restoration work completed by five months following the order of the court. Although the defendant had filed a notice of appeal of this judgment, the appeal was dismissed for failure to comply with the appellate rules of procedure.
+On March 30, 1999, the plaintiff filed its complaint for contempt, alleging that the defendant had neither filed a plan for approval by the earth removal board to restore the locus as required by the order of the court, nor performed any work to restore the property.
+This matter first came before the court, following approval of the issuance of a summons to the defendant on the contempt, on April 15, 1999, coincidentally two years to the day the order was entered. At that time the defendant, represented by counsel, did not contest the facts as alleged but instead pleaded for time within which he either could sell the property or come into compliance with the court order. He offered no evidence that he was unable to comply with the order, although he did offer some evidence that he was receiving some form of disability income and that he did not then have sufficient liquidity to finance the work. Although the defendant was granted additional time, he was and is able to comply with the order of the court and has failed to do so. The only reason that the defendant has not commenced any efforts to come into compliance with the order of the court is that he does not like the financial choices that he is currently faced with. The case was continued, in open court and in the presence of all parties, to September 10, 1999, at 2:00 p. m.
+When the case was called at said date and time, neither the defendant nor his attorney was present. Moreover, neither the court nor counsel for the plaintiff had heard from them. The defendant was defaulted at the request of the plaintiff who stated that no remedial efforts had taken place in the meantime. The plaintiff was allowed until September 24, 1999, to evaluate the form of relief sought and permission was granted to subpoena the defendant to a penalty hearing on the contempt.
+On September 24, 1999, the defendant appeared without counsel. He reiterated his inability to sell the property. He has made no efforts to comply with the 1997 order of the court or to purge himself of his contemptuous lack of activity.
+The plaintiff submitted affidavits which estimate the costs associated with efforts necessary to bring the property into compliance with the court order. They included engineering and site work found to be necessary. Those costs total approximately $4000.00 for engineering work, and, for tree and brush removal, use of heavy equipment for three days for grading, spreading topsoil and hydro-seeding of the property, sufficient loam to add 4" of topsoil and seed, a cost of $9844.00. In addition, attorney fees for the efforts necessary to enforce the order of the court since March 1, 1999, the date the complaint for contempt was filed: $3402.20.
+The defendant, having been ordered to submit a plan for approval by the T own of Sutton Earth Removal Board for the restoration of his property and to restore it in accordance therewith, and the order being a clear and unequivocal command upon him to act in accordance therewith and, the defendant having failed to comply with this order, having the ability to comply with this order, is hereby adjudicated in civil contempt and is ordered to pay a compensatory fine to the plaintiff Town of Sutton in the amount of $15,000.00, such amount representing the reasonable and necessary costs associated with its efforts to enforce the court order and to bring the property into compliance with the applicable earth-removal by-laws of the town and with the order of the court.
+Should the defendant fail to pay said amount to the plaintiff within thirty days of the date of the entry of this decision and order, having in mind the time of year and the approach of winter, and given the amount of time necessary to design a plan and to complete the work, the plaintiff is granted leave under the provisions of Rule 70 of the Massachusetts Rules of Civil Procedure, to do the necessary work itself; leave had been granted previously for an attachment to be filed against the property in question as security for payment of the costs necessary for the work.
