@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Superior Court"
+docket: "CA 9600007E"
+decided: "1996-07-26"
+citations: ["6 Mass. L. Rptr. 20"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Diane Lynn Travis v. Leonard Morse Hospital, Warren Courville and Acromed Corp."]
+source_url: "https://static.case.law/mass-l-rptr/6/cases/0020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1194647
+---
+
+# Travis v. Leonard Morse Hospital
+
+## Majority (Bohn, J.)
+
+Bohn, J.
+This matter comes before the Court on Defendant Acromed’s Motion for a Protective Order requiring Plaintiff to participate in coordinated discovery. Plaintiff has filed an Opposition to Defendant’s Motion.
+FACTS
+On March 12, 1992, Plaintiff had a surgical screw inserted in her spine by Defendant Warren Courville. The screw that was inserted malfunctioned and Plaintiff was required to undergo additional surgery to remove the screw. The screw that was inserted in Plaintiffs spine was “manufactured and/or sold and/or distributed and/or supplied by the Defendant Acromed Corp. and Metrowest Medical Center.” (Plaintiffs Opposition to Defendant Acromed’s Motion for a Protective Order, p. 2.) Plaintiff filed her Complaint and served Interrogatories and Document Requests on all Defendants in this case.
+Defendant Acromed is currently a party in complex litigation pending in the United States District Court for the Eastern District of Pennsylvania. All cases pending in any district of the federal court have been transferred to the Eastern District of Pennsylvania for determination in one litigation. The Order of the Federal Judicial Panel on MultiDistrict Litigation (“MDL”) stated, “(T]he Panel finds that the actions in this litigation involve common questions of fact concerning the use of orthopedic bone screws, bone plates and/or spinal fixation devices for the purpose of spinal fusion and the tendency of those items to fail causing serious injury.” (Transfer Order dated August 4, 1994, p. 1.)
+Discovery is already underway in the MDL litigation in Pennsylvania. Extensive depositions have been taken and interrogatories and document requests answered.
+Based on the pleadings in this case and relevant legal principles, the Court enters the following ORDER with respect to discovery in this matter:
+1. Except as otherwise provided in this stipulation, all discovery taken in the MDL proceeding and relating to AcroMed and its products, including documents produced by parties and third parties, deposition transcripts, interrogatories, and requests for admissions, may be used in the trial of this action by the Plaintiff against AcroMed and by AcroMed against the plaintiff as if, and to the same extent that, the discovery had been taken in this case. Except as provided in the applicable rules of procedure, all proper objections are preserved other than objections based on the facts that the discovery was not taken in this case or that any party to this case was not present when the discovery was taken.
+2. Certain discovery is unique tdhe Plaintiff in this action. That discovery includes, but is not limited to, production of the medical, insurance, and employment records of the plaintiff; the depositions of the plaintiff; the depositions of any physicians who treated or examined the plaintiff; the production of documents, if any, in the possession, custody or control of AcroMed that relate specifically to the plaintiff here and to the particular surgery or surgeries involved in this case; discovery relating to expert witnesses who will be called to testify about the specific treatment or condition of the plaintiff at the trial of this action; discovery relating to expert witnesses who have not previously rendered reports or given depositions in the MDL proceeding; and, discovery relating to the damages claimed by the Plaintiff here. That discovery may proceed simultaneously with discovery in the MDL proceeding.
+3. Expert witnesses who are not offering opinions specific to the plaintiff in this case and who have provided reports and been deposed in the MDL proceeding will not be subject to additional depositions by the plaintiff or by AcroMed in this case. Such expert witnesses may be identified and may testify at the trial of this action on behalf of the plaintiff against AcroMed or on behalf of AcroMed against the plaintiff concerning opinions rendered in the reports they have provided and depositions they have given in the MDL Proceeding. If any such expert will be used at trial to offer additional opinions beyond those rendered in the reports they have provided and depositions they have given in the MDL proceeding, applicable rules concerning expert witness discovery will govern with respect to such additional opinions.
+4. No testimony of any expert witnesses identified in the MDL proceeding shall be admissible in this action unless that expert witness is identified in accordance with applicable rules and called to testify in person at the trial of this action or subjected to a videotaped deposition noticed by the proponent of the expert’s testimony.
+5. The admissibility of evidence relating to particular plaintiffs other than the plaintiff here, including but not limited to the medical records and testimony of particular plaintiffs in the MDL proceeding and their treating or examining physicians, shall be determined by the trial judge.
+6. AcroMed will not object to the Plaintiff here obtaining from plaintiffs’ counsel in the MDL proceeding any documents or other discovery made by any party or nonparty in the MDL proceeding. AcroMed will work with plaintiffs’ counsel in the MDL proceeding to develop procedures intended to facilitate access by counsel for the plaintiff here to the discovery record developed in the MDL proceeding. Any party receiving that discovery will be bound by any protective orders entered in the MDL proceeding to the fullest extent permitted by law. Counsel for the plaintiffs here will promptly provide AcroMed with a list, including title and Bates-stamp number, if available, of all discovery materials that have been received from the discovery record developed in the MDL proceeding.
+7. Any rulings affecting the discoverability of documents or information made by the court in the MDL proceeding and any agreements reached between counsel for AcroMed and counsel for plaintiffs in the MDL proceeding regarding the scope of discovery from AcroMed shall govern this action as between AcroMed and the Plaintiff. Neither AcroMed nor the Plaintiff shall seek to have a discovery ruling made in the MDL proceeding altered by the trial court in this action.
+8. Discovery in this case will proceed within the time constraints set forth by the tracking order deadlines, unless otherwise altered by this Court upon timely filing of a motion to extend.
+9. This Order shall govern for the entire period that this action is pending. This order can be altered only by court order.
+10. This order does not affect the rights or obligations of Leonard Morse Hospital and Warren Courville, the remaining defendants.
+11. AcroMed and Plaintiff will share equally the cost of discovery contemplated by this Order.
