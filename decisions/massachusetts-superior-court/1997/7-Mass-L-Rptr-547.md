@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "966997E"
+decided: "1997-08-01"
+citations: ["7 Mass. L. Rptr. 547"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas A. Arpante v. John J. Kavorkian et al."]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0547-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11787856
+cites_cases: ["370 Mass. 157", "39 Mass.App.Ct. 934", "395 Mass. 397", "407 Mass. 1006", "420 Mass. 13", "465 U.S. 1"]
+---
+
+# Arpante v. Kavorkian
+
+## Majority (Lauriat, J.)
+
+Lauriat, J.
+Plaintiff Thomas A. Arpante (“Arpante”) brought this action pursuant to G.L.c. 251, §12, seeking to vacate an arbitral award (“the Award") issued by an arbitral panel (“the panel”) of the National Association of Securities Dealers (“NASD”) in November 1996.
+This dispute arose from Arpante’s role as a financial advisor for the defendants, John J. Kavorkian and Theresa I. Kavorkian (collectively, “the Kavorkians”), who have in turn moved to confirm the arbitral award pursuant to G.L.c. 251, §11. In September 1995, the Kavorkians filed a claim with NASD charging Arpante and three brokerage firms-with mishandling their investments in annuities. Arpante had previously agreed to submit to NASD arbitration and to abide by any award. After the hearing, the panel rendered an award in favor of the Kavorkians and against Arpante in the amount of $25,000, plus interest and hearing fees.
+A matter submitted to arbitration is subject to limited judicial review. G.L.c. 251, §12; Plymouth-Carver Regional School District v. J. Farmer Co., 407 Mass. 1006, 1007 (1990). The policy of limited review reflects the strong public policy favoring arbitration. Plymouth-Carver, 407 Mass. at 1007; see also Southland Corp. v. Keating, 465 U.S. 1, 10 (1984) (acknowledging strong federal policy favoring arbitration). In accordance with these policies, an arbitrator’s decision is binding unless the arbitrator exceeded the scope of his authority, or decided the matter based on fraud, arbitrary conduct, or procedural irregularity in the hearing. Plymouth-Carver, 407 Mass. at 1007; Marino v. Tagaris, 395 Mass. 397, 400 (1985).
+In this case, Arpante contends that the court should vacate the NASD arbitration award on the grounds that the panel exceeded its power in asserting jurisdiction over the action. G.L.c. 251, §12(a)(3). Specifically, Arparte argues that the annuities in which the Kavorkians invested were insurance products, and that the panel lacked the authority to hear a dispute solely involving insurance.
+The NASD’s Code of Arbitration Procedure defines the controversies eligible for submission to an NASD arbitrator and gives the NASD jurisdiction over disputes “between or among [NASD] members or associated persons and public customers.” NASD Code, Part I, Section I(3). Jurisdiction is proper over disputes which “aris[e] out of or in connection with the business of any member of the Association, or aris[e] out of the employment or termination of employment of associated person(s) with any member, with the exception of disputes involving the insurance business of any member which is also an insurance company.” NASD Code, Part I, Section I (emphasis added).
+The panel in the present case concluded that it had jurisdiction “because in essence the transactions in question are not only insurance transactions which involve the brokerage accounts of Claimants with NASD members and the actions of an ‘associated person’ . . . [T]he transactions involved NASD members and an associated person, but not just the insurance of any such member.” Award, page 4.
+The panel’s conclusions were not erroneous. Its determination that the transactions at issue were not merely insurance transactions was warranted by the facts. A review of the record indicates this determination was more of the fact than of law, giving the court even less reason to disturb the board’s findings.
+Pivotal to Arpante’s argument is the contention that two of the firms with which Arpante was associated were not NASD members. Memorandum in Support of Motion to Vacate Arbitral Award [“Memorandum!'), page 7. However, the arbitrators expressly found that at least one of the firms with which Arpante was associated, Nathan & Lewis Securities, Inc., was in fact a NASD member. Award, page 4. The panel made this determination in its fact-finding capacity. Arpante has not shown, or even suggested that this finding was the result of “corruption, fraud or other undue means." G.L.c. 251, §12(a)(1). Thus, there is no basis for vacating the award under the statute. See Barnstead v. Ridder, 39 Mass.App.Ct. 934 (1996).
+Arpante has also appeared to abandon his argument, asserted before the panel, that the so-called “insurance exception” of the NASD code applies to this case. Memorandum, page 7. However, to the extent Arpante still relies on this argument, his reliance is misplaced. The panel found that Arpante failed to show that the three requirements for invoking the exception were met, and Arpante has not made a substantial argument that this conclusion was erroneous or caused by fraud. See Barnstead, 39 Mass.App.Ct. at 936-37.
+Arpante also challenges the amount of the award issued to the Kavorkians. However, aside from a con-elusory allegation that the panel acted arbitrarily, and an oblique assertion that the panel surreptitiously awarded the Kavorkians attorneys fees, Arpante makes no serious argument that the award was in error. The court finds that the amount of the award falls under the general rule of narrow review of arbitration awards. See, e.g., Massachusetts Highway Dept. v. American Fed’n of State, County & Mun. Employees, 420 Mass. 13, 15 (1995). It is also clear from the record that the panel carefully considered the amount of the award, and indeed could have awarded more if it so desired. Award, page 6. Further, the arbitrators considered and unanimously denied Arpante’s Motion to Modify the Award. John J. Kavorkian’s and Theresa I. Kavorkian’s Appendix of Selected Arbitration Filings, Tab 9. No showing has been made that these decisions were the result of “corruption, fraud or other undue means.” G.L.c. 251, §12(a)(1).
+ORDER
+For the foregoing reasons, John J. Kavorkian and Theresa I. Kavorkian’s Motion to Confirm Arbitral Award is ALLOWED; the Motion to Vacate Arbitral is DENIED; and the Motion to Submit Matter to Arbitrators is DENIED as moot.
+The three brokerage firms were originally named as respondents to the Kavorkians’ claims, but were dismissed after they each settled with the Kavorkians.
+For example, an arbitrator may exceed his authority by awarding relief prohibited by law. Marlborough v. Cybulski Ohnemus & Associates, 370 Mass. 157, 161 (1976).
