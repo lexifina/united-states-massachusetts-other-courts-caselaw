@@ -1,0 +1,32 @@
+---
+court: "Massachusetts Superior Court"
+docket: "000962BLS"
+decided: "2002-10-21"
+citations: ["15 Mass. L. Rptr. 385"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Shawmut-Canton, LLC v. Great Spring Waters of America et al."]
+source_url: "https://static.case.law/mass-l-rptr/15/cases/0385-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3620860
+cites_cases: ["14 Mass. L. Rptr. 240", "175 Mass. 595", "428 Mass. 877"]
+---
+
+# Shawmut-Canton, LLC v. Great Spring Waters of America
+
+## Majority (van Gestel, J.)
+
+van Gestel, J.
+This matter is before the Court on a motion for summary judgment on damages by the plaintiff, Shawmut-Canton, LLC (“Shawmut”). Summary judgment in favor of Shawmut on liability was granted on December 26,2001. See Memorandum and Order on Motions for Summary Judgment [14 Mass. L. Rptr. 240).
+BACKGROUND
+Section 13.1(c) of the Lease between Shawmut and Great Spring Waters of America, Inc. (“Great Spring Waters”) is a liquidated damages clause that Shawmut now seeks to apply, this Court having determined that Great Spring Waters, as tenant, is in default. Section 13.1(c) provides as follows:
+(c) If this Lease shall be terminated as provided in this article, Tenant shall pay the Basic Rent and other sums payable hereunder up to the time of such termination, and thereafter Tenant, until the end of what would have been the Term of this Lease in the absence of such termination, and whether or not the Premises shall have been relet, shall be liable to Landlord for, and shall pay to Landlord, as liquidated current damages, the Basic Rent and other sums which would be payable hereunder if such termination had not occurred, less the net proceeds, if any, of any reletting of the Premises, after deducting all expenses in connection with such reletting, including, without limitation, all repossession costs, brokerage commissions, legal expenses, attorneys fees, advertising costs, expenses of employees, alteration costs and expenses or preparation for such reletting. Tenant shall pay such current damages to Landlord monthly on the days which Basic Rent would have been payable hereunder if this Lease had not been terminated.
+Essentially, what Section 13.1(c) calls for by way of liquidated damages is the payment of the rent that would be due under the Lease, at the times then due, for the length of the Lease, less net amounts received by the Landlord on reletting the property. Implicit in this section is an obligation on the part of the Landlord to fairly exercise reasonable efforts to keep the property leased at reasonable rents given the then current market.
+Great Spring Waters objects, arguing that the payments called for do not take into consideration costs saved by Shawmut in not completing certain improvements agreed to — estimated at between $450,000 and $750,000 — and the fact that the Lease had an early termination clause that would cut three years off of the Lease term if exercised by the tenant on a payment of $355,000.
+The resolution of the effect and reach of the liquidated damages clause is governed by the case of Kelly v. Marx, 428 Mass. 877 (1999). There, the Supreme Judicial Court “reject[ed a] ‘second look’ approach, and conelude[d] that a liquidated damages clause in a purchase and sale agreement will be enforced where, at the time the agreement was made, potential damages were difficult to determine and the clause was a reasonable forecast of damages expected to occur in the event of a breach.” Id. at 878. Clearly, the law of the Kelly case applies equally to a liquidated damages clause in a long-term lease of commercial real estate.
+In Kelly the SJC stated that “in determining the enforceability of a liquidated damages clause, [a judge] should examine only the circumstances at contract formation.” Id. at 880. “Liquidated damages will not be enforced if the sum is ‘grossly disproportionate to a reasonable estimate of actual damages’ made at the time of contract formation.” Id. at 880.
+Here, standing at the vista of execution of the Lease and looking forward over its ten-year life, actual damages would have been difficult, if not impossible, to ascertain. Consequently, the formula in Section 13.1(c) appears to closely approximate the actual damages that would occur at any of those many indefinite times at which a default might occur.
+To look at what occurred, or might have occurred, after the Lease was executed is effectively taking the second look that the SJC so clearly rejected. As in Kelly at 881, this Court quotes Chief Justice Holmes. “(T]he proper course is to enforce contracts according to their plain meaning and not to undertake to be wiser than the parties, and therefore that in general when parties say that a sum is payable as liquidated damages they will be taken to mean what they say and will be held to their word.” Guerin v. Stacy, 175 Mass. 595, 597 (1900). This is particularly appropriate here with parties of the sophistication of Shawmut and Great Spring Waters.
+With one exception, the Court will accept the calculations appearing in Shawmut’s supplemental memorandum served on July 19, 2002, recognizing that the numbers in that memorandum have a July 31, 2002 cut-off date. The Court, therefore, does request Shawmut to update its numbers assuming an October 31, 2002 cut off date. Upon receipt of those new numbers the Court will prepare a final judgment similar to that proposed by Shawmut.
+The one item excepted from the previous paragraph relates to attorneys fees. Section 13.1(h) of the Lease speaks of “reasonable costs and expenses incurred by and on behalf of Landlord (including... attorneys fees and expenses) ...” While the amount actually incurred by Shawmut is some guide as to such fees, this Court feels that Great Spring Waters did not sign on for what was incurred; rather, they agreed only to pay what was reasonable. Thus, this Court has examined the fees, taking into account all of the usual tests, including its own relatively recent experience as a practicing attorney in Boston. It, therefore, rules that attorneys fees in the amount of $323,690.50 fall within an acceptable view of reasonable under all of the circumstances. The costs of $12,261.32 remain unchanged. Consequently, the attorneys fees and expenses portion of the final judgment should use the aggregate number of $335,951.82.
