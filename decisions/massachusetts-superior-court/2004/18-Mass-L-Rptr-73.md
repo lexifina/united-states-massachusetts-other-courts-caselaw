@@ -1,0 +1,26 @@
+---
+court: "Massachusetts Superior Court"
+docket: "040368A"
+decided: "2004-07-15"
+citations: ["18 Mass. L. Rptr. 73"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas W. Heintz et al. v. Edward Amaral, M.D. et al."]
+source_url: "https://static.case.law/mass-l-rptr/18/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5670704
+cites_cases: ["1994 WL 878922", "27 Mass.App.Ct. 729", "3 Mass. L. Rptr. 91", "33 Mass.App.Ct. 328", "380 Mass. 464", "9 Mass.App.Ct. 639"]
+---
+
+# Heintz v. Amaral
+
+## Majority (Agnes, A.J.)
+
+Agnes, A.J.
+1. Introduction. This is a medical malpractice action in which the defendant has filed a motion for a protective order from the taking of her oral deposition testimony prior to a medical malpractice tribunal finding sufficient evidence to warrant judicial inquiry pursuant to G.L.c. 231, §60B. Defendant Dilley timely served and filed an Answer to the Complaint on March 30, 2004 and subsequently requested the convening of a medical malpractice tribunal on April 15, 2004. After the plaintiff noticed defendant Dilley’s deposition for June 2, 2004, Dilley filed this motion for a protective order.
+2.Purpose of medical malpractice tribunal. The legislature has provided that “(e]ach such action for malpractice shall be heard by said tribunal within fifteen days after the defendant’s answer has been filed.” G.L.c. 231, §60B. The statute is designed “to discourage frivolous claims whose defense would tend to increase premium charges for medical malpractice insurance.” Brodie v. Gardner Pierce Nursing and Rest Home, Inc., 9 Mass.App.Ct. 639, 641 (1980). A prompt tribunal hearing also serves to relieve the defendant in such cases of the costs and burdens associated with most discovery because “the hearing before the tribunal ordinarily precedes discovery." Gugino v. Harvard Cmty. Health Plan, 380 Mass. 464, 468 (1980). In practice, however, this intended benefit may not occur because tribunal hearings rarefy take place in less than several months after filing of the answer.
+3. Pre-tribunal discovery. Courts have responded to objections to pre-tribunal discovery in several ways. In some cases, trial judges routinely deny requests for a stay of discovery. See Albury v. Glidden, Suffolk Superior Court, Civil Action 44242 (December 15, 1990) (Young, J.), quoted in Schell v. Birnbaum, 3 Mass. L. Rptr. 91, 1994 WL 878922 (Mass.Super. 1994) (Doerfer, J.). In some of these cases, however, an order is made that no discovery received prior to the tribunal hearing will be available for use at the tribunal hearing. See also Rogers v. City of Boston, 33 Mass.App.Ct. 328, 331 (1992). In other cases, all discovery is stayed until a tribunal hearing is held and a decision rendered. E.g., Atbano v. Lareau, M.D., Middlesex Superior Court No. 2001-02149 (September 25, 2001) (Giles, J.). See also Tesorero v. Rau, Norfolk Superior Court No. 98-0984 (November 11, 1998) (Doerfer, J.) (court orders a tribunal hearing convened and stays discovery pending the hearing). See generally Lauriat, McChesney, Gordon & Rainer, DISCOVERY §1.33 (49 Mass. Prac. Series 2002 and Supp. 2003) (“Stays of discovery are often issued in medical malpractice cases pending a hearing and determination by the medical malpractice tribunal”). However, there is nothing contained in the tribunal statute that relieves the defendant from the obligation to provide discovery prior to a tribunal hearing. See Tibbets v. Wisniewski, 27 Mass.App.Ct. 729, 730 (1989) (“Under the mistaken impression that no response to discovery was required until a medical malpractice tribunal had ruled, plaintiffs counsel did not dignify the defendant’s requests for discovery with a reply”). Yet, the unmistakable intent of the legislature as expressed in G.L.c. 231, §60B, is that tribunal hearings occur at the very outset, if not prior to, the commencement of the discovery process. While there are many reasons why a tribunal hearing is not scheduled within fifteen days of the filing of an answer as required by G.L.c. 231, §60B, lengthy delays undermine the purpose of the tribunal statute. A stay of discovery may work an injustice to the plaintiff even as it fails to accomplish the purpose of the tribunal statute.
+ORDER
+4. Accordingly, pursuant to the court’s authority to regulate the terms of discovery in civil cases, see Mass.R.Civ.P. 26(a), (b) and (c) and 81(e), the defendant’s motion for a protective order is DENIED SUBJECT TO CONDITIONS AND WITHOUT PREJUDICE. Discovery may proceed only on the condition that plaintiff first files a written Offer of Proof with the Clerk that satisfies the requirements of G.L.c. 231, §60B. Following the filing of the Offer of Proof, the defendant may renew the request for a protective order or take any other appropriate action.
+Of course, it must be acknowledged that even if the plaintiffs offer of proof is not sufficient to raise a legitimate question of liability sufficient for judicial inquiry, see G.L.c. 321, §60B, the plaintiff may post a bond and proceed with the case, including full discovery.
