@@ -1,7 +1,8 @@
 ---
 court: "Massachusetts House of Representatives"
 decided: "1812"
-citations: ["1 Rep. Cont. El. 135", "1 Rep. Cont. El. 134"]
+decided_precision: "year"
+citations: ["1 Rep. Cont. El. 135"]
 reporter: "rep-cont-el"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
