@@ -1,0 +1,47 @@
+---
+court: "Massachusetts Superior Court"
+docket: "02195"
+decided: "2003-06-09"
+citations: ["16 Mass. L. Rptr. 335"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jack-O-Lantern Spectacular, Inc. v. Stanley Usovicz, Mayor of the City of Salem et al."]
+source_url: "https://static.case.law/mass-l-rptr/16/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3622111
+cites_cases: ["278 Ill.App.3d 1108", "315 U.S. 343", "434 Mass. 272", "663 N.E.2d 1139", "675 So.2d 356", "679 So.2d 1250", "812 F.2d 713", "839 S.W.2d 250"]
+---
+
+# Jack-O-Lantern Spectacular, Inc. v. Usovicz
+
+## Majority (Billings, A.J.)
+
+Billings, A.J.
+The defendants, insured under a liability policy issued by Legion Insurance Company, move for a further stay of this action to accommodate Legion’s rehabilitation proceedings in its home state of Pennsylvania. For the reasons that follow, the motion for stay is DENIED.
+Background
+On March 28, 2002 the Commonwealth Court of Pennsylvania, at the request of that state’s Insurance Commissioner, granted the Commissioner’s petition to place Legion in rehabilitation, and appointed her as Rehabilitator. The order further states:
+24.b. All court actions, arbitrations and mediations currently or hereafter pending against an insured of Legion in the Commonwealth of Pennsylvania or elsewhere are stayed for ninety (90) days from the effective date of this Order or such additional time as the Rehabilitator may request.
+25. No judgment, order or arbitration award against Legion or an insured of Legion entered after the date of filing of the Petition for Rehabilitation and no judgment, order or arbitration award against Legion or an insured of Legion entered at any time by default or collusion need be considered as evidence of liability or quantum of damages by the Rehabil-itator.
+The general 90-day stay has been extended, at the Commissioner/Rehabilitator’s request:
+On June 28, 2002, for an additional 90 days;
+On September 25, 2002, for an additional 64 days;
+On November 22, 2002, for an additional 31 days
+On December 27, 2002, for an additional 31 days;
+On January 29, 2003, for an additional 28 days;
+On February 28, 2003, for an additional 31 days;
+On March 26, 2003, for an additional 31 days; and
+On April 29, 2003, ending on May 31, 2003.
+The present motion is the latest in a series of requests to stay this case, for periods corresponding to the Pennsylvania court’s periodic extensions of the general stay. Thus far, each such request has been granted. As a result, this litigation has been on hold for over fourteen months — nearly the entire time it has been pending. The plaintiff opposes any further stay of these proceedings.
+Discussion
+The Commonwealth Court of Pennsylvania, while it undoubtedly has jurisdiction to order and administer insolvency or rehabilitation proceedings involving Pennsylvania insurers, does not have jurisdiction to enjoin the proceedings of a court of a different state. The parties before this Court are citizens of Massachusetts. The acts complained of took place in Massachusetts. The only connection with Pennsylvania appearing in the record is the fact that the defendant City and its officials are insureds of Legion, a citizen of Pennsylvania. Legion, however, is not a party to this case. The Pennsylvania courts thus have no jurisdiction over the parties, the dispute, or this Court, which therefore is not obliged to give full faith and credit to the order of stay. Riley v. New York Trust Co., 315 U.S. 343, 352 (1942); Mahan v. Gunther, 278 Ill.App.3d 1108, 1111-13 (5th Dist. 1996) (declining to enforce foreign court’s order of stay of litigation involving insolvent insurer); Wright v. Sullivan Payne Co., 839 S.W.2d 250, 255 (Ky. 1992) (Kentucky courts did not, by virtue of liquidation proceedings involving Kentucky reinsurance company, have in personam jurisdiction over Iowa corporation holding funds due reinsurer under reinsurance treaty); Restatement (Second) of Conflict of Laws §104.
+Although the courts of Massachusetts are not required to give full faith and credit to the Pennsylvania stay, we could do so as a matter of comity. In limited circumstances, the Legislature has directed that we abstain in favor of foreign insurance insolvency proceedings. G.L.c. 175, §§180F, part of the Massachusetts version of the Uniform Insurers Liquidation Act, for example, would prohibit the Court from entertaining a proceeding to attach or garnish the assets of a foreign insurer then in delinquency (liquidation, rehabilitation, reorganization or conservancy, see §180A) proceedings in another state, whether or not that state has adopted the UILA or its equivalent. This prevents some creditors of the insolvent insurer from obtaining a preference at the expense of others. See Twin City Bank v. Mutual Fire, Marine & Inland Ins. Co., 646 F.Sup. 1139, 1141-42 (S.D.N.Y. 1986), aff'd., 812 F.2d 713 (2d Cir. 1987) (applying New York’s version of UILA). At least one court has taken the spirit of the UILA a step further, and has enforced a stay entered in a foreign rehabilitation proceeding to bar a direct action against the foreign insurer, even though no attachment or garnishment was sought. American Bonding Co. v. Coastal Metal Sales, 679 So.2d 1250, 1252-53 (Fla.Dist.Ct.App. 1996).
+Here, however, the action is not directly against the troubled insurer, but against its insured under a liability policy. The insurer’s assets are not directly at risk; preferences are not an issue; and the case for enforcing a Pennsylvania court’s stay of Massachusetts litigation is a good deal less compelling than it might be in a direct action against the insurer. See, e.g., Mahan v. Gunther, 278 Ill.App.3d 1108, 663 N.E.2d 1139 (1996) (declining to recognize foreign stay of actions against insureds of insurer in rehabilitation proceeding); Ex Parte Noble Trucking Co., 675 So.2d 356 (Ala. 1996) (same).
+The case for deferring to the Pennsylvania stay becomes progressively weaker with each passing month. Even assuming the worst case — if Legion were utterly insolvent and unable to pay claims at all — the action against its policyholder would still, at some point, proceed; the insured’s selection of a financially unsound insurer is not a defense to its tort liability. Fourteen months would seem a reasonable period of time for the Rehabilitator to inform herself concerning the claim, the identity of defense counsel, and the status of the case, and to make an informed decision how to proceed. It is more than twice the time, in fact, that c. 175D, §15 provides for the Massachusetts Insurers Insolvency Fund to prepare itself for the defense of a claim brought directly against a insolvent insurer. (See footnote 3.)
+I recognize that under the terms of paragraph 25 of the Pennsylvania rehabilitation order, a judgment in this case may not bind the Rehabilitator to pay a claim. Denial of the defendant’s motion to extend the stay thus may impair the defendant/insured’s contractual right to indemnity (and perhaps to defense costs), and could, depending on the defendant’s own financial soundness, impair the plaintiffs ability to collect any judgment it succeeds in obtaining against it. Based on the limited factual record before me, however, it appears that the interests of the parties before the Court, and of the system of justice, in “secur(ing) the just, speedy, and inexpensive determination of every action,” Mass.R.Civ.P. 1, now outweigh any justification for continuing the stay further. The defendant’s Motion to Extend Stay of Proceedings is therefore DENIED.
+The parties are encouraged to agree on a new Tracking Order, with dates adjusted to reflect the hiatus during the period the case was stayed, and to submit the same with a joint motion.
+The Massachusetts version of the UILA “contains numerous variations, omissions and additional matter” as compared to the official text of the uniform act. In re Liquidation of American Mutual Liability Ins. Co., 434 Mass. 272, 289 n.18 (citation omitted).
+This appears to be one of the “variations" mentioned in the preceding footnote: the UILA’s official text limits this provision to delinquency proceedings in the forum or a reciprocal state (that is, a state which has adopted the UILA or a similar insurance insolvency scheme). See the Twin City Bank case cited in the text for a discussion of Pennsylvania as a “reciprocal” state.
+In addition to G.L.c. 175, §§180F, two other statutes are worth noting as indicative of Massachusetts policy on this issue:
+G.L.c. 175, §180G sets out a proof of claim procedure for claimants against insurers in liquidation — not rehabilitation — proceedings, and provides that judgments taken against the insured after liquidation order will not be considered in liquidation proceedings as evidence of liability or amount of damages. The statute does not, however, stay actions against policyholders of the insolvent insurer.
+G.L.c. 175D, §15 imposes an automatic stay for six months, which may be extended by court order, of “(a]ll proceedings in which the insolvent insurer is a party in any court in this commonwealth ... to permit proper defense of the [Massachusetts Insurers Insolvency] Fund of all pending causes of action.” This statute, too, stops short of imposing a stay of actions against insureds.
