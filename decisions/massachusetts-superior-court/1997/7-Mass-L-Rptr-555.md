@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Superior Court"
+docket: "880207"
+decided: "1997-11-07"
+citations: ["7 Mass. L. Rptr. 555"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth v. A 1985 Corvette"]
+source_url: "https://static.case.law/mass-l-rptr/7/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11788489
+cites_cases: ["421 Mass. 1"]
+---
+
+# Commonwealth v. A 1985 Corvette
+
+## Majority (Toomey, J.)
+
+Toomey, J.
+SUBSIDIARY FINDINGS OF FACT
+Based upon the credible evidence, testimonial and documentary, adduced at the hearing upon this Petition, I find that:
+1. On September 30, 1987, Faith Wisniewski (“Faith”) purchased the defendant motor vehicle (the “Corvette”) from Robert Warren. The purchase price, which was delivered in cash, was $12,000.00 paid in two installments. The source of the cash was Florence Wisniewski, Faith’s mother, who contributed $8,000.00 (part of the proceeds from the sale of her home in Florida), Joseph Wisniewski, Faith’s father, who contributed $3,000.00 and Faith, who contributed $1,000.00. Faith’s mother and father provided their contributions as a graduation present for Faith who was approaching the completion of her studies at UMASS, Dartmouth.
+2. Present at the sale was Louis Oliviera (“Louis”) who was, and is, Faith’s boyfriend. Louis monitored the proceedings to insure that the Corvette was in working order and that good title accompanied the vehicle. Louis later provided Faith with $1,000.00 in order to pay the usual expenses (tax, insurance, registration) necessary to put the vehicle on the road.
+3. On October 2, 1987, the Corvette was registered to Faith Wisniewski at her “mail address” of 45 Pine Street, Westport, Massachusetts. That address was the residence of Louis, but Faith planned to move in with him in the near future when she relocated from her 68 Cumming Lane, Westport, lodgings. Because of Louis’ arrest, described infra, Faith never did move into 45 Pine Street.
+4. On December 24, 1987, a Massachusetts certificate of title to the Corvette was issued in the name of Faith Wisniewski.
+5. Faith drove the Corvette regularly and, on occasion, left the vehicle at 45 Pine Street when she visited with Louis. Some of her visits were overnight. She had three sets of keys for the Corvette — the first, she kept on her person, the second, she left with her parents and the third remained at 45 Pine Street.
+6. During October 1987, the Massachusetts State Police conducted surveillance of 45 Pine Street having received reports of drug dealing and gunshots on the premises. The police developed information that Louis was distributing cocaine from the house and obtained a search warrant for the residence. On October 30, 1987, the warrant was executed and a quantity of cocaine was seized. Additionally, the police answered the ringing telephone six times and heard callers offer to purchase cocaine from “Jeff’ or “Louie.” The police heard drug-oriented conversations on an answering machine tape and found documents probative of the controlled substance enterprise apparently flourishing at 45 Pine Street.
+7. As the officers continued their service of the warrant at 45 Pine Street, the Corvette drove by. During the earlier surveillance, the officers had noted the presence of the Corvette parked outside 45 Pine Street for two to three days, but had not observed anyone operating the vehicle.
+8. The officers halted the Corvette and arrested its operator, Jeffrey W. Bettencourt (“Jeff'), and a passenger. A search of Jeffs person produced Vs gram of cocaine and a rolled up dollar bill. A search of the passenger also resulted in the discovery of a controlled substance. All of the items seized from Jeff and the passenger were consistent with personal use by the possessors. In the Corvette was found, under the driver’s seat, a number of empty bags of a sort customarily used to package controlled substances although no such substances were detected within the bags. Additionally, sheets of “post-it note” paper were located under the driver’s seat and inscribed thereon were numbers; similar notes were found on Louis’ person in the house at 45 Pine Street. The numbers were roughly consistent with the substances found in the house, but did not necessarily evidence drug transactions. The inscriptions could also have reflected gambling debts or loans. Louis and Jeff were arrested and charged with a number of controlled substance law violations. The Corvette was confiscated by the authorities.
+9. Faith had not authorized Jeff to operate her Corvette nor did she even know that he drove it. She was unaware of Louis’ involvement in the distribution of controlled substances and was ignorant that the Corvette was employed in such an enterprise by anyone. Faith thought that Louis supported himself as a commercial fisherman and as an automobile mechanic; she did not know him to have large amounts of cash. She learned of the October 30 events at 45 Pine Street and of the confiscation of the Corvette when she returned from her Washington seminar.
+ULTIMATE FINDINGS OF FACT
+1. The Corvette was the property solely of Faith Wisniewski; Louis Olivieri had no interest — legal, equitable, constructive or otherwise — in the Corvette.
+2. The Corvette was employed, from time to time, by Louis Olivieri and Jeffrey Bettencourt in connection with their involvement with violations of controlled substance laws.
+3. Faith Wisniewski neither knew nor should have known, under the circumstances, of the unlawful use that Louis Olivieri and Jeffrey Bettencourt, from time to time, made of her Corvette.
+DISCUSSION
+Upon the Commonwealth falls the initial burden of proving “the existence of probable cause to institute the [forfeiture] action.’’ G.L.c. 94C, §47(d). Where, as at bar, the Commonwealth has borne that burden, the obligation shifts to one opposing forfeiture to demonstrate that he or she is protected by one of the “exceptions,” the existence of which will defeat forfeiture. Id. The statute provides that, “[no] conveyance . . . shall be subject to forfeiture unless the owner thereof knew or should have known that such conveyance... was used in and for the business of unlawfully . . . distributing controlled substances.” G.L.c. 94C, §47(c)(3). In sum, the statutory scheme requires, first, that the Commonwealth, establish probable cause that the conveyance was employed in controlled substance law violations and, second, that the owner establish his or her actual and constructive ignorance of that employment. Commonwealth v. Fourteen Thousand Two Hundred Dollars, 421 Mass. 1, 7-9 (1995). At bar, both burdens were, in turn, satisfactorily borne and, therefore, the owner will prevail.
+By reason of the evidence developed during the investigative phase of the police operation in connection with the 45 Pine Street enterprise, the evidence collected pursuant to the search warrant, the evidence obtained from the Corvette and its passengers and Louis’ guilty pleas to the indictments, the Commonwealth carried its burden of proving that there was probable cause to believe a nexus existed between the Corvette and controlled substance offenses. The burden thus legitimately passed to Faith to establish her entitlement to the Corvette. Id. She did so by persuading this Court that she was, in fact and in law, the owner of the Corvette and that she “[neither] knew nor should have known [that the Corvette] . . . was used in and for the business of unlawfully . . . distributing controlled substances.” G.L.c. 94C, §47(c)(3).
+CONCLUSION
+Faith is the legitimate owner of the Corvette, was ignorant of its unlawful employment, and is entitled to recover possession of the vehicle. The Commonwealth’s petition for forfeiture is DENIED and judgment shall ENTER in favor of the interested party, Faith Wisniewski.
+Faith was in Washington, DC, for a seminar at the time of the search and for a few days before the search. She had left the vehicle at 45 Pine Street while she was out of town.
+On October 25, 1991, Louis offered pleas of guilty to Bristol County Indictments numbered 21344 (trafficking, cocaine, 28 grams or more), 21345 (conspiracy) and 24801 (distribution, heroin), the latter of which involved an incident other than that at bar. Louis was sentenced to a State Prison term of 5 years to 5 years and a day.
