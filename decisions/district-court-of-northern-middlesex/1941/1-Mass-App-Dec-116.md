@@ -1,0 +1,41 @@
+---
+court: "District Court of Northern Middlesex"
+docket: "2962, 2963"
+decided: "1941-08-05"
+citations: ["1 Mass. App. Dec. 116"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNA COMSTOCK WESLEY COMSTOCK v. EDMOND ST. JOHN"]
+source_url: "https://static.case.law/mass-app-dec/1/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4032672
+cites_cases: ["230 Mass. 392", "241 Mass. 546", "260 Mass. 206", "270 Mass. 432", "272 Mass. 264", "278 Mass. 427", "279 Mass. 408", "281 Mass. 369", "287 Mass. 229", "287 Mass. 65", "304 Mass. 392"]
+---
+
+# Una Comstock Wesley Comstock v. St. John
+
+## Majority (SULLIVAN, J.)
+
+SULLIVAN, J.
+(Jones, P. J. & Wilson, J.)—Consolidated report comprising two actions of tort; one by an operator of an automobile, the other by the owner, both based on the negligence of the defendant.
+The trial judge made the following finding of facts.
+“The plaintiff, Una Comstock, was operating an automobile owned by her husband, Wesley Comstock, on the Ayer-Fitchburg road known as Route 2 on June 18, 1940; that she was proceeding along this highway at a moderate rate of speed headed in the general direction of Fitchburg; that she was on her way to a garage known as Joe's Garage; that as she approached said garage she looked to her rear and also to the front of her car, and seeing no automobile approaching in either direction, she slowed down, shifted gears, and turned to her left across the road toward Joe’s Garage, and while so proceeding was struck by an. automobile owned and operated by the defendant who was coming from the direction of Fitchburg, headed in the general direction of Ayer. I find upon the evidence that the plaintiff was in the exercise of due care. Upon all the evidence I find that the defendant was negligent.’’
+There was a finding for each plaintiff.
+The issue raised is the denial of certain of defendants requests. The contentions advanced by the defendant may be grouped as follows:
+1. Was there any error in the denial of the several rulings?
+2. Was there any violations of Rule 27 of the District Court Rules, as amended, because of a failure to find facts?
+In considering the rulings requested and their denial, it is apparent that the case must be dealt with on the basis of the facts specifically found by the trial judge. Where an issue of the sufficiency of the evidence to warrant facts is not raised at the trial by a request for ruling, no issue of the sufficiency of the evidence to warrant the findings can be raised on appeal. Carney v. Cold Spring Brewing Co., 304 Mass. 392 at 396.
+The proper method of attacking the sufficiency of the evidence -to warrant a finding is demonstrated by the defendant's request 1A, and 2 in No. 5316 and 1 in No. 5317. These requests raise perfectly the issues of the existence of evidence sufficient to warrant a finding of the negligence of the defendant. It is to be noted that no such request raises the issue of the sufficiency of the evidence to warrant a finding of the due care of the plaintiff.
+In the matter of the three requests just mentioned, dealing with the sufficiency of the evidence on the question of the negligence of the defendant, the Court had before it testimony that there was a hard macadam surface with a white line in the middle of the road; that the weather was fair; that the defendant testified that he was travelling at about forty-five miles an hour and saw the plaintiff when she was two hundred feet away and “kept on going”; that he told one witness that he did not see the plaintiff’s car until the moment of the accident, and another witness that he did see it and tried to avoid the accident by turning to the right; that he was going at a moderate speed at the time of the impact. There was also evidence that before the plaintiff started to make the left turn across the road she came to a “practical” stop and changed gears; that she looked ahead and did not see the defendant’s car although she had a view ahead of about three hundred feet when she started the left turn.
+On this evidence the judge could have found warrantably that the defendant came upon the plaintiff in the process of making a left turn which she had begun before he saw her; that either he failed to slow down to allow her to complete it, or he did not see her at all although she was in the process of turning as he approached her.
+We are of the opinion that there was evidence warranting a finding of negligence on the part of the defendant and that requests 1A and 2, in No. 5316, and 1 in No. 5317; were properly denied.
+As has been pointed out, nó request raises the issue of the sufficiency of the veidence to warrant a finding of the; plaintiff’s due care. The trial judge specifically found “that "the plaintiff was in the exercise of due care.” That finding was not made as matter of law 'but as matter of fact upon the evidence, and is now beyond attack. The burden of proving lack of due care was upon the defendant. However close it was, it remained a question of fact. Bogert v. Corcoran, 260 Mass. 206; O’Connell v. McKeown, 270 Mass. 432.
+In the absence of evidence to pertinent facts, the presumption of the due care statute applies. Conrad v. Mazman, 287 Mass. 229.
+There was here no evidence as to whether visibility extended beyond the three hundred feet that the plaintiff ffsaw; whether or not there was a curve or an obstruction there at the time she looked; or whether the defendant’s car at the time the plaintiff looked was within her sight or out of it. There was absolutely no evidence that the plaintiff could or should have seen the defendant or was negligent in not seeing him. There was no evidence of a “known danger” into whose path the plaintiff was entering as in Pigeon v. Mass. Northeastem St. Ry., 230 Mass. 392. Gibbs v. Hardwick, 241 Mass. 546, at 548. Instead of being in the class of such cases as Pigeon case (supra), the instant case is governed rather by such cases as McGuigan v. Atkinon, 272 Mass. 264. Joughlin v. Federal Transportation Co. 279 Mass. 408. LaRoche v. Singsen, 281 Mass. 369. Sooserian v. Clark, 287 Mass. 65.
+We are of opinion that the finding of the plaintiff’s due care is not open to attack.
+Of the eight requests denied, seven, all but request 6, in No. 5316, begin “As matter of law” Each of the requests deals with a question of fact. Whether the plaintiff was negligent, or had violated a statute, or was entitled to a finding upon the evidence, was in each instance a question of fact. No one of these issues could be decided as law. As to these requests, the defendant requested the trial judge to rule, as matter of law, that a finding must be made for the defendant. Rarely can it be ruled as matter of law that an issue of fact has been decided one way or the other. Where there are no binding admissions or agreements as to fact and the facts depend upon the credibility of witnesses it is rare that such a ruling can be made, as matter of law. Winchester v. Missin, 278 Mass. 427, at 428.
+There are no circumstances in these cases to take them out of the ordinary rule.
+There remains the issue argued by the defendant that the trial judge has violated the amended Rule 27 of the District Courts by disposing of some of the defendant’s requests by denying them “as inapplicable to facts found” without finding any facts which make the requests inapplicable.
+We have already pointed out, however, that there was evidence that the defendant was negligent sufficient to warrant the findings actually made, that the defendant was negligent. There was another finding, not challenged by any request as to the sufficiency of the evidence, that the plaintiff was in the exercise of due care. Despite all mathematical approaches to the basic facts underlying the trial judge’s findings, there remain as the basis of her decision, these findings that the defendant \yas negligent and that the plaintiff was in the exercise of due care. These are findings of fact which satisfy the rule; they make recovery by the plaintiff necessary and inevitable.
+The report is to be dismissed.
