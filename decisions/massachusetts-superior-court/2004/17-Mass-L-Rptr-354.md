@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "200100267"
 decided: "2004-02-18"
-citations: ["17 Mass. L. Rptr. 354", "17 Mass. L. Rptr. 340"]
+citations: ["17 Mass. L. Rptr. 354"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kevin W. Lou, by his mother and next friend, Beilin Chen et al. v. Ot
 source_url: "https://static.case.law/mass-l-rptr/17/cases/0354-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1078045
-cites_cases: ["14 Mass. L. Rptr. 649", "14 Mass.App.Ct 1036", "20 Mass.App.Ct. 642", "229 Mass. 435", "24 Cal.App.3d 711", "308 Mass. 450", "319 Mass. 92", "34 Mass.App.Ct. 397", "357 Mass. 449", "367 Mass. 776", "371 Mass. 358", "375 Mass. 620", "375 Mass. 633", "376 Mass. 874", "38 Mass.App.Ct. 553", "380 Mass. 372", "389 Mass. 327", "391 Mass. 407", "395 Mass. 715", "396 Mass. 818", "401 Mass. 65", "405 Mass. 168", "410 Mass. 314", "410 Mass. 706", "413 Mass. 205", "414 Mass. 81", "416 Mass. 684", "417 Mass. 643", "423 Mass. 330", "425 Mass. 620", "431 Mass. 736"]
+cites_cases: ["14 Mass. L. Rptr. 649", "20 Mass.App.Ct. 642", "229 Mass. 435", "24 Cal.App.3d 711", "308 Mass. 450", "319 Mass. 92", "34 Mass.App.Ct. 397", "357 Mass. 449", "367 Mass. 776", "371 Mass. 358", "375 Mass. 620", "375 Mass. 633", "376 Mass. 874", "38 Mass.App.Ct. 553", "380 Mass. 372", "389 Mass. 327", "391 Mass. 407", "395 Mass. 715", "396 Mass. 818", "405 Mass. 168", "410 Mass. 314", "410 Mass. 706", "413 Mass. 205", "414 Mass. 81", "416 Mass. 684", "417 Mass. 643", "423 Mass. 330", "425 Mass. 620", "431 Mass. 736"]
 ---
 
 # Lou v. Otis Elevator Co.
