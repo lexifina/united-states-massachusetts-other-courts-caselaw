@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "950143"
 decided: "1996-10-15"
-citations: ["5 Mass. L. Rptr. 695", "5 Mass. L. Rptr. 696"]
+citations: ["5 Mass. L. Rptr. 695"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bradley S. Giles v. Richard Gill, Jr. et al."]
 source_url: "https://static.case.law/mass-l-rptr/5-2/cases/0695-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11925154
-cites_cases: ["326 U.S. 310", "357 U.S. 235", "371 Mass. 59", "375 Mass. 127", "375 Mass. 149", "378 Mass. 1", "378 Mass. 281", "4 Mass.App.Ct. 91", "416 Mass. 763", "419 Mass. 507", "444 U.S. 286", "573 F.Supp. 1106", "619 F.2d 902", "709 F.Supp. 272"]
+cites_cases: ["326 U.S. 310", "357 U.S. 235", "375 Mass. 149", "378 Mass. 1", "4 Mass.App.Ct. 91", "416 Mass. 763", "444 U.S. 286", "573 F.Supp. 1106", "619 F.2d 902", "709 F.Supp. 272"]
 ---
 
 # Giles v. Gill
