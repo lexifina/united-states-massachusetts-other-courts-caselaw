@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "944368D"
 decided: "1996-10-03"
-citations: ["6 Mass. L. Rptr. 123", "6 Mass. L. Rptr. 125"]
+citations: ["6 Mass. L. Rptr. 123"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Joseph C. Spitler v. Stephen Bower Young et al."]
 source_url: "https://static.case.law/mass-l-rptr/6/cases/0123-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1194825
-cites_cases: ["319 F.Supp. 399", "367 Mass. 849", "369 Mass. 550", "376 U.S. 254", "383 U.S. 75", "390 Mass. 419", "390 U.S. 727", "400 Mass. 705", "404 Mass. 14", "410 Mass. 706", "477 U.S. 317", "578 F.2d 804", "595 F.Supp. 982", "66 F.R.D. 22", "874 F.2d 1244"]
+cites_cases: ["319 F.Supp. 399", "367 Mass. 849", "376 U.S. 254", "383 U.S. 75", "578 F.2d 804", "595 F.Supp. 982", "66 F.R.D. 22", "874 F.2d 1244"]
 ---
 
 # Spitler v. Young
