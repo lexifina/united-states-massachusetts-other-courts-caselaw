@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "93-1495"
+decided: "1994-08-22"
+citations: ["2 Mass. L. Rptr. 641"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mystic Maintenance, Inc. v. Robert V. Eberle et al"]
+source_url: "https://static.case.law/mass-l-rptr/2/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11926991
+cites_cases: ["27 Mass.App.Ct. 293", "403 Mass. 332", "567 F.Supp. 1532"]
+---
+
+# Mystic Maintenance, Inc. v. Eberle
+
+## Majority (Flannery, J.)
+
+Flannery, J.
+On or about February 8, 1993, Attorney Valeriano Diviacchi sent a c. 93A demand letter to Attorney Robert V. Eberle, on behalf of Mystic Maintenance, alleging that Eberle had violated c. 93A in his earlier representation of Mystic. By letter dated February 12, 1993, Eberle denied the allegations, and in strong language he warned Diviacchi not to pursue “frivolous” claims. On or about March 10, 1993, Diviacchi commenced this action against Eberle and others, alleging attorney malpractice and other claims.
+It soon became clear that the lawsuit was a nullify: well before it was filed Mystic was in a chapter 7 bankruptcy proceeding and a trustee (Harold B. Murphy, Esq.) had been appointed, and he had not commenced the suit or authorized it. Accordingly, it was dismissed on April 28, 1993.
+In May Eberle moved for an award of fees and costs pursuant to M.G.L.c. 231, §6F and Rule 11, Mass.R.Civ.P. Mystic opposed the motion and it was heard on June 28, 1993 (Zobel, J.). Eberle’s claim was based essentially on the foregoing history, and he filed supporting materials with respect to his time charges and expenses. The plaintiff did not dispute the above chronology; nor did it challenge the amounts of fees and costs claimed by Eberle. Rather, Mr. Diviacchi urged that the motion be denied on the grounds that (a) he had acted in good faith and (b) the original allegations against Eberle and the others were well-founded.
+On July 1, 1993, the court entered an order, with findings, awarding Eberle $8070.00 in fees and $109.76 for costs, a total of $8179.76. Following a motion for a reconsideration that order was vacated, on September 16, 1993, because the court had not taken into account additional opposition papers that the court, on June 28, had authorized to be filed by July 6.
+Eberle’s fees motion was reconsidered by this court following Justice Zobel’s allowance of plaintiffs motion that he “be removed or recused from this Action” on account of alleged bias. As of October 13, 1993, the date of a Supplemental Affidavit, Eberle’s claim for fees and costs had risen to $16,790.66 as a result of work and expenses after the Supplemental Affidavit dated June 29, 1993.
+Again in this court the plaintiff does not dispute the. foregoing chronology or the computations of time charges and expenses set forth in Eberle’s claims. Rather, it reiterates that the void complaint was not filed in bad faith and that its allegations are true.
+The plaintiff urges correctly that fees and costs may be awarded only upon a determination “that all or substantially all of the claims . . . were wholly insubstantial, frivolous and not advanced in good faith." From that start it goes on to argue that Eberle’s motion must be denied because both plaintiff and counsel sincerely believed the complaint to be viable and its allegations to be true.
+I accept those representations for present purposes, but the inquiry does not end there because a subjective belief, while relevant, is not determinative. Massachusetts Adventura, above, 27 Mass.App.Ct. at 297. A court may infer an absence of good faith from the objective unreasonableness of a litigant’s belief.
+The reasonableness of a litigant’s mistaken belief may be difficult to assess in some cases. In this case, for example, Mystic and its counsel may sincerely believe the allegations of their void complaint, even though the Bankruptcy Court and its Trustee (which authorized payment of Eberle’s fees) apparently do not. And to decide without a factual inquiry that their belief is objectively unreasonable as well as wrong would be problematical.
+In order to decide Eberle’s fees motion, however, it is not necessary to evaluate the truth of Mystic’s allegations or their reasonableness if false. It is here that Rule 11, Mass.R.Civ.P., enters this analysis. Mystic’s suit, because it was an unauthorized nullity, was per se frivolous and wholly insubstantial. Rule 11 imposes on counsel and thereby on client an affirmative obligation with respect to “the best of his knowledge, information, and belief there is good ground” for the pleading; and see Supreme Judicial Court Rule 3:07, DR7-102(A)(1). Smith and Zobel, Rules Practice, 6 M.P.S. 279-80, §-11.3 (1974). Mystic’s claims were not advanced in good faith because they were filed without authorization, a requirement that Mystic knew or reasonably should have known.
+I agree with Justice Zobel’s finding that plaintiffs counsel “recklessly disregarded his professional obligations,” and I have considered whether to direct that he rather than the client pay the award. See, e.g., Davidson v. Allis-Chalmers Corp., 567 F.Supp. 1532 (D.Mo. 1983). However, I find that Mystic in the person of Guy Lauria was a full participant in this violation of c. 231, §6F. Therefore, at least initially the award order will run against the plaintiff.
+As set forth above, since July of 1993 Eberle’s claim has increased to a total of $16,790.66, $162.10 in additional costs and $8448.80 in new fees. Eberle is entitled to all of his costs ($271.86). However, Eberle’s fee request ($16,518.80) is not reasonable and it will not be awarded. Mystic’s groundless lawsuit was dismissed in April of 1993, and since then Eberle’s time and energy have been spent in this fee litigation and fending off alleged continuing threats by Diviacchi and his client.
+A reasonable fee for defeating Mystic’s frivolous claim is six thousand dollars ($6000.00), and that is the amount awarded. The total award, therefore, is $6271.80.
+Transcript of hearing, June 28, 1993, p. 19, Mr. Diviacchi: “Even if I made a mistake, Your Honor, in order for costs there has to be some kind of bad faith. There wasn’t any kind of bad faith here ...” With respect to the allegations that Mystic was ill-served and overcharged by Eberle, it is pertinent that Eberle’s fee application had been approved by the Bankruptcy Court (and not appealed) before this action. See Eberle’s Verified Motion, paras. 4 and 5, filed May 7, 1993.
+Plaintiff s counsel reiterates that he was not in bad faith (June 28, 1993, transcript at p. 29) and it may be that bad faith and “not advanced in good faith” are the same; see Hahn v. Planning Board of Stoughton, 403 Mass. 332, 338, n.7 (1988). However, there may be instances in which bad faith entails greater malice or scienter than the absence of good faith. See Massachusetts Adventura Travel, Inc. v. Mason, 27 Mass.App.Ct. 293, 296 (1986).
