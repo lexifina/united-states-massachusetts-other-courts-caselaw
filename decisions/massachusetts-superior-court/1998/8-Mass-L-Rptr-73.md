@@ -1,0 +1,38 @@
+---
+court: "Massachusetts Superior Court"
+docket: "96565E"
+decided: "1998-02-23"
+citations: ["8 Mass. L. Rptr. 73"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lois Ayash, M.D. v. Dana Farber Cancer Institute et al."]
+source_url: "https://static.case.law/mass-l-rptr/8/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 380094
+cites_cases: ["364 Mass. 317", "395 Mass. 164", "402 Mass. 581", "410 Mass. 596"]
+---
+
+# Ayash v. Dana Farber Cancer Institute
+
+## Majority (Lauriat, J.)
+
+Lauriat, J.
+Lois Ayash, M.D. (“Ayash”) has moved to compel the Boston Globe and Richard A. Knox (collectively, “the Globe defendants”) to provide, discovery pursuant to her interrogatories, requests for the production of documents, and deposition questions. The Globe defendants oppose this motion and have moved for a protective order, asserting that the discovery which Ayash seeks is protected by the common law, Mass.R.Civ.P. 26(c), the First Amendment and Article 16 of the Massachusetts Declaration of Rights. After hearing arguments, and upon review of the parties’ submissions, Ayash’s motion is allowed and the Globe defendants’ motion is denied.
+BACKGROUND
+In November of 1994, Betsy Lehman (“Lehman”) and another patient at Dana Farber Cancer Institute (“the Institute”) were accidentally given chemotherapy overdoses. On December 3, 1994, Lehman died as a result of this error. The Globe printed several articles, written by Knox, regarding Lehman’s death. Most notably, in an article published on March 23, 1995, Knox wrote: “Five or six other doctors and nurses countersigned the mistaken order, including Dr. Lois J. Ayash, leader of the team.”
+Ayash has brought claims against the Globe defendants for defamation and invasion of privacy as a result of these stories. Ayash alleged that these articles contained false and damaging statements about her and her role in Lehman’s overdose and death. Knox admitted in his deposition that he knew within four days of the initial publication that Ayash did not countersign the overdose orders. However, the Globe did not publish a correction until June 4, 1995.
+In the course of discovery, Ayash has sought the production of documents, answers to interrogatories, and deposition testimony from the Globe defendants with respect to the source or sources of the information underlying the articles. The Globe defendants have categorically refused to provide any documents, answers, or testimony as to the source of their information, asserting a confidential source privilege.
+Ayash has now moved to compel this disclosure, asserting that no recognized privilege exists which protects the information sought. In response, the Globe defendants have moved for a protective order, contending that Ayash’s need for this information is outweighed by the potential harm to the public interest in the free flow of information.
+DISCUSSION
+I. Ayash’s Motion to Compel
+“Parties may obtain discovery regarding any matter, not privileged, which is relevant to the subject matter involved in the pending action.” Mass.R.Civ.P. 26(b). This discovery includes information which, even if inadmissible at trial, appears reasonably calculated to lead to the discovery of admissible evidence. Id. News reporters do not have a constitutionally based privilege which protects their sources of information. In the Matter of a John Doe Grand Jury Investigation, 410 Mass. 596, 598 (1991) (citations omitted). Nor is there any statutory privilege or rule of court providing such a privilege. Id. Nonetheless, defendants urge the court to prevent discovery based upon a “balancing between the public interest in every person’s evidence and the public interest in protecting the free flow of information.” Petition for the Promulgation of Rules Regarding the Protection of Confidential News Sources & Other Unpublished Information, 395 Mass. 164, 172 (1985); see also John Doe, 410 Mass. at 600.
+Before the court will undertake such a balancing test, the Globe defendants, as the parties seeking to prevent disclosure, have the burden of showing that the asserted damage to the free flow of information is more than speculative or theoretical. John Doe, 410 Mass. at 600 n. 1; Sinnott v. Boston Retirement Board, 402 Mass. 581, 586 (1988); Petition for the Promulgation of Rules, 395 Mass. at 172. The Globe defendants argue that compelling disclosure of Knox’s source or sources would infringe upon the values protected by the First Amendment. Sinnott, 402 Mass. at586. However, in this case the court concludes that allowing Ayash’s discovery requests would not have the chilling effect on the free flow of information that the Globe defendants fear.
+This is not a case where the informant continues to provide information to a reporter or the investigation is ongoing. Cf. Id. at 587 & n.5. Rather, the information was given to Knox over two and a half years ago with respect to an isolated incident, to wit, the overdosing of two chemotherapy patients. Also, the information sought is not cumulative or otherwise available. Cf. John Doe, 410 Mass. at 600 (on balance, production of reporters’ sources unnecessary in grand jury proceeding where district attorneys knew of all sources of the information). The Globe defendants have thus failed to meet their burden of showing that the potential harm to the free flow of information is neither speculative nor theoretical. Accordingly, the court is not required to perform the balancing test asserted by the Globe defendants. Sinnott, 402 Mass. at 586.
+Even if the Globe defendants had met their burden, the court would find that Ayash’s need for this information is tangible and substantial and thus outweighs the risk of harm to the free flow of information to the press. Ayash has, despite the Globe defendants’ contrary view, exhausted all reasonable alternative sources for the information. Id. at 587. Also, the Globe defendants’ contention that Ayash should continue to seek the information from alternate sources places an undue burden on Ayash. Id.; Petition for the Promulgation of Rules, 395 Mass. at 171.
+Finally, in libel cases especially, disclosure is required because discovery of the sources of the allegedly libelous statement is central to plaintiffs claim. Dow Jones & Co., Inc. v. Superior Court, 364 Mass. 317, 319 (1973). Additionally, the information is sought from a party to the action and the information which the Globe defendants seek to keep confidential “relates to the factual issue which is central to the plaintiffs case.” Id. at 322. On balance, then, the court concludes that Ayash’s right to disclosure of the requested information from the Globe defendants in this case outweighs any potential harm to the free flow of information. Ayash’s motion is therefore allowed.
+II. The Globe and Knox’s Motion for a Protective Order
+In light of the court’s ruling that Ayash is entitled to discover the source or sources of the Globe defendants’ information, and that such discovery is not protected by any privilege, the Globe defendants’ motion for a protective order must be denied.
+ORDER
+For the foregoing reasons, (1) Plaintiffs Motion to Compel the Boston Globe and Richard A. Knox to Provide Discovery Regarding Purported “Confidential Sources” is ALLOWED and (2) Defendants the Boston Globe and Richard A. Knox’s Motion for Protective Order is DENIED.
+The court (Lauriat, J.) granted summary judgment in favor of the Globe defendants on the invasion of privacy claim on July 9, 1997 [7 Mass. L. Rpto. 176 (September 1, 1997)].
