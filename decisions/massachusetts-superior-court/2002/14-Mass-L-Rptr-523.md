@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Superior Court"
+docket: "012467"
+decided: "2002-03-05"
+citations: ["14 Mass. L. Rptr. 523"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commerce Bank & Trust Co. v. Vulcan Industries, Inc."]
+source_url: "https://static.case.law/mass-l-rptr/14/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3630623
+cites_cases: ["33 Mass.App.Ct. 649", "38 Mass.App.Ct. 923", "419 Mass. 1110"]
+---
+
+# Commerce Bank & Trust Co. v. Vulcan Industries, Inc.
+
+## Majority (McCann, J.)
+
+McCann, J.
+INTRODUCTION
+Commerce Bank & Trust Company (“Commerce”), is a Massachusetts bank with its principal place of business in Worcester, Massachusetts. Commerce is represented in this matter by Lawrence S. Delaney, Esq., of Mountain, Dearborn & Whiting, LLP, 370 Main Street, Worcester, MA 01608. Vulcan Industries Inc. (“Vulcan”), is a Massachusetts corporation with its principal place of business in Hudson, Massachusetts. Vulcan is represented in this matter by Michael P. Murray, Esq., 300 West Main Street, Building B, Northborough, MA 01532.
+BACKGROUND
+In September of 2001, Vulcan sent Commerce a demand letter under G.L.c. 93A demanding that Commerce repay Vulcan the $539,785.98 allegedly embezzled by a former employee. Commerce refuted any liability for the former employee’s actions and denied Vulcan’s request for repayment. Commerce then filed this Civil No. 2001 -2464 on November 29, 2001, seeking a declaratory judgment as to the respective rights and obligations of Commerce and Vulcan. In its complaint, Commerce alleges that a former employee of Vulcan embezzled funds from Vulcan by using Vulcan corporate checks to pay down her personal home equity line of credit at Commerce.
+Later in the same day on November 29, 2001, Vulcan filed Civil No. 2001-2467, a complaint in ten counts against Commerce. It was subsequent in time to the complaint filed by Commerce. Vulcan’s complaint seeks relief on counts of: (1) violation of the Uniform Commercial Code; (2) gross negligence; (3) ordinary negligence; (4) aiding and abetting embezzlement; (5) aiding and abetting fraud; (6) aiding and abetting breach of fiduciary duty; (7) conversion/larceny by false pretenses; (8) fraudulent conveyance; (9) unfair and deceitful trade practices; and (10) unjust enrichment. In addition, Vulcan’s complaint contains an ad damnum requesting $50 million in punitive damages for Commerce’s alleged gross negligence in permitting the former Vulcan employee to embezzle Vulcan funds.
+Commerce, as the defendant in Civil No. 2001-2467, filed a motion to dismiss Vulcan’s complaint on December 28, 2001, on grounds of: (1) Vulcan’s failure to comply with G.L.c. 231, Í13B by including an ad damnum in its complaint; and (2) the pendency of Commerce's prior action in a Court of the Commonwealth, pursuant to Mass.R.Civ.P. 12(b)(9). In the alternative, Commerce moved to dismiss six of the ten counts in Vulcan’s complaint for failure to state a claim upon which relief can be granted, pursuant to Mass.R.Civ.P. 12(b)(6).
+Vulcan, as the defendant in Civil No. 2001-2464, filed a motion to dismiss Commerce’s declaratory judgment action on January 10, 2002, accusing Commerce of bringing a “frivolous” declaratory judgment action in order to “cloak itself in the garb of an innocent Plaintiff.” Vulcan further contends that Commerce’s declaratory judgment action contains none of the issues or causes of action averred in Vulcan’s complaint, and consequently, Commerce’s action should be dismissed in favor of Vulcan’s more substantive complaint.
+A hearing on Commerce’s motion to dismiss Vulcan’s complaint was held on February 6, 2002. When the Court discovered that a hearing on Vulcan’s motion to dismiss Commerce’s declaratory judgment action was scheduled for February 11, 2002, the Court consolidated the two hearings and heard argument on both motions on February 6, 2002, to which both parties consented.
+DISCUSSION
+Mass.R.Civ.P. 12(b)(9) permits the dismissal of an action due to the “pendency of a prior action in a court of the Commonwealth.” Such action is proper where the parties and issues involved are identical. See Harvard Community Health Plan, Inc. v. Zack, 33 Mass.App.Ct. 649, 652 (1992). Here, Commerce filed its declaratory judgment action (Civil No. 2001-2464) before Vulcan filed its complaint (Civil No. 2001 -2467), even if only by a matter of hours. Commerce’s action thus qualifies as a “prior action” under Rule 12(b)(9). Furthermore, Commerce’s action involves the same issues and parties as Vulcan’s ten-count complaint. Both actions concern the rights and obligations of the parties with respect to the former Vulcan employee’s alleged embezzlement. Although Vulcan’s complaint seeks relief on ten specific counts, Commerce’s request for a determination of the rights and obligations of the parties encompass all possible bases for liability between the parties. Vulcan remains free to raise its specific counts in the form of counterclaims in Commerce’s prior action. Given the pendency of Commerce’s declaratory judgment action, and in the interests of judicial economy, the Court finds no legitimate reason for maintaining two separate actions.
+Additionally, Vulcan’s addition of an ad damnum in its complaint is improper under G.L.c. 231, §13B. Vulcan should not have requested that the Court “enter an order for punitive damages in the amount of Fifty Million Dollars ($50,000,000.00) against [Commerce] for the gross negligence of [Commerce].” While the improper inclusion of an ad damnum in violation of a clear statutory mandate does not by itself require dismissal of Vulcan’ s complaint, the Court admonishes Vulcan that any further attempt to do so could result in a dismissal with prejudice for repeated violations of this statute. Friedman v. Globe Newspapers, 38 Mass.App.Ct. 923 (1995); review denied, 419 Mass. 1110.
+ORDER
+For the foregoing reasons, in Civil No. 2001-2464, defendant Vulcan Industries, Inc.’s Motion to Dismiss is DENIED.
+For the foregoing reasons, in Civil No. 2001-2467, defendant Commerce Bank and Trust Co.’s Motion to Dismiss is ALLOWED.
+M.G.L.A. 231, §13B, Ad damnum or monetary amount claimed
+No complaint in any civil action shall contain an ad damnum or monetary amount claimed against any defendant, unless such ad damnum or monetary amount claimed indicates damages which are liquidated or ascertainable by calculation and a statement under oath by a person having knowledge thereof is attached to such complaint setting forth the manner in which the amount of said damages was calculated. For the purposes of this section complaint shall include a claim, crossclaim or counterclaim.
+Civil Procedure Rule 12. Defenses and Objections — When and How Presented — By Pleading or Motion — Motion for Judgment on Pleadings
+(b) How Presented. Every defense, in law or fact, to a claim for relief in any pleading, whether a claim, counterclaim, cross-claim, or third-party claim, shall be asserted in the responsive pleading thereto if one is required, except that the following defenses may at the option of the pleader be made by motion:
+(6) Failure to state a claim upon which relief can be granted;
+(9) Pendency of a prior action in a court of the Commonwealth.
+A motion making any of these defenses shall be made before pleading if a further pleading is permitted. No defense or objection is waived by being joined with one or more other defenses or objections in a responsive pleading or motion. If a pleading sets forth a claim for relief to which the adverse party is not required to serve a responsive pleading, he may assert at the trial any defense in law or fact to that claim for relief. If, on any motion asserting the defense numbered (6), to dismiss for failure of the pleading to state a claim upon which relief can be granted, matters outside the pleading are presented to and not excluded by the court, the motion shall be treated as one for summary judgment and disposed of as provided in Rule 56, and all parties shall be given reasonable opportunity to present all material made pertinent to such a motion by Rule 56. A motion, answer, or reply presenting the defense numbered (6) shall include a short, concise statement of the grounds on which such defense is based.
+Id.
