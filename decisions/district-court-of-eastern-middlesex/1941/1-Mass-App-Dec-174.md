@@ -1,0 +1,36 @@
+---
+court: "District Court of Eastern Middlesex"
+docket: "3016"
+decided: "1941-12-15"
+citations: ["1 Mass. App. Dec. 174"]
+reporter: "mass-app-dec"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PEIRCE, p.p.a. v. BOUCHER and BENSON d/b/a COLONIAL MOTORS"]
+source_url: "https://static.case.law/mass-app-dec/1/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4033366
+cites_cases: ["123 Mass. 88", "14 Mass. 457", "265 Mass. 5", "266 Mass. 426", "288 Mass. 453", "289 Mass. 412", "297 Mass. 288", "300 Mass. 281"]
+---
+
+# Pierce v. Boucher
+
+## Majority (PETTINGELL, J.)
+
+PETTINGELL, J.
+(Jones, P.J., & Wilson, J.)—Action of contract in which the plaintiff seeks to recover money paid, and the value of an automobile turned in, on account of the purchase price of an automobile sold to the plaintiff by the defendants At the time of the sale of the automobile to the plaintiff and at the time of'bringing the writ in this action, the plaintiff was a minor. '
+There was a finding -for the defendants, the trial judge finding that the plaintiff induced the making of the contract of sala by signing a confidential credit application in which he stated that he was twenty-one, and that “he is estopped to later deny this statement.” The trial judge found further that if the plaintiff nevertheless retained a right to disaffirm the contract, he failed to exercise that right within a reasonable time, he having made, previous to bringing the writ, no demand for any repayment, or for the value of the automobile traded in.
+The plaintiff filed six requested rulings of law of which he now waives two, the fifth and sixth. Of the remaining four, the trial judge disposed of two requests, the first and second, as inapplicable to the case, although correct statements of law, and denied without comment two others the third and fourth.
+There is prejudicial error in his disposition of the first requested ruling that a minor may elect to void his contract at any time before maintaining his majority or within a reasonable time thereafter. This ruling he. declared inapplicable to the case. It is inconsistent with his rulings, that the plaintiff was estopped by his misrepresentation of his age, and that he failed to exercise his right to disaffirm the contract within a reasonable time. It is applicable if these rulings are wrong.
+The law is that a minor is not estopped to disaffirm his contract by reason of his misrepresentation of his age when the contract is made. J. G. Pierce Co. v. Wallace, 251. Mass. 383.
+It is law also, a minor may disaffirm such a contract on coming of age, Whitney v. Dutch, 14 Mass. 457. See Dardzinski v. Angelus, 297 Mass. 288, at 289. If he does not disaffirm the contract while a minor, he may disaffirm it within a reasonable time after reaching his majority. In Tobey v. Wood, 123 Mass. 88, a delay of seven weeks after the minor became of age was held not to be an unreasonable time, while in Adamowski v. Curtis Wright Flying Service, 300 Mass. 281, the former minor was allowed to recover payments made by him during his minority in an action begun by him “almost a year after attaining majority” (page 282). A delay of fourteen months was held to be too long under the circumstances of the case in Chamberlain v. Employers’ Liability Corp., 289 Mass. 412.
+In the case at bar, the contract was entered into during the plaintiff’s minority and the writ was brought by his next friend while the plaintiff was still a minor. The action was tried March 13, 1941, a week after he had reached his majority. Upon the facts, a ruling that he had failed to exercise his rights within a reasonable time is clearly wrong. The facts not being in dispute, what is a reasonable time is a question of law. Mowles v. Boston Insurance Co., 266 Mass. 426.
+The first ruling requested is applicable and should have been given without qualification.
+The second ruling requested, described as a correct statement of law, was declared inapplicable. It stated the principle that a minor, upon disaffirmance of a contract, is entitled to recover what he has paid in or has turned in under the contract. It, like the first requested ruling, above referred to, is inapplicable if the plaintiff is estopped, by his misrepresentation of age, to void his contract. As has been pointed out there is no such estoppel in Massachusetts. If he is not so estopped, he is entitled to recover all that he has paid in or the value of what he has turned in. Adamowski v. Curtis-Wright Flying Service, 300 Mass. 281. Nor is the ruling made inapplicable by the trial judge’s ruling that the disaffirmance was not made within a reasonable time, which is error as has been pointed out. The second requested ruling is applicable and should have been given. A party is entitled to have a correct principle of law properly applied.
+In passing upon the question of reasonable time, the trial judge added as a reason for his decision that the plaintiff had not exercised his right to disaffirm the contract within a reasonable time, the fact that “Previous to bringing suit the plaintiff made no demand for initial payment he had made or for the turn in value of his 1936 Ford.” This statement presupposes that such a preliminary demand is an essential in an action such as the one under consideration. Even if this question is properly before us, we see no merit in it.
+The bringing of a writ is a good demand. Spevack v. Budish, 238 Mass, at 216. In Standard Oil Co. of New York v. Y. D. Supplies Co., 288 Mass. 453, at 455, the court said, with regard to a writ, “A more definite and insistent form of ‘written demand’ could hardly be imagined.”
+It is not only a good demand but it is a good disaffirmance; a more certain and unqualified disaffirmance of contract cannot be imagined.
+The disposition of the second requested ruling is prejudicial error.
+The trial judge denied the third requested ruling which stated that it is not necessary for the minor, in order to recover, to place the other party in statu quo (by returning what the minor had received under the contract). When such a contract is disaffirmed, the minor, or former minor, is not obliged to put the other party in statu quo; “the right of a minor to disaffirm a contract does not depend on his putting the other party in statu quo. If it did he would lose in many cases the protection which the law affords him by reason of his minority.” Tracy v. Brown, 265, Mass. 163. Kelly v. Halox, 265 Mass. 5, at 8. The denial of his requested ruling was prejudicial error.
+There having been prejudicial error in the disposition of the plaintiff’s first, second, third and fourth requested rulings, which if given, considering the evidence reported, would have resulted in a finding for the plaintiff, the finding for the defendant is to be vacated. Normally, the case would then go back for a trial on the single issue of damages, but here the trial justice found that the plaintiff had paid in one payment of $30.50 and had turned in an automobile of which the'fair market value was $85. These findings of fact make a further trial unnecessary.
+The finding for the defendant is to be vacated; judgment is to be entered for the plaintiff in $115.35.
