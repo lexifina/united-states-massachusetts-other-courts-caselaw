@@ -1,0 +1,41 @@
+---
+court: "Massachusetts Superior Court"
+docket: "032660"
+decided: "2005-05-12"
+citations: ["19 Mass. L. Rptr. 342"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Timothy J. Carpenter, administrator v. Massachusetts Institute of Technology et al."]
+source_url: "https://static.case.law/mass-l-rptr/19/cases/0342-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8982121
+cites_cases: ["438 Mass. 325", "45 C.F.R. §164.512", "60 Mass.App.Ct. 546"]
+---
+
+# Carpenter v. Massachusetts Institute of Technology
+
+## Majority (Connolly, Thomas E., J.)
+
+Connolly, Thomas E., J.
+This case arises from the suicide death of Julia Miles Carpenter (“Julia”) while she was a student at the Massachusetts Institute of Technology (“MIT’). Plaintiff alleges that MITs negligent response to defendant Charvak Prakash Karpe’s (“Karpe”) stalking of Carpenter contributed to Carpenter’s suicide. This matter is before us on plaintiffs motion to compel compliance with a deposition subpoena duces tecum and on defendant Karpe’s emergency motion for a protective order. For reasons below, plaintiffs motion is ALLOWED and defendant Karpe’s motion is DENIED.
+BACKGROUND
+This civil action arises out of the death by suicide of Julia Miles Carpenter (“Julia”), age twenty, on April 30, 2001 at Random Hall, Massachusetts Institute of Technology, 290 Massachusetts Ave., Cambridge MA 02139. It is alleged that a fellow student and co-defendant, Charvak Prakash Karpe (“Karpe”) became obsessed with Julia and stalked her for several months. Some of the other behavior in which Karpe allegedly engaged was sleeping outside the door of her dormitory room and stealing personal material from her room and circulating that material throughout Random Hall.
+These motions involve the same legal issues. There are four categories of documents concerning Karpe that have been requested by the plaintiff from MIT via a deposition subpoena duces tecum. They are as follows:
+1. All materials pertaining to Karpe’s application for enrollment including, but not limited to, his application and all materials submitted to MIT by or on behalf of Karpe;
+2. All documents advising Karpe of his acceptance as a student at MIT;
+3. All disciplinary records including, but not limited to, all documents relating to disciplinary proceedings initiated by or against Karpe; and
+4. All documents relating to medical or mental health care provided to Karpe by MITs medical department.
+The production of the subject documents, pursuant to an order of the Court, is not prohibited by the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) or by the Family Educational Rights and Privacy Act of 1974 (“FERPA”). See 20 U.S.C. §1232g; 45 C.F.R. §164.512(e) (2004). Karpe has obviously had notice of these requests, as evidenced by his present motion. As to document categories 1, 2, and 3, Karpe and MIT claim that such documents are irrelevant. As to document category 4, Karpe and MIT claim that they are protected under either the psychotherapist-patient or social worker-client privilege.
+DISCUSSION
+Mass.R.Civ.P. 26(b)(1) provides in part that “it is not ground for objection that the information sought will be inadmissible at the trial if the information sought appears reasonably calculated to lead to the discovery of admissible evidence.” In the judgment and discretion of this justice, the documents sought appear “reasonably calculated to lead to the discovery of admissible evidence.” Therefore, this court rules that the documents listed in categories 1, 2, and 3 above should be and are discoverable by the plaintiff.
+As to category 4, plaintiff has requested documents that may or may not be conditionally privileged. Testimonial privileges are exceptions to the general duly imposed on all people to testify, and therefore must be strictly construed. Both the psychotherapist-patient privilege and social worker-client privilege are conditional privileges that place upon the holder of the privilege the burden of affirmatively exercising the privilege. G.L.c. 233, §20B (psychotherapist-patient privilege) and G.L.c. 112, §135B (social worker-client privilege). These conditional privileges are distinguishable from “automatic” privileges that do not require the holder of the privilege to take any affirmative action to assert the privilege. See, e.g., G.L.c. 233, §20J (sexual assault counselor-victim privilege).
+The psychotherapist-patient and social worker-client privileges protect from compelled disclosure conversations and other communicative conduct, made to licensed psychotherapists or social workers, which relate to diagnosis or treatment of mental or emotional conditions. G.L.c. 233, §20B; G.L.c. 112, §135B; In Re AdoptionofSaul, 60 Mass.App.Ct. 546, 549-55 (2004). The diagnosis itself, however, as well as the times, dates, and length of sessions, are not protected by the privilege. Id.
+In response to the plaintiffs subpoena duces tecum, both the keeper of MITs records and Karpe have asserted that Karpe’s medical and mental health records are “privileged,” vaguely citing the psychotherapist-patient and social worker-client privileges. Karpe has provided nothing further, however, that would enable this court to determine what communications to what individuals are in fact protected by the psychotherapist-patient or social worker-client privileges. Specifically, there has been no indication to this court, by way of affidavit or otherwise, that the communications in the record were (a) made for the purpose of diagnosis and treatment of an emotional or mental condition, and (b) were made to a licensed psychotherapist or social worker. Further, there isn’t even an indication that Karpe’s counsel has taken the time to review the records in order to make these showings to the court. Without such information, and only a blind assertion of privilege, the court is unable to separate non-privileged records from privileged records.
+This issue was discussed at length by the Appeals Court in In Re Adoption of Saul, 60 Mass.App.Ct. 546, 555 (2004):
+It is the patient who must assert the privilege. This requires that the patient provide the information necessary to determine whether the person to whom the communication was made qualifies as a psychotherapist under the statute. Without this information, the judge would have to “resort to ‘inferences’ concerning the actual status of the professionals whose signatures and initials appeared in the records” and the contents of the entries to determine if they were made by a “psychotherapist” under G.L.c. 233, §20B, or a “social worker” under G.L.c. 112, § 135B. [The holder of the privilege] having failed to provide the necessary information to the trial judge, the judge was well within his discretion to deny the [holder’s] request that such notations be redacted.
+Id. (citations omitted).
+Karpe’s mere assertion of privilege, therefore, without providing specific information upon which the court can determine whether the asserted privilege in fact applies, falls short of satisfying his burden of proof. The court therefore deems and rules that any claimed privilege has been waived by Karpe, the holder of the privilege. Karpe has simply failed to prove that any of the records sought by the plaintiff are privileged.
+ORDER
+The defendant MIT is ordered to produce all documents listed above in categories 1, 2, 3, and 4 to plaintiffs counsel within ten days from the date of this order. The plaintiffs motion to compel compliance with a deposition subpoena duces tecum is ALLOWED, and the defendant Charvak Karpe’s motion for a protective order is DENIED.
+Although MIT is not the holder of either of the privileges, “[w]here the statutory privilege in question leaves it to the patient to affirmatively assert the privilege ... a provider’s assertion of that privilege may be treated as ... a temporary precaution pending confirmation of the patient’s own intentions.” Commonwealth v. Oliveira, 438 Mass. 325, 332 n.8 (2002) citing 8 J. Wigmore, Evidence §2386 (McNaughton rev. 1961). Ultimately, however, “some action by the patient or client is necessary to ‘exercise’ the privilege . .. The privilege is not self-executing.” Id. at 331.
