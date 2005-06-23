@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "ESCR20050187"
+decided: "2005-06-23"
+citations: ["19 Mass. L. Rptr. 591"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth of Massachusetts v. Antonio Berardi"]
+source_url: "https://static.case.law/mass-l-rptr/19/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8985467
+cites_cases: ["242 Neb. 276", "410 Mass. 618", "413 Mass. 749", "420 Mass. 542", "428 U.S. 363", "436 Mass. 537", "438 Mass. 604", "440 Mass. 609", "479 U.S. 367", "495 U.S. 1", "61 Mass. 28"]
+---
+
+# Commonwealth v. Berardi
+
+## Majority (Agnes, Peter W., J.)
+
+Agnes, Peter W., J.
+INTRODUCTION
+The defendant, Antonio Berardi, is charged with illegal possession of cocaine. He has filed a motion to suppress evidence of thirteen grams of cocaine found in a GNC bottle that was located during an inventory search. Based on the credible evidence presented at the hearing on the motion to suppress, I make the following findings and rulings of law.
+FINDINGS OF FACT
+The essential facts are undisputed. On July 23, 2004 Officer Kevin St. Pierre of the Salem Police Department recognized the defendant and knew that there was a warrant out for his arrest. The officer saw the defendant enter his vehicle and drive off. Officer Pierre then pulled the defendant over. This was a valid traffic stop. The officer told the defendant to exit the car at which point the officer handcuffed him and put him into the police cruiser. This was a valid arrest. Because the car was in the middle of the street, and the defendant was arrested, the officer arranged to have the car towed to Bill’s Tow car lot. He then conducted an inventory search in accordance with the Salem Police Inventory and Tow Policy (hereinafter “Inventory Policy”), which is in evidence as exhibit 1. During the search the officer opened the closed glove compartment and found a grey, opaque GNC bottle whose label indicated that it contained Inosital powder, a nutritional supplement which this court takes judicial notice is commonly sold in vitamin and nutritional stores and does not require a prescription. The officer testified that the bottle did not feel heavy. When he opened it he found six individually wrapped plastic bags which turned out to contain a total of thirteen grams of cocaine.
+RULINGS OF LAW
+“A lawful inventory search is contingent on the propriety of the impoundment of the car.” Commonwealth v. Brison, 440 Mass. 609, 612 (2003). Here, because the officer conducted a lawful arrest, the car was stopped in the middle of the street, and no one else was immediately present to take control of it, his decision to have the car towed was proper. See Commonwealth v. Caceres, 413 Mass. 749, 750-53 (1992) (impoundment justified where car stopped on highway, driver arrested, and no alternative but its removal). In such circumstances, the officer has a right to conduct an inventory search in order to “safeguard the defendant’s property, protect the police against later claims of theft or lost property, and keep weapons and contraband from the prison population.” Commonwealth v. Seng, 436 Mass. 537, 550-51 (2002).
+During inventory searches, police have limited discretion and must confine their search to the removal of property to storage without examining its contents. Id. at 553; citing South Dakota v. Opperman, 428 U.S. 363, 380 n.7 (1976) (Powell, J. concurring). However, the police do not need to blind themselves to obvious facts. Commonwealth v. Blevines, 438 Mass. 604, 609 (2003).
+If police open a closed container during an inventory search in the absence of specific written procedure requiring them to do so, then any evidence they discover in the container must be suppressed. Commonwealth v. Rostaxi, 410 Mass. 618, 622 (1991). Here, the Inventory Policy requires officers to examine the glove compartment. It also states, “All closed containers found in the vehicle that may contain personal effects of the arrestee shall be opened and inventoried." The police had no reason in this case to believe that the GNC bottle contained “personal effects,” and no right to assume that it did. See Commonwealth v. Alvarado, 420 Mass. 542, 553 n.7 (1995) (the court did not credit the Commonwealth’s argument that the water well of a coffee machine could be examined because it might have contained valuables). There was nothing on the outside of the bottle that indicated it contained personal items. Nor is a GNC bottle a common container of person effects.
+It is clear that the Inventory Policy and Article Fourteen’s jurisprudence do not intend to extend such warrantless searches to all places in which personal items could possibly be found. Instead, police are only authorized to open those containers that may reasonably hold such effects. Otherwise, it would eviscerate Article 14’s warrant requirement. The purpose of inventory searches is to protect the defendant’s property and to limit the police’s liability in storing and maintaining that property from future claims of loss or damage. See Seng, 436 Mass, at 550-51. An officer must not be allowed “so much latitude that inventory searches are turned into a purposeful and general means of discovering evidence of crime.” Id. at 554; citing Florida v. Wells, 495 U.S. 1, 4 (1990).
+The Commonwealth argues that because Inosital is frequently used as a dilutant to “cut” cocaine, it would raise the suspicion of the police officer. The short answer to this argument is that it is not the existence or absence of suspicion that criminal activity is taking place that is relevant. Rather, it is whether it is reasonable to expect items of personal property to be located in a particular container. The burden is on the Commonwealth to establish that the search is authorized by the terms of its policy. Commonwealth v. Silva, 61 Mass. 28, 35-36 (2004). Here the Commonwealth failed to do so. The Police Inventory Policy clearly states, “if probable cause develops during the inventory search, the search shall cease and the officer shall apply for a search warrant.”
+This court holds that opening the GNC bottle converted the police action from a legitimate inventory search to an unlawful investigative search. As required by the Inventory Policy and the law of the Commonwealth, during an inventory search, opening a closed container, which would not reasonably contain personal affects, is unlawful.
+ORDER
+For the above reasons, the defendant’s motion to suppress is GRANTED.
+The Supreme Court of the United States and other states do not require a written procedure, per se, and allow them more discretion when conducting inventory searches. See Colorado v. Bertine 479 U.S. 367 (1987); State v. Filkin, 242 Neb. 276 (1993).
