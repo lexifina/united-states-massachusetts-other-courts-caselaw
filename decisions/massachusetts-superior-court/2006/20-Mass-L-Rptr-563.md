@@ -1,0 +1,41 @@
+---
+court: "Massachusetts Superior Court"
+docket: "BRCV200600239"
+decided: "2006-03-16"
+citations: ["20 Mass. L. Rptr. 563"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph W. Gordon v. Massachusetts Registry of Motor Vehicles"]
+source_url: "https://static.case.law/mass-l-rptr/20/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3629234
+cites_cases: ["3 U.S. 386", "421 Mass. 415", "423 Mass. 1201", "426 Mass. 534", "432 Mass. 489", "433 Mass. 217", "465 U.S. 354", "50 Mass.App.Ct. 188"]
+---
+
+# Gordon v. Massachusetts Registry of Motor Vehicles
+
+## Majority (MacDonald, D. Lloyd, J.)
+
+MacDonald, D. Lloyd, J.
+Before the Court is the plaintiffs motion to enjoin the enforcement of certain provisions of G.L.c. 90, §24 1/2 (“Melanie’s Law”) to him. For the following reasons the plaintiffs motion is DENIED.
+Pertinent Facts
+Pursuant to G.L.c. 90, §24D, the plaintiff, Joseph W. Gordon (“Gordon” or “plaintiff’), was convicted of operating a motor vehicle while under the influence of alcohol (“OUI”) on December 17, 2003. The 2003 conviction was treated as a second offense due to the plaintiffs 1989 OUI charge that was continued without a finding. As a result of two OUI offenses, the Registry of Motor Vehicles (“RMV”) suspended Gordon’s license for two years. However, Gordon requested and received a hardship license which allowed him to work and care for his elderly mother.
+Although his suspension expired on December 17, 2005, Gordon did not apply for the restoration of an unrestricted license until January 3, 2006. In the meantime, Melanie’s Law took effect on January 1, 2006. Among other things, Melanie’s Lawrequires that if a driver has been convicted two or more times for OUI, an ignition interlock device must be installed on his or her vehicle before a license is issued. (The device, which measures alcohol content, requires that an operator blow into it before the device permits the vehicle to be operated.)
+On January 3rd the RMV refused to reissue Gordon’s license unless he installed the ignition interlock device on his car.
+The installation of the device costs $125, and a monthly fee of $85 in connection with a monthly reading of the device’s operation is also required. The driver is responsible for those fees. Data from the monthly readings is reported to the RMV for consideration in the driver’s future re-licensing process.
+Gordon seeks a preliminary injunction to enjoin the RMV from enforcing the ignition interlock device requirement as to him. He submits that it is an unlawful ex post facto punishment. Gordon further contends he will suffer irreparable harm since he will lose his employment as a plasterer if unable to drive. And Gordon’s mother relies upon him for transportation to doctor’s appointments, errands, grocery shopping, and obtaining medications.
+Merits
+To obtain a preliminary injunction, the moving party must show “(1) a likelihood of success on the merits; (2) that irreparable harm will result from denial of the injunction; and (3) that, in light of the plaintiffs likelihood of success on the merits, the risk of irreparable harm to the plaintiff outweighs the potential harm to the defendant in granting the injunction.” Tri-Nell Mgt., Inc. v. Bd. of Health of Barnstable, 433 Mass. 217, 219 (2001).
+Gordon’s request for a preliminary injunction fails here because it is unlikely that he would succeed on the merits if his case were to proceed to trial.
+Gordon asserts that requirement of the ignition interlock device is an ex post facto punishment forbidden by Article 24 of the Massachusetts Declaration of Rights. The United States Supreme Court has defined an ex post fact law as:
+[e]veiy law that makes an action done before the passing of the law, and which was innocent when done, criminal; and punishes such action . . . [e]very law that aggravates a crime, or makes it greater than it was, when committed ... [e]veiy law that changes the punishment, and inflicts a greater punishment than the law annexed to the crime, when committed ... [ejvery law that alters the legal rules of evidence, and receives less or different testimony than the law required at the time of the commission of the offense, in order to convict the offender.
+Calder v. Bull, 3 U.S. 386, 390 (1798).
+The application of the ex post facto principle, however, hinges on whether the newly imposed requirement is criminal and punitive or remedial and civil. Opinion of the Justices to the Senate, 423 Mass. 1201, 1221 (1996) (citing United States v. One Assortment of 89 Firearms, 465 U.S. 354, 362 (1984)). If the ignition interlock device requirement is remedial, although it applies an additional burden, it will survive an ex post facto challenge.
+A court under these circumstances must consider the legislature’s intent. Commonwealth v. Bruno, 432 Mass. 489, 500 (2000) (addressing the issue in the context of the 1999 amendment to the sexually dangerous persons statute, G.L.c. 123A, which significantly expanded the statute’s application to the then-present inmate population in the Commonwealth). The legislature may indicate that the law be either civil or criminal through an express provision or through an implied purpose. Id.; see also Powers v. Commonwealth 426 Mass. 534, 538 (1998).
+When the statutory construction is not expressly stated, the SJC has provided guidance on assessing the legislature’s purpose. The court must look “not just to its stated regulatory purpose, but also its effect on those to whom it is to be applied and on others, and its resemblance to other measures that have firmly been established to count as either regulatory or criminal.” Opinion of the Justices to the Senate, 423 Mass. at 1224.
+Chapter 90 of the General Laws is the statutory regime aimed at reducing the number of drunk driving accidents and ensuring the public safety. Powers, 426 Mass. at 539. The statute imposing the ignition interlock device on second OUI offenders is clearly designed to protect the public safety. The adverse impact on those like the plaintiff, while burdensome, is not intended as personal punishment. Thus, the statute is remedial and civil in nature. Id. (revocation of a driver’s license is non-punitive and civil); Luk v. Commonwealth 421 Mass. 415, 426-27 (1995). Cf. New Bedford Housing Authority v. Olan, 50 Mass.App.Ct. 188, 200 (2000) (temporary eviction as a result of a nuisance claim is remedial, permanent eviction is punitive). Also, because a license to drive is seen to be a privilege, not a right, Luk, 421 Mass. at 428, the restriction of a person’s ability to drive cannot be reasonably construed as punitive.
+Additionally, the act triggering the application of Melanie’s Law to the plaintiff was Gordon’s application for a new license, not his previous OUI offenses. See Bruno, 432 Mass. at 498. “When the conduct triggering the statute’s application occurs on, or after its effective date, the statute’s application is deemed prospective, and therefore permissible.” Id. at 497-98. Although there is an element of unfairness in the circumstance that had Gordon applied for his license only three days earlier, he would not have had the financial and personal privacy burden of dealing with the presence of an ignition interlock device on his car, it was Gordon’s failure to do so that exposed him to the strictures of the new law. The consequences of that failure are his to bear.
+ORDER
+The plaintiffs request for a preliminary injunction is DENIED.
+It is worthwhile to note that even if the plaintiff had secured an unrestricted license prior to January 1 st this year, he would have been subject to the ignition interlock device requirement on the occasion of his next license renewal. Also, the hardship that the plaintiff posits (job loss and inability to transport his dependent elderly and infirm mother) would not accme from compliance with the requirement to install the device. Rather, such hardship would occur only if Gordon chose not to install the device (and thus chose not to be licensed) or if, after installing the device, Gordon’s car would not operate because of excessive alcohol content in the breath sample Gordon blew into the device.
