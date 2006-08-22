@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "0400292"
+decided: "2006-08-22"
+citations: ["21 Mass. L. Rptr. 717"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eric T. Hokanson et al. v. Nicholas J. DePalma, Jr. et al."]
+source_url: "https://static.case.law/mass-l-rptr/21/cases/0717-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3536936
+cites_cases: ["13 Mass.App.Ct. 922", "1994 Mass.App.Div. 173", "26 Mass.App.Ct. 605", "31 Mass.App. Ct. 72", "38 Mass.App. Ct. 926", "388 Mass. 307", "396 Mass. 254", "404 Mass. 14", "410 Mass. 706", "410 Mass. 805", "414 Mass. 96"]
+---
+
+# Hokanson v. DePalma
+
+## Majority (Muse, Christopher J., A.J.)
+
+Muse, Christopher J., A.J.
+On March 1, 2004, defendants Nicholas DePalma, Jr. and Dorothy D. Harrington entered into an exclusive listing agreement with defendant Centuiy 21 Bourne Landing Realtors, Inc. to sell property located at 16 Buttermilk Way, Bourne. Pursuant to the agreement, DePalma and Harrington stated that all information contained therein was true and accurate and that they had legal authority to convey the property. In fact, DePalma and Harrington lacked the legal authority to convey title to the subject property, as in 1999, Harrington had conveyed a half interest to defendant Terrie Ann Mc-Manus. Defendant David Forget, a real estate broker, signed the agreement on behalf of Century 21. Forget was unaware of this deficiency.
+On April 4, 2004, DePalma and Harrington accepted an offer on the subject property by plaintiffs, Erik and Kendra Hokanson. DePalma and Harrington subsequently backed out of the transaction and did not appear at the scheduled closing on May 21, 2004. Furthermore, on May 20, 2004, McManus, by counsel, asserted an ownership interest in the subject property.
+On December 17, 2004, the plaintiffs filed the present action. The Second Amended alleges, among others, misrepresentation (Count VI) and breach of third-party contract (Count VII) by defendants Forget, Anderegg, and Centuiy 21 Bourne Landing Realtors, Inc. The matter is now before this court on defendants Forget, Anderegg, and Centuiy 21 Bourne Landing Realtors, Inc.’s Motion for Summary Judgment. They argue that summary judgment is required on Count VI because: (1) a broker cannot be liable for failing to disclose what he did not know and, (2) there is no duiy imposed upon a real estate broker to ascertain the veracity of a seller’s representations that are reasonably thought to be reliable. They further argue that summary judgment is required on Count VII because: (1) the plaintiffs’ breach of contract claim is premised on the lack of disclosure; and, (2) the Exclusive Listing Agreement placed the responsibility for accuracy on the sellers. The plaintiffs counter that the defendants had a duty to ascertain the accuracy of information disseminated to the public and that the plaintiffs were intended beneficiaries of the Exclusive Listing Agreement.
+DISCUSSION
+I. Standard of Review
+Pursuant to Mass.R.Civ.P. Rule 56, a party moving for summaiy judgment bears the burden of proving that (1) there is no genuine issue of material fact and (2) he is entitled to judgment as a matter of law. Flesner v. Technical Communications Corp., 410 Mass. 805, 808-09 (1991); Kourouvacilis v. General Corp., 410 Mass. 706, 710-11 (1991). The moving party bears the burden of affirmatively demonstrating the absence of a triable issue and therefore an entitlement to a judgment as a matter of law. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). A moving party can meet its burden by showing the non-moving party lacks evidence to support its claim. See Kourouvacilis, 410 Mass. at 711. Once the moving party meets that burden, the non-moving party must show, by admissible evidence, the existence of a dispute as to material fact. Id., citing Godbout v. Cousens, 396 Mass. 254, 261 (1985).
+II. Broker’s Duty
+To establish a misrepresentation claim, a party must demonstrate “a false statement of material fact made to induce the plaintiff to act, together with reliance on the false statement by the plaintiff to the plaintiffs detriment.” Zimmerman v. Kent, 31 Mass.App. Ct. 72, 77 (1991). Furthermore, the “speaker need not know ‘that the statement is false if the truth is reasonably susceptible of actual knowledge, or otherwise expressed, if, through a modicum of diligence, accurate facts are available to the speaker.’ ” Id., quoting Acushnet Fed. Credit Union v. Roderick, 26 Mass.App.Ct. 605, 605 (1988). In the present case, Forget, Anderegg, and Centuiy 21 did not know that the statements by the sellers in the Exclusive Listing Agreement concerning the title were false. Furthermore, they exercised reasonable diligence by requiring the sellers to sign a provision in the Exclusive Listing Agreement that confirmed that all facts represented therein were true and accurate.
+The plaintiffs have failed to direct this court to any case law indicating that a broker has a duty to independently ascertain the veracity of facts represented as true by the sellers. See Fernandes v. Rodriguez, 38 Mass.App. Ct. 926, 927 (1995) (broker not liable for relying on information in town records); Grynowicki v. Silvia, 1994 Mass.App.Div. 173, 174 (1994) (broker not liable for relaying information provided by the seller); see also Underwood v. Riseman, 414 Mass. 96, 100 (1993) (broker not liable for failure to disclose information not known to him). Rather, a broker’s duty-only extends to advising potential buyers of defects known to the broker. See Nei v. Burley, 388 Mass. 307, 310-11 (1983). The performance of a title search is not ordinarily the responsibility of the broker. See Rao v. Bd. of Registration of Real Estate Brokers & Salesmen, 13 Mass.App.Ct. 922, 922 (1982). Therefore, defendants Forget, Anderegg, and Century 21 had no obligation to independently research the title to the subject property. The Motion for Summary Judgment on Count VI is allowed.
+III. Breach of Contract
+Pursuant to Section VII of the Exclusive Listing Agreement, the sellers had the “responsibility for and liability derived from” the accuracy of all information therein. Nowhere in the agreement is a similar obligation placed on defendants Forget, Anderegg, and Century 21. Furthermore, as discussed above, defendants Forget, Anderegg, and Century 21 had no independent duly to confirm these representations. Therefore, they did not breach any contractual duty, either express or implied, to any prospective third parties, irrespective of whether the third parties qualified as intended beneficiaries under the Exclusive Listing Agreement. The Motion for Summary Judgment on Count VII is allowed.
+ORDER
+For the reasons stated herein, the defendants’ Motion for Summary Judgment is ALLOWED.
+The details of this offer were negotiated with Century 21, Forget and Frances G. Anderegg.
+In the alternative, the defendants argue that the plaintiffs were not intended beneficiaries of the contract and therefore have no standing to sue.
