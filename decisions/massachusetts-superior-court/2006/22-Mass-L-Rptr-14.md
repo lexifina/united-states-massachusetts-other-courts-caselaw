@@ -1,0 +1,43 @@
+---
+court: "Massachusetts Superior Court"
+docket: "052208"
+decided: "2006-09-07"
+citations: ["22 Mass. L. Rptr. 14"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth of Massachusetts v. Amarillis Ortiz et al."]
+source_url: "https://static.case.law/mass-l-rptr/22-2/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11074698
+cites_cases: ["0562 SW 201", "0562 SW 202", "14 Mass.App.Ct. 577", "415 Mass. 447", "417 Mass. 637", "429 Mass. 698", "438 Mass. 213", "445 Mass. 702", "540 U.S. 31", "66 Mass.App.Ct. 360", "66 Mass.App.Ct. 564", "989 F.2d 366"]
+---
+
+# Commonwealth v. Ortiz
+
+## Majority (Lu, John T., J.)
+
+Lu, John T., J.
+INTRODUCTION
+The defendants, Amarillis Ortiz, Edwin Algarin, and Margarita Santiago (collectively the defendants) move to suppress items seized during the execution of search warrants at two apartments in Worcester, alleging that police failed to comply with the warrants’ requirements that they knock and announce before entering. The court conducted an evidentiary hearing on July 10,2006, at which Massachusetts State Police Sergeant James Bigelow (Bigelow), Lieutenant Thomas Zona (Zona), and Trooper Peter Leduc (Leduc) testified. Declining to adopt the defendants’ arguments that police failed to knock and announce or that the knock and announce requirements were violated, the court denies the motions to suppress.
+FINDINGS OF FACT
+Based on the evidence presented, and reasonable inferences from the evidence, the court finds the following facts.
+1. On August 26, 2005, State Police including Bigelow, Zona and Leduc obtained search warrants 0562 SW 201 and 0562 SW 202. The first search warrant authorized the search of the first-floor apartment at 273 Cambridge Street in Worcester and the second the search of the second-floor apartment; each provided that “You .. . are not also authorized to enter the premises without announcement.”
+2. At about 7:00 A.M. on August 29, 2005, state police, including Bigelow, Zona and Leduc, prepared to execute the search warrants at 273 Cambridge Street. Led by Bigelow, police approached a side door located near the rear of the building. Bigelow knocked loudly on the common area door and yelled, more than once, “state police we have a search warrant.” He waited a little longer than five seconds, and then told another officer to break the door in with a ram. The total time from the first knock on the door to the breaking in of the door was seven to eight seconds.
+3. Police immediately entered the first-floor common area. Two teams simultaneously approached the two apartments, one on the first floor and one on the second floor. The first team, led by Zona, approached the first-floor door. Zona loudly banged on the door, and yelled “state police we have a search warrant” several times. They waited about five to ten seconds before Zona yelled “state police we have a search warrant” three more times, tried the doorknob, and then instructed another police officer to ram the door. The time from his initial knock to the ramming of the dpor was at least twenty seconds.
+4. Bigelow and the other officers approached the second-floor apartment door. Bigelow knocked loudly, yelled “state police we have a search warrant,” and waited about fifteen seconds. He then instructed another officer to ram the door.
+5. When the police entered each of the apartments the occupants were in bed or just getting out of bed.
+6. Prior to executing the search warrants, police knew that one of the defendants had successfully moved to suppress drugs, based on violation of knock and announce requirements; as a result, they were careful about compliance with knock and announce requirements.
+7. The bedrooms in each apartment were located on the far side of the building away from the rear side door; the occupants were unable to hear the knocking at the door and only got out of bed because police broke down the doors and entered the apartments.
+DISCUSSION
+As a general rule, police must identify themselves and state their purpose prior to executing a search warrant. See Commonwealth v. Jimenez, 438 Mass. 213, 215-16 (2002). Commonwealth v. Eller, 66 Mass.App.Ct. 564, 573 (2006). The purposes of this rule include “the protection of individual privacy interests and the desire to minimize the potential for violence or property damage.” Commonwealth v. Macias, 429 Mass. 698, 700 (1999). There are limited exceptions to the rule where the police can show sufficient facts to support issuing a no-knock warrant. See Commonwealth v. Rodriguez, 415 Mass. 447, 450-51 (1993) (exceptions include when there is a strong possibility that an announcement would endanger the police or others or where there is probable cause to believe that someone, upon hearing the announcement, would destroy the object of the search); Commonwealth v. Mullane, 445 Mass. 702, 707 (2006).
+a. The Reasonableness of the Delay
+The defendants contend that the officers failed to knock and announce before entering the premises, or alternatively, entered too quickly after knocking. The period of time that police waited at each apartment door was “at least 20 seconds” and about 15 seconds for the first-and second-floor apartments, respectively. Immediately before forcing the apartment doors, police knocked and announced at the entry door to the common area, waited about seven to eight seconds and then forced the door.
+As to the first argument, that police did not knock and announce at all, the court declines to so find.
+As to the issue of the reasonableness of the delay, the standard is provided by United States v. Banks, 540 U.S. 31, 124 S.Ct. 521 (2003). The reasonableness of the use of force must be judged from the “perspective of a reasonable officer on the scene.” Banks at 39. “The issue comes down to whether it was reasonable to suspect imminent loss of evidence after the 15 to 20 seconds the officers waited prior to forcing their way.” Banks at 38. In Banks, conceding that it was a close case, the Supreme Court held that the same period of time as in this case was reasonable. The circumstances were not appreciably different. Ibid. For example, the early hour involved in this case, sometime after 7:00 A.M., is not so significant to depart from the clear requirements of Banks; this case is controlled by Banks.
+The seven-to eight-second delay after the knock and announce at the common area entry door supports rather than undercuts the Commonwealth’s argument that the overall delay was reasonable. See Commonwealth v. Demogenes, 14 Mass.App.Ct. 577, 583 (1982) (no knock and announce violation even where police did not knock and announce at the main entrance to the multifamily home and broke through the apartment unit door only ten seconds after knocking and announcing there, having seen the defendant walk away from them, increasing the possibility of destruction of evidence). In short, the delay at the common area door provided additional notice to the defendants that police were at their door.
+The cases cited at the suppression hearing by able defense counsel do not justify a different result. In United States v. Granville, the Ninth Circuit Court of Appeals reversed the denial of a motion to suppress where police delayed five seconds. The similar delay, in this case, at the common area entiy door is not analogous. Similarly, the Ninth Circuit’s reversal of denial of a motion to suppress, when police waited three to five seconds before forcing the door to the defendant’s apartment, is not similar to this case. United States v. Mendonsa, 989 F.2d 366, 370 (1993).
+b. Whether Further Delay Would Have Been a Futile Gesture
+When police entered the apartment, the occupants were in bed or getting out of bed. Given the dangers inherent in the execution of search warrants seeking evidence of cocaine distribution, it is unrealistic to require police to have delayed more than an additional 10 to 15 seconds. It would have been a futile gesture for police to have waited that period of time for the occupants to come to the door because the occupants were in bed, at the opposite end of the building and could not hear the knock and announce. Commonwealth v. Herring, 66 Mass.App.Ct. 360, 365 (2006), Commonwealth v. Antwine, 417 Mass. 637, 641 (1994).
+ORDER
+Finding that police did knock and announce, and that the delays between the knock and announce and forcing of the apartment doors were adequate, Amarillis Ortiz, Edwin Algarin and Margarita Santiago’s motions to suppress are DENIED.
