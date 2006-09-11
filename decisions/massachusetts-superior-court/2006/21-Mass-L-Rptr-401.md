@@ -1,0 +1,31 @@
+---
+court: "Massachusetts Superior Court"
+docket: "0044658"
+decided: "2006-09-11"
+citations: ["21 Mass. L. Rptr. 401"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Nokuthula Ngwenyama v. Town Sports International, Inc et al."]
+source_url: "https://static.case.law/mass-l-rptr/21/cases/0401-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3535933
+cites_cases: ["518 U.S. 1"]
+---
+
+# Ngwenyama v. Town Sports International, Inc.
+
+## Majority (Connolly, Thomas E., J.)
+
+Connolly, Thomas E., J.
+This civil action arises from a massage that the plaintiff, Nokuthula Ngwenyama received at the Boston Sports Club on November 26, 2001. In the performance of a massage, Mr. Mustapha, the massager in the employ of the defendant, sexually molested the plaintiff, for which indecent assault and battery he was criminally tried and convicted. The plaintiff has brought this action, inter alia, for the intentional infliction of emotional harm, negligent hiring, etc. The defendant’s employee, Mr. Mustapha, who performed the massage, did not have a massage license.
+The defendant wishes to now obtain all the plaintiffs psychiatric and psychological records from 1995 to present. The plaintiff, Ms. Ngwenyama in turn asserts her psychotherapist-patient privilege under Ch. 233, §20B.
+This Court has reviewed in-camera all of the documents provided by plaintiffs counsel from Irving Allen, M.D., William Ira Bennett, M.D. and Robert A. Williams, M.D. These are the medical records which the defendant evidently wants copies of. Plaintiffs counsel has had the plaintiff evaluated by Doctor John Daignault, who has written a nine-page report, a copy of which report has been supplied to defendant’s counsel. Said reports details the plaintiffs past childhood trauma.
+The issue before the Court is whether under ch. 233, §20B(c) the production of these reports is more important to the interests of justice than that the confidential relationship between patient psychotherapist be protected.
+The cases on this issue are of “all varieties.” Some cases say if the plaintiffs claims deal in any way with his/her mental or emotional conditions, all the records must be produced. Some other cases hold that, if the emotional claims are of the “garden variety type” arising from a personal injury, the past psychological records do not have to be produced. In this case we are dealing with a specific sexual assault on the plaintiff which injuries are set out in detail in the nine-page report furnished to defendant’s counsel. This Court has reviewed in-camera in detail the psychiatric records produced by plaintiffs counsel. Said records do not deal with the plaintiffs sexual assault and any trauma that she sustained as a result of the November 26, 2001 incident. They primarily deal with her traumatic childhood and the consequences therefrom.
+Applying the test set out in ch. 233, §20B(c), this Court can see no reason why the interest of justice should require the production of the prior psychiatric records. In effect, the allowance of this motion would require an injured plaintiff such as Ms. Ngwenyama under the facts of this case, who sustains mental or emotional damage as the result of the sexual assault, to require the breaching of her patient-psychotherapist relationship that she always thought was confidential. In substance, a plaintiff would have to suffer the extreme distress of all of her psychiatric records made public to the defendant in order to pursue this case. That is too high a price to pay by a woman who has been sexually assaulted by a now registered sex offender. If this is the cost of asserting this claim in this case, it is simply unfair and unjust.
+The Court believes that the purposes of the defendant will be served with the nine-page report furnished to it, in addition the rest of the discoveiy which it has taken. This Court finds in the circumstances of this case, that it is more important to the interests of justice that the prior psychiatric reports not be disclosed, in part for the reasons stated by the United States Supreme Court in Jaffee v. Redmond, 518 U.S. 1 (1996).
+ORDER
+After hearing, and an ex parte review of the plaintiffs records, the motion is DENIED. It is ORDERED that the psychiatric records furnished by the plaintiff to the Court be impounded and be available for the Appellate Court in the event of an appeal.
+In Federal Court, under F.R. Evid 501, the psychotherapist-patient mle is absolute (with very few exceptions, e.g. a serious threat of harm to patient or others) and does not allow a balancing test as does ch. 233, §20B(c). In Jaffee v. Redmond, 518 U.S. 1 (1996), the Court held that effective psychotherapy depends on an atmosphere of confidence and trust, and therefore the mere possibility of confidential communications being revealed to others may impede development of the relationship necessary for successful treatment. The Court went on to reject the balancing component implemented by the Court of Appeals “for it would eviscerate the effectiveness of the privilege by making it impossible for participants to predict whether their confidential conversations will be protected.” Making the promise of confidentiality contingent upon a trial judge’s latest evaluation of the relative importance of the patient’s interest in privacy and the evidentiary need for disclosure would eviscerate effectiveness of the privilege. “[I]f the purpose of the privilege is to be served, the participants in the confidential conversation must be able to predict with some degree of certainty whether particular discussions will be protected. An uncertain privilege, or one which purports to be certain but results in widely varying applications by the courts, is little better than no privilege at all." Jaffe v. Redmond, supra, at p. 17- p. 18.
+While our Supreme Judicial Court has indicated that it has and will consider each of the Federal Rules of Evidence on a case-by-case manner, it has not dealt with Rule 501. Therefore, the Court must apply the test in this case as set out in ch. 233, §20B(c), as referred to above.
