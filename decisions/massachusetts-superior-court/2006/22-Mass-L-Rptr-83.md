@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Superior Court"
+docket: "050275C"
+decided: "2006-12-27"
+citations: ["22 Mass. L. Rptr. 83"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gloria Skirvin v. Philip J. Ayvazian, M.D. et al."]
+source_url: "https://static.case.law/mass-l-rptr/22-2/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11074830
+cites_cases: ["21 Mass. L. Rptr. 351", "363 Mass. 396", "37 Mass.App.Ct. 377", "399 Mass. 547"]
+---
+
+# Skirvin v. Ayvazian
+
+## Majority (Locke, Jeffrey A., J.)
+
+Locke, Jeffrey A., J.
+This matter comes before the Court on plaintiffs motion to strike an affirmative defense asserted by all defendants in the above-referenced case, which has been consolidated for discovery purposes with the related case of Gonzalez v. Katz et al., Worcester Civil No. 2005-0217.
+Plaintiffs motions to strike are based on a ruling previously entered as to other defendants in the Gonzalez case, wherein the Court (Agnes, J.) ruled that a so-called “immunity provision” of G.L.c. 113, §1-14 (entitled, Promotion of Anatomical Science Act or “PASA” and codifying under Massachusetts law the Federal Uniform Anatomical Gift Act) was not applicable to an action brought on behalf of a recipient of a transplanted organ, alleging common-law claims of negligence or medical malpractice. See, Memorandum And Order On Defendants’ Motion To Dismiss The Plaintiff’s First Amended Complaint With Prejudice For Failure to State a Claim Upon Which Relief Can Be Granted, Pleading No. 48, entered July 19, 2006, in Gonzalez v. Katz et al. [21 Mass. L. Rptr. 351).
+A comparison of the instant case and the Katz case show similar allegations by the plaintiff, to wit, that defendant New England Organ Bank, its personnel involved in screening an order donor’s suitability, and medical defendants involved in the transplantation of organs from a donor afflicted with a rare form of terminal brain cancer, were negligent and committed medical malpractice in accepting donated organs and transplanting them to the plaintiffs’ decedents in the two cases. The plaintiffs assert that this Court is bound to follow and apply Judge Agnes’s ruling in both cases. In opposition, in the instant case, the defendants contend that Judge Agnes’s ruling does not constitute the law of the case. Goulet v. Whitin Machine Works, Inc., 399 Mass. 547, 554 (1987); see also Salter v. Salter, 363 Mass. 396, 402 (1973) (trial court judges may revise earlier rulings when justice so requires up until time of final judgment).
+Technically, Judge Agnes’s decision in the Gonzalez case is not in any way binding on the instant matter, which was filed as a separate civil action involving a separate plaintiff and a number of different defendant doctors. The two cases have been consolidated for the limited purpose of coordinating pretrial discovery as to issues or witnesses common to both actions. Notwithstanding, the applicability of an immunity defense under the Promotion of Anatomical Science Act would raise identical issues in both cases, and it would be illogical to apply the doctrinal principles of the law of the case doctrine in one action but not the other. Therefore, the Court will consider the plaintiff s motion as properly framed in both cases.
+Upon consideration, the defendants state the law correctly. This Court is not bound by aruling of another trial judge in the absence of final judgment. “[U]nder the law of the case doctrine, a second judge does have the power until final judgment to rule differently from the first judge on ‘an issue or a question of fact or law once decided’ in order to reach a just result.” Catalano v. First Essex Sav. Bank, 37 Mass.App.Ct. 377, 384 (1994), quoting Goulet v. Whitin Machine Works, Inc., 399 Mass. at 554. While a judge may have discretion to revisit an issue previously decided, in the exercise of such discretion a judge must be cognizant of principles of judicial comity and consistency. Thus, as a matter of general practice, a trial judge will not reconsider a ruling entered by a peer absent a compelling reason.
+Here, the defendants request that this Court should reconsider and revise or modify Judge Agnes’s thorough and thoughtful decision in the Gonzalez case. The basis for the request is simply that they disagree with the Court’s analysis and outcome. Their arguments in favor of a claim of immunity under PASA were first presented to Judge Agnes and, upon an adverse ruling, were reviewed by a single justice of the Appeals Court. Unsuccessful at the appellate level, the arguments were again presented to Judge Agnes on a motion for reconsideration. Having carefully reviewed Judge Agnes’s comprehensive memorandum of decision this Court, in the exercise of my discretion, declines the invitation to modify it. Moreover, although not strictly the law of the case in the Skirvin action, the desire for (and benefits of) consistency in the interpretation and application of G.L.c. 113, §§8-14 suggests that the outcome should be the same here. Therefore, the plaintiffs motion to strike the affirmative defense of “immunity” will be allowed.
+ORDER
+Plaintiffs motion to strike the affirmative defense of statutory immunity is ALLOWED.
+This ruling does not leave the defendants without remedies. At a minimum, the issue may be addressed in an appeal from an adverse final judgment. As well, the defendants could request that the trial court permit evidence of a defense of good faith and put the issue before a jury as a special question, advisory in nature, would could guide the Court in the event the immunity provisions of c. 113 were determined on appeal to apply. Finally, the single justice of the Appeals Court suggested the possibility of defendants’ seeking an interlocutory appeal under the doctrine of present execution.
