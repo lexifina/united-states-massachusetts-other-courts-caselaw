@@ -1,0 +1,52 @@
+---
+court: "Massachusetts Superior Court"
+docket: "061997A"
+decided: "2007-01-30"
+citations: ["22 Mass. L. Rptr. 57"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mark Rubin et al. v. Todd Morrone et al."]
+source_url: "https://static.case.law/mass-l-rptr/22-2/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11074760
+cites_cases: ["14 Mass. L. Rptr. 211", "14 Mass. L. Rptr. 81", "18 Mass. L. Rptr. 160", "1999 WL 791901", "20 Mass. L. Rptr. 576", "2001 WL 1763446", "2001 WL 1772037", "2006 WL 3759792", "2006 WL 832649", "21 Mass. L. Rptr. 499", "3 Mass.App.Ct. 441", "32 Mass.App.Ct. 319", "356 Mass. 37", "387 Mass. 841", "397 Mass. 555", "398 Mass. 304", "432 Mass. 1014", "52 Mass.App.Ct. 566", "58 Mass.App.Ct. 1111", "65 Mass.App.Ct. 1108"]
+---
+
+# Rubin v. Morrone
+
+## Majority (Agnes, Peter W., J.)
+
+Agnes, Peter W., J.
+Introduction
+The plaintiffs, Mark and Brenda Rubin, filed a civil action against the defendant Zoning Board of Appeals of the Ciiy of Worcester (“Board”) under G.L.c. 40A, §17 to challenge the grant of a variance to permit an existing basketball hoop on their neighbor’s property. The Board approved a variance from the required setback from the front yard and from the side yard to permit the existing placement of the basketball hoop. The Board has filed a motion to dismiss in which it maintains that this court has no jurisdiction to proceed because the plaintiffs did not notify the City Clerk in a timely manner as required by G.L.c. 40A, §17. By agreement of the parties, the court will consider facts outside the pleadings and treat the Board’s motion as one for summaiyjudgment pursuant to Mass.R.Civ.P. 12(c).
+Background
+The essential facts are not in dispute. The written decision by the Board was filed with the City Clerk on September 25, 2006. Exhibit 2 to the Defendants’ Motion to Dismiss (“Defendants’ Motion”). Within 20 days of the Board’s decision, the plaintiffs filed a complaint against the Board in the Worcester Superior Court setting forth a challenge to the Board’s decision. Exhibit 1 to the Defendants’ Motion. A copy of the complaint and summons was not served on the Clerk of the Cify of Worcester within 20 days of the Board’s decision. Exhibit 2 to the Defendants’ Motion (Affidavit of David J. Rushford, City Clerk of the City of Worcester). While plaintiffs concede that they failed to notify the Cify Clerk as required by c. 40A, §17, they contend that on September 26, 2006, they notified two assistants at the Cify Clerk’s office that they intended to appeal the decision of Board. Exhibit 2 to the Defendants’ Motion (Affidavit of Mark Rubin, Plaintiff).
+Discussion
+1. The cify or town clerk must be given appropriate notice of a civil action under G.L.c. 40A, §17
+G.L.c. 40A, §17 provides that a “person aggrieved by a decision of the board of appeals or any special permit granting authority . . . may appeal ... by bringing an action within twenty days after the decision has been filed in the office of the Gity or town clerk . . . Notice of the action with a copy of the complaint shall be given to such city or town clerk so as to be received within such twenty days.” (Emphasis added.) “The purpose of the notice provision is to give interested third persons at least constructive notice of the appeal.” Costello v. Bd. of Appeals of Lexington, 3 Mass.App.Ct. 441, 443 (1975). The twenty-day deadline for notice is a requirement the court has “policed in the strongest way.” Cappuccio v. Zoning Bd. of Appeals of Spencer, 398 Mass. 304, 311-12 (1986). There are a long line of cases that have plainly and unambiguously required plaintiffs, both represented by attorneys and not, to comply with the twenty-day time period. See a sampling of decisions set forth in the Appendix to this decision.
+2. Strict compliance with the twenty-day notice requirement is excused only where the cify or town clerk has actual notice or actual knowledge of the complaint
+In Konover Mgmt. Corp. v. Planning Bd. of Auburn, 32 Mass.App.Ct. 319 (1992), the Appeals Court held that a developer appealing the denial of a special permit complied with the notice requirement when a copy of the complaint, through a technical misstep, was not served on the town clerk, where the town clerk was “actually and seasonably alerted” to the complaint. There, both the assistant town clerk and the town clerk were aware of the complaint within the required time period. See also Alfano v. Planning Bd. of Middleton, No. 05-P-20, WL 3242149, at *1-2 (Mass.App.Ct. Dec. 1, 2005) (unpublished Rule 1:28 decision) (distinguishing cases such as Garfield v. Bd. of Appeals of Rockport, 356 Mass. 37, 38-39 (1969), and Konover Mgmt. Corp v. Planning Bd. of Auburn, 32 Mass.App.Ct. 319, 322-26 (1992), only support exceptions from the notice requirement where the cify or town clerk received at least some sort of actual notice of the appeal). But see Miller v. Town of Douglas Zoning Bd. of Appeals, Civil No. 06051587C, 2006 WL 3759792, at *1 (Worcester Super.Ct. Dec. 12, 2006) (Locke, J.) (service of complaint to secretaiy of both the Zoning Board and the Town’s building inspector, by an officer of the court, who assured pro se plaintiff that such service was adequate, met the notice requirement of 40A, § 17, especially where town clerk did not assert whether she was actually aware of the complaint).
+Here, the plaintiffs assert they notified two assistants at the City Clerk’s office within the required time period. Plaintiffs do not identify the names or titles of the assistants, do not represent that they stated they were actually assigned to the Clerk’s office or that they would insure that the City Clerk would be notified. Exhibit 2 to the Defendants’ Motion (Affidavit of David J. Rushford, City Clerk of the City of Worcester). This, without more, cannot excuse the plaintiffs from the strictly enforced notice provision of c. 40A, §17. Otherwise, any plaintiff failing to appropriately file within the twenty-day period could argue that they told someone at the city clerk’s office, and delay the timely institution of an appeal, one of the underlying purposes of the notice provision.
+3. Problems associated with self-representation
+This case illustrates some of the problems self-represented persons may face when seeking judicial review of a decision by an administrative agency or board at the local or state level. Often, the law in this area is complex, and many of the rules and requirements are strictly enforced to protect the interests of persons such as persons who are abutters to the property owned by the plaintiffs. Unfortunately, while provisions, such as the twenty-day notice may be unfamiliar and/or not readily apparent to a non-lawyer, judges are not permitted to disregard the requirements of the law because one of the parties is not represented by an attorney. See generally Burnham v. Clerk of Peabody Div. of Dist. Ct. Dept. 432 Mass. 1014 (2000); International Fid. Ins. Co. v. Wilson, 387 Mass. 841, 847 (1983).
+Order
+For the foregoing reasons, it is therefore ORDERED that the defendant’s motion to dismiss for lack of subject matter jurisdiction is ALLOWED.
+Plaintiffs have also filed the action against Todd and Rebecca Morrone, their neighbors, who requested the variance from the Zoning Board of Appeals.
+October 13, 2006.
+The Clerk’s Office received notice on October 24, 2006. Exhibit 2A to Defendants’ Motion (Affidavit of Mark Rubin, Plaintiff).
+Appendix
+Supreme Judicial Court Cases
+O’Blenes v. Zoning Bd. of Appeals of Lynn, 397 Mass. 555, 556-59 (1986) (being misinformed, by a “clerk of the board” about the deadline of appeal did not excuse complying with the twenty-day notice requirement).
+Cappuccio v. Zoning Bd. of Appeals of Spencer, 398 Mass. 304, 311-12 (1986) (timely commencement of a c. 40A, §17 appeal is “a condition sine qua non,” and a requirement the court has “policed in the strongest way”).
+Appeals Court Cases
+Checkmate Dev. LLC v. Zoning Bd. of Appeals of North Andover, 65 Mass.App.Ct. 1108 (2005) (a complaint, apparently mailed, first class, in time to satisfy the notice requirement, failed to comply because the clerk’s office did not receive the complaint on time).
+Bingham v. City Council, 52 Mass.App.Ct. 566 (2001) (notice requirement not satisfied when plaintiff failed by fifteen minutes to file a notice of appeal with the clerk’s office).
+Costello v. Bd. of Appeals of Lexington, 3 Mass.App.Ct. 441, 443 (1975) (notice mailed to clerk’s office on the twentieth day, and received on the twenty-first day, did not satisfy statute).
+Superior Court Cases
+Dymek v. Town of Leicester Zoning Bd. of Appeals, Civil No. 051858A (Worcester Super.Ct. Sept. 15, 2006) (Lu, J.) [21 Mass. L. Rptr. 499] (court required to dismiss action if the town clerk is not provided notice within twenty days).
+Kibbe v. Town of Douglas Zoning Bd. of Appeals, Civil No. 2003-1018 (Worcester Super.Ct. July 13, 2004) (Agnes, J.) [18 Mass. L. Rptr. 160] (twenty-day notice requirement applies to persons who choose to represent themselves).
+Howard v. Daniels, Civil No. 02635, 2006 WL 832649, at *67 (Barnstable Super.Ct. Feb. 24, 2006) (White, J.) [20 Mass. L. Rptr. 576] (compliance with twenty-day requirement not relaxed when a zoning board member incorrectly noted the filing date on the Board decision as April 3rd, as opposed to April 2nd, the actual filing date of the decision, and appealing party notified clerk’s office on April 23rd).
+Jacobs v. Town of Weston, Civil No. 012828J, 2001 WL 1772037, at *1 (Middlesex Super.Ct. Dec. 10, 2001) (Giles, J.) [14 Mass. L. Rptr. 211] (failed to comply with notice provision when plaintiff filed appeal with the wrong municipal officer), aff'd, 58 Mass.App.Ct. 1111.
+Sanderson v. Zoning Bd. of Appeals, Civil No. 011052A, 2001 WL 1763446, at *2 (Worcester Super.Ct. October 30, 2001) (Locke, J.) [14 Mass. L. Rptr. 81] (notice of appeal that reached town clerk’s office on the morning of day twenty-one was not an innocuous misstep excusing compliance with c. 40A, §17).
+Solomon Pond Realty Trust v. Zoning Bd. of Appeals, Northborough, Civil No. 990790, 1999 WL 791901, at *1 (Worcester Super.Ct. Aug. 31, 1999) (Josephson, J.) (purpose of the notice requirement is not accomplished by informing the assistant clerk at the Town Clerk’s office).
