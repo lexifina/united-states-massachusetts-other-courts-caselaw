@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Superior Court"
+docket: "WOCV200601972A"
+decided: "2007-02-07"
+citations: ["22 Mass. L. Rptr. 187"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joseph Schmitt v. Robert Murphy, as he is Superintendent of Bridgewater State Hospital"]
+source_url: "https://static.case.law/mass-l-rptr/22-2/cases/0187-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11075044
+cites_cases: ["19 Mass. L. Rptr. 539", "2007 WL 10728", "201 F.3d 1136", "247 F.3d 726", "303 F.3d 1256", "42 U.S.C. §1997", "5 F.3d 360", "534 U.S. 516"]
+---
+
+# Schmitt v. Murphy
+
+## Majority (Agnes, Peter W., J.)
+
+Agnes, Peter W., J.
+1.
+This is a civil action in which the plaintiff, Joseph P. Schmitt, a person who has been adjudicated to be a “sexually dangerous person” and confined to Bridgewater State Hospital (“Hospital”), brings this action against, among others, defendant Robert Murphy, the Massachusetts Treatment Center (Superintendent) alleging that the Hospital’s mail regulations, as promulgated under 103 Code Mass. Regs. §481.00 et seq., are unconstitutional and that he is entitled to damages under federal civil rights laws. The defendant Superintendent has filed a motion to dismiss in which he maintains that this court should dismiss the action because plaintiff has not exhausted his administrative remedies prior to commencing this litigation as required by the Prison Litigation Reform Act (“PLRA”), 42 U.S.C. §1997(e)(a). The PLRA requires that a prisoner seeking to file certain claims regarding prison conditions must first exhaust available administrative remedies. 42 U.S.C. §1997(e)(a) (“No federal civil action may be brought by a prisoner confined in a j ail, prison, or other correctional facility, for mental or emotional injuiy suffered while in custody without a prior showing of physical injuiy”). See Porter v. Nussle, 534 U.S. 516, 532 (2002) (“PLRA’s exhaustion requirement applies to all inmate suits about prison life, whether they involve general circumstances or particular episodes, and whether they allege excessive force or some other wrong”). However, the statute defines the term “prisoner" to mean, “any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.” 42 U.S.C. §1997(e)(h). The PLRA does not include within the definition of “prisoner” an individual who is civilly confined to a state hospital as a sexually dangerous’ person. If the Congress intended the term “prisoner” to include a person confined as sexually dangerous, it could have easily done so. See generally Flores-Arrelano v. INS, 5 F.3d 360, 362 (9th Cir. 1993) (plain language reading controls unless it leads to absurd or unreasonable results).
+2.
+In King v. Greenblatt, Judge Mazzone of the United States District Court read “prisoner” as defined by the PLRA not to include civilly-committed residents at the Bridgewater State Hospital. 53 F.Sup.2d 117, 137-38 (1999). There, the court evaluated the applicability of longstanding consent decrees governing the treatment center for sexually dangerous persons in Bridgewater, Massachusetts. In dicta, the court noted that the PLRA does not extend to sexually dangerous persons, given the unique nature of their detention. Judge Mazzone’s reasoning is sound, and I adopt it in this case. This result is consistent with other decisions holding that the exhaustion requirement under the PLRA does not apply to constitutional claims that do not involve emotional or physical injuiy. See Shaheed-Muhammad v. Dipaolo, 138 F.Sup.2d 99, 107 (D.Mass. 2001) (Gertner, J.); Jackson v. Verdini, No. 2003-4431 (Middlesex Superior Court, June 5, 2005) (Gants, J.) [19 Mass. L. Rptr. 539). Accord, Page v. Torrey, 201 F.3d 1136, 1139-40 (9th Cir. 2000) (sexually dangerous person currently detained at a state hospital is not a “prisoner” within the meaning of the PLRA); Kolocotronis v. Morgan, 247 F.3d 726, 728 (8th Cir. 2001) (inmate who was found not guilty of a certain criminal charge by reason of insanity, and was committed to a state hospital, was not a prisoner within the meaning of the PLRA); Troville v. Venz, 303 F.3d 1256, 1260 (2002) (“We agree with Page, Kolocotronis, and the other opinions that have held that PLRA’s straightforward definition of ’prisoner’ to apply only to persons incarcerated as punishment for a criminal conviction”). But see Jackson v. Johnson, No. 04-10419, 2007 WL 10728, at *5 (3d Cir. Jan 3, 2007) (court held that a person confined to a privately operated halfway house was a “prisoner” within the meaning of the PLRA).
+ORDER
+Because the plaintiff is civilly committed to the Bridgewater State Hospital as a sexually dangerous person, he is not considered a “prisoner” within the meaning of the PLRA. Therefore, he is not required to exhaust his administrative remedies before challenging the Hospital’s mail regulations. For the foregoing reasons, it is therefore ORDERED that the defendant’s motion to dismiss is DENIED.
+Plaintiff has been civilly committed as a “sexually dangerous person” since August 11, 2002.
+The court explained that Massachusetts courts have repeatedly concluded that an individual adjudicated as a sexually dangerous person, and confined to a state hospital, are confined for treatment, not punishment. The court also noted that at the time of the case, eleven residents at the Center were sent there without ever receiving a criminal sentence.
