@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Superior Court"
+docket: "064616BLS1"
+decided: "2007-04-02"
+citations: ["22 Mass. L. Rptr. 289"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Massachusetts Bay Transportation Authority v. City of Somerville et al."]
+source_url: "https://static.case.law/mass-l-rptr/22-2/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11075295
+cites_cases: ["317 Mass. 346", "340 Mass. 360", "348 Mass. 107", "390 F.3d 65", "390 Mass. 419", "404 Mass. 14", "410 Mass. 706", "424 Mass. 275", "429 Mass. 329", "431 Mass. 57", "441 Mass. 240"]
+---
+
+# Massachusetts Bay Transportation Authority v. City of Somerville et al.
+
+## Majority (van Gestel, Allan, J.)
+
+van Gestel, Allan, J.
+These consolidated matters are before the Court on four cross motions for summary judgment and a motion for judgment on a case stated. The motions are; (1) Defendant Outdoor Advertising Board’s Motion for Summary Judgment on Counts I and III of the Cities’ Complaint; (2) Plaintiff Massachusetts Bay Transportation Authority’s Motion for Summary Judgment; (3) Motion by the City of Melrose for Summary Judgment; (4) Clear Channel Outdoor, Inc.’s Motion for Summary Judgment on All Claims and Counterclaims Pursuant to Rule 56; and (5) City of Somerville’s Motion ... in Support of Its Request for Judgment on a Case Stated.
+All five motions are grounded in one way or another on whether commercial advertising activities by the Massachusetts Bay Transportation Authority (“MBTA”) in and on its own facilities may be regulated by the local communities in which those facilities are located.
+In particular, for these cases, there are two sites, each agreed to be facilities of the MBTA. In Somerville there is an MBTA commuter rail maintenance facility and in Melrose there is the Cedar Park commuter rail station. At each site the MBTA, through contractors engaged by it, seeks to erect commercial advertising signs as part of the MBTA’s effort to raise revenue for its commuter transportation system.
+The cities argue that commercial advertising is not part of the legislative function of the MBTA. Consequently, they say, the local zoning ordinances of Som-erville apply at the commuter rail maintenance facility and the zoning ordinance of the City of Melrose apply at the Cedar Park commuter rail station.
+Asserting that “eggs and chickens are related,” counsel for the MBTA says that commercial advertising on MBTA facilities, like those in issue, is certainly related to the operation of the commuter transportation system.
+DISCUSSION
+Summary judgment is granted where, viewing the evidence in the light most favorable to the non-moving party, there are no issues of genuine material fact, and the moving party is entitled to judgment as a matter of law. Cabot Corporation v. AVX Corporation, SJC-09857, Slip Op., pp. 11-12 (March 28, 2007); Hakim v. Massachusetts Insurers’ Insolvency Fund, 424 Mass. 275, 281 (1997); Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991); Cassesso v. Commissioner of Correction, 390 Mass. 419, 422 (1983); Mass.R.Civ.P. 56(c). “(T]he moving party must establish that there are no genuine issues of material fact, and that the non-moving party has no reasonable expectation of proving an essential element of its case.” Miller v. Mooney, 431 Mass. 57, 60 (2000). See also Pederson v. Time, Inc., 404 Mass. 14, 17 (1989).
+Here all parties are moving parties and they have jointly submitted an agreed statement of facts. The Court appreciates counsels’ and their clients’ cooperation in this effort. It enables the Court to by-pass the issue of whether there are any material facts in dispute. There are not, and the parties are in agreement on this point.
+Judgment on a cases stated, which is the basis for the City of Somerville’s motion, has similar underpinnings. When there is, as here, an agreement as to all of the material and ultimate facts on which the rights of the parties depend the general rule is that the main questions dealing with the merits of the controversy upon which the parties are at issue may be presented to the Court. In other words, which party is entitled to prevail when the correct legal principles are applied to the facts agreed upon. Cassie v. City of Cambridge, 317 Mass. 346, 347 (1944). See also McGilly v. Day Trust Co., 340 Mass. 360, 361 (1960).
+The Court now turns to the law applicable to the situation.
+“[A]n entity or agency created by the Massachusetts Legislature is immune from municipal zoning regulations (absent statutory provision to the contrary) at least insofar as that entity or agency is performing an essential governmental function.” . . . The scope of the immunity is broad and applies not only to property and facilities owned by the entity or agency but also to leased property and facilities . . . The immunity extends beyond the “essential governmental function” to cover “action reasonably related to that function” so that the agency’s or entity’s public mission is not “prevented by a zoning statute applicable to one community or by a local zoning ordinance or by-law.”
+Town of Bourne v. Plante, 429 Mass. 329, 332 (1999). See also Village on the Hill, Inc. v. Massachusetts Turnpike Authority, 348 Mass. 107, 118 (1964).
+No statutory provision to the contrary, subjecting the MBTA to the zoning ordinances of Somerville or Melrose, has been presented to the Court. To the contrary, provisions of the MBTA’s enabling statute, G.L.c. 161A, have suggested just the opposite. See, e.g., Lavecchia v. MBTA, 441 Mass. 240, 243-44 (2004), describing the MBTA’s history.
+Among the powers granted to the MBTA by the Legislature are the following: (1) the power to provide mass transportation service without being subjected to the jurisdiction and control of any city or town or other licensing authority; (2) the power to “sell, lease or otherwise contract for advertising in or on the facilities of the authority”; and (3) the power to determine the character and extent of the services and facilities to be furnished. G.L.c. 161A, secs. 2 and 3.
+Further, the MBTA has been given the obligation to “establish and implement policies that provide for the maximization of nontransportation revenues from all sources.” G.L.c. 161A, Sec. 11. See also Ridley v. MBTA, 390 F.3d 65, 72 (1st Cir. 2004).
+It cannot be said by this Court that commercial advertising on the MBTA’s facilities, like those in Somerville and Melrose, are not a part of the legislatively mandated function of the MBTA. Even if so, such commercial advertising is without question “action reasonably related to that function,” as described in Town of Bourne, supra, 429 Mass. at 332.
+ORDER
+For the foregoing reasons, and others stated in the various memoranda supporting the MBTA’s position, the Defendant Outdoor Advertising Board’s Motion for Summary Judgment on Counts I and III óf the Cities’ Complaint, the Plaintiff Massachusetts Bay Transportation Authority’s Motion for Summary Judgment, and Clear Channel Outdoor, Inc.’s Motion for Summary Judgment on All Claims and Counterclaims Pursuant to Rule 56, are each ALLOWED and the Motion by the Ci1y of Melrose for Summary Judgment and the City of Somerville’s Motion in Support of Its Request for Judgment on a Case Stated are each DENIED.
+The prevailing parties are asked to submit a proposed form of final judgment to the Court and to counsel for the City of Somerville and the City of Melrose on or before April 13, 2007. The two cities, if they choose, may submit their comments on the proposed judgment to the Court and to counsel for the prevailing parties on or before April 20, 2007. The Court then plans to enter a final judgment no earlier than April 27, 2007.
