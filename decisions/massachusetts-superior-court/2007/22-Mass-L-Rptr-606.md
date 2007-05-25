@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Superior Court"
+docket: "200600226"
+decided: "2007-05-25"
+citations: ["22 Mass. L. Rptr. 606"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richard A. Brooslin et al. v. Jeffrey B. Kimball et al."]
+source_url: "https://static.case.law/mass-l-rptr/22/cases/0606-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11075851
+cites_cases: ["31 Mass.App.Ct. 626", "372 Mass. 96", "378 Mass. 85", "430 Mass. 198", "432 Mass. 474", "437 Mass. 536"]
+---
+
+# Brooslin v. Kimball
+
+## Majority (Velis, Peter A., J.)
+
+Velis, Peter A., J.
+INTRODUCTION
+Plaintiffs Richard A. Brooslin (“Brooslin”) and Daniel A. Pava (“Pava") filed suit against defendants Jeffrey B. Kimball (“Kimball”) and Clarence J. Bennett (“Bennett”) seeking contribution (Count I) and indemnification (Count II) relating to a Superior Court Judgment in favor of Janine McGahan (“McGahan”), a former employee of Kimball, and against Kimball, Bennett, Brooslin & Pava (“KBBP”), the non-partnership professional corporation comprising the legal practices of the instant parties. That March 9, 2005 Judgment vacated a jury verdict in favor of KBBP and reinstated an award of damages to McGahan resulting from her complaint against KBBP with the Massachusetts Commission Against Discrimination (“MCAD”). The defendants now move to dismiss the plaintiffs’ Complaint pursuant to Mass.R.Civ.P. 12(b)(6) for failure to state a claim upon which relief can be granted. For the reasons set forth, the motion to dismiss is allowed.
+BACKGROUND
+The plaintiffs and defendants operate their individual legal practices as employees of KBBP, a non-partnership professional corporation in Springfield. Each attorney of KBBP hires and fires his own secretary and is personally responsible for the secretary’s compensation. McGahan was a legal secretary who worked for Kimball from February 1993 to January 1994. McG-ahan, an asthmatic, filed a workplace discrimination complaint against KBBP with MCAD in 1994 after, inter alia, Kimball and Bennett refused to accommodate her requests that their cigar smoking be confined to the attorneys’ offices. An MCAD Hearing Officer found for McGahan on December 13, 1999, awarding her damages for emotional distress and lost wages, with interest. The MCAD Full Commission affirmed the Hearing Officer’s Decision on December 14, 2000, additionally awarding her attorneys fees and costs.
+KBBP filed suit against McGahan and MCAD in Hampden Superior Court on January 11, 2001 (HDCV2001-00036), seeking to set aside the MCAD Decision and to have McGahan’s claims decided by a jury. After a jury verdict in favor of KBBP with entry of Judgment on May 31, 2002, the court denied McG-ahan and MCAD’s Motion for Judgment Notwithstanding the Verdict and in the Alternative for a New Trial on June 17, 2003. In July 2003, McGahan and MCAD filed appeals that were not docketed by the Appeals Court.
+On June 17, 2004, McGahan and MCAD filed a joint Motion for Reconsideration of Defendants’ Motion for Judgment Notwithstanding the Verdict and in the Alternative for a New Trial, which the court allowed on November 19, 2004. On March 9, 2005, the May 31, 2002, Judgment in favor of KBBP was vacated, and the December 13, 1999, Decision of MCAD was reinstated, with additional lost wages awarded to McGahan. On March 21, 2005, KBBP filed an appeal of the Superior Court’s March 9, 2005, Judgment, which was docketed by the Appeals Court.
+On November 21, 2005, the Superior Court allowed McGahan’s Motion for a Real Estate Attachment against KBBP in the amount of $250,000, with the assent of KBBP.
+The plaintiffs filed the instant suit on March 6, 2006. In the Complaint they state that they neither smoked at KBBP nor in McGahan’s presence, in general. The claim that they neither condoned nor permitted the defendants’ actions related to smoking as set forth in the MCAD Decision. The plaintiffs claim that they did not authorize KBBP’s counsel to indicate that they had no objection to the allowance of McGahan’s Motion for a Real Estate Attachment or Renewed Motion for a Real Estate Attachment against KBBP. They claim that such Attachment has only affected the property of Brooslin.
+DISCUSSION
+I.Standard of Review
+When evaluating the sufficiency of a complaint pursuant to Mass.R.Civ.P. 12(b)(6), the court must accept as true the allegations of the complaint, as well as any reasonable inferences to be drawn from them. Schaer v. Brandeis Univ., 432 Mass. 474, 477 (2000). In evaluating a Rule 12(b)(6) motion, “matters of public record, orders, items appearing in the record of the case, and exhibits attached to the complaint, also may be taken into account.” Id. Although courts do not accept legal conclusions cast in the form of factual allegations, id., a complaint should not be dismissed for failure to state a claim unless it appears beyond doubt that the complainant can prove no set of facts in support of his claim that would entitle him to relief. Nader v. Citron, 372 Mass. 96, 98 (1977). A complaint should not be dismissed if it could support relief on any theory of law. Id. at 104; Whitinsville Plaza, Inc. v. Kotseas, 378 Mass. 85, 89 (1979).
+II.Contribution
+A claim for contribution exists where two or more persons become jointly liable in tort. G.L.c. 23IB, §1(a); Thomas v. EDI Specialists, Inc., 437 Mass. 536, 538 (2002). A tort action in Massachusetts must be commenced within three years after the cause of action accrues. G.L.c. 260, §2A. Here, the cause of action upon which the plaintiffs’ claim for contribution is based accrued when McGahan filed her complaint with MCAD in 1994, and therefore such a tort-based claim for contribution is time barred.
+In addition, plaintiffs’ claim for contribution is also barred as contrary to the intent of the Legislature, because it seeks contribution from an underlying discrimination claim. In Thomas, the court ruled that “allowing a claim for contribution [derived from a discrimination claim] would circumvent the purposes of G.L.c. 151B,” which are to “reduce discrimination in the workplace by holding employers responsible for the discriminatory actions of their employees, regardless of whether these actions were authorized or supported by the employer or its policies.” Thomas, 437 Mass. at 541-42. The Thomas court instructed,
+Even if G.L.c. 151B can be considered “tort-like” for some purposes, allowing an action for contribution would undermine the statute’s complex and detailed procedures; the Legislature could not have intended such a result. General Laws c. 15IB sets forth a comprehensive scheme for the resolution of discrimination claims . . . Allowing a right of contribution would interfere with the Legislature’s preference for resolving the proceedings at the administrative level.
+Id. at 539-40. Therefore, because the plaintiffs’ claim for contribution derives from McGahan’s chapter 15 IB discrimination claim, they may not maintain a claim for contribution.
+III.Indemnification
+The doctrine of indemnification allows “one who is ‘without fault [and] compelled by operation of law to defend himself against the wrongful act of another.’ ” Thomas, 437 Mass. at 538 n. 1, citing Santos v. Chrysler Corp., 430 Mass. 198, 217 (1999). The Thomas court stated, “The Legislature did not intend that an employer found to be in violation of G.L.c. 15 IB could later be considered fault free in a subsequent action for indemnity.” Id. Thus, plaintiffs’ claim for indemnification is barred as contrary to the intent of the Legislature, because it derives from a chapter 15IB discrimination claim.
+The plaintiffs’ indemnification claim is also time barred. A claim for indemnification is based in contract, either express or implied. Kelly v. Dimeo, Inc., 31 Mass.App.Ct. 626, 628 (1991). A contract action in Massachusetts must be commenced within six years after the cause of action accrues. G.L.c. 260, §2. Therefore, because the cause of action on which the plaintiffs’ claim for indemnification is based accrued in 1994, they may not maintain a claim for indemnification.
+ORDER
+For the foregoing reasons, it is ORDERED that defendants’ motion to dismiss pursuant to Mass.R.Civ.P. 12(b)(6) be ALLOWED.
+Judgment for McGahan was in the amount of $ 15,199.37 for lost wages, $50,000.00 for emotional distress, $23,670.00 for attorneys fees, and $1,267.00 for costs, with interest.
