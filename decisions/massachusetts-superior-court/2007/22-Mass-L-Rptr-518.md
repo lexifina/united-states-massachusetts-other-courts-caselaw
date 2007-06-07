@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "054074E"
 decided: "2007-06-07"
-citations: ["22 Mass. L. Rptr. 518", "22 Mass. L. Rptr. 517"]
+citations: ["22 Mass. L. Rptr. 518"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Oleg Batishchev et al. v. Brenda Cote as she is an agent of Coldwell 
 source_url: "https://static.case.law/mass-l-rptr/22/cases/0518-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11075505
-cites_cases: ["117 ALR 5th 155", "159 Mass. 437", "18 Mass.App.Ct. 341", "186 F.2d 52", "340 Mass. 502", "36 Mass.App.Ct. 73", "366 Mass. 688", "377 Mass. 37", "380 Mass. 762", "389 Mass. 345", "394 Mass. 151", "42 Mass.App.Ct. 293", "431 Mass. 833", "442 Mass. 381", "47 Mass.App.Ct. 330", "594 F.2d 212", "669 N.E.2d 1064", "884 F.2d 1489"]
+cites_cases: ["117 ALR 5th 155", "18 Mass.App.Ct. 341", "186 F.2d 52", "36 Mass.App.Ct. 73", "366 Mass. 688", "377 Mass. 37", "380 Mass. 762", "389 Mass. 345", "394 Mass. 151", "442 Mass. 381", "47 Mass.App.Ct. 330", "594 F.2d 212", "884 F.2d 1489"]
 ---
 
 # Batishchev v. Cote
