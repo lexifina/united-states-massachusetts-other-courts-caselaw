@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Superior Court"
+docket: "054074E"
+decided: "2007-09-24"
+citations: ["23 Mass. L. Rptr. 73"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oleg Batishchev et al. v. Brenda Cote, as she is an agent of Coldwell Banker Residential Brokerage et al."]
+source_url: "https://static.case.law/mass-l-rptr/23/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11075108
+cites_cases: ["22 Mass. L. Rptr. 518", "379 Mass. 381", "384 Mass. 310", "430 Mass. 60", "473 U.S. 1", "55 Mass.App.Ct. 316"]
+---
+
+# Batishchev v. Cote
+
+## Majority (Fremont-Smith, Thayer, J.)
+
+Fremont-Smith, Thayer, J.
+Before trial, the Cote defendants made an offer of judgment for $3,000 and then for $5,000 which plaintiff declined. As the juiy found them to have made intentional misrepresentations to the plaintiffs, but found that the plaintiffs did not reasonably rely thereon, no tort liability was established. The Court, however, found that the Cote defendants had violated c. 93A and awarded nominal damages of $25 and ruled that they should be jointly liable with Sabrina Lanz and her law firm, Fee, Rosse & Lanz, P.C. (“the Lanz defendants”) for double the amount of plaintiffs’ attorney fees.
+The Cote defendants now move for attorney fees and costs under Rule 68 and for an apportionment of the amount of plaintiffs attorney fees between legal work done with respect to the c. 93 counts and the other counts of the complaint. As the Lanz defendants have now settled, and as the jury found no tort liability as to the Cote defendants, the damages trial will involve only Natasha Amitan.
+Are Attorney Fees “Costs" Under Rule 68?
+Where, as here, the Court is awarding attorney fees under c. 93A, §4 rather than as c. 93A damages (as was done in Columbia Chiropractic Group v. Trust Insurance Co., 430 Mass. 60, 63 (1999)), the plaintiffs’ recovery of compensatory damages against the Cote defendants will be only $25, i.e. less than Cote’s offer of judgment. Thus the question is raised whether the Cote defendants are entitled to their attorney fees and costs pursuant to Rule 68? Although it seems that no Massachusetts case has considered whether attorneys fees are to be considered costs for purposes of Mass.R.Civ.P. 68, “(i]n construing [the Massachusetts Rules of Civil Procedure] we follow the construction given to the Federal rules absent compelling reasons to the contrary or significant differences in content.” Baghdady v. Lubin & Meyer, P.C., 55 Mass.App.Ct. 316, 325 (2002).
+As stated in Moore’s Federal Practice, vol. 13, Ch. 68:
+In most cases, “costs,” as the term is used in the offer of judgment rule do not include the largest component of litigation costs: attorneys fees. In general, under the “American rule” applicable in most civil litigation, each side is responsible for its own attorneys fees, win or lose. If no exception to the American rule applies, neither an offeree’s acceptance of a Rule 68 offer including “costs then accrued,” nor a rejection followed by failure to win a more favorable judgment with the offeree’s consequent liability for the offeror’s “costs incurred after the making of the offer,” will create any entitlement to or liability for an attorney-fee award.
+See Marek v. Chesny, 473 U.S. 1 (1985). Where an underlying statute defines attorney fees as “costs,” this will control, but under G.L.c. 93A, §4, attorneys fees are not described “as costs,” but instead as an item separate from “costs.” Under the Court’s “plain language” approach, this particular formulation does not define costs to include attorneys fees. It follows that attorneys fees awarded under G.L.c. 93A are not subject to Mass.R.Civ.P. 68. Marek, supra at 2. Even though plaintiffs recovery against the Cote defendants was less than their offer of judgment, they are entitled to recover only the usual allowable costs.
+Should the Award of Plaintiffs’ Attorney Fees Be Reduced by Apportionment?
+Substantial attorneys fees may be awarded even where a consumer recovers only the minimum statutory damages available under G.L.c. 93A. Raymer v. Bay State Bank, 384 Mass. 310 (1981). Courts are to consider the nature of the case and the issues presented, the time and labor required, the amount of damages involved, the result obtained, the experience, reputation and ability of the attorney, the usual price charged for similar services by other attorneys in the same area, and the amount of awards in similar cases in awarding attorneys fees. Linthicum v. Archambault, 379 Mass. 381, 388-89 (1979). In the end, the amount of a reasonable attorneys fees is largely a discretionary matter to be resolved by the judge, who is in the best position to determine how much time was reasonably spent on a case, and the fair value of the attorney’s services. Id.
+As stated in 35 Mass. Practice §4.68: “When the c. 93A claim is joined with other, separate claims, the fee based on these factors should reflect only the effort to prove the c. 93A violation. Of course, if the 93A claim is interconnected factually with other claims, such as a common law claim for deceit, apportionment of the attorney’s time and effort to only the c. 93A claims is not practical and is not required,” citing cases.
+Where, as here, virtually all of the legal preparation for trial and most of the trial itself was necessitated by the joint dishonest conduct of all of the defendants except Amitan (who was only negligent) it is impossible, as a practical matter, to apportion the claims against Amitan from the other claims except by consideration of the number of defendants. Amitan was the only one of the originally-named six defendants who was not part of the dishonest scheme, so the Court will apportion 1/6 of the total attorney award fees to her, leaving the Cote defendants, who are the only active 93A defendants remaining in this case, responsible for the rest.
+See “Rulings and Findings of the Court with Respect to G.L.c. 93 Counts of the Complaint” dated June 7, 2007 [22 Mass. L. Rptr. 518]. The Lanz defendants have now settled so that the amount of compensatoiy damages will be recoverable only from Amitan and attorney fees awarded under c. 93A, §4 will be recoverable only from the Cote defendants.
+Five-sixths of the total attorney fees, which will be awarded after the trial on damages which is scheduled to commence in November 2007, also is consistent with what the Court observed to be the approximate proportion of time which plaintiffs’ counsel devoted to the misrepresentation and related c. 93A claims, as compared to the negligence claim against Amitan, at the liability trial.
