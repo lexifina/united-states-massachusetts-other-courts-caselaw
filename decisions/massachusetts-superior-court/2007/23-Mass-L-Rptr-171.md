@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "072935BLS1"
 decided: "2007-10-16"
-citations: ["23 Mass. L. Rptr. 171", "23 Mass. L. Rptr. 169"]
+citations: ["23 Mass. L. Rptr. 171"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Howard L. Carr v. Entercom Boston, LLC et al."]
 source_url: "https://static.case.law/mass-l-rptr/23/cases/0171-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11075415
-cites_cases: ["137 Mass. 392", "23 Mass. L. Rptr. 138", "26 Mass.App.Ct. 847", "267 Mass. 541", "306 Mass. 597", "334 Mass. 86", "346 Mass. 667", "351 Mass. 382", "370 Mass. 425", "380 Mass. 609", "392 Mass. 356", "399 Mass. 640", "400 Mass. 326", "400 Mass. 705", "406 Mass. 811", "41 Mass.App.Ct. 101", "414 Mass. 721", "424 Mass. 1", "431 Mass. 833", "433 Mass. 217", "445 Mass. 790", "447 Mass. 691", "485 U.S. 940", "485 U.S. 962", "502 U.S. 862", "9 Mass.App.Ct. 506", "931 F.2d 148", "972 F.2d 453"]
+cites_cases: ["23 Mass. L. Rptr. 138", "306 Mass. 597", "346 Mass. 667", "400 Mass. 705", "424 Mass. 1", "431 Mass. 833", "447 Mass. 691", "485 U.S. 940", "485 U.S. 962", "502 U.S. 862", "931 F.2d 148", "972 F.2d 453"]
 ---
 
 # Carr v. Entercom Boston, LLC
