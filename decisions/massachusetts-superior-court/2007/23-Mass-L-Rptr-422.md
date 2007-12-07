@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "072488BLS1"
+decided: "2007-12-07"
+citations: ["23 Mass. L. Rptr. 422"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In re Sonus Networks, Inc., Derivative Litigation"]
+source_url: "https://static.case.law/mass-l-rptr/23-2/cases/0422-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11074924
+cites_cases: ["19 Mass.App.Ct. 59", "634 A.2d 927", "687 A.2d 563", "783 A.2d 543"]
+---
+
+# In re Sonus Networks, Inc.
+
+## Majority (VAN Gestel, Allan, J.)
+
+VAN Gestel, Allan, J.
+While this matter is before the Court, after argument and under advisement, on Defendants’ Motion to Dismiss, Paper #22 (the “defendants’ motion”), the plaintiffs have filed their own Plaintiffs’ Motion to Voluntarily Dismiss Without Prejudice, Paper #36 (the “plaintiffs’ motion”). The plaintiffs’ motion is vigorously opposed.
+The plaintiffs’ motion is made pursuant to Mass.R.Civ.P. 41(a)(2). That Rule allows dismissal by the Court “upon such terms and conditions as the Court deems proper."
+The underlying complaint presents a stockholder’s derivative action pursuant to Rule 23.1. The defendants’ motion is grounded on the failure of the plaintiffs to make the requisite pre-suit demand on the board of directors of the nominal defendant, Sonus Networks, Inc. (“Sonus”). Sonus is a Delaware corporation and, therefore, Delaware law applies on the issue of whether the excusal of the demand has been sufficiently pled.
+The plaintiffs’ motion is based upon their recent efforts to inspect Sonus’s books and records under 8 Del. Code §220, presumably to then determine whether the pre-suit demand is warranted or may be excused. In their motion the plaintiffs ask for dismissal “without prejudice.” Thus, allowance of that motion may not eliminate the resolution of the underlying issues in the courts of Massachusetts.
+In considering its action on the plaintiffs’ motion, this Court takes guidance from the Delaware Supreme Court. In White v. Panic, 783 A.2d 543 (2001), the Delaware high court grappled with the issues of pre-suit demand on a derivative suit, including the issue of dismissal with prejudice for failure or inability to properly plead the basis for demand excusal. On the latter point, the Panic court said, at p. 555-56:
+The policy against permitting stockholder plaintiffs to amend their complaints after an unsuccessful appeal encourages the plaintiff to investigate their claims before filing a complaint so that they have a basis at the outset to make particularized factual allegations in the complaint. In contrast, if plaintiffs were granted leave to amend after an unsuccessful appeal, plaintiffs would have a reduced incentive to ensure that their original complaints are complete from the start.
+This Massachusetts trial Court is unable to predict, and probably should not attempt to do so, whether the Delaware Supreme Court’s comments in Panic will be limited to efforts to amend a complaint only after an unsuccessful appeal or, rather, will also apply at the trial stage. It would not be surprising for Delaware to decide that the no-amendment rule should also apply in its Chancery or Superior courts after an unsuccessful result on a motion to dismiss. Indeed, this Court has recently done so, citing to Panic. See, e.g., In re Sapient Corporation Derivative Litigation, Suffolk Superior Court No. 07-0629 BLS1, Memorandum and Order on Motions to Dismiss (October 29, 2007).
+Here, however, there has yet to be an unsuccessful effort by the plaintiffs on the defendants’ motion. There has, of course, been considerable pain for the defendants measured by the presumed substantial attorneys fees and costs involved in mounting their motion and presenting the arguments to this Court thereon. Thus, the plaintiffs here should not succeed on their motion “without prejudice” without some pain of their own. See, e.g., Flynn v. Church of Scientology of California, Inc., 19 Mass.App.Ct. 59, 65 n.7 (1984) (“The defendants also refer to the expense of the litigation to date as a valid basis for the action taken. The imposition of costs, including counsel fees, as a condition of dismissal . . . ought to have satisfied these interests”).
+The other comment in Panic that catches the eye of this Court appears in footnote 15 at p. 549. There Chief Justice Veasey said:
+We have emphasized on several occasions that stockholder “[plaintiffs may well have the ‘tools at hand’ to develop the necessary facts for pleading purposes,” including the inspection of the corporation’s books and records under 8 Del. C. §220. Disney, 746 A.2d at 226-67; see also Rales v. Blasban, Del.Supr., 634 A.2d 927, 930 n.10 (1993) (“Although derivative plaintiffs may believe it is difficult to meet the particularization requirement of Aronson because they are not entitled to discovery to assist their compliance with Rule 23.1, . . . they have many avenues to obtain information bearing on the subject of their claims. For example, there is a variety of public sources from which the details of a corporate act may be discovered, including the media and governmental agencies such as the Securities and Exchange Commission. In addition, a stockholder who has met the procedural requirements and has shown a specific proper purpose may use the summary procedure embodied in 8 Del. C. §220 to investigate the possibility of corporate wrongdoing.”); Security First Corp. v. U.S. Die Casting and Development Co., Del.Supr., 687 A.2d 563, 567 n.3 (1997) (same).
+It appears that the plaintiffs seek their dismissal without prejudice so that they can now do what they should have done before filing suit in the first place: employ the “summary procedure embodied in 8 Del. C. §220 to investigate the possibility of corporate wrongdoing” at Sonus. Under these circumstances the Court will, with conditions, permit the dismissal to be without prejudice.
+ORDER
+For the foregoing reasons, the Plaintiffs’ Motion to Voluntarily Dismiss Without Prejudice, Paper #36, is ALLOWED on the following conditions: if the plaintiffs pay to the defendants, within 30 days from the date of this Order the costs, including reasonable counsel fees, of preparing the defendants’ Motion to Dismiss, Paper #22, and all of the research, briefing, preparation for and presentation of the argument thereon, then this dismissal shall be without prejudice; but if defendants’ counsel notifies the Court that such payment is not so made, then this dismissal shall be with prejudice. If the parties are unable to agree upon the amount of costs and reasonable attorneys fees, then appropriate affidavit evidence shall be submitted to the Court for action without oral argument.
+No notice of this dismissal to the shareholders of Sonus Networks, Inc. shall be necessary.
