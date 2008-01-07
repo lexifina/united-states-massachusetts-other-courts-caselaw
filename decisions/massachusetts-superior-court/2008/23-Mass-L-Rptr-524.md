@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "050602"
 decided: "2008-01-07"
-citations: ["23 Mass. L. Rptr. 524", "23 Mass. L. Rptr. 532", "23 Mass. L. Rptr. 529"]
+citations: ["23 Mass. L. Rptr. 524"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Roman Catholic Bishop of Springfield, a Corporation Sole v. Travelers
 source_url: "https://static.case.law/mass-l-rptr/23-2/cases/0524-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11075219
-cites_cases: ["137 Mass. 392", "371 Mass. 59", "372 Mass. 599", "377 Mass. 404", "395 Mass. 274", "403 Mass. 230", "403 Mass. 628", "419 Mass. 507", "419 Mass. 852", "429 Mass. 798", "432 Mass. 593", "435 U.S. 589", "442 Mass. 218", "445 Mass. 685", "448 Mass. 15", "6 Mass. L. Rptr. 274", "61 Mass.App.Ct. 595", "8 Mass. L. Rptr. 616"]
+cites_cases: ["371 Mass. 59", "419 Mass. 507", "442 Mass. 218", "445 Mass. 685", "448 Mass. 15", "6 Mass. L. Rptr. 274", "61 Mass.App.Ct. 595", "8 Mass. L. Rptr. 616"]
 ---
 
 # Roman Catholic Bishop of Springfield v. Travelers Casualty & Surety Co.
