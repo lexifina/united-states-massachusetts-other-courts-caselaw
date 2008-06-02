@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "20061036"
 decided: "2008-06-02"
-citations: ["24 Mass. L. Rptr. 132", "24 Mass. L. Rptr. 126"]
+citations: ["24 Mass. L. Rptr. 132"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Commonwealth v. Sean Fitzpatrick"]
 source_url: "https://static.case.law/mass-l-rptr/24/cases/0132-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11074967
-cites_cases: ["122 N.H. 231", "141 Cal.Rptr. 412", "15 Mass. L. Rptr. 11", "153 N.H. 607", "156 N.H. 177", "2002 WL 1489613", "2004 WL 503959", "275 N.E.2d 381", "366 Mass. 165", "385 U.S. 293", "390 Mass. 357", "406 Mass. 230", "422 Mass. 764", "427 Mass. 595", "427 Mass. 611", "43 Mass.App.Ct. 114", "434 Mass. 473", "435 Mass. 811", "439 Mass. 64", "441 Mass. 273", "442 A.2d 602", "443 S.W.2d 720", "445 Mass. 119", "445 Mass. 161", "454 N.Y.S.2d 155", "472 N.Y.S.2d 815", "482 U.S. 78", "484 U.S. 78", "54 Mass.App.Ct. 99", "71 Mass.App.Ct. 1102", "796 F.2d 20", "903 A.2d 952", "934 A.2d 504"]
+cites_cases: ["366 Mass. 165", "385 U.S. 293", "406 Mass. 230", "422 Mass. 764", "427 Mass. 595", "427 Mass. 611", "43 Mass.App.Ct. 114", "434 Mass. 473", "435 Mass. 811", "439 Mass. 64", "445 Mass. 119", "445 Mass. 161", "482 U.S. 78", "484 U.S. 78", "54 Mass.App.Ct. 99", "71 Mass.App.Ct. 1102", "796 F.2d 20"]
 ---
 
 # Commonwealth v. Fitzpatrick
