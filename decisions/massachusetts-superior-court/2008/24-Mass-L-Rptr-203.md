@@ -1,0 +1,42 @@
+---
+court: "Massachusetts Superior Court"
+docket: "04647C"
+decided: "2008-06-03"
+citations: ["24 Mass. L. Rptr. 203"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Guide One Mutual Insurance Company v. Saint Nicholas Orthodox Church"]
+source_url: "https://static.case.law/mass-l-rptr/24/cases/0203-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11075109
+cites_cases: ["22 Mass.App.Ct. 672", "26 Mass.App.Ct. 756", "33 Mass.App.Ct. 219", "366 Mass. 593", "378 Mass. 85", "411 Mass. 451", "420 Mass. 39"]
+---
+
+# Guide One Mutual Insurance v. Saint Nicholas Orthodox Church
+
+## Majority (Henry, Bruce R., J.)
+
+Henry, Bruce R., J.
+This matter was tried before a juiy over the course of one week. I reserved for myself the decision on the counterclaim brought pursuant to G.L.c. 93A. At the trial, the juiy found that the defendant, Saint Nicholas Orthodox Church (the Church) had provided timely notice of property damage to its insurer, Guide One Mutual Insurance Company (the Company). The jury also found that the Company had breached the terms of the insurance agreement. After finding that certain policy exclusions applied, the juiy awarded the defendant $40,000 on its counterclaim for breach of contract.
+Factual Findings
+Based on the evidence at trial, I make the following findings of fact with regard to the c. 93A claim.
+1. The Company insured the Church for property damage pursuant to a policy of insurance which was applicable for the period May 14, 2003, to May 14, 2004.
+2. A storm late in 2002 caused damage to the roof of the church building.
+3. The Church contended, and the jury agreed, that it had provided timely notice of the roof damage to the Curley Insurance Agency (Curley), an agent for the Company.
+4. The Company itself received notice of the roof claim on June 13, 2003, six months after the roof damage allegedly occurred. The notice from Curley indicated that a “severe wind & rainstorm caused roof damage, etc.” and that the date of loss was June 1, 2003.
+5. Upon receiving notice, the Company set up a claim file and assigned the matter to one of its claim representatives, Robert Murphy, who assigned the claim to an outside adjuster, Crawford & Company on June 16, 2003. Debra Petkis was the Crawford property adjuster assigned to the file. Ms. Petkis did a prompt investigation on June 17, 2003, which revealed that the claimed roof damage was attributed by William Dmitri of the Church to the weight of snow and ice which had occurred during the last winter. By the time of Ms. Petkis’ visit to inspect the church, the roof had already been repaired by J.D. Despres Roofing, Inc.
+6. Since the investigation by the Company revealed conflicting information regarding when the roof damage had occurred and when that damage had first been reported to Curley, Mr. Murphy sent out a reservation of rights letter in July 2003.
+7. Mr. Murphy continued his efforts to determine when the damages had occurred and when they were first reported to Curley. Polly Berggren, the person at Curley who reported the loss to the Company, confirmed for Murphy that the first report of the loss was on June 13, 2003.
+8. Mr. Murphy spoke with William Dmitri on or about July 10, 2003, concerning when the damage had occurred. Dmitri confirmed that the loss had occurred during the last winter season and that the roof was repaired prior to the report of the incident.
+9. Given the conflicting reports as to the timing of the damage and in view of the information that the repairs had been done before the loss was reported, thereby depriving the Company of the opportunity to investigate the cause and extent of the damage, the Company denied coverage in August 2003.
+10. Even after the denial of coverage, additional conflicting information was provided to the Company. In a letter dated September 4, 2003, counsel for the Church asserted Mr. Dmitri had notified the Company and Curley on March 3, 2003, of the roof damage.
+11. The Company then obtained a recorded statement from the agent, Ms. Berggren, regarding when the first report was made to Curley regarding the roof damage. Ms. Berggren confirmed that she first received notice of the loss on June 13, 2003. The Company sought some verification from the Church of the claimed notice, but none was forthcoming.
+Discussion
+“It has been held, generally that for conduct to violate the standard of [G.L.c. 93A], §2(a), (1) it must fall within at least the penumbra of some common-law, statutory, or other established concept of fairness, (2) it must be unethical or unscrupulous, and (3) it must cause substantial injury to a consumer or another businessman.” Wasserman v. Agnastopoulos, 22 Mass.App.Ct. 672, 679 (1986), quoting PMP Associates, Inc. v. Globe Newspaper Co., 366 Mass. 593, 596 (1975). The focus for determining unfairness is “on the nature of the challenged conduct and on the purpose and effect of that conduct.” Massachusetts Employers Ins. Exchange v. Propac Mass. Inc., 420 Mass. 39, 43 (1995).
+“Conduct in disregard of known contractual arrangements and intended to secure benefits for the breaching party constitutes an unfair act or practice for c. 93A purposes.” Anthony’s Pier Four, Inc. v. HBC Associates, 411 Mass. 451, 474 (1991). Accordingly, “conduct undertaken as leverage to destroy the rights of another party to the agreement,” particularly “unilateral, self-serving conduct . . . during the course of a dispute,” based on a position lacking “substantive merit,” has been found to violate c. 93A. See Massachusetts Employers Ins. Exchange v. Propac Mass. Inc., 420 Mass. at 43. However, “a mere breach of contract, without more, does not amount to a c. 93A violation.” Madan v. Royal Indemnity Co., 26 Mass.App.Ct. 756, 762 (1989), citing Whitinsville Plaza Inc. v. Kotseas, 378 Mass. 85, 100-01 (1979). Even a breach accompanied by “sham justifications” has been held not to violate c. 93A, where the conduct lacks an “extortionate quality” arising from use of the breach “as a lever to obtain advantage for the party committing the breach in relation to the other party.” Atkinson v. Rosenthal, 33 Mass.App.Ct. 219, 226-27 (1992).
+Here, I do not find that the conduct of the Company in denying coverage for the claim of roof damages was unfair or deceptive. There was conflicting information presented to the Company regarding when the loss had occurred and when it was reported to the agent. The Company made prompt efforts to sort out the conflicting information and followed up with both the insured’s representative and the insurance agent in an effort to resolve the conflict in the information it had been provided. Based on all of the information available to the Company at the time it denied coverage, especially the responses of Mr. Dmitri and of Ms. Berggren to the inquiries made by Mr. Murphy, I find that the decision to deny coverage was neither unfair nor deceptive under any of the standards which have been applied in cases interpreting those terms. While the juiy found that there was timely notice given by the Church, I find that at the time the denial of coverage was issued, the Company was reasonable in concluding that the notice had not been given promptly and that, since the damage had already been repaired, it had been prejudiced by the late notice. Similarly, the jury’s finding that the Company had breached the terms of the policy by denying the claim does not mandate a finding of a violation of c. 93A. Madan v. Royal Indemnity Co., 26 Mass.App.Ct. 756, 762 (1989).
+I have also taken into' account the provisions of G.L.c. 176D in assessing the Company’s conduct in this matter. I do not find that the Company engaged in any unfair insurance claim settlement practices as outlined in that statute. G.L.c. 176D, §3(9)(a).
+For all of the foregoing reasons, I find that the defendant has not met its burden of proof on the counterclaim pursuant to G.L.c. 93A.
+ORDER
+Final judgment shall enter for the defendant, St. Nicholas Orthodox Church, on the declaratory judgment claim made in the complaint of the plaintiff and for the defendant on its counterclaim for breach of contract with damages in the amount of $40,000.00 plus statutory interest. Judgment shall enter for the plaintiff on the counterclaim of the defendant brought pursuant to G.L.c. 93A.
