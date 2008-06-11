@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "20073147"
 decided: "2008-06-11"
-citations: ["24 Mass. L. Rptr. 183", "24 Mass. L. Rptr. 137"]
+citations: ["24 Mass. L. Rptr. 183"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Linear Retail Danvers #1, LLC v. Casatova, LLC et al."]
 source_url: "https://static.case.law/mass-l-rptr/24/cases/0183-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11075063
-cites_cases: ["11 Mass.App.Ct. 956", "24 Mass.App.Ct. 515", "30 Mass.App.Ct. 41", "309 Mass. 547", "33 Mass. 496", "341 Mass. 527", "346 Mass. 150", "36 Mass.App.Ct. 283", "361 Mass. 24", "369 Mass. 550", "371 Mass. 482", "372 Mass. 96", "380 Mass. 762", "388 Mass. 16", "394 Mass. 151", "394 Mass. 176", "397 Mass. 789", "404 Mass. 14", "408 Mass. 704", "408 Mass. 711", "410 Mass. 553", "410 Mass. 706", "410 Mass. 805", "412 Mass. 703", "42 Mass.App.Ct. 492", "420 Mass 404", "428 Mass. 520", "429 Mass. 196", "436 Mass. 638", "439 Mass. 288", "44 Mass.App.Ct. 318", "441 Mass. 376", "442 Mass. 381", "446 Mass. 270", "447 Mass. 141", "448 Mass. 389", "450 Mass. 473", "46 Mass.App.Ct. 687", "477 U.S. 242", "477 U.S. 317", "50 Mass.App.Ct. 425", "57 Mass.App.Ct. 874", "58 Mass.App.Ct. 747", "59 Mass.App.Ct. 931", "62 Mass.App.Ct. 330", "66 Mass.App.Ct. 269", "66 Mass.App.Ct. 610", "66 Mass.App.Ct. 726"]
+cites_cases: ["24 Mass.App.Ct. 515", "30 Mass.App.Ct. 41", "341 Mass. 527", "346 Mass. 150", "361 Mass. 24", "371 Mass. 482", "372 Mass. 96", "380 Mass. 762", "394 Mass. 151", "394 Mass. 176", "397 Mass. 789", "408 Mass. 704", "408 Mass. 711", "412 Mass. 703", "42 Mass.App.Ct. 492", "420 Mass 404", "44 Mass.App.Ct. 318", "441 Mass. 376", "442 Mass. 381", "450 Mass. 473", "46 Mass.App.Ct. 687", "50 Mass.App.Ct. 425", "57 Mass.App.Ct. 874", "58 Mass.App.Ct. 747", "59 Mass.App.Ct. 931", "62 Mass.App.Ct. 330", "66 Mass.App.Ct. 610", "66 Mass.App.Ct. 726"]
 ---
 
 # Linear Retail Danvers #1, LLC v. Casatova, LLC
