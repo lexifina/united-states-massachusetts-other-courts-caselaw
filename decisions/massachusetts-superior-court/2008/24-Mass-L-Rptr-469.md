@@ -1,0 +1,46 @@
+---
+court: "Massachusetts Superior Court"
+docket: "0801166"
+decided: "2008-07-23"
+citations: ["24 Mass. L. Rptr. 469"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elaine M. Pura v. James T. Healy, Jr. et al."]
+source_url: "https://static.case.law/mass-l-rptr/24-2/cases/0469-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11074982
+cites_cases: ["161 A.2d 924", "228 A.2d 91", "28 Mass.App.Ct. 108", "380 Mass. 609", "419 Mass. 712", "433 Mass. 217", "47 Mass.App.Ct. 717", "50 Mass.App.Ct. 824", "59 Mo.L.Rev. 307", "682 N.W.2d 248"]
+---
+
+# Pura v. Healy
+
+## Majority (Murtagh, Thomas R., J.)
+
+Murtagh, Thomas R., J.
+The plaintiff, Elaine M. Pura (Pura or the Seller), brought this action seeking specific performance of a purchase and sales agreement that she entered into with the defendants, James T. Healy, Jr. and Hsueh-Ming Wang (the Buyers). This matter is before the court on Pura’s motion for a preliminaiy injunction to require specific performance of the purchase and sale agreement, or alternatively, require the Buyers to pay $205,000 representing liquidated damages provided for in the agreement. For the following reasons, Pura’s motion is DENIED.
+BACKGROUND
+“By definition, a preliminaiy injunction must be granted or denied after an abbreviated presentation of the facts and the law.” Packaging Indus. Group, Inc. v. Cheney, 380 Mass. 609, 616 (1980). The following facts are based on Pura’s verified complaint and both parties’ exhibits and affidavits.
+The parties executed a purchase and sales agreement for real estate located in Essex, Massachusetts on June 19, 2007. Under the agreement, the Buyers contracted to purchase the property for $2,050,000 at a closing set for no later than June 2, 2008. The agreement also required a 205,000 deposit to “be held in escrow by RE/MAX as escrow agent subject to the terms of this Agreement and shall be duly accounted for at the Closing.” The named escrow agent was Pura’s broker.
+The agreement contains conditions for default by both the Seller and Buyers:
+Paragraph 21. Buyer’s Default; Damages
+If the BUYER shall fail to fulfill the BUYER’S agreements herein, and SELLER has fulfilled SELLER’S agreements herein, all deposits made hereunder by the BUYER shall be retained by the SELLER as liquidated damages and this shall be SELLER’S sole and exclusive remedy at both law and in equity for any default by the BUYER hereunder.
+Paragraph 51. Default by Seller
+If prior to closing, Seller shall for any reason whatsoever default in the performance of Seller’s obligation . . . Buyer may . . . terminate this Agreement and receive back the Deposit. . .
+The agreement also provides at paragraph thirty-eight that
+All deposits . . . are to be held in an FDIC insured interest-bearing escrow account and any interest is to be account for and allocated one hundred percent to the BUYER at closing. In the event of a default hereunder, the interest shall follow the deposit.
+The Buyers deposited $205,000 in escrow. In May 2008, in anticipation of the upcoming closing date, Pura’s and the Buyers’ respective counsel contacted RE/MAX to confirm delivery of the escrowed funds. After several unsuccessful attempts, both parties determined that the escrow agent had stolen the es-crowed funds.
+The Buyers did not attend the scheduled closing and informed Pura that they would not continue with the sale. Pura now asserts that the Buyers must bear the risk of loss of the escrowed deposit and pay the deposit again as liquidated damages.
+DISCUSSION
+To successfully demonstrate that a preliminaiy injunction is warranted, the plaintiff “must show (1) a likelihood of success on the merits; (2) that irreparable harm will result from denial of the injunction; and (3) that, in light of the plaintiffs likelihood of success on the merits, the risk of irreparable harm to the plaintiff outweighs the potential harm to the defendants in granting the injunction.” Tri-Nel Mgmt., Inc. v. Bd. of Health of Barnstable, 433 Mass. 217, 219 (2001) (citing Packaging Indus. Group, Inc. v. Cheney, 380 Mass. 609, 617 (1980)).
+The Buyers argue that the plain meaning of the purchase and sale agreement indicates the parties’ intent that the Seller be solely responsible for the stolen deposit. Pura argues the opposite. A contract’s words should be given their plain or well-established meaning. Haverhill v. George Brox, Inc., 47 Mass.App.Ct. 717, 720 (1999). “(N]o word or phrase should be made meaningless by another word or phrase ... [and] the interpretation should favor a valid and enforceable contract . . . rather than one of no force and effect.” Lexington Ins. Co. v. All Regions Chem. Labs, Inc., 419 Mass. 712, 713 (1995). The court’s goal is to “construe the contract as a whole, in a reasonable and practical way, consistent with its language, background, and purpose.” Vergato v. Commercial Union Ins. Co., 50 Mass.App.Ct. 824, 826 (2001) (quoting USM Corp. v. Arthur D. Little Sys., Inc., 28 Mass.App.Ct. 108, 116 (1989)). A purchase and sale agreement’s primary purpose is to effectuate the sale of property.
+Here, there are two key provisions in the purchase and sale agreement that bear on the parties’ intent regarding the deposit: paragraphs twenly-one and fifty-one. Paragraph twenty-one states that in the event of the Buyer’s default, the deposit “shall be retained by” the Seller. (Emphasis added.) The plain meaning of “retain” is “to maintain possession of.” American Heritage Dictionary of the English Language, 4th Edition 1487 (2000). Similarly, paragraph fifty-one provides that in the event of the Seller’s default, the Buyers may “receive back” their deposit. The plain meaning of “receive” is “to take or acquire.” Id. at 1458. These provisions thus clearly indicate the parties’ intent that the deposit is the Seller’s property, as the Seller gets to “maintain possession of’ the deposit upon Buyers’ default and the Buyers may “receive back” their deposit upon the Seller’s default. See George Brox, Inc., 47 Mass.App.Ct. at 720. Accordingly, the agreement’s plain meaning suggests that Pura should bear the risk of loss of the deposit. See id.
+Massachusetts courts have not addressed the topic of whether the buyer or seller should bear the risk of loss of a deposit placed in escrow. Pura, however, argues that other jurisdictions that have addressed this topic have placed the loss on the buyer and that the court should follow their lead. Although Pura has assembled a compendium of cases from other states as support, the cases are very factually specific.
+For example, in Neb. Hosp. Ass’n Charitable, Scientific, and Educ. Found, v. C&.J P’ship, 682 N.W.2d 248, 251 (Neb. 2004), the Nebraska Supreme Court noted the general principle that “the wrong of an escrow holder must be borne by the party who, at the time of its occurrence, was lawfully entitled to the right or property affected.” The Court, however, held that because the seller endorsed the buyer’s check before placing it in escrow, the risk of loss fell on the seller. Id. at 252-53. The New Jersey Superior Court also followed the general principle noted in Neb. Hosp. Ass’n in Zaremba v. Konopka, 228 A.2d 91, 92 (N.J.Super Ct. 1967). The factual situation in Zaremba is distinguishable from the present case, however because the real estate contract contained a contingency that the sale would only proceed if the buyer could obtain a mortgage. Id. Thus, the escrow agent held the buyer’s deposit for the buyer’s benefit only. Id. at 95. Here, by contrast, the default contingency clauses in the purchase and sale agreement benefited both Pura and the Buyers. See id.
+Other courts have allocated loss to the parly that hired the escrow agent. See e.g., Rykaczewski v. Kerry Homes, Inc., 161 A.2d 924, 926 (Pa.Super.Ct. 1960). Here, that would be Pura because RE/MAX was her broker. See id. In Rykaczewski, the Pennsylvania Superior Court held the seller responsible where his broker absconded with the escrowed money, reasoning that:
+[i]n equity and in law the liability of the seller is clear. Where one of two innocent persons must suffer, the loss should be borne by him who put the wrongdoer in a position of trust and confidence and thus enabled him to perpetrate the wrong.
+Id.
+The court is not convinced at the preliminary injunction stage that the law of other jurisdictions is so clear, that the court should place the risk of loss on the Buyers, in the face of contrary language in the purchase and sale agreement. Accordingly, Pura has failed to demonstrate a “likelihood of success on the merits” and is not entitled to a preliminary injunction. See Tri-Nel Mgmt., Inc., 433 Mass. at 219.
+ORDER
+For the foregoing reasons, it is hereby ORDERED that the plaintiffs motion for a preliminary injunction is DENIED
+A1so of note is that the law review article cited by Pura references commentators’ arguments that the buyer and seller should share the loss where neither is at fault. See A Comparison of the Rules and Rationales for Allocating Risks Arising in Realty Sales Using Executory Sales Contracts and Escrows, 59 Mo.L.Rev. 307, 337 (1994) (citing Restatement (Second) of Agency §14(D), reporter’s notes, app. vol. 3 (1958)).
