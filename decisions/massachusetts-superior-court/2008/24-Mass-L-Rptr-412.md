@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "063654"
 decided: "2008-07-30"
-citations: ["24 Mass. L. Rptr. 412", "24 Mass. L. Rptr. 410"]
+citations: ["24 Mass. L. Rptr. 412"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Angel Del Valle v. Bechtel Corp. et al."]
 source_url: "https://static.case.law/mass-l-rptr/24-2/cases/0412-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11074868
-cites_cases: ["106 F.R.D. 500", "142 F.R.D. 8", "146 F.R.D. 169", "174 F.R.D. 382", "252 B.R. 834", "307 F.2d 478", "371 U.S. 955", "397 U.S. 1", "628 F.2d 1368", "77 F.R.D. 378"]
+cites_cases: ["106 F.R.D. 500", "146 F.R.D. 169", "174 F.R.D. 382", "252 B.R. 834", "307 F.2d 478", "371 U.S. 955", "77 F.R.D. 378"]
 ---
 
 # Del Valle v. Bechtel Corp.
