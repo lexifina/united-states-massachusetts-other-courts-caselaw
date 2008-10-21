@@ -1,0 +1,36 @@
+---
+court: "Massachusetts Superior Court"
+docket: "06563C"
+decided: "2008-10-21"
+citations: ["25 Mass. L. Rptr. 302"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kenneth Short v. Michael Hogan et al."]
+source_url: "https://static.case.law/mass-l-rptr/25/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11075653
+cites_cases: ["11 F.R.D. 593", "20 Mass. L. Rptr. 123", "2005 WL 2540402", "24 Mass. L. Rptr. 296", "73 F.R.D. 73"]
+---
+
+# Short v. Hogan
+
+## Majority (Lauriat, Peter M., J.)
+
+Lauriat, Peter M., J.
+Plaintiff Kenneth Short (“Short”) has moved for entry of a default judgment against defendants Marinas USA Limited Partnership (“Marinas USA”) and Flagship Marinas Management Company, LLC (“Flagship Marinas”) based on their alleged violations of the court’s Order dated October 26, 2007, and their alleged misrepresentations to the court regarding their compliance with that Order.
+After hearing, and upon consideration of the parties’ memoranda and supporting papers, Short’s motion is allowed insofar as a default judgment shall enter against Marinas USA and Flagship Marinas for their knowing and intentional failure to comply with the court’s Order of October 26, 2007.
+DISCUSSION
+On October 26, 2007, in response to a motion filed by Short against the defendants to compel the production of documents, the court ordered that:
+Defendants shall serve their written response to the plaintiffs document request without objections (the time for making same having passed) by or before 11-9-07, and shall produce all requested documents — again without objection — by or before 11-16-07 ... or a default judgment shall enter against them pursuant to Mass.R.Civ.P. 37(b)(2)(C). [Emphasis added.]
+In November 2007, in response to the court’s Order of October 26, 2007, both Marinas USA and Flagship Marinas served upon Short their revised responses to Short’s requests for production of documents. Those responses, on their face, appeared to satisfy the court’s Order. Both defendants stated that responsive documents in their possession would be produced, and that neither defendant had “care, custody or control,” of the documents that were sought in most of Short’s requests.
+Thereafter, Short moved for entry of a default judgment based on the defendants alleged failure to comply with the court’s Order of October 26, 2007. In its Order dated May 29, 2008 [24 Mass. L. Rptr. 296], the court observed that in the absence of any evidence that the defendants had knowingly failed to produce any requested documents, it could go no further with respect to the discovery that it had ordered in its Order dated October 26, 2007. However, it also noted that if Short thereafter submitted evidence showing that either defendant had or should have had but did not produce some or all of the documents requested, the court would entertain a request for further sanctions against the defendant or defendants and/or counsel of record.
+In response to the court’s order of May 29, 2008, and in an effort to determine whether the defendants had in fact produced all of the requested records that were in their possession custody or control, Short subpoenaed certain categories of documents from the files of the defendants’ insurer, The Chubb Group of Insurance Companies (“Chubb”), with respect to this matter. On July 24, 2008, the defendants sought emergency reconsideration of the court’s Order dated May 29, 2008. Although the court denied that motion for the defendants’ failure to comply with Superior Court Rule 9A, it further stated that
+the subpoena would likely be limited to Chubb’s file on this incident, the purpose being to determine whether the defendant, in its “search” for responsive documents, ever sought same from its insurer — who would fall within those entities over which the defendant likely had “control” under Rule 34.
+See Lou v. Otis Elevator Co., 2005 WL 2540402 (Mass.Super. 2005) (Agnes, J.) [20 Mass. L. Rptr. 123] (“A party has control of documents for purposes of a request for production under Mass. R. Civ. P. 34 if it has the ability to obtain them by any reasonable means”); see also Kozlowski v. Sears, Roebuck & Co., 73 F.R.D. 73, 76 (D.Mass. 1976); Bingle v. Liggett Drug Co., 11 F.R.D. 593, 594 (D.Mass. 1951).
+On July 31, 2008, Short took the deposition of a designee of Chubb, at which time the designee produced two documents that were within the scope of Short’s original document requests to the defendants. He also produced a so-called “privilege log,” which identified and briefly described some 103 documents which it appears that Chubb was withholding from production on the grounds of attorney/client privilege and/or attorney work product.
+While Chubb’s privilege claims are not presently before the court, documents that it has identified in its “privilege log” as number 18 and numbers 23 through 103 are documents generated by or sent to or from the defendants’ attorneys at or prior to October 26, 2007. Since those documents are ones that are within the possession, custody and control of the defendants, and/or their attorneys and their insurer, are ones that the defendants were clearly entitled to secure from their attorneys and insurers in response to Short’s document requests, and are ones that the defendants were ordered to produce to Short without objection in November 2007, it is clear beyond peradventure that the defendants have failed to comply with the court’s Order of October 26, 2007, and that their representations to the contrary are untrue.
+Under these circumstances, and knowing in advance that their failure to comply with the court’s Order of October 26, 2007 would result in the entry of a default judgment against the defendants pursuant to Mass.R.Civ.P. 37(b)(2)(C), the court finds and concludes that the defendants’ failure to comply with that Order was knowing and intentional, and that the sanction sought by Short and noticed by the court is appropriate. Accordingly, a default judgment in this action shall be entered against the defendants Marinas USA Limited Partnership Flagship Marinas Management Company, LLC, and the matter shall be set down for a hearing on an assessment of damages.
+ORDER
+For the foregoing reasons, a default judgment in this action shall enter against the defendants Marinas USA Limited Partnership Flagship Marinas Management Company, LLC, and this matter shall be set down for a hearing on an assessment of damages.
+The defendants have argued that since Short never requested any documents from Chubb prior to the discovery deadline, he is not entitled to obtain those documents now. This argument misses the point; the documents produced by Chubb and/or designated by Chubb as privileged, are documents that the defendants should have produced in response to Short’s discovery requests and the Court’s Order of October 26, 2007 — and are documents that it was well within the defendants’ power and authority to secure from Chubb, as Chubb’s insureds, in order to produce. See Kozlowski v. Sears, Roebuck & Co., 73 F.R.D. 73, 76 (D.Mass. 1976); Bingle v. Liggett Drug Co., 11 F.R.D. 593, 594 (D.Mass. 1951).
