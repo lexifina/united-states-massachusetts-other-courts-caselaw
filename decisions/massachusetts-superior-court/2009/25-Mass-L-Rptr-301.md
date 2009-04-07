@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Superior Court"
+docket: "SUCV200603937"
+decided: "2009-04-07"
+citations: ["25 Mass. L. Rptr. 301"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Doe No. 10977 et al. v. Sex Offender Registry Board"]
+source_url: "https://static.case.law/mass-l-rptr/25/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11075641
+cites_cases: ["452 Mass. 764", "51 Mass.App.Ct. 459"]
+---
+
+# Doe No. 10977 v. Sex Offender Registry Board
+
+## Majority (Brassard, Raymond J., J.)
+
+Brassard, Raymond J., J.
+INTRODUCTION
+Each plaintiff John Doe appealed, pursuant to G.L.c. 6, §178M, a determination by the defendantSex Offender Registry Board (SORB) classifying him as a level three offender. The SORB does not contest the court’s finding that both plaintiffs are indigent. This court affirmed the SORB decision as to Doe No. 122905 on January 22, 2008, and as to Doe No. 10977 on March 11, 2008.
+Each plaintiff now moves (1) to vacate this court’s judgment and (2) for reconsideration of his motion for judgment on the pleadings. For the reasons stated below, the motions are ALLOWED IN PART and DENIED IN PART.
+BACKGROUND
+Doe No. 122095 was sixty-four years old when the SORB classified him on February 7, 2007, for committing lewd and lascivious acts with three different girls under fourteen in 1981, 1982, and 1996, and for molesting a fourth girl under fourteen in 1990. He was not related to any of the victims. The SORB denied Doe No. 122095’s generic motion for expert funds. Its decision discussed Doe No. 122095’s mental-health issues, including a civil commitment proceeding in California, and classified him as a level three offender.
+The SORB classified Doe No. 10977 on October 23, 2006, after he had pled guilty in 1999 to anally raping and fondling his nine-year-old daughter and pled guilty in 2001 to two indecent assaults on his fourteen-year-old son. Doe No. 10977 testified at the classification hearing that he suffered from back and heart problems and hypertension, which prevented him from standing more than two hours per day. The SORB denied Doe No. 10977’s generic motion for expert funds, and classified him as a level three offender.
+DISCUSSION
+The court may vacate a judgment where “it is no longer equitable that the judgment should have prospective application,” or for “any other reason justifying relief from the operation of the judgment. . .” Mass.R.Civ.P. 60(b)(6) & (7). “The disposition of motions to vacate judgment... is left to the sound discretion of the motion judge . . .” Commonwealth v. Ciampa, 51 Mass.App.Ct. 459, 461 (2001) (citations omitted).
+Here, the plaintiffs contend that justice requires the court to remand their cases to the SORB for reconsideration of their motions for expert funds. This argument stems from a recent Supreme Judicial Court decision, Doe No. 89230 v. Sex Offender Registry Bd., 452 Mass. 764 (2008). Before the Doe No. 89230 decision, the SORB read G.L.c. 6, §178L(1) as authorizing it “to grant expert funds to a petitioner only if the board itself intends to rely on expert evidence prepared specifically for the proceeding.” Id. at 770, citing G.L.c. 6, § 178L( 1). The Court rejected that interpretation and held that “the board has the discretion to grant an indigent petitioner’s motion for expert witness funds even where the board does not intend to use expert evidence . . .” Id. at 774. The court remanded the matter for the SORB to consider the plaintiff offender’s motion for expert funds. See id. at 775 n. 17 (“What we state here is offered to provide some guidance, but of course it will be up to the board in the first instance to determine how best to exercise its discretion in ruling on motions by indigent sex offenders for funds to retain experts”).
+In this case, the SORB contends that even if the court were to remand these motions for reconsideration, the plaintiffs would be unable to demonstrate they are entitled to expert funds. An offender who seeks expert funds must “identify and articulate the reason or reasons, connected to a condition or circumstance special to him, that he needs to retain a particular type of expert. A general motion for funds . . . , without more, would appear to be insufficient.” Id. at 775.
+The SORB argues that the generic motion for expert funds that each plaintiff filed with the SORB does not satisfy the Doe No. 89230 standard. In their motions to this court, the plaintiffs now articulate why they need expert funds.
+Doe No. 122095 points out that his history of mental illness was a central issue before the SORB. He now seeks expert funds to evaluate his psychological or psychiatric profile, and claims that the hearing examiner, who did not have any psychological or psychiatric expertise, was unqualified to do this. The SORB argues that the plaintiffs failure to submit proposed findings of fact or rulings of law relevant to his alleged mental illness estops him from asserting its relevance in this motion. This argument makes some sense. It is beyond dispute, however, that factor 15, an offender’s psychological or psychiatric profile, is relevant to his risk to reoffend. See 803 Code Mass. Regs. §1.40(15) (considering mental-health records indicating an offender poses a reduced risk to reoffend). The SORB does not dispute, either, that its decision addressed the plaintiffs mental illness. Doe No. 122095 demonstrates that he may benefit from expert testimony as to his psychological or psychiatric profile.
+Doe No. 10977 now seeks expert funds to evaluate his physical limitations, which bear on factor 13 (medical condition). The SORB notes there is no indication that its decision relied on Doe No. 10977’s medical conditions, but this argument misses the mark. It does not follow, from the fact that the decision did not address the plaintiffs physical disabilities, that those disabilities are irrelevant. The SORB reasonably might conclude that offenders with physical disabilities pose a reduced risk to reoffend. See 803 Code Mass. Regs. §1.40(13) (“This Factor seeks to identify those offenders who, due to a debilitating condition, are not likely to be a risk or danger to the community”).
+Even assuming that the SORB’s reconsideration of the motions for expert funds would be futile, as it claims, the SORB misconstrues the courts’ limited role in reviewing sex offender classifications. See G.L.c. 6, §178M (providing for judicial review of sex offender classifications). The initial consideration (or in these instances, the initial reconsideration) of an offender’s motion for expert funds is the province of the SORB, not the courts. See G.L.c. 6, §178L (authorizing the SORB to classify sex offenders).
+ORDER
+For these reasons, the plaintiffs’ motions are ALLOWED IN PART. It is for the board, in the first instance, to rule on motions for expert funds. Doe No. 89230, 452 Mass. at 775 n.17. The judgments are VACATED and the matters are REMANDED for the SORB to reconsider each plaintiffs motion for expert funds. As to reconsideration of the motions for judgment on the pleadings, DENIED, without prejudice to each plaintiffs right to seek judicial review of the SORB’s decision.
+The Appeals Court has yet to docket Doe No. 122905’s appeal. Doe No. 10977 appealed to the Appeals Court, which has stayed the proceedings pending the outcome of his motion to this court.
