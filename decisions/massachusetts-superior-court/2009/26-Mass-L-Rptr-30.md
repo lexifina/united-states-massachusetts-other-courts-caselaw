@@ -1,0 +1,28 @@
+---
+court: "Massachusetts Superior Court"
+docket: "20042223D"
+decided: "2009-07-30"
+citations: ["26 Mass. L. Rptr. 30"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James T. Rothera, Jr. v. A.J. Letourneau, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/26/cases/0030-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7342137
+cites_cases: ["1995 WL 232782", "287 Mass. 229", "302 Mass. 411", "34 Mass.App.Ct. 744", "362 Mass. 803"]
+---
+
+# Rothera v. Letourneau, Inc.
+
+## Majority (Tucker, Richard T., J.)
+
+Tucker, Richard T., J.
+This motion arises from a negligence claim filed by James Rothera (“Rothera”) against Francis Podeworney (“Podeworney”) in connection with a January 13, 2003 motor vehicle accident on Route 20 in Charlton, Massachusetts. The case was tried before the undersigned, sitting with juiy, on June 8 and June 9, 2009. On a Special Jury Verdict form, the jury answered “No” to the question: “Was the defendant negligent?”
+Rothera and Podeworney were the only two witnesses to testily at trial. An account of the events based on their combined testimony is as follows. At 3:00 PM, Rothera’s truck was the last vehicle in a line of single-lane eastbound traffic stopped at the bottom of a hill on Route 20 in Charlton. Contemporaneously, Podeworney’s vehicle — -a gravel-filled dump truck weighing approximately seventy-seven thousand pounds (“Dump Truck”) — was climbing the opposite side of the same hill at a rate no more than five miles per hour above the posted speed limit. When Podeworney reached the crest, he observed said traffic and, in accordance with his training, immediately down-shifted and applied the air brakes. Rothera testified that he observed white smoke billow from both sides of the Dump Truck as it descended the hill in his direction. However, heavy oncoming traffic and the presence of concrete jersey barriers prevented both parties from changing course. As a result, the Dump Truck skidded more than three hundred feet and collided with the rear end of Rothera’s vehicle.
+At trial, Podeworney testified that the Dump Truck handled differently when fully-loaded, noting particularly that “you have to plan ahead” because “it takes a lot longer to stop.” He also testified that the presence of jersey barriers on Route 20 made it veiy narrow and “tough to drive.” Although Podeworney stated that he could not explain why the Dump Truck left nearly three hundred feet of traction marks, he admitted that he should have left more room between the Dump Truck and the vehicles in front of him.
+ANALYSIS
+A motion for a new trial in a civil case may be granted if the verdict is “so markedly against the weight of the evidence as to suggest that the jurors allowed themselves to be misled, were swept away by bias or prejudice, or for a combination of reasons, including misunderstanding of applicable law, failed to come to a reasonable conclusion.” W. Oliver Tripp Co. v. American Hoechst Corp., 34 Mass.App.Ct. 744, 748 (1993). “The mere happening of an accident does not establish negligence on the part of the defendant, even in a case where the defendant’s vehicle strikes the plaintiffs vehicle in the rear." Olofson v. Kilgallon, 362 Mass. 803, 805 (1973). However, “[i]n cases such as the present one which involve rear end collisions, questions of facts as to the rate of speed at which the cars were traveling, the distance between the cars and any other relevant circumstances would be determinative” of whether the defendant was negligent. Wright v. Sabatino, 1995 WL 232782 at *2 (Mass.Super. 1995). Additionally, in rear-end collision cases of this type “a finding of negligence may be warranted on slight evidence of the circumstances.” Olofson, 362 Mass. at 805.
+In the instant case, the verdict was so greatly against the weight of the evidence as to suggest that the jury misunderstood the definition of negligence and failed to arrive at a reasonable conclusion. To have reasonably concluded that Podeworney was not negligent, the jury must have found that Podeworney operated the Dump Truck in a “reasonably careful and prudent manner, not only as to its rate of speed but also as to its distance from [Rothera’s vehicle], and, within the bounds of ordinary care, to anticipate that [Rothera’s vehicle] might be required to stop for various reasons incident to the traffic.” Buda v. Foley, 302 Mass. 411, 413 (1939). However, such a finding is foreclosed by Podewomey’s uncontroverted testimony. Although Podeworney’s rate of speed was no greater than five miles above the posted limit, the difficulty of handling a fully-loaded dump truck, viewed against the hazardous conditions then affecting Route 20, establishes that even a slight excess in speed constituted a breach of Podeworney’s duty of care. See Conrad v. Mazman, 287 Mass. 229, 235 (1934) (holding that almost any speed can be considered unreasonable in certain circumstances, such as lack of attention to the road ahead). The fact that Podeworney could not anticipate obstructions on the opposite side of the hill from his vantage point, combined with his admission that a fully-loaded dump truck “takes longer to stop,” are strong indicia of his inattentiveness to road conditions and surrounding motorists. Finally, by Podeworney’s own admission, the Dump Truck was traveling too closely to Rothera’s vehicle to safely make a complete stop.
+ORDER
+It is hereby ORDERED that Plaintiffs Motion for a New Trial is ALLOWED. Counsel are to appear for a status hearing on August 6, 2009 at 2:00 PM to determine, among other things, a new trial date.
