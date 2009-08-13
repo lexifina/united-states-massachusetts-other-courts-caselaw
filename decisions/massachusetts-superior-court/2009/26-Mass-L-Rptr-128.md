@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "062556"
 decided: "2009-08-13"
-citations: ["26 Mass. L. Rptr. 128", "26 Mass. L. Rptr. 127"]
+citations: ["26 Mass. L. Rptr. 128"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Taryn T. Kaitbenski v. Tantasqua Regional School District et al."]
 source_url: "https://static.case.law/mass-l-rptr/26/cases/0128-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 7342792
-cites_cases: ["389 Mass. 47", "399 Mass. 547", "410 Mass. 706", "416 Mass. 269", "431 Mass. 201", "441 Mass. 539", "447 Mass. 141", "47 Mass.App.Ct. 221", "61 Mass.App.Ct. 299", "65 Mass.App.Ct. 543", "68 Mass.App.Ct. 911"]
+cites_cases: ["389 Mass. 47", "410 Mass. 706", "431 Mass. 201", "441 Mass. 539", "447 Mass. 141", "47 Mass.App.Ct. 221", "61 Mass.App.Ct. 299", "65 Mass.App.Ct. 543", "68 Mass.App.Ct. 911"]
 ---
 
 # Kaitbenski v. Tantasqua Regional School District
