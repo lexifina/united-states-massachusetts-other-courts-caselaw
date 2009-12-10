@@ -1,0 +1,52 @@
+---
+court: "Massachusetts Superior Court"
+docket: "071488"
+decided: "2009-12-10"
+citations: ["26 Mass. L. Rptr. 479"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hadley Pollett, LLC et al. v. Yun Zhu et al."]
+source_url: "https://static.case.law/mass-l-rptr/26-2/cases/0479-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7343258
+cites_cases: ["127 S.Ct. 1955", "13 Mass.App.Ct. 75", "2007 WL 3244422", "22 Mass.App.Ct. 672", "23 Mass. L. Rptr. 237", "378 Mass. 1", "379 Mass. 90", "398 Mass. 854", "44 Mass.App.Ct. 184", "449 Mass. 167", "451 Mass. 623", "629 F.2d 190", "698 F.2d 48", "7 Mass.App.Ct. 470"]
+---
+
+# Hadley Pollett, LLC v. Yun Zhu
+
+## Majority (KerN, Leila R., J.)
+
+KerN, Leila R., J.
+INTRODUCTION
+This action arises from an alleged conspiracy to defraud the plaintiffs, Hadley Pollett, and Hadley Pollett, LLC. The plaintiffs aver that the defendants conspired to inter alia, convert their property and steal their trade secrets. Before this court is the defendant’s Zhaoheng Holdings, Ltd.’s Motion to Dismiss. For the reasons that follow, that motion will be DENIED.
+BACKGROUND
+The following facts are taken from the Complaint and treated as true for the purposes of the Motion to Dismiss only. Iannacchino v. Ford Motor Co., 451 Mass. 623, 636 (2008). To conserve judicial resources, the court sets forth the facts alleged in the Complaint in summary fashion. The facts recited herein are representative of other allegations not included.
+The plaintiffs are retailers of clothing in Massachusetts. Zhaoheng is a Chinese corporation, serving as an agent of Hung Tong International, Ltd. Hung Tong is a Chinese manufacturing company; it owns a factory that produces clothing and textile products. According to the Complaint and the parties’ representations at oral argument, Zhaoheng, Hung Tong, and the plaintiffs were parties to a manufacturing agreement whereby the plaintiffs would send raw materials to be manufactured into salable products by Hung Tong, and Zhaoheng would contribute use of its Chinese import-export license to facilitate transport of the raw materials and finished products to and from China.
+In October 2006, Yun Zhu, a Chinese national, approached the plaintiffs and posed as a business student seeking employment with the plaintiffs. Unbeknownst to the plaintiffs, Zhu was actually an agent of Zhaoheng. Zhu represented to the plaintiffs that she had no ties to Zhaoheng and took steps to conceal the truth of her association with Zhaoheng from them. She was hired as a production associate, and was responsible for serving as a liaison between the plaintiffs and Zhaoheng.
+Throughout her employment with the plaintiffs, Zhu acted to pursue the interests of Zhaoheng. She concealed manufacturing defects in various products that had been shipped to the plaintiffs. She made false statements to the plaintiffs about credit given to them by Zhaoheng to compensate for the defective shipments. She divulged company trade secrets to Zhaoheng, despite being expressly instructed not to do so by the plaintiffs. Those trade secrets included pricing data, the disclosure of which harmed the plaintiffs’ position in negotiations with Zhaoheng. She misappropriated company property and aided Zhaoheng in its attempts to coerce the plaintiffs into paying for defective and damaged goods by withholding the plaintiffs’ raw materials and finished products.
+DISCUSSION
+1.Personal jurisdiction
+Personal jurisdiction over Zhaoheng lies pursuant to G.L.c. 223A, §3(a), which applies to “a cause of action . . . arising from” the defendant’s “transacting any business in this commonwealth . . .” The notion of “transacting business” under this section is interpreted broadly. Nova Biomedical Corp. v. Moller, 629 F.2d 190, 193-94 (1st Cir. 1980).
+The Complaint expressly alleges that “[the plaintiffs], Zhaoheng, and [Hung Tong] were parties to a manufacturing and product delivery contract.” Such a contract, particularly where it engenders breach of contract claims, is a sufficient basis for personal jurisdiction. See Hahn v. Vermont Law Sch., 698 F.2d 48, 50-51 (1st Cir. 1983); see also Good Hope Indus., Inc., v. Ryder Scott Co., 378 Mass. 1, 10 (1979).
+2.Service
+Direct service upon Zhaoheng at its address in China is contrary to the Convention on Service Abroad of Judicial and Extrajudicial Documents in Civil and Commercial Matters, Nov. 15, 1965, 20 U.S.T. 361, T.I.A.S. No. 6638 (Hague Service Convention). However, as this court (McEvoy, J.) has twice previously determined, see Docket #61, Zhaoheng has agents within the United States who are eligible to receive service. Where service is made within the United States, the Hague Service Convention does not apply. Heffernan v. Robeco Inv. Mgmt, Inc., Civil Action No. 07-2116, 2007 WL 3244422 *10 (Suffolk Super. Ct. Oct. 25, 2007) (Fabricant, J.) [23 Mass. L. Rptr. 237].
+3.Failure to state a claim
+“While a complaint attacked by a motion to dismiss does not need detailed factual allegations ... a plaintiffs obligation to provide the ‘grounds’ of his lentitle[ment] to relief requires more than labels and conclusions. Factual allegations must be enough to raise a right to relief above the speculative level . . . [based] on the assumption that the allegations in the complaint are true.” Iannacchino, 451 Mass. at 636, quoting Bell Atl. Corp. v. Twombly, 127 S.Ct. 1955, 1965 (2007). In addition, allegations of fraud must be pled with particularity. Mass.R.Civ.P. 9(b).
+a.Contract claims
+As noted above, the Complaint expressly alleges that the plaintiffs and Zhaoheng were parties to a contract, and that Zhaoheng breached its obligations thereunder in a variety of ways, including but not limited to sending defective and damaged goods to the plaintiffs. Zhaoheng further attempted to force the plaintiffs to pay for those defective products, thereby compromising the plaintiffs’ right to receive the fruits of the contract. Assuming those allegations to be true, as this court must at the present stage, the contract claims plainly survive.
+b.Fraud claims
+Zhu, as the agent of Zhaoheng, made various fraudulent and negligent representations to the plaintiffs, concerning not only her own loyalties but also Zhaoheng’s products. An employer will be liable for the intentional torts of its employee through the doctrine of respondeat superior where the tort occurred within the scope of employment, and in furtherance of the employer’s work. Maimaron v. Commonwealth, 449 Mass. 167, 176 (2007), and authorities cited.
+In determining whether the tort occurred within the scope of employment, relevant considerations include “whether the conduct complained of is of the kind the employee is hired to perform, whether it occurs within authorized time and space limits, and whether it is motivated, at least in part, by a purpose to serve the employer.” Id., citing Wang Labs., Inc. v. Business Incentives, Inc., 398 Mass. 854, 859 (1986) (internal quotation omitted). Here, especially after resolving all inferences in favor of the plaintiffs, the claim for fraud survives.
+Zhu is alleged to have served as the clandestine agent for Zhaoheng during the entire course of her employment with the plaintiffs. Thus, everything she did while working for the plaintiffs can be said to fall within the scope of her employment with Zhaoheng. Furthermore, the inference that her conduct was intended to benefit is Zhaoheng is extremely strong, particularly in view of her efforts to relay the plaintiffs’ trade secrets to Zhaoheng.
+c.Misappropriation of trade secrets
+Zhaoheng argues that the plaintiffs’ pricing information does not qualify as a trade secret because it was not adequately protected. “The question whether a plaintiff has taken ‘all proper and reasonable steps’ ” to preserve its trade secrets “depends on the circumstances of each case, considering the nature of the information sought to be protected as well as the conduct of the parties.” USM Corp. v. Marson Fastener Corp., 379 Mass. 90, 101 (1979) (quotation and emphases omitted).
+The contours of that inquiry suggest it calls for a question of fact not suited to resolution at this early stage. Contrast, Commonwealth v. Robinson, 7 Mass.App.Ct. 470, 474 (1979) (no evidence adduced at trial that the owners of a misappropriated trade secret took any precautions to preserve its secrecy). Furthermore, drawing all reasonable inferences in favor of the plaintiffs, this court is unconvinced that simply instructing Zhu not to disclose pricing information to unauthorized parties was, as a matter of law, an insufficient means of protecting the plaintiffs’ trade secrets.
+d.Conversion and unjust enrichment
+The Complaint alleges that Zhaoheng has wrongfully retained possession of the plaintiffs’ raw materials and finished products. Such acts provide ample foundation for both such claims. See Marc G. Perlin, Massachusetts Proof of Cases, §12.1, at 219 (3d ed. 1992); 1 G. Palmer, Restitution, §1.7, at 41 (1978).
+e. Civil conspiracy
+The Complaint provides sufficient foundation for the inference that Zhaoheng and at least Zhu devised “a common plan to commit a tortious act where the participants [knew] of the plan and its purpose and [took] affirmative steps to encourage the achievement of the result.” Kurker v. Hill, 44 Mass.App.Ct. 184, 190 (1998), quoting Stock v. Fife, 13 Mass.App.Ct. 75, 82 n.10 (1982). To wit, Zhaoheng and Zhu cooperated to misappropriate the plaintiffs’ trade secrets and convert their property. Accordingly, the claim for civil conspiracy survives.
+f. G.L.c. 93A, §11
+To prevail on their chapter 93A claim, the plaintiffs must show some conduct by Zhaoheng that falls “within at least the penumbra of some common-law, statutory, or other established concept of unfairness.” Lambert v. Fleet Nat’l Bank, 449, Mass. 119, 126-27 (2007), quoting Wasserman v. Agnastopoulos, 22 Mass.App.Ct. 672, 679 (1986). Here, the plaintiffs have shown conduct by Zhaoheng that falls within the scope of multiple common-law concepts of unfairness, specifically, the various tort claims discussed above. Therefore, the claim under G.L.c. 93A, §11 survives.
+ORDER
+For the foregoing reasons, the direct service on Zhaoheng at its address in China is QUASHED, but the service on Zhaoheng’s domestic agents remains valid. In all other respects, Zhaoheng’s Motion to Dismiss is DENIED.
