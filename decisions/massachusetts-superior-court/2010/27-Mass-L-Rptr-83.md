@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "0902412"
+decided: "2010-03-16"
+citations: ["27 Mass. L. Rptr. 83"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sam Oduro, fka Sam Aygei v. Accredited Home Lenders, Inc. et al."]
+source_url: "https://static.case.law/mass-l-rptr/27/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7342362
+cites_cases: ["127 S.Ct. 1955", "264 Mass. 588", "336 Mass. 625", "346 Mass. 730", "372 Mass. 96", "404 Mass. 537", "432 Mass. 474", "436 Mass. 526", "451 Mass. 623"]
+---
+
+# Oduro v. Accredited Home Lenders, Inc.
+
+## Majority (Tucker, Richard T., J.)
+
+Tucker, Richard T., J.
+The defendants, Mortgage Electronic Registration Systems, Inc. (MERS), America’s Servicing Company (ASC) and US Bank National Association, as Trustee for Asset-Backed Pass Through Certificates Series 2007-AHL1 (US Bank) have moved to dismiss Plaintiffs Amended Verified Complaint under Rule 12(b)(6), Mass.R.Civ.P. for failure to state a claim upon which relief may be granted. More specifically, the defendants claim that plaintiffs Count I must be dismissed as 940 CMR8.06 (Count I and II), does not provide a private right of action. Defendants also allege that Count II should be dismissed because G.L.c. 183C only applies to “high costmortgage loans” as defined by G.L.c. 183C, §2 and that a high cost loan is not involved in this action. Finally, defendants state that the claims under G.L.c. 93A (Count III) must be dismissed as all facts pled in regard to this count apply only to the co-defendant Accredited Home Lenders, Inc. as the originator of the loans in question. After a hearing and review of the pleadings and memoranda of counsel I find and rule as follows.
+DISCUSSION
+Applicable Standard
+A motion to dismiss or for judgment on the pleadings, by its very nature, “argues that the complaint fails to state a claim upon which relief can be granted.” Jarosz v. Palmer, 436 Mass. 526, 529 (2002) quoting J.W. Smith & H.B. Zobel, Rules Practices. 12.16 (1974). In considering such a motion the allegations of the Complaint, as well as such inferences as may be drawn therefrom in the plaintiffs favor are to be taken as true. Nader v. Citron, 372 Mass. 96, 98 (1977). In pleading his case, however, a plaintiff may not assert legal conclusions cast in the form of factual allegations. Schaer v. Brandeis University, 432 Mass. 474, 477 (2000). “While a complaint attacked by a . . . motion to dismiss does not need detailed factual allegations ... a plaintiffs obligation to provide the ‘grounds’ of his entitlement to relief require(s) more than labels and conclusions . . . Factual allegations must be enough to raise a right to relief above the speculative level . . . [based] on the assumption that all the allegations in the complaint are true (even if doubtful in fact) ...” Iannacchino v. Ford Motor Co., 451 Mass. 623, 636 (2008) quoting Bell Atl. Corp. v. Twombly, 127 S.Ct. 1955, 1964-65 (2007). In short, a Complaint must contain, to prevent a motion to dismiss, “allegations plausibly suggesting (not merely consistent with) an entitlement to relief.” Id.
+Applying the standards set forth above and accepting the allegations of plaintiffs Amended Verified Complaint and all inferences that may be drawn therefrom, Nader v. Citron, 372 Mass. 96, 98 (1977), I find and rule as follows.
+Oduro v. Mortgage Electronic Registration Systems. Inc.
+The allegations against Mortgage Electronic Registration Systems, Inc. (MERS) in the Amended Verified Complaint are the same as those made against the Accredited Home Lenders, Inc. (Accredited). Accredited was the originator of the loan and MERS is described as being a co-maker of the loan. MERS is stated on the first mortgage as being “a separate corporation that is acting solely as a nominee for Lender and Lender’s successors and assignees. MERS is the mortgagee under the security instrument.” Accepting the allegations against MERS as set forth in the complaint as being true I find that plaintiffs pleading is sufficient'under both the Nader v. Citron and Iannacchino v. Ford Motor Co., standards. Therefore the Motion to Dismiss this count is DENIED.
+Oduro v. America’s Servicing Company.
+Under both the notice pleading standard of the past and the newer standard of Iannacchino that one must plead facts “plausibly suggesting (not merely consistent with) an entitlement to relief,” the complaint is insufficient as to America’s Servicing Company (ASC). Nowhere in the Amended Verified Complaint is a case pleaded against ASC. Indeed, after describing ASC as being a division of Wells Fargo Home Mortgage, the complaint fails to set forth in any subsequent paragraph how that fact is relevant to any claim set forth in the complaint. Accordingly the Motion to Dismiss as to the claims made against America’s Servicing Company is ALLOWED.
+Oduro v. US Bank National Associations as Trustee for Asset-Backed Pass
+Through Certificates Series 2007-AHL1.
+US Bank National Association, as Trustee for Asset-Backed Pass Through Certificates Series 2007-AHL1 (US Bank), is the current holder of the first mortgage in issue in this case. US Bank argues that the liability of a loan originator such as Accredited does not extend to an assignee of the loan such as US Bank. Ford Motor Credit Co. v. Morgan, 404 Mass. 537, 545 (1989). In Ford Motor Credit Co., the Supreme Judicial Court held that “the common law principal that the assignee stands in the assignor’s shoes means only that the debtor can raise the same defenses against the as-signee as he could have raised against the assignor. See Quincy Trust Co. v. Pembroke, 346 Mass. 730, 732 (1964). Cf. Harrison Mfg. Co. v. Philip Rothman & Son, Inc., 336 Mass. 625, 628 (1958); Lewis v. Club Realty Co., 264 Mass. 588, 591 (1928). It has never been interpreted to mean that the assignee will be liable for all the assignor’s wrongs." Id. at 545. Thus, while the Morgans, as purchasers of a motor vehicle, could raise any defenses and counterclaims they had against the dealer to offset the assignee’s, Ford Motor Credit’s, recovery, they could not recover affirmative damages from the assignee. Id. at 542-46.
+Applying the rule of Ford Motor Credit Co. to the instant case, this court rules that Count III for relief under M.G.L.c. 93A against US Bank must be ALLOWED in part and DENIED in part. Although plaintiff may raise any defenses or counterclaims he has against Accredited or possibly MERS in order to set off US Bank’s recovery, including claims under c. 93A, affirmative relief under the punitive provisions of G.L.c. 93A is not available to him.
+ORDER
+For the foregoing reasons, the defendants’ motion to dismiss is ALLOWED in part and DENIED in part. The motion is ALLOWED as to defendant America’s Servicing Company, DENIED as to defendant MERS and DENIED as to setoff but ALLOWED as to affirmative relief under G.L.c. 93A against US Bank.
