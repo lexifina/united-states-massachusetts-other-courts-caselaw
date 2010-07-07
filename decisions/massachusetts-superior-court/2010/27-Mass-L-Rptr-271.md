@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Superior Court"
+docket: "082455"
+decided: "2010-07-07"
+citations: ["27 Mass. L. Rptr. 271"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Peter Alex v. Grafton Conservation Commission et al."]
+source_url: "https://static.case.law/mass-l-rptr/27/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7343997
+cites_cases: ["310 C.M.R. 10", "32 Mass.App.Ct. 14", "369 Mass. 74", "38 Mass.App.Ct. 147", "408 Mass. 39", "47 Mass.App.Ct. 833", "64 Mass.App.Ct. 606"]
+---
+
+# Alex v. Grafton Conservation Commission
+
+## Majority (Lu, John T., J.)
+
+Lu, John T., J.
+The Defendant Grafton Conservation Commission (Commission) moves to dismiss this case brought by Peter Alex (Mr. Alex), an action in the nature of certiorari pursuant to G.L.c. 249, §4.
+Mr. Alex challenges the Commission’s Orders denying him the authority to place fill and a stone wall within 25 feet of a wetland per the Town of Grafton’s Regulations for the Administration of the Wetlands Bylaw (Bylaw), Section V(C){5). The Commission contends that these actions were not timely filed.
+An action in certiorari “shall be commenced within sixty days next of the proceeding complained of.” G.L.c. 249, §4. A certiorari complaint filed more than sixty days after the Commission’s decision must be dismissed. Malone v. Civil Serv. Comm’n, 38 Mass.App.Ct. 147, 151 (1995) (time limit begins after decision). The “proceeding complained of’ is the “last administrative action” taken by the Commission. Pidge v. Superintendent, Mass. Corr. Inst., Cedar Junction, 32 Mass.App.Ct. 14, 17-18 (1992) (“Certiorari actions must be commenced within sixty days after the conclusion of the proceeding being challenged” where the proceeding is an administrative action and the administrative action is the agency decision). The Bylaw states that all appeals of the Commission’s order must be filed in Superior Court within sixty days after the date of issuance of the order. Bylaw, Section IX, *19. The Massachusetts Wetlands Protection Act’s (Act) corresponding regulations, 310 C.M.R. 10, incorporated into the Bylaw, define “date of issuance” as “the date an Order is mailed, evidenced by a postmark, or the date it is hand delivered.” G.L.c. 131, §40; 310 C.M.R. 10.04; Bylaw, Section 1(A). As the Commission correctly determined, however, the certiorari statute, not the Act, its regulations, or the Bylaw, controls this action. Curley v. Lynn, 408 Mass. 39, 41-42 (1990) (“[T]he [Commission] through its . . . rules cannot modify the statutorily prescribed time limits for filing petitions for review”) (citation omitted); Town of Falmouth v. Civil Serv. Comm’n, 64 Mass.App.Ct. 606, 610 (2005) (“The determination of . . . jurisdiction is left exclusively to the statute”) (citations omitted).
+Mr. Alex argues that the “date of issuance” as defined in 310 C.M.R. 10.04 is the “proceeding complained of’ as used in the certiorari statute but offers no authority for this interpretation. The Commission, however, correctly applies case law that interprets the certiorari statute. The Commission’s decision is the “proceeding complained of’ and begins the sixty-day time period in which Mr. Alex must file his certiorari appeal. The Commission rendered its decisions on Monday, August 25, 2008, and Monday, September 8, 2008. Sixty days following those decisions was Friday, October 24, 2008 and Friday, November 7, 2008, respectively. See Mass.RCiv.P. 6(a) (if the time period counted is over seven days, count holidays and weekends, but if the final day is a holiday or weekend, the deadline falls to the next business day). Mr. Alex filed his complaints on Monday, October 27, 2008 challenging the August 25,2008 order and on Monday, November 10, 2008 challenging the September 8, 2008 order. Although Mr. Alex filed his complaints only one business day late, late filings for certiorari appeals require dismissal. Schutte v. Director of the Div. of Employment Security, 369 Mass. 74, 79 (1975); Pidge, 32 Mass.App.Ct. at 18 (untimely filing is such a “serious misstep that such an action must be dismissed”) (internal quotations omitted).
+Mr. Alex argues in the alternative that the time in which he must file his certiorari appeal begins on the date of receipt of notice. Notice is not necessary to start the statutory time period. Committee for Pub. Counsel Serv. v. Lookner, 47 Mass.App.Ct. 833, 836 (1999) (“Neither the word ‘notice’ nor the word ‘receipt’.. . appears in G.L.c. 249, §4. Had the Legislature intended to begin the relevant period from the actual receipt of a decision, it could easily have said so . . .”); see Malone, 38 Mass.App.Ct. at 151 (noting that plaintiff actually received notice of an order more than a month after the agency decision, and that plaintiff still had time to file a complaint but did not do so within the statutorily prescribed time period). Mr. Alex had over a month to timely file both of his actions, but failed to do so. Because the certiorari complaints were not filed within the statutorily prescribed time period, this court does not have jurisdiction to hear these cases. Mr. Alex has not identified any authority suggesting that the court has the discretion to avoid this harsh result.
+ORDER
+The Defendant Grafton Conservation Commission's motion to dismiss (paper #5 in 08-2455) is ALLOWED.
+That Mr. Alex’s alternative argument may be inconsistent with his argument that the “date of issuance” is the “proceeding complained of’ is of no consequence here.
+Although the Court’s decision appears to logically control the closely related case civil action no. 08-2360, the motion to dismiss was only filed in 08-2455. A motion to consolidate was denied.
