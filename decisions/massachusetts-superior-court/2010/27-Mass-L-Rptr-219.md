@@ -1,0 +1,39 @@
+---
+court: "Massachusetts Superior Court"
+docket: "20092890"
+decided: "2010-07-30"
+citations: ["27 Mass. L. Rptr. 219"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Balboa Capital Corporation v. Leveille Construction Company, Inc. et al"]
+source_url: "https://static.case.law/mass-l-rptr/27/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7343472
+cites_cases: ["386 Mass. 367", "404 Mass. 14", "410 Mass. 706"]
+---
+
+# Balboa Capital Corp. v. Leveille Construction Co.
+
+## Majority (Tucker, Richard T, J.)
+
+Tucker, Richard T, J.
+INTRODUCTION
+This is an action in which the Plaintiff, Balboa Capital Corporation, seeks enforcement of a foreign judgment against the Defendants, Leveille Construction Company, Inc., James Leveille and Kelly Leveille. The matter is before the court on the Plaintiffs motion for Summary Judgment. For the reasons set forth below, the motion is ALLOWED.
+FACTUAL BACKGROUND
+The following facts are drawn from the Summary Judgment record and viewed in the light most favorable to the Defendants, as the non-moving party. See Attorney Gen. v. Bailey, 386 Mass. 367, 371 (1982).
+On June 29,2009, the Plaintiff obtained a judgment against the Defendants in the Superior Court of the State of California, County of Orange, in the sum of Seventy-Eight Thousand Two-Hundred Fifty-Nine Dollars and 79/100 Cents ($78,259.79) plus interest. This judgment arises out of an action commenced by the Plaintiff to enforce the terms and conditions of an equipment lease agreement and personal guaranty, in which the Defendants consented to the jurisdiction of the State of California. The Plaintiff is the owner and holder of the judgment, the judgment remains in full force and effect, is entitled to full faith and credit, and has not been satisfied in full.
+The Plaintiff has brought the instant suit against the Defendants to collect on the foreign judgment from the State of California. The Defendants answered and counterclaimed, alleging unfair debt collection practices in the collection of the debt under G.L.c. 93 and unfair and deceptive acts in the service of the present suit under G.L.c. 93A. The Defendants also counterclaimed that the repossession of equipment from them was conducted in such a way as to constitute an unfair or deceptive act or an unfair debt collection act.
+Among the recognized defenses to a Complaint to Enforce Judgment are the defenses of lack of jurisdiction and lack of due process. The Defendants do not raise the defense of lack of jurisdiction of the Superior Court of the State of California, County of Orange. The Defendants, under the equipment lease agreement and personal guaranty which they entered into, consented to the jurisdiction of the State of California:
+15. LAW: This lease shall be deemed fully executed and performed in the State of Minnesota or in the home state of whoever holds the Lessor’s interest as it may be assigned from time to time per paragraph 11. This lease shall be governed by and construed in accordance with the laws of the State of Minnesota or the laws of the home state of Lessor’s assignee. You expressly and unconditionally consent to the jurisdiction and venue of any court in the State of Minnesota and waive the right to trial by jury for any claim or action arising out of or relating to this Agreement or the Equipment. Furthermore, you waive the defense of Forum Non Conveniens.
+The original Lessor assigned its right, title and interest in the lease to the Plaintiff, a California corporation. Thus, the Defendants consented to the jurisdiction of the courts of the State of California. The Defendants make clear that the jurisdiction of the courts of the State of California is not at issue. The Defendants do not raise the defenses of contract of adhesion or choice of forum in the present case.
+The Defendants raise the defense of lack of due process in the context of alleged improper service of the Plaintiffs Complaint To Enforce Judgment and related documents. The Defendants allege that the Plaintiffs attorney specifically instructed the Sheriff to serve the Complaint to Enforce Judgment and related documents upon the Defendants on Christmas Eve Day. The Defendants further allege that said alleged action constitutes an unfair or deceptive act or practice under the provisions of G.L.c. 93A, §9. The Plaintiffs seek Summary Judgment against the Defendants on the Plaintiffs Complaint to Enforce Judgment, and to enter such further relief that the court deems as just and proper.
+DISCUSSION
+Summary judgment is appropriate where there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law. Mass.R.Civ.P. 56(c); Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991). The moving party bears the burden of affirmatively showing that there is no triable issue of fact. Pederson v. Time, Inc., 404 Mass. 14, 16-17 (1989). A party moving for summary judgment who does not have the burden of proof at trial may demonstrate the absence of a triable issue either by submitting affirmative evidence negating an essential element of the nonmoving party’s case or by showing that the non-moving party has no reasonable expectation of proving an essential element of its case at trial. Kourouvacilis, 410 Mass, at 716. Once the moving party “establishes the absence of a triable issue, the party opposing the motion must respond and allege specific facts which would establish the existence of a genuine issue of material fact.” Pederson, 404 Mass, at 17. The court reviews the evidence in the light most favorable to the non-moving party, but does not weigh evidence, assess credibility, or find facts. Bailey, 386 Mass, at 370-71.
+The Plaintiffs contend that they are entitled to Summary Judgment on the Plaintiffs Complaint to Enforce Judgment because the Defendant’s argument of lack of due process in the context of alleged improper service fails and defeats neither the Plaintiffs foreign judgment nor the ability of the court to give the judgment full faith and credit. Alternatively, the Defendants submit that service of process on Christmas Eve could be considered an unfair debt collection practice under M.G.L.c. 93, §49.
+1. Unfair and Deceptive Acts (Count I)
+The Plaintiff contends that service of process at 3:30 p.m. on a day that is not a national holiday is not “unreasonable.” M.G.L.c. 93, §49 states that communication by a creditor at an “unreasonable hour” is inappropriate, but it does not define a reasonable hour. The Defendants, who bear the burden of proof, have offered no case law, statute or any other legal precedent to establish that 3:30 p.m. on Christmas Eve Day is an “unreasonable hour” for service of process under the law. Summary Judgment shall therefore be granted.
+2. Unfair Debt Collection Practices (Count II)
+The Defendants counterclaim that the repossession of equipment was conducted in such a way as to constitute an unfair or deceptive act and an unfair debt collection act. The Defendant offers no dates as to when the alleged practices took place. The Plaintiff, however, states that these claims are waived and should have been raised as part of the litigation in California on the underlying suit. If the alleged practices took place prior to the California judgment, then it is true that the claim should have been raised as part of the litigation in California. If the alleged practices took place subsequent to the California judgment, then they constitute separate claims which have no bearing on the enforcement of the foreign judgment which is entitled to full faith and credit.
+ORDER
+For the foregoing reasons, it is hereby ORDERED that the Plaintiffs motion for summary judgment be ALLOWED.
