@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Superior Court"
+docket: "20081053"
+decided: "2010-08-13"
+citations: ["27 Mass. L. Rptr. 311"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Commonwealth of Massachusetts v. Justin Hiser"]
+source_url: "https://static.case.law/mass-l-rptr/27/cases/0311-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7344415
+cites_cases: ["171 W.Va. 329", "370 Mass. 516", "397 Mass. 358", "404 Mass. 1004", "426 Mass. 105", "457 Mass. 300", "602 P.2d 784", "740 F.2d 1104"]
+---
+
+# Commonwealth v. Hiser
+
+## Majority (Agnes, Peter W., J.)
+
+Agnes, Peter W., J.
+1. The defendant Justin Hiser is charged with murder in the first degree. He has given the Commonwealth written notice of his intention to rely at trial on a defense of lack of criminal responsibility. See Mass.R.Crim.P. 14(b)(2)(A). The Commonwealth, in turn, has filed a motion to compel the defendant to submit to a psychiatric examination. See Mass.R.Crim.P. 14(b)(2)(B)(i), (ii) and (iii). The defendant does not oppose the motion, but has moved that the examination be audio-and video-recorded.
+2. The Supreme Judicial Court has determined that such an interview “implicates the defendant’s constitutional right against compelled self-incrimination guaranteed by the Fifth Amendment and by art. 12.” Commonwealth v. Baldwin, 426 Mass. 105, 109, 113 (1997). This case does not involve the procedures set forth under Mass.R.Crim.P. 14 for safeguarding the defendant’s privilege which are now under further review by the Supreme Judicial Court’s Standing Advisory Committee on the Rules of Criminal Procedure. See Commonwealth v. Sleich-Brodeur, 457 Mass. 300 (2010). Instead, the issue concerns the appropriate exercise of the court’s discretion to order that the forensic interview sought by the Commonwealth be electronically recorded. See Commonwealth v. Delaney, 404 Mass. 1004, 1005 (1989).
+3. The Supreme Judicial Court has observed that there are many advantages to recording such interviews. Baldwin, 426 Mass. at 111. One obvious advantage is that if there is a statement attributed to the defendant during such an interview that proves to be of decisive value in the determination of the merits of the defense of lack of criminal responsibility, the jury will have direct evidence of it and we will avoid a dispute over whether a particular statement was or was not uttered by the defendant. This is precisely what occurred in United States v. Byers, 740 F.2d 1104, 1108, 1121 (D.C.Cir. 1984) (en banc) (plurality opinion). Vigorous cross-examination of witnesses is effective in rooting out bias and in identifying fabrication in a variety of contexts, but there is no better tool to aid the fact finder in determining what was said during a forensic interview than to have an electronic record of the words spoken by the court-ordered psychiatrist and the defendant.
+4. In this case, the defendant has pointed to authority from other jurisdictions where the recording of forensic interviews like the one at issue here is required. See, e.g., Houston v. State, 602 P.2d 784, 796 (Alaska 1979); State v. Jackson, 171 W.Va. 329, 298 S.E.2d 866 (W.Va. 1982). The Commonwealth has not brought to the Court’s attention any authority indicating that electronic recording is not advisable. In view of the ease of recording forensic psychiatric interviews conducted pursuant to Mass.RCrim.P. 14(b)(2)(B)(i), (ii) and (iii), and the value of a recording in supplying an authoritative record with which to assess ariy claim of bias or misinterpretation, the Court is of the view that motions for the electronic recording of such forensic interviews should generally be allowed unless the Commonwealth advances some legitimate reason for not recording the interview. No such reason has been advanced in this case.
+5. The final issue is whether the recording should be limited to an audio recording or should include video as well as audio recording. The defendant seeks both video and audio recording. The Commonwealth’s alternative position is that if there is to be a recording, it should be limited to an audio recording. “(T]he Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged.” In re Winship, 397 Mass. 358, 364 (1970). “(I]t is clear that all of the elements necessary to prove commission of the offense charged are [facts] within the meaning of Winship.” Commonwealth v. Kostka, 370 Mass. 516, 532-33 n.16 (1976) (citation omitted). On an issue as fundamental as whether the defendant was criminally responsible for his conduct, the jury, which in a case like this not only decides whether the defendant is guilty or not guilty of murder but also decides the degree of murder, see G.L.c. 265, Section 1, should have the benefit of the most probative evidence that can be provided. A videotaped interview provides more information for the viewer to consider than simply an audiotape. The Commonwealth has not identified any valid reason why a recording should be limited to an audiotape.
+ORDER
+For the above reasons, Paragraph 1 of the Commonwealth’s Motion to Compel the Defendant to Submit to a Psychiatric Examination is hereby ALLOWED, provided that it shall be carried out in accordance with Mass.R.Crim.P. 14(b)(2) and that it shall be videotaped.
