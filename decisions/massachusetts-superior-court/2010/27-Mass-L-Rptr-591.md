@@ -1,0 +1,37 @@
+---
+court: "Massachusetts Superior Court"
+docket: "051952"
+decided: "2010-12-23"
+citations: ["27 Mass. L. Rptr. 591"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["David C. Richardson et al. v. Board of Selectmen of Blackstone et al."]
+source_url: "https://static.case.law/mass-l-rptr/27/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7346618
+cites_cases: ["18 Mass.App.Ct. 502", "213 Mass. 239", "23 Mass.App.Ct. 618", "260 Mass. 165", "274 Mass. 169", "371 Mass. 573"]
+---
+
+# Richardson v. Board of Selectmen of Blackstone
+
+## Majority (Lu, John T., J.)
+
+Lu, John T., J.
+I. INTRODUCTION
+Following a non-juiy trial, the plaintiffs, heirs of the former landowners (Heirs), established a collective one-half interest in a fifteen-acre parcel of land, which on December 9, 2003, the Town of Blackstone (Town) took by eminent domain. As compensation for the taking, the court awarded the Heirs half of the fair value of the property or $124,000. The Town now moves pursuant to G.L.c. 79, §44, to offset the amount of the award for unpaid real estate taxes on the properly.
+Where the court is not aware of any authority directly on point, the court determines that the Heirs are responsible for the entire unpaid real estate tax bill, not just that portion attributable to their half of the value of the land, and the court determines that the Heirs are likewise responsible for interest on the unpaid taxes.
+II. DISCUSSION
+From 1984 until the taking, the Town assessed real estate taxes on the property to “owners unknown” in accordance with G.L.c. 59, §11. At the time of the taking, the Town held a tax lien on the property in the principal amount of outstanding taxes, $51,238.66, plus $75,875.83 in statutory interest. The Heirs contest the amount owed on two grounds. First, they argue that half of the unpaid taxes should be credited against the half of the taking award that belongs to the heirs of James Paine. Second, they argue that the offset should be limited to the principal amount only and should not include accrued interest.
+As to their first argument, the Heirs do not dispute that the Town has authoriiy to collect one hundred percent of the outstanding taxes from any one of several owners where property is held in common. See G.L.c. 60, §56; Curtiss v. Inhabitants of Sheffield, 213 Mass. 239, 245 (1913).
+They also acknowledge that there is a right of contribution against co-owners in the event the full tax liability is offset against their award. See Fiske v. Quint, 274 Mass. 169, 173-74 (1931); Ratte v. Ratte, 260 Mass. 165, 168 (1927). The Heirs argue, however, that it would be inequitable to require them to pursue a contribution claim where the Town can offset half of the tax liability from the remaining portion of the taking award, which the Heirs contend will escheat to the Commonwealth pursuant to G.L.c. 200A if it goes unclaimed.
+The Heirs rely on Eldredge v. Selectmen of Brewster, 18 Mass.App.Ct. 502, 507 (1984) (“The taking authority is bound to part with the award ... either to a party proving entitlement to the award ... or to the Commonwealth under G.L.c. 200A”). Although Eldredge supports the proposition that the Town must account for the unpaid portion of the taking award, it does not address the possibility of apportioning tax liability under G.L.c. 79, §44A, as the Heirs propose. In the absence of some authority that directly supports the Heirs’ position, the court concludes that the Town may offset the full amount of the tax liability against the Heirs’ award, leaving the Heirs with a right of contribution. This court is not entitled to dispense with the requirement that, as the Heirs suggest, they amend their complaint or pursue a separate action to recover the value of funds held by the state treasurer on behalf of the heirs of James Paine. The Heirs’ argument has some merit, but in the absence of some authoriiy for the plaintiffs position the court is unwilling to adopt it.
+The Heirs’ second argument, that accrued interest should be excluded from the tax liability, also lacks support. The Heirs contend that pursuant to G.L.c. 59, §77, the Town should issue a “corrected” tax bill now that the actual owner has been determined. Section 77, however, applies only where an assessment “is invalid by reason of error or irregularity,” and in this case, the assessments were valid. The Board of Assessors could not determine the owner of the property through the exercise of reasonable diligence and the Department of Revenue authorized the Town to assess the property to owners unknown. See G.L.c. 59, §11 (para. 3); Hardy v. Jaeckle, 371 Mass. 573, 580 (1976) (summarizing statutory requirements for the assessment of real estate taxes to owners unknown). Given the validity of the assessment, the Town is entitled to collect the amount of its unpaid lien, including accrued interest, pursuant to G.L.c. 79, §44A and G.L.c. 60, §93. Section 44A provides that prior to the payment of a taking award, the collector of taxes is entitled to be paid the amount of “any lien for taxes, assessments or other charges, which is extinguished by such taking.” The court construes the term “other charges” as used in the statute to include charges for interest. General Laws c. 60, §93 parallels G.L.c. 79, §44A, in that it provides a statutory setoff procedure. See Decota v. Stoughton, 23 Mass.App.Ct. 618, 619-21 (1987) (remedy provided under G.L.c. 60, §93 is cumulative of other tax collection remedies). Section 93 requires a municipality to “withhold payment of any money payable to any person from whom there are then due taxes ... to an amount not to exceed the total of the unpaid taxes, assessments, rates and other charges, with interest and costs.”
+Nothing in the facts of this case suggests to the court that it should adopt the Heirs’ position, which would amount to a discount on the Heirs’ real estate taxes.
+III. ORDER
+The defendants’ motion for offset of the plaintiffs’ damage award for unpaid real estate taxes (paper #39) is ALLOWED. The defendants are entitled to offset the plaintiffs’ award by the amount of unpaid taxes, interest and charges, totaling $127,114.49, as set forth in the affidavit of the Treasurer for the Town of Blackstone.
+General Laws c. 79, §44A provides,
+If real estate taken in whole or in part by eminent domain was at the time of said taking subject to any lien for taxes, assessments or other charges, which is extinguished by such taking, and if the collector of taxes of the town in which such real estate is located gives written notice of a claim of the amount covered by such lien to the body politic or corporate, on behalf of which such taking was made, pnor to the payment of any award of damages for such taking or to the entry of judgment therefor, said collector shall be entitled to be paid such amount before any payment of damages for such taking is made to any other party; and any amount so payable on account of such taxes, assessments or other charges shall be deducted from the amount of such damages otherwise payable.
+The computation of the outstanding taxes plus interest is set forth in an affidavit of the town treasurer.
+The Heirs state that half of the taking award has been adjudicated as belonging to the heirs of James Paine. Nothing in this decision determines that this is or is not correct.
+It is entirely possible that the Town still holds the funds.
