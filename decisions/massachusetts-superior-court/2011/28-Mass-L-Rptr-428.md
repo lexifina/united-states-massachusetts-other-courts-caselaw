@@ -1,0 +1,34 @@
+---
+court: "Massachusetts Superior Court"
+docket: "WOCV200901323E"
+decided: "2011-04-20"
+citations: ["28 Mass. L. Rptr. 428"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael S. Galvin v. Robert J. McManus, Roman Catholic Bishop of the Diocese of Worcester"]
+source_url: "https://static.case.law/mass-l-rptr/28/cases/0428-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064158
+cites_cases: ["1 MassApp.Ct. 341", "20 Mass.App.Ct. 439", "254 Mass. 198", "371 Mass. 140", "410 Mass. 706", "413 Mass. 238", "437 Mass. 396", "49 Mass.App.Ct. 696", "603 CMR 23", "617 F.3d 520"]
+---
+
+# Galvin v. McManus
+
+## Majority (Ricciardone, David, J.)
+
+Ricciardone, David, J.
+The defendant contends that the record here demonstrates a lack of proof as to at least one element of each cause of action asserted by the plaintiff, and that therefore he is entitled to summary judgment. See, Kourouvacilis v. General Motors Corp., 410 Mass. 706, 716 (1991). For reasons that follow, this argument has merit.
+Count I: Malicious Prosecution/ Abuse of Process
+A classmate of the plaintiffs heard him threaten to kill the school’s baseball coach if he did not start at third base. The student took the threat seriously and informed school authorities. Deposition of Brendan Tivnan, pgs. 12-15, 68, 104-05. This information from an identified individual provides a reasonable belief that a crime was committed (regardless of the plaintiffs denial), and therefore the pursuit of a criminal complaint against the plaintiff was supported by probable cause (regardless of the outcome). This defeats the action for malicious prosecution. See, Seelig v. Harvard Cooperative Society, 1 MassApp.Ct. 341, 344 (1973); Commonwealth v. Santaliz, 413 Mass. 238, 240 (1992).
+As to the abuse of process claim, probable cause is immaterial, but it is necessary to prove an ulterior, or illegitimate, purpose in seeking or using “process.” Gutierrez v. MBTA et al., 437 Mass. 396, 407 (2002), and cases cited. The plaintiff contends that the defendant put in motion the application process for a criminal complaint against him in retaliation for his complaint against the baseball coach from the prior school year, ultimately to prevent him from playing on the baseball team. The record is silent as to actual evidence of this motive, but regardless, I credit the argument that even if true, there is no “collateral advantage” inuring to the defendant under this theory. Cohen v. Hurley, 20 Mass.App.Ct. 439, 442.
+Count II: Intentional Infliction of Emotional Distress
+At the heart of this cause of action (at least for purposes of this motion) is proof of extreme and outrageous conduct by the defendant and a resultant level of emotional distress “of a nature that no reasonable man could be expected to endure.” Agis v. Howard Johnson Co., 371 Mass. 140, 144-45 (1976).
+The record here lacks specifics as evidence of extreme and outrageous conduct by the defendant beyond the accusations in the pleadings. The defendant contends that the school merely brought the alleged threat to the attention of local police but did not actually initiate criminal process. The plaintiffs answers to interrogatories show only that: he found the accusation of threatening to commit a crime “disturbing,” the requirement to go to court for same “distressing,” and the act of reading about the situation in the newspaper “almost unbearable.” He summarized the “whole mess” as an “embarrassment.” (Exhibit 11.) He visited a doctor once for dyspepsia which was related to stress at school due to his strained relationship with the baseball coach; this individual was reported to the doctor as “verbally and physically abusive to the children at the school.” (Exhibit 12.) This office visit took place approximately four months prior to the hearing on the application for a criminal complaint against the plaintiff, and there was no follow up. The doctor’s visit cannot be related to the emotional distress claimed to flow from the accusation of a crime. I also credit the argument that the plaintiffs claimed distress does not reach the elevated level required to sustain this cause of action. Kennedy v. Town of Billerica, 617 F.3d 520 (1st Cir. 2010) (in aftermath of arrest, minor’s nervousness, fear of going to court and of police, nightmares, sweating and racing pulse held insufficiently severe to support claim of intentional infliction of emotional distress). Cf. Homesavers Council of Greenfield Gardens, Inc. v. Sanchez (severe emotional distress where evidence showed severe depression, suicidal thoughts and loss of sleep for more than a month). Clearly, the scenario at school involving a bitter disagreement with his coach, his dismissal from the team, the unfavorable publicity, the court proceedings, etc., all caused the plaintiff some level of distress. The problem is that his distress amounts to basic emotional responses that are not legally compensable, even if there were outrageous conduct (which the evidence here does not support). See, Quinn v. Walsh, 49 Mass.App.Ct. 696, 705-06 (2000).
+Count III: Breach of Privacy
+The plaintiff claims breach of privacy, specifically referencing the “Educational Privacy Act,” 603 CMR 23.0 et seq., when his request for a letter of recommendation from the same baseball coach got published on an internet comment board following a newspaper article on the matters involved here. There is no dispute that this happened, but there is no proof that the defendant had anything to do with publishing the information. I also find, as a matter of law, that this request, actually made by the plaintiffs father by email to the headmaster (Exhibit 13), cannot reasonably be seen to constitute a “student record” in which there is a right of confidentiality. 603 CMR 23.01, 23.02.
+CONCLUSION
+Since the undisputed evidence is insufficient to prove one or more elements of each of the plaintiffs claims, the defendant is entitled to judgment as a matter of law, and the defendant’s motion for summary judgment is allowed as to each count of the plaintiffs complaint.
+Of general note in this regard also is: 1) the general low esteem with which our courts view these cases “which are not to be favored and ought not to be encouraged,” Cohen supra at 443, quoting Wingersky v. E.E. Gray Co., 254 Mass. 198, 201 (1926), and 2) the fact that it would be a rare school in this day and age that would not follow up on such credible threats.
+This is stated in the defendant’s memorandum, although the record itself is unclear as to this; the plaintiffs answers to interrogatories shows that he did not know how the criminal complaint process was begun.
+As the defendants point out, this statute was not mentioned in the complaint but was referenced for the first time in plaintiffs opposition.
