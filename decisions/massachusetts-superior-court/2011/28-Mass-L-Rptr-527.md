@@ -1,0 +1,80 @@
+---
+court: "Massachusetts Superior Court"
+docket: "WOCV201000333C"
+decided: "2011-06-29"
+citations: ["28 Mass. L. Rptr. 527"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Cynthia Karapanos, Individually, as Power of Attorney for Eva Pappas, as Trustee of the Eva S. Pappas Revocable Trust and as Beneficiary of the Eva S. Pappas Revocable Trust v. Barbara Pappas et al."]
+source_url: "https://static.case.law/mass-l-rptr/28/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064246
+cites_cases: ["12 Mass. L. Rptr. 267", "2000 WL 1512373", "2006 WL 618837", "29 Mass.App.Ct. 998", "65 Mass.App.Ct. 1122"]
+---
+
+# Karapanos v. Pappas
+
+## Majority (Curran, Dennis J., J.)
+
+Curran, Dennis J., J.
+Introduction
+The defendant Barbara Pappas has filed a motion for sanctions and the defendant Gerald Turner has filed a motion for attorneys fees and costs under G.L.c. 231, §6F and Mass.R.Civ.P. 11. Both motions are ALLOWED and as statutorily required, the Court issues the following Findings of Fact.
+FINDINGS OF FACT
+This is a case about greed.
+Eva Pappas is 91 years of age and lives in her own home with an aide. After the death of her husband some years ago, her principal source of support (aside from a social security check), was a monthly rent check from Hillside Corporation, a company her husband had owned. Hillside owned a commercial property in Webster, Massachusetts and leased its premises to a Rite-Aid Pharmacy which paid monthly rent. Eva Pappas survived on those monthly checks.
+Mrs. Pappas has an adult granddaughter, Cynthia Karapanos. After the death of her grandfather, Cynthia convinced her grandmother to transfer her home to her, but Eva did maintain a life estate.
+On October 1, 2008, Cynthia took her elderly grandmother to a lawyer. Eva Pappas had not asked for the meeting with this attorney and had never before met him. Thinking Cynthia was acting in her best interest, Eva did as her granddaughter directed and signed a host of legal documents, none of which she had ever requested or ever before seen. One such document immediately relinquished her ownership in the Webster real estate, transferring it all to Cynthia; a second was her resignation as Trustee of the Eva S. Pappas Revocable Trust; and a third was General Power of Attorney. The Resignation appointed Cynthia as Successor Trustee, and the Power-of-Attorney named the granddaughter as Eva’s Attomey-in-Fact.
+The effect of these documents was to immediately transfer ownership in the Hillside Corporation to Cynthia. It also put an immediate end to the monthly income upon which Eva was dependent. Mrs. Pappas had never intended to transfer ownership of the Hillside Corporation to her granddaughter during her lifetime. She also obviously never intended to end her only source of significant monthly income. Nevertheless, the attorney to whom Cynthia Karapanos had directed her grandmother, and the legal documents she signed on October 1,2008, accomplished precisely those aims.
+The First (Or Prior) Action
+On July 20, 2009, Eva Pappas sued her granddaughter for breach of fiduciary duty and negligence in Eva Pappas v. Cynthia Karapanos, Worcester Superior Court Docket No. 09-CV-1648. A month later, Pappas’ counsel filed a motion for a speedy trial due to her advanced age. That motion was allowed by a prior session judge and trial was scheduled for several months later, on January 29,2010. Shortly before that date, the Court became aware that original counsel was withdrawing, to be- replaced by two attorneys, Stephen J. Kuzma and India L. Minchoff. Given the frailty of the 91-year-old plaintiff and the legislative mandate of a speedy trial, the trial went forward as scheduled on January 29, 2010. A jury was selected, but instructed to return in three weeks due to an announced and planned intervening unavailability of the judge.
+However, during this hiatus, Cynthia Karapanos, acting through her new attorneys, filed another civil action in this Court, against her own mother and attorney Gerald Turner. This new Complaint contained twelve counts;
+Count I—Breach of Fiduciary Relationship against Defendant Barbara Pappas;
+Count II—Breach of Confidential Relationship against Defendant Barbara Pappas;
+Count III—Misrepresentation against Defendant Barbara Pappas;
+Count IV—Deceit against Defendant Barbara Pappas;
+Count V—Conversion against Defendant Barbara Pappas;
+Count VI—Fraud against Defendant Barbara Pappas;
+Count VII—Tortious Interference with Advantageous Relations against Defendant Barbara Pappas;
+Count VIII—Undue Influence against Barbara Pappas;
+Count IX—Declaratoiy Judgment against Gerald Turner;
+Count X—Emotional Distress against Barbara Pappas;
+Count XI—Interference with Expectancy against Barbara Pappas; and
+Count XII—Injunctive Relief.
+The complaint also claimed that:
+Through coercion, fraud, and undue influence [the defendant Pappas] has, among other wrongdoing, caused Eva to serve as [the pflaintiff in a Complaint filed against [Karapanos] in the action styled as Eva Pappas v. Cynthia Karapanos, Docket No. 0901648.
+The day before the trial was to resume in the first (or Prior) Action, the defendant Karapanos filed a motion to consolidate both actions. In denying this motion, the Court observed:
+After hearing and argument, DENIED. This is a classic example of a lawsuit involving many of the same issues as a pending prior action . . . The “new,” or second, lawsuit was filed on February 10, 2010, two weeks after this action was called for trial and a jury had been impaneled. For reasons that are unclear, in the intervening three-week period before the trial commenced (due to the trial judge’s unavailability due to knee surgery), the defendants filed a second lawsuit.
+On the same day, the defendant Karapanos filed a second motion, this one to continue that trial, complaining that she had not yet deposed two witnesses, Sam Pappas and Attorney Gerald Turner. However, over four months earlier, Karapanos had identified those same individuals on her witness list in the Joint Pre-Trial Memorandum (see paper 14, pp. 6 and 7) and Attorney Turner had been deposed, but had invoked his attorney-client privilege as to questions relating to his representation of Eva Pappas. The Court agreed to permit both parties to depose these and other lay and expert witnesses as necessary, exhorted them to work out any scheduling issues, but refused to delay the trial. (See paper No. 29, dated February 22, 2011, reflecting the Court’s earlier bench ruling.)
+The new attorneys’ tactics in filing the second civil action, in moving to consolidate, and moving to continue the trial, were all intended to derail the imminent lawsuit against Cynthia Karapanos by:
+1. confusing the triable issues in asserting twelve (12) new counts;
+2. delaying the trial for this 91-year-old plaintiff; and
+3. transparently hoping that death or illness would intervene and thereby eliminate Eva Pappas’ ability and/or capacity to prosecute her case.
+Cynthia Karapanos’ stratagem would not succeed. In her later-filed lawsuit, she baldly asserted she was acting as Eva Pappas’ Attorney-in-Fact, when, in the prior action, she was alleged to have breached her duty created by that same trust relationship. Her (and counsel’s) cynicism is further exposed when the facts of the cases are examined. Such analysis compels the conclusion that sanctions are appropriate here for six reasons.
+First, all of the claims presented in the second lawsuit were precluded by the pendency of the Prior Action. “(A]ll issues raised in th[is lawsuit] are or could [have been] raised in [the Prior Action] either as an affirmative claim or as a defense.” Clark v. Leasecomm, 2000 WL 1512373*5 (Ma.Super. 2006) [12 Mass. L. Rptr. 267), citing Conant v. Kantrovitz, 29 Mass.App.Ct. 998, 999 (1990). The transparency of Karapanos’s scheme is revealed by her Answer in the Prior Action, in which she asserted, as Affirmative Defenses:
+3. The plaintiff failed to name a necessary party;
+4. The true party-in-interest is Barbara Pappas and not the plaintiff or any Trust of which plaintiff was Trustee; and
+6. The true party-in-interest, Barbara Pappas, has deprived the defendant of any access to the plaintiff and the defendant consequently and necessarily must reserve the defenses that the plaintiff is incompetent and that the instant action is the product of the undue influence of Barbara Pappas.
+These very issues were before the Court in the Prior Action. As the defendant Barbara Pappas has pointed out:
+Merely naming new parties [as defendants in this lawsuit does not give new life to it.] See Johnson v. Greenfield District Court, 65 Mass.App.Ct. 1122, 2006 WL 618837*3.
+The issues of the Hillside Corporation stock transfer, Eva Pappas’ intentions relating to that transfer, and her intentions to proceed with the Prior Suit all existed in that action. Asserting them anew in a separate lawsuit was simply an effort to delay the trial. Indeed, the trial had already commenced in the Prior Action and a jury had been impaneled. These new claims and attorney-driven conduct ought to be exposed for what they are: wholly frivolous, insubstantial, and not advanced in good faith, satisfying the requirements of G.L.c. 231, §6F.
+Second, Cynthia Karapanos’ claims, when exposed to the light of a jury trial, shriveled. After four days of trial, the jury unanimously rejected Cynthia Karapanos’ claims and concluded decisively that she had breached her fiduciary duty.
+Third, Karapanos’s own pleading revealed her base motive when, in the very introduction of her Complaint in the second or later-filed action, she admitted that one of the goals of that action was to prevent the earlier civil action from proceeding. Further, that complaint spewed allegations of “wide scale fraud and deceit,” claimed that her mother’s conduct was “extreme and outrageous . . . [and] beyond all possible sources of decency,” asserted that her mother had influenced Eva to change her real estate plans, charged that her mother had forged Eva’s signature on certain estate planning documents, had conspired with attorney Turner to divest Karapanos of an interest in Hillside Corporation, and finally, alleged that her mother and attorney Turner had hatched a scheme to disinherit Karapanos. When these allegations were made, Karapanos’s counsel well knew they were false because on the veiy day the second action was filed, they deposed attorney Gerald Turner, and in doing so, were provided with Eva Pappas’s estate planning documents that demonstrated the falsity of those claims. Those documents revealed that Karapanos was not disinherited and evidenced only two changes to the estate plan: a distribution of $10,000 to Cynthia Karapanos’ brother, James Pappas, and a distribution of $50,000 to Barbara Pappas. The rest of the estate was left intact for Cynthia Karapanos. This is completely at variance with the Complaint her attorneys had drafted and filed.
+Fourth, Karapanos falsely claimed that Barbara Pappas had forced her mother, Eva, to sign the Verified Complaint in the Prior Action. Yet, just about a week earlier, Eva Pappas testified at deposition to just the opposite. When asked whether she signed the Complaint, Eva Pappas testified: “Yes, that’s my signature."
+Fifth, Cynthia Karapanos falsely claimed in her Complaint that after the events of October 1, 2008, Eva Pappas did not want the Hillside Corporation asset of the Rite-Aid Pharmacy (and its monthly rent) returned to her. At deposition, however, Eva Pappas exposed this falsehood when she testified that the Rite Aid building: “Was my building, and Cindy took it away from me ... I am the owner . . . but she just took it away."
+Sixth, Karapanos asserted that Barbara Pappas unduly influenced Eva to disinherit her. This claim was put to rest when Eva Pappas convincingly denied it:
+"Q. Did Barbara ask you to leave the Hillside building to her?
+A. Never, never."
+All of these sordid claims of fraud, deceit, coercion, fraud and undue influence were made when both of Cynthia Karapanos’ attorneys knew them to be false. Indeed, they had just taken two depositions which had confirmed their falsity. Thus, counsel’s knowledge as to the truth, and willingness to utterly ignore it for strategic purposes, evidences bad faith.
+Counsel’s later-filed complaint was advanced for the unseemly purpose of delaying the claims of a 91-year-old woman from being presented to a jury for prompt adjudication.
+Accordingly, I specifically find, beyond any reasonable doubt, that this action was frivolous, insubstantial and not advanced in good faith.
+SUMMARY
+Attorneys India L. Minchoff and Stephen J. Kuzma’s actions warrant the imposition of attorneys fees and costs. They had no factual or legal support for Karapanos’ claims. They chose to ignore the sworn testimony of Eva Pappas. They obviously hoped that illness or death would overtake EvaS. Pappas’s capacity to prosecute her claims. They charged a member of the Bar with fraud, forgery, and misconduct.
+This Court has no interest in chilling an attorney’s enthusiasm or creativity in pursuing factual or legal theories, but the conduct engaged in here was borne of neither enthusiasm nor creativity, but simple malevolence. As such, it cries out for a sanction.
+Gerald Turner, a young attorney, whose only involvement was creating an estate plan for Eva Pappas, did not warrant being targeted by Cynthia Karapanos and her counsel for the basest of accusations. He was compelled to expend significant monies to defend himself. Accordingly, his motion for attorneys fees under G.L.c. 231, §6F, and Mass.R.Civ.P. 11 against Stephen J. Kuzma and India L. Minchoff is ALLOWED. Each counsel is jointly and severally liable for the $8,540 in such fees and costs, which I find to be reasonable and well-documented.
+Likewise, Barbara Pappas’ motion for sanctions is also ALLOWED, and the imposition of a sanction of $4,000 is both modest and appropriate. Each counsel, Stephen J. Kuzma and India L. Minchoffi is jointly and severally liable for the payment of this sum.
+ORDER
+For these reasons, the defendant Barbara Pappas’ motion for sanctions is ALLOWED. Attorneys Stephen J. Kuzma and India L. Minchoff are hereby ordered to pay to Michael P. Angelini, as Attorney for Eva S. Pappas, $4,000 within thirty (30) days of the date of this Order. Further, Gerald Turner’s motion for attorneys fees under G.L.c. 231, §6F and costs under Mass.R.Civ.P. 11 is also ALLOWED. Attorneys Stephen J. Kuzma and India L. Minchoff are also hereby ordered to pay, jointly and severally, the sum of $8,540, directly to Theresa Kelly Banash, as attorney for Gerald Turner, also within thirty (30) days of the date of this Order.
+Ironically, Eva Pappas did intend, upon her death, to transfer the ownership of the Hillside Corporation and its concomitant monthly rent checks from Rite-Aid Pharmacy to her granddaughter. However, it appears that Cynthia Karapa-nos tired of waiting for her grandmother’s demise.
+Defense counsel will likely claim that because they filed a Notice of Voluntary Dismissal dated March 19, 2010, G.L.c. 231, §6F sanctions cannot be imposed. But by that date, the defendants had already entered appearances and such Notice could not be acted upon because it lacked the signatures of all parties as required by Mass.R.Civ.P. 41(1)(1)(1) (only plaintiffs counsel had signed that pleading). Thus, the pleading was returned to plaintiffs counsel. Moreover, the Notice of Voluntary Dismissal was filed only after the Court issued a Scheduling Notice for a sua sponte motion to dismiss. (See paper no. 5.) In the final analysis, the plaintiffs complaint, served upon Barbara Pappas and attorney Gerald Turner on February 25, 2010, had caused them to incur significant legal defense costs.
+Indeed, this Court, in nine years, has never before made a Rule 11 violation finding, and finds such a result repugnant.
