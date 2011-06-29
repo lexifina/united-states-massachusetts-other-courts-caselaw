@@ -1,0 +1,27 @@
+---
+court: "Massachusetts Superior Court"
+docket: "104407"
+decided: "2011-06-29"
+citations: ["28 Mass. L. Rptr. 515"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["State Board of Retirement v. Salvatore DiMasi et al."]
+source_url: "https://static.case.law/mass-l-rptr/28/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064231
+cites_cases: ["16 Mass.App.Ct. 614", "446 Mass. 698"]
+---
+
+# State Board of Retirement v. DiMasi
+
+## Majority (Sanders, Janet L., J.)
+
+Sanders, Janet L., J.
+On July 13, 2010, the Boston Municipal Court (McCormack, J.) held that the plaintiff, the State Board of Retirement (the “Board”), had no legal right to suspend pension payments to the defendant Salvatore DiMasi, who by that time had been indicted in federal court on a number of charges. In suspending the payments, the Board had relied on G.L.c. 32, §15(1) which permits the Board to stop payments to any contributing member who has been charged with “misappropriation of government funds,” provided that the Board holds an evidentiaiy hearing to decide: a) that the misappropriation charge is true; and b) that as a result of that misappropriation, the former employee owes restitution in a certain amount, which in turn determines how much of his payments are forfeited. Because the Board had held no hearing and had no intention of holding one with the federal prosecution looming, the BMC judge decided that the Board had to resume the pension payments to DiMasi. Although the Board appealed that decision to this Court via G.L.c. 249, §4, the appeal lay dormant for the last year with no effort on the part of the Board to challenge the BMC decision until the filing of the instant “emergency” motion five days ago. That Motion seeks to “stay” the order of the BMC judge and allow the Board to make pension payments into escrowuntil the Board can hold ahearing. This Court concludes that the Motion must be Denied.
+The primary basis for the Motion is that DiMasi has now been convicted by a federal jury and that as a result of his conviction, he will forfeit his pension by operation of law under G.L.c. 32, §15(4). A conviction under that section must be “final” however, and, as the Board concedes, a conviction is final only as of the date the defendant is sentenced. State Board of Retirement v. Woodward, 446 Mass. 698, 707, n.8 (2006). DiMasi will not be sentenced until September 8, 2011; there is therefore no final conviction before then for purposes of the statute. Nevertheless, the Board seeks to withhold pension payments from DiMasi in the interim because it believes there may be some room to argue that, even prior to a final conviction, DiMasi would not be entitled to monthly pension payments; if the Board is permitted to make payments into an escrow fund instead, it will have a chance to make that argument (presumably at the Board’s next scheduled meeting on June 30, 2011) and have a guarantee that the monies can be collected if it is successful.
+There is only one provision in the statute that entitles the Board to withhold payments before conviction, however, and that is G.L.c. 32, §15(1). This Court sees no reason to disturb the BMC’s decision that Section 15(1) cannot justify the suspension of payment to DiMasi without a full evidentiaiy hearing. Although the BMC judge did conclude his opinion by saying that his order could be revisited if the “facts and circumstances change,” the only relevant change of circumstance for purposes of Section 15(1) would be if the Board held an evidentiaiy hearing to determine that DiMasi had misappropriated funds. Although it is still free to conduct such a hearing, it cannot circumvent the requirements of section 15(1) by this “emergency” request to have payments redirected into an escrow fund in the meantime.
+The Board argues in the alternative that other sections of the statute could be read to allow the suspension of payments before final conviction. This Court disagrees. Sections 15(3), (3A), and (4) of Chapter 32 all pertain to forfeiture of an employee’s retirement allowance only crfter a “final conviction.” That the statute does not permit the Board to set aside or hold in escrow pension payments pending the resolution of a criminal prosecution could be viewed by some as unfortunate (particularly in a case like this one). But the remedy for that omission in the statute lies not with the courts but with the legislature. See Brown v. Taunton, 16 Mass.App.Ct. 614, 618-19 (1983). In the meantime, this Court has an obligation to construe the statute as written, and Chapter 32 simply does not authorize the Board to do what it is asking this Court to order.
+Accordingly, for all the foregoing reasons and for other reasons set forth in the Opposition to the Motion, the Motion to Stay the BMC Order and to Place Pension Monies in Escrow is hereby DENIED.
+In fact, the appeal was to the Single Justice for Suffolk County. The Single Justice then remanded the case to this Court.
+DiMasi contends that Woodward addresses only the question of when a “conviction” occurs and that in fact, it is “final” only after all appeals have been exhausted. This Court need not decide whether DiMasi is correct, however, since even under the Board’s interpretation, the conviction will not be final for at least a couple of more months.
