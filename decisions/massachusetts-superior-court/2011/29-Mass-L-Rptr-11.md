@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "ESCV200901835C"
 decided: "2011-07-22"
-citations: ["29 Mass. L. Rptr. 11", "29 Mass. L. Rptr. 24"]
+citations: ["29 Mass. L. Rptr. 11"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Katherine Sandoval et al. v. M.J.F. Bowery Corporation dba Ten’s Sh
 source_url: "https://static.case.law/mass-l-rptr/29/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6763825
-cites_cases: ["20 Mass. L. Rptr. 377", "2005 WL 3543770", "2006 WL 2205085", "21 Mass. L. Rptr. 224", "246 Mass. 259", "327 Mass. 211", "369 Mass. 33", "382 Mass. 398", "386 Mass. 367", "394 Mass. 151", "394 Mass. 595", "397 Mass. 525", "398 Mass. 609", "404 Mass. 14", "410 Mass. 314", "410 Mass. 805", "436 Mass. 638", "439 Mass. 171", "439 U.S. 115", "447 F.2d 647", "452 Mass. 337", "474 F.2d 67", "56 Mass.App.Ct. 473", "576 F.2d 1157", "6 Mass.App.Ct. 731", "74 Mass.App.Ct. 544"]
+cites_cases: ["20 Mass. L. Rptr. 377", "2005 WL 3543770", "2006 WL 2205085", "21 Mass. L. Rptr. 224", "327 Mass. 211", "386 Mass. 367", "398 Mass. 609", "404 Mass. 14", "410 Mass. 314", "410 Mass. 805", "436 Mass. 638", "439 Mass. 171", "56 Mass.App.Ct. 473", "74 Mass.App.Ct. 544"]
 ---
 
 # Sandoval v. M.J.F. Bowery Corp.
