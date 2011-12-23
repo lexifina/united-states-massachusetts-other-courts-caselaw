@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "WOCV200900592E"
 decided: "2011-12-23"
-citations: ["29 Mass. L. Rptr. 402", "29 Mass. L. Rptr. 407"]
+citations: ["29 Mass. L. Rptr. 402"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
