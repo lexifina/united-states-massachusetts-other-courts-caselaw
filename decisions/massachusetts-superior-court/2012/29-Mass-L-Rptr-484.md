@@ -1,0 +1,66 @@
+---
+court: "Massachusetts Superior Court"
+docket: "WOCV200601988A"
+decided: "2012-02-13"
+citations: ["29 Mass. L. Rptr. 484"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sarah Wilson, Administratrix of the Estate of Joseph M. Brochu v. Michael Robertson, M.D. et al."]
+source_url: "https://static.case.law/mass-l-rptr/29/cases/0484-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6768786
+cites_cases: ["11 Mass. L. Rptr. 608", "16 Mass. L. Rptr. 351", "17 Mass. L. Rptr. 187", "18 Mass. L. Rptr. 223", "2003 WL 21500540", "2004 WL 2075567", "2004 WL 65287", "26 Mass.App.Ct. 385", "338 Mass. 394", "370 Mass. 243", "387 Mass. 152", "395 Mass. 659", "404 Mass. 14", "406 Mass. 43", "410 Mass. 706", "413 Mass. 398", "448 Mass. 629", "9 Mass. L. Rptr. 591"]
+---
+
+# Wilson v. Robertson
+
+## Majority (Curran, Dennis J., J.)
+
+Curran, Dennis J., J.
+Introduction
+Sarah Wilson, administratrix of the estate of Joseph Brochu, has sued Jaimee DeMone, M.D. and five other' health care providers for negligent treatment during her labor and delivery at the UMass Memorial Medical Center which resulted in the death of her son. During Ms. Wilson’s care and treatment, Dr. DeMone was a second-year resident in obstetrics at the University of Massachusetts Medical School.
+The matter is before me on Dr. DeMone’s motion for summary judgment which alleges that as a second-year resident, she is a public employee under the Massachusetts Tort Claims Act, and as such, cannot be held personally liable in this action.
+After review of the moving and opposition papers and a hearing, Dr. DeMone’s motion is ALLOWED.
+The Facts
+The following facts have been developed here:
+Dr. DeMone was required to abide by the rules, regulations, policies and procedures of the University of Massachusetts Medical School and of the Board of Trustees of the University of Massachusetts.
+Dr. DeMone was paid a fixed salary by the Commonwealth of Massachusetts.
+Dr. DeMone’s salary did not depend on the number of patients she treated nor the number of hours she worked.
+Dr. DeMone was enrolled in the Commonwealth of Massachusetts’ contributory retirement plan, and received employee health, dental and life insurance benefits offered by the Commonwealth through the Group Insurance Commission.
+At all times during her care and treatment of Sarah Wilson, Dr. DeMone was subject to the supervision, direction and control of Robert Berry, M.D., Director of the University’s OB/GYN residency program.
+At the time of her treatment of Sarah Wilson, Dr. DeMone was subject to the same level of supervision, direction and control as any other PGY-2 resident in the University’s OB/GYN residency program.
+Dr. DeMone practiced under a provisional license that she obtained through the University of Massachusetts.
+Dr. DeMone always worked under the supervision of an attending physician, a more senior resident, or a University of Massachusetts in-house faculty person.
+Dr. DeMone’s work schedule — including her hours, rotations and assignments — were all subject to the approval of Dr. Berry.
+Dr. DeMone was required to obtain Dr. Berry’s approval for her vacation and time off from work.
+Dr. DeMone was assigned by Dr. Berry to work at the University OB/GYN Residency Program as part of her residency training.
+Dr. DeMone’s assignment to the OB/GYN residency rotation was obligatory; she had no option to decline it.
+During her rotation at the University’s OB/GYN residency program, Dr. DeMone remained an employee of the University and was bound by its policies, rules, and regulations.
+While on her assigned rotation, Dr. DeMone received her salary and benefits from the Commonwealth of Massachusetts.
+Dr. DeMone was required to treat those patients who were presented to her; she had no discretion over which patients she could treat.
+At all times, the University was responsible for the overall supervision and evaluation of its residents working at the Medical Center.
+While treating Ms. Wilson, Dr. DeMone was working an assigned rotation on the Labor and Delivery Unit at the University of Massachusetts Memorial Campus.
+As a resident, Dr. DeMone was supervised, directed and controlled by Dr. Berry.
+Dr. DeMone held no admitting privileges at the Medical Center.
+Dr. DeMone had no private patients of her own.
+Dr. DeMone neither billed patients directly, nor did she ever receive payments from any of the patients she treated or their insurers.
+DISCUSSION
+Summary judgment may be granted when “viewing the evidence in the light most favorable to the nonmov-ing party, all material facts have been established and the moving party is entitled to judgment as a matter of law.” Cabot Corp v. AVX Corp., 448 Mass. 629, 636-37 (2007). The party moving for summary judgment bears the initial burden of demonstrating the absence of a triable issue. Pederson v. Time, Inc., 404 Mass. 14, 17 (1989). This party may satisfy its burden by submitting affirmative evidence that negates an essential element of the non-moving party’s claim or by showing that the non-moving party’s evidence is insufficient to establish an essential element of its claim. Kourouvacilis v. Gen. Motors Corp., 410 Mass. 706, 715 (1991).
+If a moving party sustains its initial burden of showing that no genuine issue of fact exists, the burden shifts to the non-moving party to rebut this conclusion. Mass.R.Civ.P. 56(e); Apahouser Lock & Sec. Corp. v. Carvelli, 26 Mass.App.Ct. 385, 389 (1988). If the moving party satisfies this burden, the party opposing summary judgment must respond by presenting affidavits or other evidentiary materials that set forth specific facts showing that there is a genuine issue for trial. Mass.R.Civ.P. 56(e); Pederson, 404 Mass. at 17. If the opposing party fails to respond or responds with inadequate materials, summaiy judgment may be entered against it. O’Brion, Russell & Co. v. LeMay, 370 Mass. 243, 245 (1976).
+Here, Dr. DeMone asserts that this court should grant summaiy judgment in her favor, as she contends she is a public employee under the Massachusetts Tort Claims Act, and is therefore not personally liable in this action.
+The Question of Whether Dr. DeMone Is a Public Employee and Immune for Liability for Negligence under the Masssachusetts Tort Claims Act
+“The Massachusetts Tort Claims Act, G.L.c. -258, represents a limited waiver of sovereign immunity with respect to certain agencies and institutions of the Commonwealth.” Hull v. Foley, 2004 WL 65287 at *2 (Mass.Super.) [17 Mass. L. Rptr. 187]. It is undisputed that the University of Massachusetts is a public employer under G.L.c. 258, §1, and thus liable for the negligent acts of its employees who work under its direction and control and who are therefore considered “public employees.” G.L.c. 258, §2. The issue in this case then, is whether the defendant Dr. DeMone is a “public employee” within the meaning of G.L.c. 258, §2.
+Wilson contends that Dr. DeMone is not a public employee and summary judgment is inappropriate. She argues there is a genuine issue of material fact, particularly whether Dr. DeMone exercised sufficient independent judgment to place her outside of the protections afforded by a public employee under G.L.c. 258.
+The central question in determining whether a doctor is a public employee is whether the public employer “directs and controls the physician’s treatment of the patient.” Williams v. Hartman, 413 Mass. 398, 401 (1992). The test does not focus on whether the public employer supervised or directed each act performed by the public employee physician, but rather whether “the defendant physician is subject to the direction and control of [ ] her employer in carrying out the duties that give rise to the claim of negligence.” Hull v. Foley, 2004 WL 65287 at *2.
+In considering whether a doctor is a public employee, courts may consider the following factors: (1) did she treat private patients, (2) was her income based on the number of patients he treated, and (3) did the employer regulate her work hours, assign the ward on which she worked, or select the patients she treated. McNamara v. Honeymoon, 406 Mass. 43, 48 (1989). Dr. DeMone argues that at the time of the alleged negligence, she was under the supervision and direction of the University of Massachusetts.
+However, a physician is not necessarily a public employee simply because a public entiiy pays her salary, provides a retirement fund, or manages her vacation schedule. Williams, 413 Mass. at 400-01. Rather, the question of a physician’s status as a public employee under the Massachusetts Tort Claims Act is ordinarily one of fact. Williams, 413 Mass. at 400. “The very nature of a physician’s function tends to suggest that in most instances [the physician] will act as independent contractor!,]” not a public employee. Kelley v. Rossi, 395 Mass. 659, 662 (1985).
+Here, Wilson argues that Dr. DeMone made decisions regarding the care and treatment of Villanueva independently, and used her own discretion in her treatment. The record offers evidence that on the one hand, the University controlled Dr. DeMone’s work schedule and salary, and she saw no private patients. See McNamara, 406 Mass. at 48 (defendant physician was a public employee as employer controlled his work hours, he did not see any private patients, and his income was not based on the number of patients he saw). Further, Dr. DeMone was a second-year resident controlled by a strict hierarchy, supervised by the Chief of her department, answered to a senior resident or more senior staff, directed to see which patients and when, compelled to report to a certain rotation, told when to report, how long her assignment would be, told when she could take time off for vacation or other leave, and controlled as to its timing and duration. She derived no income other than from her salary paid by her public employer; she earned no income from the patient or his/her insurer. She held no admitting privileges, but only a provisional license and at that, only through the ministration of her public employer.
+On the other hand, however, Dr. DeMone was a physician, albeit a second-year resident. That is truly the only factual strand upon which Wilson rests her analysis. Once the moving parly (here, Dr. DeMone) establishes that no genuine issue of material fact exists, the burden shifts to the opposing party (Wilson) to demonstrate the existence of a dispute as to a material fact. Kourouvacalis v. General Motors Corporation, 410 Mass. 706, 711 (1991). In opposing summary judgment, Wilson may not satisfy her burden through “vague and general allegations of expected proof’ (Albre Marble and Tile Co., Inc. v. John Bowen, Inc., 338 Mass. 394, 397 (1959)), but rather, must set forth specific facts that create a genuine triable issue of fact. OBrion, Russell & Co. v. LeMay, 370 Mass. 243, 245 (1976).
+Viewing this evidence in a light most favorable to Wilson, the non-moving party, the evidence would permit a factfinder to conclude that Dr. DeMone, as a second-year resident, had little discretion in her care. But see Litchfield v. Bayley, 2004 WL 2075567 at *3 (Mass.Super.) [18 Mass. L. Rptr. 223] (finding there was evidence that defendant physician treated and cared for the plaintiff without any direction or supervision from the public employer); Latour v. DeGroot, 2003 WL 21500540 at *3 (Mass.Super.) [16 Mass. L. Rptr. 351] (jury could reasonably find that although defendant physician was subject to some control of public employer, he exercised a great deal of discretion over his day-to-day activities, including his treatment of the plaintiff patient).
+Wilson has not sustained her burden in setting forth specific facts here to create a genuine triable issue of fact that Dr. DeMone had sufficient gravitas as a freshly-minted, second-year resident. She was limited in exercising independent and professional judgment in her treatment of Wilson. As a resident, Dr. DeMone was subject to strict oversight, control, and direction. Wilson has failed to establish on the record here that DeMone exercised independent judgment sufficient to satisfy her burden.
+CONCLUSION
+No genuine issue of material fact exists as to whether Dr. DeMone is a public employee under the Massachusetts Torts Claim Act. Therefore, she cannot be held personally liable in this action.
+ORDER
+For these reasons, the defendant Dr. DeMone’s motion for summaiy judgment is ALLOWED. Separate and final judgment shall enter forthwith in her behalf.
+Wilson’s memorandum sheds little light on the issue relying, as it does on the “recent” (sic) Massachusetts Superior Court decision of Miller v. Kurkjian, 9 Mass. L. Rptr. 591 (1999) (see Wilson memorandum, p. 7), which was decided more than a dozen years ago, the “more recent Massachusetts cases” (sic) such as Harnish v. Children’s Hospital Medical Center, 387 Mass. 152, 159 (1982) (see Wilson memorandum, page 8), decided two decades ago, and finally, the “recent” (again, sic) Massachusetts Superior Court case [of] Judge Toomey” in Mahoney v. Bors-Koefoed, 11 Mass. L. Rptr. 608 (2000). (See Wilson’s memorandum, page 10).
