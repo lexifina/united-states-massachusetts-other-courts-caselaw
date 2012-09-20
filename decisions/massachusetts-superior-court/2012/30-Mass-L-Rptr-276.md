@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "SUCV200802064"
 decided: "2012-09-20"
-citations: ["30 Mass. L. Rptr. 276", "30 Mass. L. Rptr. 278"]
+citations: ["30 Mass. L. Rptr. 276"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gregory Langadinos v. Southern New England School of Law, Inc. et al.
 source_url: "https://static.case.law/mass-l-rptr/30/cases/0276-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4362267
-cites_cases: ["2001 WL 1526954", "2004 WL 1872741", "2007 WL 3259150", "341 Mass. 123", "379 Mass. 381", "411 Mass. 754", "415 Mass. 309", "418 Mass. 596", "418 Mass. 737", "429 Mass. 14", "434 Mass. 301", "450 Mass. 107", "51 Mass.App.Ct. 1", "66 Mass.App.Ct. 461"]
+cites_cases: ["2001 WL 1526954", "2007 WL 3259150", "379 Mass. 381", "411 Mass. 754", "415 Mass. 309", "418 Mass. 596", "418 Mass. 737", "429 Mass. 14", "434 Mass. 301", "450 Mass. 107", "51 Mass.App.Ct. 1", "66 Mass.App.Ct. 461"]
 ---
 
 # Langadinos v. Southern New England School of Law, Inc.
