@@ -1,0 +1,33 @@
+---
+court: "Massachusetts Superior Court"
+docket: "WOCV200901403"
+decided: "2012-09-27"
+citations: ["30 Mass. L. Rptr. 413"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donna Byrnes v. Konstantina B. Lukes et al."]
+source_url: "https://static.case.law/mass-l-rptr/30/cases/0413-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4360837
+cites_cases: ["26 Mass. L. Rptr. 354", "30 Mass. L. Rptr. 157", "415 Mass. 309", "421 Mass. 482", "444 Mass. 698", "454 Mass. 63", "64 Mass.App.Ct. 698", "66 Mass.App.Ct. 461", "69 Mass.App.Ct. 784"]
+---
+
+# Byrnes v. Lukes
+
+## Majority (Moriarty, Cornelius J., J.)
+
+Moriarty, Cornelius J., J.
+The plaintiff, Donna Byrnes (Byrnes), moved for an assessment of damages on Count II of her Complaint. Byrnes originally filed this action against the individual members of the Worcester School Committee, Deirdre Loughlin (Loughlin), the Interim Superintendent of the Worcester School System and the City of Worcester (collectively the defendants). After much skirmishing, her Second Amended Complaint asserted three claims: termination of employment without due process of law (Count I), violation of the Massachusetts Wage Act (Wage Act) (Count II) and defamation (Count III). The court (Ricciardone, J.) awarded summary judgment in favor of the defendants on Counts I and III and in favor of the plaintiff as to liability only on Count II [30 Mass. L. Rptr. 157].
+Byrnes seeks recovery of $4,708.09 which represents the amount of wages that should have been paid to her by the City of Worcester on the date of her termination from employment as a teacher and, in accordance with G.L.c. 149, §148, she requests that this amount be trebled.
+She also seeks payment for 1.5 unused personal days in the amount of $346.50 which she likewise requests be trebled.
+Finally, Byrnes seeks an award of $18,750.00 in attorneys fees and $1,890.36 in costs. Her request for fees and costs were supported by an affidavit of counsel. After hearing, I find that Byrnes’ gross wages were $4,708.09 per pay period. She was not paid her wages on the date of her termination (March 30, 2009) as required by G.L.c. 149 §148. In accordance with the City of Worcester’s regular pay cycle, Byrnes was paid $2,987.14, seventeen (17) days later on April 17,2009. I find that the defendant is entitled to an offset of that amount, otherwise, Byrnes would obtain a double recovery. Accordingly, Byrnes is entitled to $1,720.95.
+I also find that Byrnes is entitled to be paid for $346.50 for 1.5 personal days. Although the terms “wages” is not defined in the statute, the Supreme Judicial Court in Jancey v. Sch. Comm. of Everett, 421 Mass. 482, 490-93 (1995), in analyzing the Massachusetts Equal Pay Act, determined that the term wages included all forms of remuneration for work performed, in addition to vacation and holiday pay. I am not persuaded that the sentence in the Act that reads, “The word ‘wages’ shall include any holiday or vacation payments due an employee under oral or written agreement” — operates to exclude all other types of compensation. See Elec. Data Sys. v. Atty Gen., 454 Mass. 63, 70 (2009). I determine the words “holiday or vacation payments” to be merely illustrative, and not exclusionary.
+I decline to treble the amount of damages as I find that the conduct of the defendant was not outrageous or showed a “reckless indifference to the rights of others.” See Wiedmann v. The Bradford Group, Inc., 444 Mass. 698, 710 (2005).
+The plaintiff is entitled to an award of attorneys fees pursuant to G.L.c. 149, § 150. In cases where a statute provides for the recovery of legal fees, the Supreme Judicial Court has indicated that the “basic measure” of a reasonable statutory attorneys fee award is the lodestar method, which involves “multiplying the number of hours reasonably spent on the case times a reasonable hourly rate.” Fontaine v. Ebtec Corp., 415 Mass. 309, 324 (1993). “The lodestar method should govern in such cases unless there are special reasons to depart from [it].” Siegel v. Berkshire Life Ins. Co., 64 Mass.App.Ct. 698, 706 (2005), quoting Fontaine, supra at 325.
+The essence of the analysis is the multiplication of the number of hours reasonably expended on the litigation by a reasonable hourly rate. In making the calculation, the court should consider the time counsel spent on the case exclusive of hours that are excessive, redundant, duplicative, or unproductive. The rate applied to the reasonable hoúrs expended should be the prevailing rate in the community, taking into account the experience and qualifications of the attorneys involved. The fee applicant bears the burden of documenting in detail the hours expended and of establishing the market rate. After making its initial calculation, the court then may adjust the fee upward or downward based on other considerations, including the results obtained. T&D Video, Inc. v. City of Revere, 66 Mass.App.Ct. 461, 476-77 (2006). When a fee request appears on its face to be dramatically disproportionate to the results the litigation produced, “the judge must focus with precision on the relationship between the time invested and the results achieved in order to insure that the time spent was [not] wholly disproportionate to the interests at stake.” Killeen v. Westbah Hotel Venture, L.P., 69 Mass.App.Ct. 784, 796 (2007).
+Byrnes seeks a total of $18,750.00 in fees and $1,890.36 in costs. As an initial matter I find that Stem is entitled to an hourly rate of $300.00 per hour based on her extensive experience and expertise in the field of employment law. Furthermore, in consideration of Attorney Stern’s affidavit and her oral testimony, I accept, in large part, her representation as to the amount of hours she expended on the successful prosecution of the Wage Act claim. However, I do agree with the City that the depositions of Loughlin and Lukes and the time spent in the preparation thereof had nothing to do with Byrnes’ Wage Act claim and accordingly, deduct 18.10 hours or $5,430.00 from the fee request. Accordingly, I award $13,320.00 in attorneys fees.
+I have also reviewed the request for costs and find that the items of allowable costs include the cost of the filing fee, sheriff fees and the cost of Byrnes’ deposition for a total of $876.96.
+ORDER
+Accordingly judgment shall enter in favor of the plaintiff of $1,720.95 plus $13,320.00 in attorneys fees and $876.96 in costs.
+Editor’s Note: For another reported opinion in this matter, see 26 Mass. L. Rptr. 354 (Kenton-Walker, Janet, J.).
