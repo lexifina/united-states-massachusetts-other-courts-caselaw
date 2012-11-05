@@ -1,0 +1,35 @@
+---
+court: "Massachusetts Superior Court"
+docket: "BRCV201100734B"
+decided: "2012-11-05"
+citations: ["30 Mass. L. Rptr. 345"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["City of Attleboro v. Massachusetts Civil Service Commission et al."]
+source_url: "https://static.case.law/mass-l-rptr/30/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4362382
+cites_cases: ["16 Mass.App.Ct. 331", "43 Mass.App.Ct. 300", "48 Mass.App.Ct. 408", "58 Mass.App.Ct. 726", "61 Mass.App.Ct. 796", "78 Mass.App.Ct. 182"]
+---
+
+# City of Attleboro v. Massachusetts Civil Service Commission
+
+## Majority (Macdonald, D. Lloyd, J.)
+
+Macdonald, D. Lloyd, J.
+Before the Court is the plaintiff City of Attleboro’s (the “City’s”) motion for judgment on the pleadings on its appeal of the order of the defendant Massachusetts Civil Service Commission (the “Commission”) invalidating the City’s decision to terminate the defendant William Dunn’s (“Dunn’s”) employment as a firefighter. The City had terminated Dunn on account of his alleged misrepresentation of his physical abilities in connection with his then being on disability status. Dunn had been on medical leave for a work-related injury. After he was videotaped performing work at his second job in the course of which he allegedly displayed physical capabilities that were inconsistent with his representation as to his ability to perform his City work, he was terminated.
+The Court DENIES the City’s motion and AFFIRMS the decision of the Commission.
+Discussion
+Under G.L.c. 31, §43, a person aggrieved by a decision of the appointing authority (in this case, the City) made pursuant to G.L.c. 31, §41 to terminate an employee, may appeal to the Commission. It is the duty of the Commission to determine, applying a “preponderance of the evidence" criterion, whether “there was just cause” for the action taken. G.L.c. 31, §43. City of Leominster v. Stratton, 58 Mass.App.Ct. 726, 727 (2003).
+As to the scope of review of the Commission’s decision, the Court is required to give the Commission, as an agency of the Commonwealth, wide deference within the subject matter of its statutoiy jurisdiction. However, the Commission itself, in exercising its review function pursuant to G.L.c. 31, §43, is not free to substitute its judgment as to matters that relate to merit and policy considerations within the bounds of the reviewed agency’s lawful discretionaiy authority. Town of Falmouth v. Civil Service Commission, 61 Mass.App.Ct. 796, 800 (2004). “The issue for the commission is ‘not whether it would have acted as the appointing authority had acted, but whether, on the facts found by the commission, there was reasonable justification for the action taken by the appointing authority in the circumstances found by the commission to have existed when the appointing authority made its decision.’ ” Id. (quoting Watertown v. Arria, 16 Mass.App.Ct. 331, 334 (1983)).
+Absent arbitrariness, bias or evidence of improper political influence — which are the core concerns of the Commission’s appellate function — an agency’s judgment on matters within its lawful discretionary function must be respected by the Commission. See Cambridge v. Civil Service Commission, 43 Mass.App.Ct. 300, 304 (1997), and Police Department of Boston v. Collins, 48 Mass.App.Ct. 408, 411-13 (2000).
+The issues of the case were excellently briefed and well argued by counsel for both parties. Further, the decision of the Commission was clearly presented. The Court will not recite the detailed facts as they were well summarized in the parties’ submissions and the Commission’s decision.
+In essence, the issue is whether there was “just cause” for the City’s termination of Dunn on account of his having “falsely represented his medical status to extend his period of disability.” Exhibit 6. The City based its decision to terminate Dunn on the conclusion of Dr. Michael Feldman, its independent medical examiner, that Dunn’s physical capabilities as recorded in several surveillance videos taken contemporaneously with the IME contradicted what he had reported at the time of the IME to Dr. Feldman’s staff. After observing the videos, Dr. Feldman advised the City: “Mr. Dunn is capable of returning to work in a full-duty capacity.”
+The Commission found that there was no reasonable factual basis for Dr. Feldman’s conclusion.
+As the Appeals Court noted in City of Beverly v. Civil Service Commission, 78 Mass.App.Ct. 182, 188 n. 11 (2010), “this case well illustrates the difficulties inherent in sorting out what is fact finding (the province of the commission) and what is the exercise of judgment with regard to the facts (the province of the appointing authority).”
+Indeed, in the Court’s view, the substantive challenge here is to decide whether the facts are most similar to those in the City of Beverly case, on the one hand, or in the Appeals Court’s earlier decision in City of Leominster v. Stratton, supra. In the Beverly case the Appeals Court rejected the position of the Commission and affirmed the decision of the appointing authority to bypass a candidate for appointment notwithstanding a finding by a majority of the Commission that the central incident upon which the city had based its decision was not substantiated. By contrast, in Leominster the Appeals Court affirmed the Commission’s reversal of the appointing authority’s action to terminate a police officer’s employment because “the commission found that the facts [relied upon by the appointing authority] justifying discharge from the police force did not exist.” 58 Mass.App.Ct. at 732-33.
+The Court concludes that the substance of the record here is the same as the record in Leominster. Specifically, the Commission reasonably concluded that there was no objective factual basis to the proposition that Dunn, in fact, had misrepresented his condition to Dr. Feldman (and thus to the City). As such, “on the facts found by the commission, there was [no] reasonable justification for the action taken by the appointing authority.” Town of Falmouth v. Civil Service Commission, 61 Mass.App.Ct. at 800 (emphasis added).
+In coming to this conclusion, the Court takes note of the distinction drawn by the Appeals Court in the Beverly decision itself as to the variance in the degree of deference to be accorded the appointing authority depending on whether the action at issue is a termination of tenured employment versus a decision not to appoint: “We think that the standards are materially different. Simply put, a municipality should be able to enjoy more freedom in deciding whether to appoint someone as a new police officer than in disciplining an existing tenured one.” 78 Mass.App.Ct. at 191. Here, what is at issue is the City’s decision to terminate Dunn’s tenured employment.
+ORDER
+The City’s motion for judgment on the pleadings is DENIED. The decision of the Commission is AFFIRMED, and the relief ordered by the Commission shall be ENFORCED.
