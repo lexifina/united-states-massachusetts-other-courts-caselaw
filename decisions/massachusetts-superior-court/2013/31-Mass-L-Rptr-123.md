@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "WOCV200900023B"
 decided: "2013-01-07"
-citations: ["31 Mass. L. Rptr. 123", "30 Mass. L. Rptr. 612"]
+citations: ["31 Mass. L. Rptr. 123"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Marcia D. Bellerman et al. v. Fitchburg Gas and Electric Light Compan
 source_url: "https://static.case.law/mass-l-rptr/31/cases/0123-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6063771
-cites_cases: ["12 Conn. L. Rptr. 283", "147 F.3d 47", "2000 WL 1473144", "26 Mass. L. Rptr. 107", "28 Mass.App.Ct. 967", "29 F.3d 28", "354 Mass. 448", "366 Mass. 593", "369 Mass. 33", "377 Mass. 37", "381 F.3d 563", "388 Mass. 398", "394 Mass. 151", "394 Mass. 595", "395 Mass. 737", "397 Mass. 459", "401 Mass. 59", "402 Mass. 21", "404 Mass. 497", "407 Mass. 640", "409 Mass. 165", "410 Mass. 706", "412 Mass. 424", "420 Mass. 39", "420 Mass. 6", "426 Mass. 210", "428 Mass. 257", "433 Mass. 198", "434 Mass. 81", "435 Mass. 7", "441 Mass. 451", "441 Mass. 836", "442 Mass. 274", "442 Mass. 381", "442 Mass. 522", "444 Mass. 837", "445 Mass. 551", "445 Mass. 790", "445 Mass. 811", "452 Mass. 337", "452 Mass. 718", "453 Mass. 1105", "454 Mass. 192", "455 Mass. 458", "460 Mass. 500", "461 Mass. 486", "51 Mass.App.Ct. 622", "60 Mass.App.Ct. 309", "71 Mass.App.Ct. 293", "71 Mass.App.Ct. 562", "73 Mass.App.Ct. 141", "75 Mass.App.Ct. 27", "76 Mass.App.Ct. 73", "79 Mass.App.Ct. 697", "8 Mass.App.Ct. 498"]
+cites_cases: ["12 Conn. L. Rptr. 283", "147 F.3d 47", "2000 WL 1473144", "26 Mass. L. Rptr. 107", "28 Mass.App.Ct. 967", "29 F.3d 28", "354 Mass. 448", "366 Mass. 593", "369 Mass. 33", "377 Mass. 37", "381 F.3d 563", "388 Mass. 398", "394 Mass. 151", "395 Mass. 737", "397 Mass. 459", "401 Mass. 59", "402 Mass. 21", "404 Mass. 497", "407 Mass. 640", "410 Mass. 706", "412 Mass. 424", "420 Mass. 39", "420 Mass. 6", "426 Mass. 210", "428 Mass. 257", "433 Mass. 198", "435 Mass. 7", "441 Mass. 451", "441 Mass. 836", "442 Mass. 274", "442 Mass. 522", "444 Mass. 837", "445 Mass. 551", "445 Mass. 790", "445 Mass. 811", "452 Mass. 718", "453 Mass. 1105", "455 Mass. 458", "460 Mass. 500", "461 Mass. 486", "51 Mass.App.Ct. 622", "71 Mass.App.Ct. 293", "71 Mass.App.Ct. 562", "73 Mass.App.Ct. 141", "75 Mass.App.Ct. 27", "76 Mass.App.Ct. 73", "79 Mass.App.Ct. 697", "8 Mass.App.Ct. 498"]
 ---
 
 # Bellerman v. Fitchburg Gas & Electric Light Co.
