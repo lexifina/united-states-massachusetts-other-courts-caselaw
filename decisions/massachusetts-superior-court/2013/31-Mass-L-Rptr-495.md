@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "HDCV201100713B"
 decided: "2013-09-12"
-citations: ["31 Mass. L. Rptr. 495", "31 Mass. L. Rptr. 526"]
+citations: ["31 Mass. L. Rptr. 495"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
