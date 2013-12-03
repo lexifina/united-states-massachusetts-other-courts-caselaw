@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "MICV201002017F"
 decided: "2013-12-03"
-citations: ["31 Mass. L. Rptr. 536", "31 Mass. L. Rptr. 535"]
+citations: ["31 Mass. L. Rptr. 536"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Okeke et al. Individually and on Behalf of a Group of Individ
 source_url: "https://static.case.law/mass-l-rptr/31/cases/0536-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6064200
-cites_cases: ["2006 WL 2205085", "2010 WL 4071360", "2010 WL 6576214", "2013 WL 1320454", "2013 WL 3353776", "2013 WL 5434142", "21 Mass. L. Rptr. 224", "23 Mass.App.Ct. 141", "27 Mass. L. Rptr. 402", "28 Mass. L. Rptr. 261", "422 Mass. 621", "439 Mass. 171", "447 Mass. 852", "453 Mass. 739", "49 U.S.C. §14501", "552 U.S. 364", "56 Mass.App.Ct. 473", "646 F.3d 81"]
+cites_cases: ["2006 WL 2205085", "2013 WL 3353776", "2013 WL 5434142", "21 Mass. L. Rptr. 224", "23 Mass.App.Ct. 141", "439 Mass. 171", "447 Mass. 852", "56 Mass.App.Ct. 473"]
 ---
 
 # Okeke v. Dynamex Operations East, Inc.
