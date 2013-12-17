@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "SUCV200904717C"
 decided: "2013-12-17"
-citations: ["32 Mass. L. Rptr. 33", "32 Mass. L. Rptr. 27"]
+citations: ["32 Mass. L. Rptr. 33"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kamee Verdrager v. Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, P.C. 
 source_url: "https://static.case.law/mass-l-rptr/32-2/cases/0033-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4358733
-cites_cases: ["166 Mass. 146", "18 U.S.C. §1030", "18 U.S.C. §§2701", "2012 U.S. Dist. LEXIS 7162", "2013 U.S. Dist. LEXIS 81206", "238 F.3d 5", "321 F.3d 207", "369 Mass. 550", "371 Mass. 130", "385 Mass. 1", "389 Mass. 1", "401 Mass. 59", "404 Mass. 419", "407 Mass. 391", "407 Mass. 601", "409 Mass. 165", "410 Mass. 262", "410 Mass. 706", "411 U.S. 792", "417 Mass. 580", "419 Mass. 356", "419 Mass. 535", "423 Mass. 652", "426 Mass. 122", "430 Mass. 875", "432 Mass. 107", "441 Mass. 836", "442 Mass. 582", "444 Mass. 34", "452 Mass. 56", "55 Mass.App.Ct. 201", "59 Mass.App.Ct. 599", "71 Mass.App.Ct. 460"]
+cites_cases: ["238 F.3d 5", "321 F.3d 207", "369 Mass. 550", "371 Mass. 130", "407 Mass. 601", "410 Mass. 262", "410 Mass. 706", "411 U.S. 792", "417 Mass. 580", "419 Mass. 356", "419 Mass. 535", "423 Mass. 652", "426 Mass. 122", "432 Mass. 107", "442 Mass. 582", "444 Mass. 34", "55 Mass.App.Ct. 201", "71 Mass.App.Ct. 460"]
 ---
 
 # Verdrager v. Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, P.C.
