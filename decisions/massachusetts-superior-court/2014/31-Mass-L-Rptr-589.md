@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "MICV201204081F"
 decided: "2014-01-18"
-citations: ["31 Mass. L. Rptr. 589", "31 Mass. L. Rptr. 587"]
+citations: ["31 Mass. L. Rptr. 589"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Yogendra Sagar, Individually and on Behalf of all Others Similarly Si
 source_url: "https://static.case.law/mass-l-rptr/31/cases/0589-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6064249
-cites_cases: ["12 Mass. L. Rptr. 437", "17 Mass. L. Rptr. 606", "18 Mass. L. Rptr. 460", "20 Mass. L. Rptr. 277", "2004 WL 1050582", "2004 WL 2915452", "2005 WL 3543770", "2006 WL 1549685", "2006 WL 2205085", "2007 WL 1537665", "2007 WL 4098913", "2013 WL 1320454", "2013 WL 3353776", "21 Mass. L. Rptr. 224", "246 Mass. 259", "31 Mass. L. Rptr. 589", "367 Mass. 360", "378 Mass. 707", "390 Mass. 419", "434 Mass. 81", "439 Mass. 171", "447 Mass. 852", "449 Mass. 406", "453 Mass. 739", "465 Mass. 607", "50 Mass.App.Ct. 672", "64 Mass.App.Ct. 324", "71 Mass.App.Ct. 293"]
+cites_cases: ["20 Mass. L. Rptr. 277", "2005 WL 3543770", "2006 WL 2205085", "2013 WL 1320454", "2013 WL 3353776", "21 Mass. L. Rptr. 224", "367 Mass. 360", "378 Mass. 707", "390 Mass. 419", "439 Mass. 171", "447 Mass. 852", "449 Mass. 406", "453 Mass. 739", "465 Mass. 607", "50 Mass.App.Ct. 672", "64 Mass.App.Ct. 324"]
 ---
 
 # Sagar v. Fiorenza
