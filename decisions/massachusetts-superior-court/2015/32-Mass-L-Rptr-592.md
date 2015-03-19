@@ -1,0 +1,47 @@
+---
+court: "Massachusetts Superior Court"
+docket: "SUCV201402824B"
+decided: "2015-03-19"
+citations: ["32 Mass. L. Rptr. 592"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eric R. Ferret v. Stephen Courtney"]
+source_url: "https://static.case.law/mass-l-rptr/32/cases/0592-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6766514
+cites_cases: ["460 Mass. 705", "464 Mass. 733", "56 Mass.App.Ct. 186", "65 Mass.App.Ct. 154", "982 A.2d 286", "986 A.2d 1150"]
+---
+
+# Ferret v. Courtney
+
+## Majority (Curran, Dennis J., J.)
+
+Curran, Dennis J., J.
+INTRODUCTION
+Eric Ferret and Stephen Courtney founded Sci.X Science Studio, LLC, a Delaware limited liability company with its principal office in Boston. Mr. Ferret has filed several claims against Mr. Courtney, all of which involve the latter’s conduct as a member and partner of Sci.X. Mr. Courtney now seeks to dismiss Mr. Ferret’s complaint on the grounds that his claims should have been asserted as compulsory counterclaims in an earlier action, or on the basis of invocation of the arbitration clause in Sci.X’s operating agreement.
+For the following reasons, Mr. Courtney’s motion to dismiss is ALLOWED, and the parties are ordered to seek arbitration.
+I. BACKGROUND
+For purposes of the present motion, the court accepts as true all well-pleaded factual allegations of the complaint, but disregards conclusions and characterizations asserted in it. See Sisson v. Lhowe, 460 Mass. 705, 706 (2011).
+Sci.X was registered in Delaware on October 13, 2009. The formation, purpose, and other rules governing Sci.X are set forth in a 2009 LLC operating agreement. The operating agreement contains two provisions that are particularly relevant to this case: an arbitration provision, and a choice of law provision, which provides that the agreement shall be governed, construed, interpreted and enforced in accordance with Delaware law. The parties did not sign or date the operating agreement.
+Soon after the formation of Sci.X, one of the dangers inherent in all relationships, business and personal alike, erupted: there was a breakdown in honest and open communication resulting in a lack of trust and cooperation between Messrs. Ferret and Courtney. Mr. Courtney made decisions unilaterally without consulting the other members, and without following proper LLC procedures.
+Mr. Courtney also made certain representations to which he did not adhere. Specifically, he represented that he, Mr. Ferret, and another individual by the name of Allan Shaffi would each own one-third of the shares of Sci.X. He also represented that he and Mr. Ferret would receive equal compensation and reimbursement for expenses. Unfortunately, Mr. Courtney did not treat Mr. Ferret as an equal shareholder, and, much to his dismay, Mr. Ferret received irregular monthly payments and only occasional reimbursements. As to Mr. Ferret’s remaining allegations against Mr. Courtney, the court defers to Mr. Ferret’s detailed and well-pled complaint.
+Mr. Courtney is not the only party to have been allegedly at fault in the breakdown of the relationship between the Sci.X members. By way of background (for Mr. Courtney’s compulsory counterclaim argument), the other members removed Mr. Ferret from Sci.X on May 22, 2012. Sci.X filed a lawsuit soon thereafter, alleging that Mr. Ferret breached duties owed to it by accepting employment with Murphy & McManus, LLC, and/or Advanced Cancer Therapies of America and providing them with Sci.X’s trade secrets, while still employed by Sci.X. Mr. Ferret disputes these claims.
+On September 5, 2014, Mr. Ferret filed his own complaint against Mr. Courtney alleging breach of fiduciary duly, promissory estoppel, breach of duty of loyalty, intentional misrepresentation, negligent misrepresentation, abuse of control, waste of corporate assets, and unjust enrichment.
+Mr. Courtney filed a motion to dismiss on January 22, 2015, a hearing on which was held.
+II. DISCUSSION
+A. Compulsory Counterclaim
+Mr. Courtney’s argument that Mr. Ferret’s claims are compulsory counterclaims that should have been asserted in the Sci.X action is unavailing. Under Mass.RCiv.P. 13(a), a counterclaim is compulsory if the court has the authority to give the relief sought and the claim arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim. Mass.R.Civ.P. 13(a); GMAC Morg., LLC v. First Am. Title Ins. Co., 464 Mass. 733, 743 n. 14 (2013). The failure to raise a compulsory counterclaim typically bars the assertion of the claim in a subsequent action. Nat’l Lumber Co. v. Canton Inst. for Sav., 56 Mass.App.Ct. 186, 187 (2002).
+Rule 13(a) only applies to claims that arise out of a transaction or occurrence that is the subject of the “opposing party’s” claim. See Mass.R.Civ.P. 13(a). Mr. Courtney is not an opposing party in the 2012 Sci.X action; he is named as a third-party defendant. Mr. Ferret is a defendant in the Sci.X action. The compulsory counterclaim rule does not apply to co-parties. Therefore, the compulsory counterclaim rule does not support dismissal of Mr. Ferret’s claims against Mr. Courtney.
+B. The LLC Operating Agreement
+The court must yield to Mr. Courtney’s second argument. Mr. Courtney seeks to compel arbitration in accordance with the arbitration provision of the operating agreement. In response, Mr. Ferret argues, without support, that the operating agreement is unenforceable because it is not signed by any of the members of Sci.X.
+The operating agreement clearly states that it is to be governed by Delaware law. However, curiously, under Delaware law, an LLC operating agreement need not be signed in order to be enforceable. See Olson v. Halvorsen, 986 A.2d 1150, 1160 (Del. 2009) (“[T]he Delaware LLC Act generally allows parties to enforce unwritten, unsigned LLC Agreements”). In fact, the Delaware limited liability statute expressly allows oral operating agreements. Olson v. Halvorsen, 982 A.2d 286, 290 (Del.Ch. 2008), aff'd, 986 A.2d 1150 (Del. 2009). Thus, the fact that the written operating agreement was unsigned does not render it unenforceable.
+Nevertheless, unsigned LLC operating agreements still remain subject to the statute of frauds. See Olson, 986 A.2d at 1162 (“[T]he statute of frauds applies to LLC agreements .. .”); see also Olson, 982 A.2d at 291 (“[I]f an LLC agreement contains a provision or multiple provisions which cannot possibly be performed within one year, such provision or provisions are unenforceable”). However, Mr. Ferret failed to argue (perhaps strategically) as to why the statute of frauds would preclude enforcement of the operating agreement in this case. Whether or not a statute of frauds defense exists is not for this court to inteij ect, as it can only consider the claims and defenses before it. Mr. Ferret’s only argument is that the operating agreement is incomplete, unsigned, and undated. As noted above, this argument is meritless in light of Olson.
+The court is presented with an agreement to arbitrate contained within a valid operating agreement. Under both Massachusetts and Delaware law, a written agreement to arbitrate “shall be valid, enforceable, and irrevocable.” G.L.c. 251, §1; 10 Del.C. §5701. Mr. Ferret has provided no other reason as to why this court should not enforce the arbitration provision.
+This court is compelled to dismiss the complaint where the operating agreement requires disputes to be resolved through arbitration at the request of one of the parties. See Kingston Corp. v. Black Cat Cranberry Corp., 65 Mass.App.Ct. 154, 161 (2005) (dismissal of complaint is appropriate where the contract required disputes be resolved through mandatory arbitration). Accordingly, this court dismisses Mr. Ferret’s complaint and respectfully suggests that Mr. Ferret submit his claims to arbitration.
+ORDER
+For these reasons, Mr. Courtney’s motion to dismiss is ALLOWED. Mr. Ferret’s complaint shall be dismissed without prejudice. The parties are hereby ORDERED to seek arbitration as a means of dispute resolution.
+The earlier action is Sci.X & Internat'l Charged Particle, LLC v. Murphy & McManus, LLC et al., Docket No. 12-3475-BLS1. Mr. Ferret is named as a defendant in the Sci-X action, and Mr. Courtney is a third-party defendant. That matter is currently pending with the court.
+The arbitration provision provides: “Any dispute, claim, controversy arising out of or in connection with or relating to this Agreement or any breach or alleged breach hereof shall, upon the request of any party involved, be submitted to and settled by three (3) arbitrators ...” (Emphasis added.)
+The other owners removed Mr. Ferret because he was allegedly misappropriating confidential business information and providing it to a competing business, and he allegedly accepted employment with Murphy & McManus, LLC and/or Advanced Cancer Therapies of America while he was still employed by Sci.X.
+In his opposition motion, Mr. Ferret makes no argument as to why this court should apply Massachusetts law instead of Delaware law. Thus, in the absence of any authority before this court that provides otherwise, this court will apply Delaware law because Sci.X was organized under Delaware law, and the operating agreement contains a choice of law provision that demonstrates a preference for Delaware law. It is simply not this court’s role to consider arguments not raised by the parties.
