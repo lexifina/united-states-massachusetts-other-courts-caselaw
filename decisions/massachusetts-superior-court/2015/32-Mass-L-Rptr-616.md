@@ -1,0 +1,29 @@
+---
+court: "Massachusetts Superior Court"
+docket: "SUCV201401911A"
+decided: "2015-04-10"
+citations: ["32 Mass. L. Rptr. 616"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alex Market, Inc. v. DPH/WIC Program et al."]
+source_url: "https://static.case.law/mass-l-rptr/32/cases/0616-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6766754
+cites_cases: ["464 Mass. 329", "7 CFR §246", "7 CFR §246.12", "7 CFR §246.18"]
+---
+
+# Alex Market, Inc. v. DPH/WIC Program
+
+## Majority (Davis, Brian A., J.)
+
+Davis, Brian A., J.
+This is an appeal brought by plaintiff Alex Market, Inc. and its proprietor, Denny Guzman (collectively, “Alex Market”), pursuant to G.L.c. 30A, §14, from a decision of the Division of Administrative Law Appeals (“DALA”) upholding the Massachusetts Department of Health’s (“DPH”) decision to terminate Alex Market’s participation as a vendor in the Special Supplemental Nutrition Program for Women, Infants, and Children (“WIC”). WIC is a federally-funded program that provides grants to states for supplemental food, health care referrals, and nutrition education for women in need, and to infants and children up to age five who are found to be at nutritional risk. DPH is the state agency that is responsible for administering WIC in Massachusetts in conformance with applicable federal regulations. See generally 7 CFR §246 et seq. DPH purported to terminate Alex Market as a WIC vendor in September 2013 based on evidence obtained by an undercover compliance buyer that Alex Market repeatedly had violated various WIC rules and regulations by, among other things, overcharging for items purchased by WIC program shoppers. DPH admittedly provided no prior written notice of the alleged violations to Alex Market before making its termination decision. Alex Market challenged DPH’s termination decision before DALA on the ground that DPH was required by federal law to provide Alex Market with written notice of the alleged violations before imposing any sanction. DALA ruled in favor of DPH. Alex Market now renews its challenge to DPH’s termination decision in this court.
+The Court conducted a hearing on Alex Market’s Motion for Judgment on the Pleadings on April 8, 2015. Upon consideration of the written submissions and oral arguments of the parties, Alex Market’s Motion is ALLOWED. The federally-mandated procedures that DPH must follow in sanctioning or terminating a WIC vendor are set out in 7 CFR§246.12(1). Subsection (3) of Section 246.12(1) provides that,
+[t]he State agency must notify a vendor in writing when an investigation reveals an initial incidence of a violation for which a pattern of incidences must be established in order to impose a sanction, before another such incidence is documented, unless the State agency determines, in its discretion, on a case-by-case basis, that notifying the vendor would compromise an investigation.
+Subsection (3)(ii) of Section 246.12(1) further provides that,
+[p]rior to imposing a sanction for a pattern of viola-tive incidences, the State agency must either provide such notice to the vendor, or document in the vendor file the reason(s) for determining that such notice would compromise an investigation.
+In this case, the administrative record (“AR”) establishes that DPH did not comply with the requirements of 7 CFR §246.12(l)(3)(ii) before it decided to terminate Alex Market as a WIC vendor in September 2013. Nothing in Alex Market’s vendor file states or otherwise documents DPH’s “reason(s) for determining” that giving Alex Market written notice of its alleged violations before imposing any sanction “would compromise [DPH’s] investigation” of those violations. DPH’s contemporaneous “Warning Letter Determination” form (AR 189-90) simply leaves blank the space reserved for an explanation of DPH’s decision. Because DPH did not comply -with the requirements of 7 CFR §246.12(l)(3)(ii) before it decided to terminate Alex Market as a WIC vendor, DPH’s decision is legally erroneous and made upon unlawful procedure and must be set aside as prejudicial to Alex Market’s substantial rights. See, e.g., Rivas v. Chelsea Housing Auth., 464 Mass. 329, 339 (2013) (reversing agency’s decision to revoke plaintiffs rental voucher based, in part, on agency’s failure to provide the plaintiff with a legally-required informal settlement conference before taking action).
+DPH’s failure to document the reasons for its decision not to give Alex Market prior notice of its alleged violations is not a mere technical oversight. The notice requirement contained in 7 CFR §246.12(1)(3) presumably was promulgated in order to ensure that WIC vendors receive a fair opportunity to explain or remedy any alleged violation of WIC rules and regulations before they are terminated or otherwise sanctioned, or at least receive a cogent explanation as to why the administering agency has chosen to deny them that opportunity. Alex Market received neither in this instance. The remedy in such circumstances is not to overlook DPH’s failure to comply with federally-mandated notice requirements, but to see that due process is observed.
+DPH’s further argument that this Court is barred by 7 CFR §246.18(a)(l)(iii) from reviewing DPH’s decision not to give Alex Market prior written notice of its alleged violations is unpersuasive. Section 246.18(a)(l)(iii) precludes “administrative review” of a state agency’s “determination whether to notify a vendor in writing” before imposing a sanction. This Court, however, is engaged in “judicial review” of DPH’s decision pursuant to G.L.c. 30A, §14, which is expressly authorized by 7 CFR §246.18(f).
+Accordingly, IT IS HEREBY ORDERED THAT final judgment, consistent with this decision, shall enter for plaintiffs Alex Market, Inc. and Denny Guzman in this action.
