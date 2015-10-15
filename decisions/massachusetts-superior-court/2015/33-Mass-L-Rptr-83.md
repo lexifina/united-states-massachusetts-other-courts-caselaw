@@ -2,7 +2,7 @@
 court: "Massachusetts Superior Court"
 docket: "NOCV201100923"
 decided: "2015-10-15"
-citations: ["33 Mass. L. Rptr. 83", "33 Mass. L. Rptr. 86", "33 Mass. L. Rptr. 88"]
+citations: ["33 Mass. L. Rptr. 83"]
 reporter: "mass-l-rptr"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Timothy Larkin, Individually and as Guardian and Next Friend of Andre
 source_url: "https://static.case.law/mass-l-rptr/33/cases/0083-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6063738
-cites_cases: ["104 Wis.2d 616", "16 Mass.App.Ct. 163", "220 Mass. 1", "254 Mass. 146", "28 Mass.App.Ct. 313", "286 Mass. 444", "324 Mass. 455", "352 Mass. 233", "367 Mass. 360", "367 Mass. 751", "368 Mass. 116", "371 U.S. 178", "372 Mass. 288", "380 Mass. 372", "387 Mass. 531", "398 Mass. 304", "404 Mass. 610", "405 Mass. 682", "405 Mass. 697", "406 F.2d 11", "409 Mass. 256", "415 F.2d 1170", "423 Mass. 152", "424 Mass. 214", "43 Mass.App.Ct. 145", "437 Mass. 99", "439 Mass. 223", "439 Mass. 387", "448 Mass. 441", "455 Mass. 561", "462 Mass. 370", "469 Mass. 151", "471 Mass. 566", "51 Mass.App.Ct, 170", "56 Mass.App.Ct. 10", "57 Mass.App.Ct. 811", "60 Mass.App.Ct. 707", "75 Mass.App.Ct. 464"]
+cites_cases: ["104 Wis.2d 616", "16 Mass.App.Ct. 163", "28 Mass.App.Ct. 313", "371 U.S. 178", "372 Mass. 288", "398 Mass. 304", "404 Mass. 610", "406 F.2d 11", "409 Mass. 256", "415 F.2d 1170", "423 Mass. 152", "43 Mass.App.Ct. 145", "437 Mass. 99", "439 Mass. 223", "439 Mass. 387", "469 Mass. 151", "51 Mass.App.Ct, 170", "56 Mass.App.Ct. 10", "57 Mass.App.Ct. 811", "60 Mass.App.Ct. 707", "75 Mass.App.Ct. 464"]
 ---
 
 # Larkin v. Johnston
