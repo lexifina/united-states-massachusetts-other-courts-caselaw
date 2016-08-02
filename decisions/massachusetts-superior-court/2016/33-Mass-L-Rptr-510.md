@@ -1,0 +1,24 @@
+---
+court: "Massachusetts Superior Court"
+docket: "150149BLS2"
+decided: "2016-08-02"
+citations: ["33 Mass. L. Rptr. 510"]
+reporter: "mass-l-rptr"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Gillette Company v. Craig Provost et al."]
+source_url: "https://static.case.law/mass-l-rptr/33/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6064210
+cites_cases: ["361 Mass. 835", "427 Mass. 46"]
+---
+
+# Gillette Co. v. Provost
+
+## Majority (Sanders , Janet L., J.)
+
+Sanders , Janet L., J.
+The Gillette C ompany (Gillette) brought this action against four former employees alleging that they misappropriated Gillette’s confidential information and used it to obtain certain patents to develop a wet shaving razor for defendant ShaveL-ogic, LLC (ShaveLogic). As identified in the Amended Complaint, the specific technology claimed as confidential is: “magnetic attachments for shaving cartridges, elastomeric pivots, and front-loading engagement designs.” Defendants (who left Gillette many years before they were hired by Shave Logic), not only deny the allegations but have counterclaimed, alleging that Gillette sought to disrupt ShaveLogic’s relationships with potential partners and investors, then filed the present lawsuit in an effort to prevent ShaveLogic from becoming a competitor. The case has been before this Court several times; this time, it is before me on a request by the defendants to compel certain discovery. Gillette opposes the requested discovery largely on the grounds that it is not relevant as defined by Rule 26, Mass.RCiv.P. This Court concludes that the defendants are entitled to the discovery that they seek.
+The discovery dispute focuses on the relevance of two areas of inquiry. The first concerns defendants’ efforts to determine the degree to which Gillette has (or has not) used the specific technology it claims to have been misappropriated in its more recent shaving product designs. The defendants argue that this information is relevant because one of the factors the courts look to in determining whether such information is entitled to protection is whether it has some value to the company. Jet Spray Cooler, Inc. v. Crampton, 361 Mass. 835, 840 (1972). Gillette responds that value is a factor only in determining whether information constitutes a trade secret and that, although it initially brought a claim for misappropriation of trade secrets, it has since voluntarily dismissed that claim. That does not change the inquiry, however: although proprietary business information may be entitled to protection even if it cannot formally being classified as a trade secret, courts look to the same factors in determining if protection is warranted, among them the value of the information to the company. See Warner v. Lambert Co. v. Execuquest Corp., 427 Mass. 46, 49 (1998) (using same six factors identified in Jet Spray to determine if the information, while not a trade secret, could nevertheless provide the basis for a claim of wrongful misappropriation). That Gillette employees have testified at depositions that the technology is of value does not make this information any less discoverable, particularly since Gillette’s counsel did not allow them to answer questions that sought more details. The defendants need not simply accept those assertions and be denied the opportunity to explore the details, particularly since the parties are exchanging information pursuant to a strict confidentiality order.
+The second area of disagreement concerns the defendants’ request that Gillette produce a 30(b)(6) witness to answer questions about the position that Gillette recently took with the United States Patent Office. In March of this year, Gillette filed a petition with the Patent Office challenging the issuance to ShaveLogic of the patent which concerns a particular type of magnetic attachment used in the shaving assembly (the ‘282 Patent). This involves precisely the same technology that Gillette claims was taken from it by the defendants. In its petition to the Patent Office, however, Gillette alleged that the patent should not have been issued because it was based on information already publicly known—quite the opposite of the position it is taking in the instant litigation, where it must prove that the information was not publicly available. In opposing the defendants’ motion, Gillette says only that this is not a patent case and that the defendants can in any event obtain much of the information they seek from publicly filed documents. This Court does not see these arguments as a basis for denying discovery here.
+Accordingly, for these reasons and for other reasons articulated in the defendants’ memoranda, the defendant’s Motion to Compel Discovery is ALLOWED, and the discovery as outlined in the defendants’ proposed ORDER, endorsed today, shall take place.
